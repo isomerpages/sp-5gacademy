@@ -16,13 +16,13 @@ sections:
         - title: About Us
           description: ""
           url: https://google.com
-        - title: Training Partners
+        - title: 5G Courses
           description: ""
           url: https://gmail.com
-        - title: 5G Events
+        - title: Training Partners
           description: ""
           url: /privacy/
-        - title: 5G News
+        - title: News
           description: ""
           url: ""
   - infobar:
