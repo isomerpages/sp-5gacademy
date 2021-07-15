@@ -13,16 +13,16 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Explore 5G and related Courses
-          description: ""
-          url: https://google.com
         - title: About Us
           description: ""
-          url: https://gmail.com
+          url: https://google.com
         - title: Training Partners
           description: ""
-          url: /privacy/
+          url: https://gmail.com
         - title: 5G Events
+          description: ""
+          url: /privacy/
+        - title: 5G News
           description: ""
           url: ""
   - infobar:
