@@ -1,4 +1,5 @@
 collections:
   courses:
     output: true
-    order: []
+    order:
+      - 5g-and-telecoms.md
