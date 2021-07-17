@@ -6,8 +6,6 @@ links:
     collection: courses
   - title: Training Partners
     url: /training-partners
-  - title: Events
-    url: /events
   - title: Resources
     resource_room: true
   - title: Contact Us
