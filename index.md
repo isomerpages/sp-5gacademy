@@ -4,11 +4,11 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Notification bar - to remove contents if no notifications
+notification: This website is still under construction
 sections:
   - hero:
       title: Singapore 5G & Telecoms Academy
-      subtitle: Add in tagline for the 5G & Telecoms Academy
+      subtitle: Charting Singapore's 5G & Telecoms manpower development with you
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
