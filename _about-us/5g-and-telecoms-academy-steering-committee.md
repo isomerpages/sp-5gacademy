@@ -1,4 +1,5 @@
 ---
 title: 5G & Telecoms Academy Steering Committee
-permalink: /permalink
+permalink: /about-us/steering-comm
 ---
+
