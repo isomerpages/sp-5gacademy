@@ -7,7 +7,7 @@ links:
   - title: Training Partners
     url: /training-partners
   - title: Events
-    collection: example-collection
+    url: /events
   - title: Resources
     resource_room: true
   - title: Contact Us
