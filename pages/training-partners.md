@@ -2,8 +2,7 @@
 title: Training Partners
 permalink: /training-partners
 ---
-**IHLs and Autonomous Universities
-**
+**IHLs and Autonomous Universities**
 
 ITE
 
