@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: 5G Courses
           description: ""
-          url: /courses/
+          url: /courses/5gtelecoms
         - title: Training Partners
           description: ""
           url: /training-partners
