@@ -42,4 +42,3 @@ permalink: /courses/5gtelecoms
 
 ---
 [RF and Microwave Design of Wireless Systems](https://www.suss.edu.sg/courses/detail/eng333) (SUSS)
-
