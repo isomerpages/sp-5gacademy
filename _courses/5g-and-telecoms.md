@@ -1,5 +1,6 @@
 ---
-title: 5'G' and Telecoms
+title: 5G and Telecoms
 permalink: /permalink
 ---
+
 
