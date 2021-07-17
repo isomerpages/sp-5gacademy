@@ -279,4 +279,4 @@ Advanced Certificate in Digital Health Module 4: Legal Issues and Risk Managemen
 Advanced Certificate in Digital Business Module 11: Smart Logistics 
 
 ---
-Advanced Certificate in Governance, Risk Management and Data Compliance Module 3: Data Ethics and AI Governance Frameworks 
+Advanced Certificate in Governance, Risk Management and Data Compliance Module 3: Data Ethics and AI Governance Frameworks
