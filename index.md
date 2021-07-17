@@ -21,10 +21,10 @@ sections:
           url: /training-partners
         - title: News
           description: ""
-          url: /privacy/
+          url: /resources/news/
         - title: 5G Events
           description: ""
-          url: ""
+          url: resources/events
   - infobar:
       title: Infobar title
       subtitle: Subtitle
