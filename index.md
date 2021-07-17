@@ -15,10 +15,10 @@ sections:
       key_highlights:
         - title: 5G Courses
           description: ""
-          url: https://google.com
+          url: /courses/
         - title: Training Partners
           description: ""
-          url: https://gmail.com
+          url: /training-partners
         - title: News
           description: ""
           url: /privacy/
