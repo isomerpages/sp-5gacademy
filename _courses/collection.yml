@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - 5g-and-telecoms.md
+      - internet-of-things-iot.md
