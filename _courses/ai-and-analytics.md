@@ -1,4 +1,5 @@
 ---
 title: AI and Analytics
-permalink: /courses/permalink
+permalink: /courses/aianalytics
 ---
+
