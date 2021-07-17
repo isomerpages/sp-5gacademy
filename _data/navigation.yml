@@ -2,11 +2,11 @@ logo: /images/isomer-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
+  - title: Courses
+    collection: courses
   - title: Example Page
     url: /example-page/
   - title: Example Collection
     collection: example-collection
   - title: Resources
     resource_room: true
-  - title: Courses
-    collection: courses
