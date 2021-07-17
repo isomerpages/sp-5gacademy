@@ -1,7 +1,8 @@
 ---
 title: 5G & Telecoms
-permalink: /permalink
+permalink: /courses/5gtelecoms
 ---
+
 
 
 
