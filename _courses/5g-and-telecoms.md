@@ -12,7 +12,7 @@ permalink: /courses/5gtelecoms
 		line-height: 1.2;
 	}
 </style>
-[5G-Based Localization Methods](https://www.ntu.edu.sg/pace/programmes/detail/5g-based-localization-methods)
+<a href="https://www.ntu.edu.sg/pace/programmes/detail/5g-based-localization-methods" target="_blank">5G-Based Localization Methods</a>  
 <p class="small">
 NTU<br>
 Intermediate<br>
