@@ -4,6 +4,7 @@ permalink: /training-partners
 ---
 **IHLs and Autonomous Universities**
 
+[![ITE](/images/ite.png)](www.ite.edu.sg)
 ITE
 
 NP
