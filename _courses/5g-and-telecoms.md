@@ -12,10 +12,11 @@ permalink: /courses/5gtelecoms
 		line-height: 1.2;
 	}
 </style>
-[5G-Based Localization Methods](https://www.ntu.edu.sg/pace/programmes/detail/5g-based-localization-methods) (NTU)
+[5G-Based Localization Methods](https://www.ntu.edu.sg/pace/programmes/detail/5g-based-localization-methods)
 <p class="small">
-Level: Intermediate<br>
-Duration: 7 hrs
+NTU<br>
+Intermediate<br>
+7 hrs
 </p>
 
 ---
