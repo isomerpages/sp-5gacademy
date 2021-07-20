@@ -18,6 +18,7 @@ permalink: /courses/5gtelecoms
 |Column 1  | Column 2|
 | -------- | -------- | 
 | test1Text ![Alt text for image on Isomer site](/images/304-3042970_collaboration-icon-icon.png)    |test2 Text     |
+| [5G-Based Localization Methods5G-Based Localization Methods](https://www.ntu.edu.sg/pace/programmes/detail/5g-based-localization-methods) ![Alt text for image on Isomer site](/images/304-3042970_collaboration-icon-icon.png)    |NTU Intermediate	7 hrs   |
 | [Leading 5G Industry Transformation (for Telecom and related Professionals](https://scale.nus.edu.sg/programmes/executive-courses/tech-enabled-services/leading-5g-industry-transformation-(for-telecom-and-related-professionals)) ![Alt text for image on Isomer site](/images/304-3042970_collaboration-icon-icon.png)    |(NUS)    |
 
 ---
