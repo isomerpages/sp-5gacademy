@@ -2,6 +2,7 @@
 title: 5G & Telecoms
 permalink: /courses/5gtelecoms
 ---
+```
 <style>
 	p.small {
 		font-size:100%;
@@ -12,10 +13,12 @@ permalink: /courses/5gtelecoms
 		line-height: 1.2;
 	}
 </style>
+```
 
 |Column 1  | Column 2|
 | -------- | -------- | 
-| [5G-Based Localization Methods5G-Based Localization Methods](https://www.ntu.edu.sg/pace/programmes/detail/5g-based-localization-methods)   |NTU Intermediate	7 hrs   |
+| [5G-Based Localization Methods5G-Based Localization Methods](https://www.ntu.edu.sg/pace/programmes/detail/5g-based-localization-methods)   |NTU Intermediate
+7 hrs   |
 | [Leading 5G Industry Transformation (for Telecom and related Professionals](https://scale.nus.edu.sg/programmes/executive-courses/tech-enabled-services/leading-5g-industry-transformation-(for-telecom-and-related-professionals))   |NUS    |
 
 ---
