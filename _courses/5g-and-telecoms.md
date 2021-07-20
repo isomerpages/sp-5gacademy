@@ -35,7 +35,6 @@ permalink: /courses/5gtelecoms
 | Column 1 | Column 2 |
 | -------- | -------- | 
 | test1Text ![Alt text for image on Isomer site](/images/304-3042970_collaboration-icon-icon.png)    |test2 Text     |
-| -------- | -------- | 
 | [Leading 5G Industry Transformation (for Telecom and related Professionals](https://scale.nus.edu.sg/programmes/executive-courses/tech-enabled-services/leading-5g-industry-transformation-(for-telecom-and-related-professionals)) ![Alt text for image on Isomer site](/images/304-3042970_collaboration-icon-icon.png)    |(NUS)    |
 
 ---
