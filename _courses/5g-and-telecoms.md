@@ -33,6 +33,12 @@ permalink: /courses/5gtelecoms
 
 
 
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| test1Text     |test2 Text     | Test3Text     |
+
+
+
 ---
 [Leading 5G Industry Transformation (for Telecom and related Professionals](https://scale.nus.edu.sg/programmes/executive-courses/tech-enabled-services/leading-5g-industry-transformation-(for-telecom-and-related-professionals)) (NUS)
 
