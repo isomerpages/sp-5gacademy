@@ -15,16 +15,16 @@ sections:
       key_highlights:
         - title: About Us
           description: ""
-          url: /courses/5gtelecoms
+          url: /about-us/steering-comm
         - title: Courses
           description: ""
           url: /courses/5gtelecoms
         - title: Training Partners
           description: ""
-          url: /resources/news/
+          url: /training-partners
         - title: Resources
           description: ""
-          url: resources/events
+          url: /resources
   - infobar:
       title: Infobar title
       subtitle: Subtitle
