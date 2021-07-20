@@ -13,13 +13,13 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: 5G Courses
+        - title: About Us
+          description: ""
+          url: /courses/5gtelecoms
+        - title: Courses
           description: ""
           url: /courses/5gtelecoms
         - title: Training Partners
-          description: ""
-          url: /training-partners
-        - title: News
           description: ""
           url: /resources/news/
         - title: 5G Events
