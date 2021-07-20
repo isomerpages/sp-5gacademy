@@ -27,7 +27,6 @@ permalink: /courses/5gtelecoms
 			</p>
 		</td>
 	</tr>
-	
 	</table>
 
 
