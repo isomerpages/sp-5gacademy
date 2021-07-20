@@ -16,14 +16,18 @@ permalink: /courses/5gtelecoms
 
 <table width="100%" border=0>
 	<tr>
-	<td> <a href="https://www.ntu.edu.sg/pace/programmes/detail/5g-based-localization-methods" target="_blank">5G-Based Localization Methods</a>  </td>
-	<td>
-		<p class="small">
-NTU<br>
-Intermediate<br>
-7 hrs
-</p> </td>
+		<td> 
+			<a href="https://www.ntu.edu.sg/pace/programmes/detail/5g-based-localization-methods" target="_blank">5G-Based Localization Methods</a>  
+		</td>
+		<td>
+			<p class="small">
+				NTU<br />
+				Intermediate<br />
+				7 hrs
+			</p>
+		</td>
 	</tr>
+	
 	</table>
 
 
