@@ -32,9 +32,9 @@ permalink: /courses/5gtelecoms
 
 
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| test1Text     |test2 Text     | Test3Text     |
+| Column 1 | Column 2 |
+| -------- | -------- | 
+| test1Text ![Alt text for image on Isomer site](/images/304-3042970_collaboration-icon-icon.png)    |test2 Text     |
 
 
 
