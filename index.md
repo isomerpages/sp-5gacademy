@@ -22,7 +22,7 @@ sections:
         - title: Training Partners
           description: ""
           url: /resources/news/
-        - title: 5G Events
+        - title: Resources
           description: ""
           url: resources/events
   - infobar:
