@@ -2,10 +2,10 @@ collections:
   courses:
     output: true
     order:
-      - by-academic-institutions/.keep
-      - by-academic-institutions/national-university-of-singapore.md
-      - by-academic-institutions/singapore-polytechnic.md
-      - by-academic-institutions/nanyang-technological-university.md
+      - by-acad-institutions/.keep
+      - by-acad-institutions/national-university-of-singapore.md
+      - by-acad-institutions/singapore-polytechnic.md
+      - by-acad-institutions/nanyang-technological-university.md
       - by-areas/.keep
       - by-areas/5g-and-telecoms.md
       - by-areas/internet-of-things-iot.md
