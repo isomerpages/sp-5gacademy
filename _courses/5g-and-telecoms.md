@@ -30,11 +30,3 @@ permalink: /courses/5gtelecoms
 | [Wireless Communication Systems](https://www.suss.edu.sg/courses/detail/eng315?urlname=beng-electronics-behe) | SUSS | LevelX | Y hrs |
 | [RF and Microwave Design of Wireless Systems](https://www.suss.edu.sg/courses/detail/eng333) | SUSS | LevelX | Y hrs |
 
----
-[SMU Executive Certificate in China Business Module 5: Tapping into the Innovation and Entrepreneurship Ecosystem in China ](https://academy.smu.edu.sg/smu-executive-certificate-china-business-module-5-tapping-innovation-and-entrepreneurship-ecosystem)(SMU)
-
----
-[Wireless Communication Systems](https://www.suss.edu.sg/courses/detail/eng315?urlname=beng-electronics-behe) (SUSS)
-
----
-[RF and Microwave Design of Wireless Systems](https://www.suss.edu.sg/courses/detail/eng333) (SUSS)
