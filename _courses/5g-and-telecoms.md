@@ -15,7 +15,7 @@ permalink: /courses/5gtelecoms
 
 |Course Title  | Institution | Level | Duration |
 | - | - | - | -|
-| [5G-Based Localization Methods5G-Based Localization Methods](https://www.ntu.edu.sg/pace/programmes/detail/5g-based-localization-methods ) |NTU | Intermediate | 7 hrs  |
+| [5G-Based Localization Methods5G-Based Localization Methods](https://www.ntu.edu.sg/pace/programmes/detail/5g-based-localization-methods ){:target="_blank" rel="noopener"} |NTU | Intermediate | 7 hrs  |
 | [Leading 5G Industry Transformation (for Telecom and related Professionals](https://scale.nus.edu.sg/programmes/executive-courses/tech-enabled-services/leading-5g-industry-transformation-(for-telecom-and-related-professionals))  |NUS| Intermediate | 6 hrs |
 | [5G as a platform for Industry Transformation](https://scale.nus.edu.sg/programmes/executive-courses/tech-enabled-services/5g-as-a-platform-for-industry-transformation) | NUS | Intermediate | 12 hrs |
 | [Envisioning 5G IoT Solutions](https://www.iss.nus.edu.sg/executive-education/course/detail/Envisioning-5G-IoT-Solutions/software-systems) | NUS | Basic | 19.5 hrs |
