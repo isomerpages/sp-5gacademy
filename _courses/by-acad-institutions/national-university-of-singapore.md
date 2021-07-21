@@ -5,7 +5,7 @@ third_nav_title: By Acad Institutions
 ---
 |Course Title  | Level | Duration |
 | - | - | - | 
-|[(ISC)2 CCSP CBK Training Seminar ](https://www.iss.nus.edu.sg/executive-education/course/detail/isc2-ccsp-cbk-training-seminar/cybersecurity){:target="_blank" rel="noopener"} |Intermediate|32.5 hrs |
+|[(ISC))² CCSP CBK Training Seminar ](https://www.iss.nus.edu.sg/executive-education/course/detail/isc2-ccsp-cbk-training-seminar/cybersecurity){:target="_blank" rel="noopener"} |Intermediate|32.5 hrs |
 |[(ISC)² CISSP CBK Training Seminar](https://www.iss.nus.edu.sg/executive-education/course/detail/isc2-cissp-cbk-training-seminar/cybersecurity){:target="_blank" rel="noopener"} |Intermediate|32.5 hrs |
 |[(ISC)² CSSLP CBK Training Seminar](https://www.iss.nus.edu.sg/executive-education/course/detail/isc2-csslp-cbk-training-seminar/cybersecurity){:target="_blank" rel="noopener"} |Intermediate|32.5 hrs |
 |[(ISC)² SSCP CBK Training Seminar](https://www.iss.nus.edu.sg/executive-education/course/detail/isc2-sscp-cbk-training-seminar/cybersecurity){:target="_blank" rel="noopener"} |Basic|32.5 hrs |
@@ -80,4 +80,3 @@ third_nav_title: By Acad Institutions
 |[The Knowledge and Innovation Economy 4.0](https://inetapps.nus.edu.sg/sacs/LifeLongLearning/CourseDetails/BMS5203/){:target="_blank" rel="noopener"} |Intermediate|39 hrs |
 |[Web Analytics & SEO](https://www.iss.nus.edu.sg/executive-education/course/detail/web--analytics-seo/digital-innovation-design){:target="_blank" rel="noopener"} |Basic|19.5 hrs |
 |[WEB SECURITY ](https://www.comp.nus.edu.sg/~prateeks/teaching/sp16/cs5331-sp16.html){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
-
