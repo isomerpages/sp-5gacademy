@@ -4,6 +4,7 @@ collections:
     order:
       - by-areas/.keep
       - by-areas/5g-and-telecoms.md
+      - by-areas/ai-and-analytics.md
       - internet-of-things-iot.md
       - cloud-and-virtualization.md
       - networking.md
