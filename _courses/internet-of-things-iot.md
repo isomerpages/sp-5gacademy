@@ -11,7 +11,7 @@ permalink: /courses/iot
 |[Analytics in Industry 4.0](https://scale.nus.edu.sg/programmes/executive-courses/advanced-manufacturing/analytics-in-industry-4.0) |NUS| Level | hrs |
 |[Analytics in Industry 4.0 (Synchronous e-learning) ](https://scale.nus.edu.sg/programmes/executive-courses/advanced-manufacturing/analytics-in-industry-4.0) |NUS | Level | hrs |
 |[Modern Cyber Security Technologies for Senior Managers](https://stmi.nus.edu.sg/event/modern-cyber-security-technologies-for-senior-managers-skillsfuture-series-3/) | NUS| Level | hrs |
-|[Envisioning 5G IoT Solutions](https://www.iss.nus.edu.sg/executive-education/course/detail/Envisioning-5G-IoT-Solutions/software-systems) |NUS || Level | hrs |
+|[Envisioning 5G IoT Solutions](https://www.iss.nus.edu.sg/executive-education/course/detail/Envisioning-5G-IoT-Solutions/software-systems) | NUS | Level | hrs |
 |[Designing Intelligent Edge Computing](https://www.iss.nus.edu.sg/executive-education/course/detail/designing-intelligent-edge--computing/software-systems) |NUS | Level | hrs |
 |[Humanizing Smart Systems](https://www.iss.nus.edu.sg/executive-education/course/detail/humanizing-smart--systems/software-systems) | NUS | Level | hrs |
 |[IoT & 5G Security](https://www.iss.nus.edu.sg/executive-education/course/detail/iot-5g-security/software-systems) | NUS| Level | hrs |
