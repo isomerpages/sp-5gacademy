@@ -16,12 +16,12 @@ permalink: /courses/5gtelecoms
 |Course Title  | Institution | Level | Duration |
 | - | - | - | -|
 | [5G-Based Localization Methods5G-Based Localization Methods](https://www.ntu.edu.sg/pace/programmes/detail/5g-based-localization-methods ){:target="_blank" rel="noopener"} |NTU | Intermediate | 7 hrs  |
-| [Leading 5G Industry Transformation (for Telecom and related Professionals](https://scale.nus.edu.sg/programmes/executive-courses/tech-enabled-services/leading-5g-industry-transformation-(for-telecom-and-related-professionals))  |NUS| Intermediate | 6 hrs |
-| [5G as a platform for Industry Transformation](https://scale.nus.edu.sg/programmes/executive-courses/tech-enabled-services/5g-as-a-platform-for-industry-transformation) | NUS | Intermediate | 12 hrs |
-| [Envisioning 5G IoT Solutions](https://www.iss.nus.edu.sg/executive-education/course/detail/Envisioning-5G-IoT-Solutions/software-systems) | NUS | Basic | 19.5 hrs |
-| [Designing Intelligent Edge Computing](https://www.iss.nus.edu.sg/executive-education/course/detail/designing-intelligent-edge--computing/software-systems) | NUS | Advanced | 26 hrs |
-| [Humanizing Smart Systems](https://www.iss.nus.edu.sg/executive-education/course/detail/humanizing-smart--systems/software-systems) | NUS | Intermediate | 26 hrs |
-| [IoT & 5G Security](https://www.iss.nus.edu.sg/executive-education/course/detail/iot-5g-security/software-systems) | NUS | Intermediate | 19.5 hrs |
+| [Leading 5G Industry Transformation (for Telecom and related Professionals](https://scale.nus.edu.sg/programmes/executive-courses/tech-enabled-services/leading-5g-industry-transformation-(for-telecom-and-related-professionals)){:target="_blank" rel="noopener"}  |NUS| Intermediate | 6 hrs |
+| [5G as a platform for Industry Transformation](https://scale.nus.edu.sg/programmes/executive-courses/tech-enabled-services/5g-as-a-platform-for-industry-transformation) {:target="_blank" rel="noopener"} | NUS | Intermediate | 12 hrs |
+| [Envisioning 5G IoT Solutions](https://www.iss.nus.edu.sg/executive-education/course/detail/Envisioning-5G-IoT-Solutions/software-systems) {:target="_blank" rel="noopener"} | NUS | Basic | 19.5 hrs |
+| [Designing Intelligent Edge Computing](https://www.iss.nus.edu.sg/executive-education/course/detail/designing-intelligent-edge--computing/software-systems){:target="_blank" rel="noopener"}  | NUS | Advanced | 26 hrs |
+| [Humanizing Smart Systems](https://www.iss.nus.edu.sg/executive-education/course/detail/humanizing-smart--systems/software-systems){:target="_blank" rel="noopener"}  | NUS | Intermediate | 26 hrs |
+| [IoT & 5G Security](https://www.iss.nus.edu.sg/executive-education/course/detail/iot-5g-security/software-systems){:target="_blank" rel="noopener"}  | NUS | Intermediate | 19.5 hrs |
 
 ---
 [5G Fundamentals and Applications](https://www.rp.edu.sg/ace/short-course/Detail/5g-fundamentals-and-applications) (RP)
