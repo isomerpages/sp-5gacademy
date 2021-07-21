@@ -4,8 +4,8 @@ permalink: /courses/networking
 ---
 |Course Title  | Institution | Level | Duration |
 | - | - | - | -|
-|[5G Industry Practitioner (Core Network)](TBC){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
-|[5G Industry Practitioner (Radio Access Network)](TBC){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
+|5G Industry Practitioner (Core Network) | SP | Intermediate | 16 hrs |
+|5G Industry Practitioner (Radio Access Network) | SP | Intermediate | 16 hrs |
 |[A Primer on Cybersecurity](https://www.sutd.edu.sg/Education/Academy/Our-Offerings/SkillsFuture-Series-Courses/Cybersecurity/A-Primer-on-Cybersecurity){:target="_blank" rel="noopener"}  | SUTD | Basic | 14 hrs |
 |[Be an IT Professional (Network Technology)](https://www.ite.edu.sg/courses/course-finder/course/SGUS-be-an-it-professional-(network-technology)){:target="_blank" rel="noopener"}  | ITE | Basic | 364 hrs |
 |[CCNA Cyber Security Operations](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/ccna-cyber-security-operations){:target="_blank" rel="noopener"}  | SP | Intermediate | 40 hrs |
