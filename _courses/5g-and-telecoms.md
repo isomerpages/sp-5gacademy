@@ -22,18 +22,10 @@ permalink: /courses/5gtelecoms
 | [Designing Intelligent Edge Computing](https://www.iss.nus.edu.sg/executive-education/course/detail/designing-intelligent-edge--computing/software-systems) | NUS | Advanced | 26 hrs |
 | [Humanizing Smart Systems](https://www.iss.nus.edu.sg/executive-education/course/detail/humanizing-smart--systems/software-systems)  | NUS | Intermediate | 26 hrs |
 | [IoT & 5G Security](https://www.iss.nus.edu.sg/executive-education/course/detail/iot-5g-security/software-systems) | NUS | Intermediate | 19.5 hrs |
-
----
-[5G Fundamentals and Applications](https://www.rp.edu.sg/ace/short-course/Detail/5g-fundamentals-and-applications) (RP)
-
----
-[Introduction to 5G Technology and Applications](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-register/introduction-to-5g-technology-and-applications) (SP)
-
----
-[5G Fundamentals for All](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/5g-fundamentals-for-all.html#course-overview) (TP)
-
----
-[Advanced Certificate in Technical Fundamentals of Cybersecurity Module 4: Introduction to 5G Networks](https://academy.smu.edu.sg/advanced-certificate-technical-fundamentals-cybersecurity-module-4-introduction-5g-networks-5231) (SMU)
+|[5G Fundamentals and Applications](https://www.rp.edu.sg/ace/short-course/Detail/5g-fundamentals-and-applications) | RP | Basic | 8 hrs |
+| [Introduction to 5G Technology and Applications](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-register/introduction-to-5g-technology-and-applications) | SP | Intermediate | 16 hrs |
+| [5G Fundamentals for All](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/5g-fundamentals-for-all.html#course-overview) | TP | Basic | 14 hrs |
+| [Advanced Certificate in Technical Fundamentals of Cybersecurity Module 4: Introduction to 5G Networks](https://academy.smu.edu.sg/advanced-certificate-technical-fundamentals-cybersecurity-module-4-introduction-5g-networks-5231)  | SMU | Basic | 31 hrs |
 
 ---
 [SMU Executive Certificate in China Business Module 5: Tapping into the Innovation and Entrepreneurship Ecosystem in China ](https://academy.smu.edu.sg/smu-executive-certificate-china-business-module-5-tapping-innovation-and-entrepreneurship-ecosystem)(SMU)
