@@ -4,97 +4,97 @@ permalink: /courses/iot
 ---
 |Course Title  | Institution | Level | Duration |
 | - | - | - | -|
-|[Data Science for Internet of Things](https://nusmods.com/modules/EE5020/data-science-for-internet-of-things)| NUS| Level | hrs |
-|[IoT Sensor Networks](https://nusmods.com/modules/EE5024/io-t-sensor-networks)| NUS| Level | hrs |
-|[The Knowledge and Innovation Economy 4.0](https://inetapps.nus.edu.sg/sacs/LifeLongLearning/CourseDetails/BMS5203/)| NUS| Level | hrs |
-|[Big Data and Business Strategy](https://executive-education.nus.edu.sg/programmes/leading-with-big-data-analytics-machine-learning/) |NUS | Level | hrs |
-|[Analytics in Industry 4.0](https://scale.nus.edu.sg/programmes/executive-courses/advanced-manufacturing/analytics-in-industry-4.0) |NUS| Level | hrs |
-|[Analytics in Industry 4.0 (Synchronous e-learning) ](https://scale.nus.edu.sg/programmes/executive-courses/advanced-manufacturing/analytics-in-industry-4.0) |NUS | Level | hrs |
-|[Modern Cyber Security Technologies for Senior Managers](https://stmi.nus.edu.sg/event/modern-cyber-security-technologies-for-senior-managers-skillsfuture-series-3/) | NUS| Level | hrs |
-|[Envisioning 5G IoT Solutions](https://www.iss.nus.edu.sg/executive-education/course/detail/Envisioning-5G-IoT-Solutions/software-systems) | NUS | Level | hrs |
-|[Designing Intelligent Edge Computing](https://www.iss.nus.edu.sg/executive-education/course/detail/designing-intelligent-edge--computing/software-systems) |NUS | Level | hrs |
-|[Humanizing Smart Systems](https://www.iss.nus.edu.sg/executive-education/course/detail/humanizing-smart--systems/software-systems) | NUS | Level | hrs |
-|[IoT & 5G Security](https://www.iss.nus.edu.sg/executive-education/course/detail/iot-5g-security/software-systems) | NUS| Level | hrs |
-|[Architecting IOT Solutions](https://www.iss.nus.edu.sg/executive-education/course/detail/architecting-iot--solutions/software-systems) | NUS | Level | hrs |
-|[Feature Engineering & Analytics using IOT Data](https://www.iss.nus.edu.sg/executive-education/course/detail/feature-engineering-and-analytics-using-iot--data/data-science) | NUS | Level | hrs |
-|[Cyber Security for ICT Professionals](https://www.iss.nus.edu.sg/executive-education/course/detail/cyber-security-for-ict-professionals/cybersecurity) | NUS | Level | hrs |
-|[Health Analytics](https://www.iss.nus.edu.sg/executive-education/course/detail/health--analytics/data-science) | NUS| Level | hrs |
-|[Developing Cybersecurity Architecture](https://www.iss.nus.edu.sg/executive-education/course/detail/developing--cybersecurity-architecture/cybersecurity) |NUS | Level | hrs |
-|[DevOps Foundation with BizOps](https://www.iss.nus.edu.sg/executive-education/course/detail/devops--foundation-with-bizops/digital-agility) | NUS | Level | hrs |
-| [Advanced Manufacturing and Industrial IOT](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-register/advanced-manufacturing-and-industrial-iot) | SP | Level | hrs |
-|Appreciation of IoT and Data Management  | SP | Level | hrs |
-|Building an IoT (Internet of Things) Project  | SP | Level | hrs |
-|Certificate in Computer Applications (part of Diploma in Engineering (Computer Network & Systems)) | SP | Level | hrs |
-|Certificate in Computer Networking (part of Diploma in Engineering (Computer Network & Systems))  | SP | Level | hrs |
-|Certificate in Computer Programming and Networks (part of Diploma in Engineering (Computer Network & Systems))  | SP | Level | hrs |
-|Certificate in Info-comm Services (part of Diploma in Engineering (Computer Network & Systems))  | SP | Level | hrs |
-|Certificate in Internet of Things (IoT) Technologies (part of Diploma in Engineering (Computer Network & Systems))  | SP | Level | hrs |
-|Certificate in IoT in Manufacturing (IMF) (part of Diploma in Engineering (Advanced Manufacturing))  | SP | Level | hrs |
-|Digital Leadership in Advanced Manufacturing  | SP | Level | hrs |
-|Digital Confidence for Cyber Security & Internet of Things | SP | Level | hrs |
-|Implementing Industrial Internet of Things for Shop Floor | SP | Level | hrs |
-|Internet of Things(IoT) Systems and Applications | SP | Level | hrs |
-|Introduction to Digital Transformation & Industrial IoT | SP | Level | hrs |
-|IoT and Hybrid Mobile App Development | SP | Level | hrs |
-|IOT for Electronics Industry_M2 | SP | Level | hrs |
-|Python Programming for the Internet of Things (IoT) | SP | Level | hrs |
-|SGUS Diploma (Conversion) in Computer Networking  | SP | Level | hrs |
-|SGUS Certificate in Cloud Computing & Architecting  | SP | Level | hrs |
-|SGUS Computer Engineering  | SP | Level | hrs |
-|Practical Approach to Cloud Computing | SP | Level | hrs |
-|Internet of Things - Connect Devices Using Thingbox | SP | Level | hrs |
-|CoC in Internet of Things (Smart Energy Fundamentals) | SP | Level | hrs |
-|Coc in Digital Warehousing Solutions | SP | Level | hrs |
-|Be an IT Professional (Programming) | SP | Level | hrs |
-|Be an IT Professional (Programming) + Bridging | SP | Level | hrs |
-|Fiber Broadband Service Commissioning  | SP | Level | hrs |
-|CoC in Introduction to Artificial Intelligence | SP | Level | hrs |
-|IoT for Engineers  | SP | Level | hrs |
-|IoT with MQTT and NodeMCUArduino  | SP | Level | hrs |
-|Modular Certificate in Analytics & Internet of Things - Part of Diploma in Engineering (Electronics) (DEEC1) (Classroom & Synchronous) | SP | Level | hrs |
-|Smart Building Operations and the Internet of Things  | SP | Level | hrs |
-|Adopting Digital Technologies into Operations  | SP | Level | hrs |
-|Leading And Developing Staff Capability In F&B Through Change Management| SP | Level | hrs |
-|PTC Industrial IOT Platforms for Data Analytics and Connectivity in Advanced Manufacturing | SP | Level | hrs |
-|MLC - Introduction to Industrial Internet of Things| SP | Level | hrs |
-|MLC - IIOT Connectivity Suite Courses | SP | Level | hrs |
-|MLC - Labview for Industrial Internet of Things (IIOT) | SP | Level | hrs |
-|Smart Sensors and Devices (Modular Unit stackable to Specialist Diploma in Industrial Internet of Things) - (Classroom, Synchronous & Asynchronous)| SP | Level | hrs |
-|TPOL - The Internet of Things and Everything - IoT/IoE | SP | Level | hrs |
-|IIOT Connectivity (Modular Unit stackable to Specialist Diploma in Industrial Internet of Things) - (Classroom, Synchronous & Asynchronous) | SP | Level | hrs |
-|Robotics Integration and Adaptation (Modular unit stackable to Specialist Diploma in Robotics & Automation) | SP | Level | hrs |
-|Post-Diploma Certificate in IIOT Integration (Post-Diploma Certificate 1 of Specialist Diploma in Industrial Internet of Things) - (Classroom, Synchronous & Asynchronous)| SP | Level | hrs |
-|Post-Diploma Certificate in Robotics (Post Diploma Certificate 1 of Specialist Diploma in Robotics & Automation) | SP | Level | hrs |
-|Understand and Improve your Operations through A3 Structured Problem Solving (Lean) | SP | Level | hrs |
-|Learn how to implement Internet of Things (IoT) Solution in a 2-day BootCamp| SP | Level | hrs |
-|Internet of Things (IoT)| SP | Level | hrs |
-|Understanding of Internet of Things (IoT) | SP | Level | hrs |
-|Demystify IoT Security | SP | Level | hrs |
-|IoT Applications in Supply Chain Management | SP | Level | hrs |
-|Smart IoT Basics | SP | Level | hrs |
-|SGUS Programme in Precision Engineering and Automation & Robotics| SP | Level | hrs |
-|NB-IoT Understanding Low Power Cellular LTE | SP | Level | hrs |
-|IoT in Manufacturing | SP | Level | hrs |
-|NTU-FTA Series - loT (Synchronous e-learning)| SP | Level | hrs |
-|ARM Processor for Embedded IoT System: Architecture, Interfacing and Programming| SP | Level | hrs |
-|Maximising Business Value through Understanding Digital Transformation (Synchronous e-Learning)| SP | Level | hrs |
-|CET708 Wireless Networks | SP | Level | hrs |
-|CS103A: Network Security in Practice: Fundamentals of Network Security| SP | Level | hrs |
-|CS102A:System Security in Practice: Fundamentals of Computer Security| SP | Level | hrs |
-|Maximising Business Value through Understanding Digital Transformation| SP | Level | hrs |
-|Internet of Things: Technology & Applications | SP | Level | hrs |
-|Advanced Certificate in Supply Chain Innovation and | SP | Level | hrs |
-|Transformation Module 3: Internet of Things Sensors and Actuators| SP | Level | hrs |
-|Graduate Certificate in Digital Finance Module 4: IOT and Cloud (Synchronous e-learning)| SP | Level | hrs |
-|Graduate Certificate in Digital Finance Module 4: IOT and Cloud| SP | Level | hrs |
-|Industry 4.0 & Supply Chain Transformation: Developing a Digital Supply Chain Strategic Mindset (Synchronous E-learning) | SP | Level | hrs |
-|Industry 4.0 & Supply Chain Transformation: Developing a Digital Supply Chain Strategic Mindset | SP | Level | hrs |
-|The Future of Work – Harnessing the Limitless Potential of AI and IOT | SP | Level | hrs |
-|Graduate Certificate in Digital Health Module 4 : Legal Issues & Risk Management (Synchronous E-Learning) | SP | Level | hrs |
-|Graduate Certificate in Digital Finance Module 6: Managing Expanding Cyber Risks (Synchronous e-learning) | SP | Level | hrs |
-|Graduate Certificate in Digital Finance Module 6: Managing Expanding Cyber Risks| SP | Level | hrs |
-|Graduate Certificate in Digital Health Module 4: Legal Issues & Risk Management | SP | Level | hrs |
-|Advanced Certificate in Digital Health Module 4: Legal Issues and Risk Management | SP | Level | hrs |
-|Advanced Certificate in Digital Health Module 4: Legal Issues and Risk Management (Synchronous E-Learning) | SP | Level | hrs |
-|Advanced Certificate in Digital Business Module 11: Smart Logistics | SP | Level | hrs |
-|Advanced Certificate in Governance, Risk Management and Data Compliance Module 3: Data Ethics and AI Governance Frameworks| SP | Level | hrs |
+|[Adopting Digital Technologies into Operations ](https://www.rp.edu.sg/ace/short-course/Detail/adopting-digital-technologies-into-operations){:target="_blank" rel="noopener"}  | RP | Basic | 7.5 hrs |
+|[Advanced Certificate in Digital Business Module 11: Smart Logistics ](https://academy.smu.edu.sg/advanced-certificate-business-digitalisation-and-transformation-module-11-smart-logistics-and){:target="_blank" rel="noopener"}  | SMU | Intermediate | 15 hrs |
+|[Advanced Certificate in Digital Health Module 4: Legal Issues and Risk Management ](https://academy.smu.edu.sg/advanced-certificate-digital-health-module-4-legal-issues-risk-management-4786){:target="_blank" rel="noopener"}  | SMU | Intermediate | 22 hrs |
+|[Advanced Certificate in Digital Health Module 4: Legal Issues and Risk Management (Synchronous E-Learning) ](https://academy.smu.edu.sg/advanced-certificate-digital-health-module-4-legal-issues-risk-management-4786){:target="_blank" rel="noopener"}  | SMU | Intermediate | 22 hrs |
+|[Advanced Certificate in Governance, Risk Management and Data Compliance Module 3: Data Ethics and AI Governance Frameworks](https://academy.smu.edu.sg/advanced-certificate-governance-risk-management-and-data-compliance-module-3-data-ethics-and-ai){:target="_blank" rel="noopener"}  | SMU | Intermediate | 15 hrs |
+|[Advanced Certificate in Supply Chain Innovation and Transformation Module 3: Internet of Things Sensors and Actuators ](https://academy.smu.edu.sg/advanced-certificate-supply-chain-innovation-and-transformation-module-3-internet-things-sensors){:target="_blank" rel="noopener"}  | SMU | Intermediate | 23 hrs |
+|[Advanced Manufacturing and Industrial IOT](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-register/advanced-manufacturing-and-industrial-iot){:target="_blank" rel="noopener"}  | SP | Intermediate | 7 hrs |
+|[Analytics in Industry 4.0 ](https://scale.nus.edu.sg/programmes/executive-courses/data-analytics/analytics-in-industry-4.0){:target="_blank" rel="noopener"}  | NUS | Basic | 13 hrs |
+|[Analytics in Industry 4.0 (Synchronous e-learning) ](https://scale.nus.edu.sg/programmes/executive-courses/advanced-manufacturing/analytics-in-industry-4.0){:target="_blank" rel="noopener"}  | NUS | Basic | 2 days |
+|[Appreciation of IoT and Data Management](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/appreciation-of-iot-and-data-management){:target="_blank" rel="noopener"}  | SP | Basic | 8 hrs |
+|[Architecting IOT Solutions ](https://www.iss.nus.edu.sg/executive-education/course/detail/architecting-iot--solutions/software-systems){:target="_blank" rel="noopener"}  | NUS | Intermediate | 26 hrs |
+|[ARM Processor for Embedded IoT System: Architecture, Interfacing and Programming](https://www.ntu.edu.sg/pace/programmes/detail/arm-processor-for-embedded-iot-system-architecture-interfacing-and-programming){:target="_blank" rel="noopener"}  | NTU | Basic | 21 hrs |
+|[Be an IT Professional (Programming)](https://www.ite.edu.sg/courses/course-finder/course/SGUS-be-an-it-professional-(programming)){:target="_blank" rel="noopener"}  | ITE | Basic | 365 hrs |
+|[Be an IT Professional (Programming) + Bridging](https://www.ite.edu.sg/courses/course-finder/course/SGUS-be-an-it-professional-(programming)){:target="_blank" rel="noopener"}  | ITE | Basic | 627.83 hrs |
+|[Big Data and Business Strategy ](https://executive-education.nus.edu.sg/programmes/leading-with-big-data-analytics-machine-learning/){:target="_blank" rel="noopener"}  | NUS | Basic | 39 hrs |
+|[Building an IoT (Internet of Things) Project](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/building-an-iot-(internet-of-things)-project){:target="_blank" rel="noopener"}  | SP | Intermediate | 18 hrs |
+|[Certificate in Computer Applications (part of Diploma in Engineering (Computer Network & Systems)) ](https://www.sp.edu.sg/pace/courses/course-type/part-time-and-post-diplomas/ofr_ap/diploma-in-engineering-(computer-network-systems)){:target="_blank" rel="noopener"}  | SP | Basic | 180 hrs |
+|[Certificate in Computer Networking (part of Diploma in Engineering (Computer Network & Systems)) ](https://www.sp.edu.sg/pace/courses/course-type/part-time-and-post-diplomas/ofr_ap/diploma-in-engineering-(computer-network-systems)){:target="_blank" rel="noopener"}  | SP | Basic | 180 hrs |
+|[Certificate in Computer Programming and Networks (part of Diploma in Engineering (Computer Network & Systems)) ](https://www.sp.edu.sg/pace/courses/course-type/part-time-and-post-diplomas/ofr_ap/diploma-in-engineering-(computer-network-systems)){:target="_blank" rel="noopener"}  | SP | Basic | 180 hrs |
+|[Certificate in Info-comm Services (part of Diploma in Engineering (Computer Network & Systems)) ](https://www.sp.edu.sg/pace/courses/course-type/part-time-and-post-diplomas/ofr_ap/diploma-in-engineering-(computer-network-systems)){:target="_blank" rel="noopener"}  | SP | Basic | 180 hrs |
+|[Certificate in Internet of Things (IoT) Technologies (part of Diploma in Engineering (Computer Network & Systems)) ](https://www.sp.edu.sg/pace/courses/course-type/part-time-and-post-diplomas/ofr_ap/diploma-in-engineering-(computer-network-systems)){:target="_blank" rel="noopener"}  | SP | Intermediate | 147 hrs |
+|[Certificate in IoT in Manufacturing (IMF) (part of Diploma in Engineering (Advanced Manufacturing)) ](https://www.sp.edu.sg/pace/courses/course-type/part-time-and-post-diplomas/ofr_ap/diploma-in-engineering-(advanced-manufacturing)){:target="_blank" rel="noopener"}  | SP | Intermediate | 180 hrs |
+|[CET708 Wireless Networks ](https://www.ntu.edu.sg/pace/programmes/detail/cet708-wireless-networks){:target="_blank" rel="noopener"}  | NTU | Basic | 13 hrs |
+|[Coc in Digital Warehousing Solutions](https://www.ite.edu.sg/courses/course-finder/course/coc-in-digital-warehousing-solutions){:target="_blank" rel="noopener"}  | ITE | Intermediate | 20 hrs |
+|[CoC in Internet of Things (Smart Energy Fundamentals)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-internet-of-things-smart-energy-fundamentals){:target="_blank" rel="noopener"}  | ITE | Basic | 7 hrs |
+|[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"}  | ITE | Basic | 7 hrs |
+|[CS102A:System Security in Practice: Fundamentals of Computer Security](http://www.ntc.ntu.edu.sg/Programmes/EntrepreneurshipDevelopmentProgrammes/Entrepreneurship%20Development%20Programmes%20(English)/Pages/Cyber%20Security%20(Additional%20Pages)/CS102A-Fundamentals-of-Computer-Security.aspx){:target="_blank" rel="noopener"}  | NTU | Basic | 7 hrs |
+|[CS103A: Network Security in Practice: Fundamentals of Network Security ](http://www.ntc.ntu.edu.sg/Programmes/EntrepreneurshipDevelopmentProgrammes/Entrepreneurship%20Development%20Programmes%20(English)/Pages/Cyber%20Security%20(Additional%20Pages)/CS103A-Fundamentals-of-Computer-Security--.aspx-Fundamentals-of-Computer-Security--.aspx){:target="_blank" rel="noopener"}  | NTU | Basic | 7 hrs |
+|[Cyber Security for ICT Professionals ](https://www.iss.nus.edu.sg/executive-education/course/detail/cyber-security-for-ict-professionals/cybersecurity){:target="_blank" rel="noopener"}  | NUS | Intermediate | 19.5 hrs |
+|[Data Science for Internet of Things ](https://nusmods.com/modules/EE5020/data-science-for-internet-of-things){:target="_blank" rel="noopener"}  | NUS | Basic | 3 days |
+|[Demystify IoT Security ](https://eservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=CE1234){:target="_blank" rel="noopener"}  | NYP | Basic | 7 hrs |
+|[Designing Intelligent Edge Computing ](https://www.iss.nus.edu.sg/executive-education/course/detail/designing-intelligent-edge--computing/software-systems){:target="_blank" rel="noopener"}  | NUS | Advanced | 26 hrs |
+|[Developing Cybersecurity Architecture ](https://www.iss.nus.edu.sg/executive-education/course/detail/developing--cybersecurity-architecture/cybersecurity){:target="_blank" rel="noopener"}  | NUS | Intermediate | 19.5 hrs |
+|[DevOps Foundation with BizOps ](https://www.iss.nus.edu.sg/executive-education/course/detail/devops--foundation-with-bizops/digital-agility){:target="_blank" rel="noopener"}  | NUS | Intermediate | 18.5 hrs |
+|[Digital Confidence for Cyber Security & Internet of Things](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/digital-confidence-for-internet-of-things-cybersecurity){:target="_blank" rel="noopener"}  | SP | Intermediate | 30 hrs |
+|[Digital Leadership in Advanced Manufacturing ](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/digital-leadership-in-advanced-manufacturing){:target="_blank" rel="noopener"}  | SP | Basic | 38 hrs |
+|[Envisioning 5G IoT Solutions](https://www.iss.nus.edu.sg/executive-education/course/detail/Envisioning-5G-IoT-Solutions/software-systems){:target="_blank" rel="noopener"}  | NUS | Intermediate | 19.5 hrs |
+|[Feature Engineering & Analytics using IOT Data ](https://www.iss.nus.edu.sg/executive-education/course/detail/feature-engineering-and-analytics-using-iot--data/data-science){:target="_blank" rel="noopener"}  | NUS | Intermediate | 19.5 hrs |
+|[Fiber Broadband Service Commissioning ](https://www.ite.edu.sg/courses/course-finder/course/fiber-broadband-service-commissioning){:target="_blank" rel="noopener"}  | ITE | Basic | 7 hrs |
+|[Graduate Certificate in Digital Finance Module 4: IOT and Cloud](https://academy.smu.edu.sg/graduate-certificate-digital-finance-module-4-iot-and-cloud-1971){:target="_blank" rel="noopener"}  | SMU | Basic | 16 hrs |
+|[Graduate Certificate in Digital Finance Module 4: IOT and Cloud (Synchronous e-learning)](https://academy.smu.edu.sg/graduate-certificate-digital-finance-module-4-iot-and-cloud-1971){:target=""_blank"" rel=""noopener""}  | SMU | Basic | 16 hrs |"
+|[Graduate Certificate in Digital Finance Module 6: Managing Expanding Cyber Risks](https://academy.smu.edu.sg/graduate-certificate-digital-finance-module-6-managing-expanding-cyber-risks-1981){:target=""_blank"" rel=""noopener""}  | SMU | Basic | 16 hrs |"
+|[Graduate Certificate in Digital Finance Module 6: Managing Expanding Cyber Risks (Synchronous e-learning)](https://academy.smu.edu.sg/graduate-certificate-digital-finance-module-6-managing-expanding-cyber-risks-1981){:target=""_blank"" rel=""noopener""}  | SMU | Intermediate | 16 hrs |"
+|[Graduate Certificate in Digital Health Module 4 : Legal Issues & Risk Management (Synchronous E-Learning) ](https://academy.smu.edu.sg/digital-health){:target="_blank" rel="noopener"}  | SMU | Intermediate | 22 hrs |
+|[Graduate Certificate in Digital Health Module 4: Legal Issues & Risk Management ](https://academy.smu.edu.sg/health-legal){:target="_blank" rel="noopener"}  | SMU | Basic | 22 hrs |
+|[Health Analytics ](https://www.iss.nus.edu.sg/executive-education/course/detail/health--analytics/data-science){:target="_blank" rel="noopener"}  | NUS | Intermediate | 19.5 hrs |
+|[Humanizing Smart Systems](https://www.iss.nus.edu.sg/executive-education/course/detail/humanizing-smart--systems/software-systems){:target="_blank" rel="noopener"}  | NUS | Intermediate | 26 hrs |
+|[IIOT Connectivity (Modular Unit stackable to Specialist Diploma in Industrial Internet of Things) - (Classroom, Synchronous & Asynchronous) ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/skills-based-modular-courses/stackable-modular-courses/iiot-connectivity.html){:target="_blank" rel="noopener"}  | TP | Basic | 60 hrs |
+|[Implementing Industrial Internet of Things for Shop Floor](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/implementing-industrial-internet-of-things-for-shop-floor){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
+|[Industry 4.0 & Supply Chain Transformation: Developing a Digital Supply Chain Strategic Mindset](https://academy.smu.edu.sg/industry-40-supply-chain-transformation-developing-digital-supply-chain-strategic-mindset-1941){:target=""_blank"" rel=""noopener""}  | SMU | Basic | 21 hrs |"
+"|[Industry 4.0 & Supply Chain Transformation: Developing a Digital Supply Chain Strategic Mindset (Synchronous E-learning) 
+](https://academy.smu.edu.sg/industry-40-supply-chain-transformation-developing-digital-supply-chain-strategic-mindset-1941){:target=""_blank"" rel=""noopener""}  | SMU | Basic | 23 hrs |"
+|[Internet of Things - Connect Devices Using Thingbox](https://www.ite.edu.sg/courses/course-finder/course/short-course-internet-of-things-connect-devices-using-thingbox){:target="_blank" rel="noopener"}  | ITE | Basic | 12 hrs |
+|[Internet of Things (IoT)](https://www.suss.edu.sg/courses/detail/eng233?urlname=beng-electronics-behe){:target="_blank" rel="noopener"}  | SUSS | Intermediate | 36 hrs |
+|[Internet of Things(IoT) Systems and Applications](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/internet-of-things(iot)-systems-and-applications){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
+|[Internet of Things: Technology & Applications ](https://academy.smu.edu.sg/internet-things-technology-applications-1396){:target="_blank" rel="noopener"}  | SMU | Basic | 15 hrs |
+|[Introduction to Digital Transformation & Industrial IoT](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/introduction-to-digital-workplace-transformation){:target="_blank" rel="noopener"}  | SP | Basic | 24 hrs |
+|[IoT & 5G Security](https://www.iss.nus.edu.sg/executive-education/course/detail/iot-5g-security/software-systems){:target="_blank" rel="noopener"}  | NUS | Intermediate | 19.5 hrs |
+|[IoT and Hybrid Mobile App Development](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/iot-and-hybrid-mobile-app-development){:target="_blank" rel="noopener"}  | SP | Intermediate | 12 hrs |
+|[IoT Applications in Supply Chain Management ](https://eservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=CB1252){:target="_blank" rel="noopener"}  | NYP | Basic | 7 hrs |
+|[IOT for Electronics Industry_M2](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-register/iot-for-electronics-industry){:target="_blank" rel="noopener"}  | SP | Intermediate | 8 hrs |
+|[IoT for Engineers ](https://www.cet.np.edu.sg/courses/iot-for-engineers/){:target="_blank" rel="noopener"}  | NP | Basic | 24 hrs |
+|[IoT in Manufacturing ](https://eservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=CE1177){:target="_blank" rel="noopener"}  | NYP | Basic | 14 hrs |
+|[IoT Sensor Networks ](https://nusmods.com/modules/EE5024/io-t-sensor-networks){:target="_blank" rel="noopener"}  | NUS | Basic | 3 days |
+|[IoT with MQTT and NodeMCUArduino ](https://www.np.edu.sg/lifelonglearning/Pages/IoT-with-MQTT-and-NodeMCU-Arduino.aspx){:target="_blank" rel="noopener"}  | NP | Basic | 8 hrs |
+|[Leading And Developing Staff Capability In F&B Through Change Management](https://www.rp.edu.sg/ace/short-course/Detail/leading-and-developing-staff-capability-in-f-b-through-change-management){:target="_blank" rel="noopener"}  | RP | Basic | 8 hrs |
+|[Learn how to implement Internet of Things (IoT) Solution in a 2-day BootCamp](https://sitlearn.singaporetech.edu.sg/individualcourse/?id=d5e3ae8e-ca59-e911-a992-000d3a8288ff){:target="_blank" rel="noopener"}  | SIT | Basic | 16 hrs |
+|[Maximising Business Value through Understanding Digital Transformation ](https://www.ntu.edu.sg/pace/programmes/detail/maximising-business-value-through-understanding-digital-transformation){:target="_blank" rel="noopener"}  | NTU | Basic | 7 hrs |
+|[Maximising Business Value through Understanding Digital Transformation (Synchronous e-Learning) ](https://www.ntu.edu.sg/pace/programmes/detail/maximising-business-value-through-understanding-digital-transformation){:target="_blank" rel="noopener"}  | NTU | Basic | 7 hrs |
+|[MLC - IIOT Connectivity Suite Courses ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/micro-learning-courses/suite-courses/introduction-to-industrial-internet-of-things-iiot.html){:target="_blank" rel="noopener"}  | TP | Basic | 6 hrs |
+|[MLC - Introduction to Industrial Internet of Things](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/micro-learning-courses/suite-courses/introduction-to-industrial-internet-of-things-iiot.html){:target=""_blank"" rel=""noopener""}  | TP | Intermediate | 3.5 hrs |"
+|[MLC - Labview for Industrial Internet of Things (IIOT) ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/micro-learning-courses/suite-courses/labview-for-industrial-internet-of-things-iiot.html){:target="_blank" rel="noopener"}  | TP | Intermediate | 3.5 hrs |
+|[Modern Cyber Security Technologies for Senior Managers](https://stmi.nus.edu.sg/event/modern-cyber-security-technologies-for-senior-managers-skillsfuture-series-3/){:target="_blank" rel="noopener"}  | NUS | Intermediate | 3 days |
+|[Modular Certificate in Analytics & Internet of Things - Part of Diploma in Engineering (Electronics) (DEEC1) (Classroom & Synchronous)](https://www.cet.np.edu.sg/courses/diploma-in-engineering-electronics/){:target="_blank" rel="noopener"}  | NP | Basic | 165 hrs |
+|[NB-IoT Understanding Low Power Cellular LTE ](https://eservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=CE1267){:target="_blank" rel="noopener"}  | NYP | Basic | 7 hrs |
+|[NTU-FTA Series - loT (Synchronous e-learning)](https://www.ntu.edu.sg/pace/programmes/detail/ntu-fta-series---lot){:target="_blank" rel="noopener"}  | NTU | Basic | 7 hrs |
+|[Post-Diploma Certificate in IIOT Integration (Post-Diploma Certificate 1 of Specialist Diploma in Industrial Internet of Things) - (Classroom, Synchronous & Asynchronous) ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/part-time-diploma-post-diploma-courses/specialist-diploma-in-industrial-internet-of-things.html){:target="_blank" rel="noopener"}  | TP | Basic | 108 hrs |
+|[Post-Diploma Certificate in Robotics (Post Diploma Certificate 1 of Specialist Diploma in Robotics & Automation) ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/part-time-diploma-post-diploma-courses/specialist-diploma-in-robotics-and-automation.html){:target="_blank" rel="noopener"}  | TP | Basic | 120 hrs |
+|[Practical Approach to Cloud Computing](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/practical-approach-to-cloud-computing){:target="_blank" rel="noopener"}  | SP | Basic | 15 hrs |
+|[PTC Industrial IOT Platforms for Data Analytics and Connectivity in Advanced Manufacturing ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/ptc-industrial-iot-platforms-for-data-analytics-and-connectivity-in-advanced-manufacturing.html){:target="_blank" rel="noopener"}  | TP | Basic | 21 hrs |
+|[Python Programming for the Internet of Things (IoT)](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/python-programming-for-the-internet-of-things-(iot)){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
+|[Robotics Integration and Adaptation [Modular unit stackable to Specialist Diploma in Robotics & Automation] ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/skills-based-modular-courses/stackable-modular-courses/robotics-integration-and-adaptation.html){:target="_blank" rel="noopener"}  | TP | Basic | 60 hrs |
+|[SGUS Certificate in Cloud Computing & Architecting ](https://www.sp.edu.sg/pace/courses/sgus-programme/sgus-certificate-in-cloud-computing-architecting){:target="_blank" rel="noopener"}  | SP | Basic | 709 hrs |
+|[SGUS Computer Engineering ](https://www.sp.edu.sg/pace/courses/sgus-programme/sgus-computer-engineering){:target="_blank" rel="noopener"}  | SP | Basic | 955 hrs |
+|[SGUS Diploma (Conversion) in Computer Networking ](https://www.sp.edu.sg/pace/courses/sgus-programme/sgus-diploma-(conversion)-in-computer-networking){:target="_blank" rel="noopener"}  | SP | Intermediate | 749 hrs |
+|[SGUS Programme in Precision Engineering and Automation & Robotics ](https://eservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=18011){:target="_blank" rel="noopener"}  | NYP | Basic | 364 hrs |
+|[Smart Building Operations and the Internet of Things ](https://www.cet.np.edu.sg/courses/smart-building-operations-and-the-internet-of-things/){:target="_blank" rel="noopener"}  | NP | Basic | 24 hrs |
+|[Smart IoT Basics ](https://eservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=CE1210){:target="_blank" rel="noopener"}  | NYP | Basic | 7 hrs |
+|[Smart Sensors and Devices (Modular Unit stackable to Specialist Diploma in Industrial Internet of Things) - (Classroom, Synchronous & Asynchronous)](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/skills-based-modular-courses/stackable-modular-courses/smart-sensors-and-devices.html){:target=""_blank"" rel=""noopener""}  | TP | Basic | 60 hrs |"
+|[The Future of Work – Harnessing the Limitless Potential of AI and IOT ](https://academy.smu.edu.sg/future-work-harnessing-limitless-potential-ai-and-iot-1011){:target="_blank" rel="noopener"}  | SMU | Basic | 7 hrs |
+|[The Knowledge and Innovation Economy 4.0](https://inetapps.nus.edu.sg/sacs/LifeLongLearning/CourseDetails/BMS5203/){:target="_blank" rel="noopener"}  | NUS | Intermediate | 39 hrs |
+|[TPOL - The Internet of Things and Everything - IoT/IoE ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/online-courses/the-internet-of-things-and-everything-iot-ioe.html){:target="_blank" rel="noopener"}  | TP | Basic | 20 hrs |
+|[Understand and Improve your Operations through A3 Structured Problem Solving (Lean) ](https://sitlearn.singaporetech.edu.sg/individualcourse/?title=Understand-and-Improve-your-Operations-through-A3-Structured-Problem-Solving-(Lean)&id=0ab31071-0c40-eb11-a813-000d3a85436c&FD=true){:target=""_blank"" rel=""noopener""}  | SIT | Basic | 8 hrs |"
+|[Understanding of Internet of Things (IoT) ](https://eservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=CE1167){:target="_blank" rel="noopener"}  | NYP | Basic | 7 hrs |
