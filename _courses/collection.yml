@@ -4,10 +4,10 @@ collections:
     order:
       - by-areas/.keep
       - by-areas/5g-and-telecoms.md
-      - by-areas/ai-and-analytics.md
-      - by-areas/applications.md
-      - by-areas/cloud-and-virtualization.md
-      - by-areas/cybersecurity.md
       - by-areas/internet-of-things-iot.md
+      - by-areas/ai-and-analytics.md
+      - by-areas/cloud-and-virtualization.md
       - by-areas/networking.md
+      - by-areas/cybersecurity.md
+      - by-areas/applications.md
       - national-university-of-singapore.md
