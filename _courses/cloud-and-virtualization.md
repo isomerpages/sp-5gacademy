@@ -21,8 +21,7 @@ permalink: /courses/cloud
 |[Automation with Amazon Web Services ](){:target="_blank" rel="noopener"}  | TP | Basic | 78 hrs |
 |[AWS Academy Accreditation Preparation Course](https://www.sp.edu.sg/pace/courses/course-type/online/aws-academy-accreditation-preparation-course){:target="_blank" rel="noopener"}  | SP | Basic | 20 hrs |
 |[AWS Academy Cloud Architecting (synchronous e-learning) ](https://www.rp.edu.sg/ace/short-course/Detail/aws-academy-cloud-architecting){:target="_blank" rel="noopener"}  | RP | Basic | 36 hrs |
-|[AWS Academy Cloud Foundations ](https://www.cet.np.edu.sg/courses/aws-academy-cloud-foundations/
-){:target=""_blank"" rel=""noopener""}  | NP | Basic | 16 hrs |"
+|[AWS Academy Cloud Foundations ](https://www.cet.np.edu.sg/courses/aws-academy-cloud-foundations/){:target=""_blank"" rel=""noopener""}  | NP | Basic | 16 hrs |"
 |[AWS Cloud Foundations](https://www.rp.edu.sg/ace/short-course/Detail/aws-academy-cloud-foundations){:target="_blank" rel="noopener"}  | RP | Basic | 18 hrs |
 |[Big Data Computing in the Cloud ](https://www.suss.edu.sg/courses/detail/ICT337){:target="_blank" rel="noopener"}  | SUSS | Basic | 36 hrs |
 |[Big Data, Cloud Computing and Machine Learning ](https://www.suss.edu.sg/courses/detail/FIN559){:target="_blank" rel="noopener"}  | SUSS | Basic | 36 hrs |
