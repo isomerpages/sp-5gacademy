@@ -2,13 +2,11 @@
 title: Internet of Things (IoT)
 permalink: /courses/iot
 ---
-[Data Science for Internet of Things](https://nusmods.com/modules/EE5020/data-science-for-internet-of-things) (NUS)
-
----
-[IoT Sensor Networks](https://nusmods.com/modules/EE5024/io-t-sensor-networks) (NUS)
-
----
-[The Knowledge and Innovation Economy 4.0](https://inetapps.nus.edu.sg/sacs/LifeLongLearning/CourseDetails/BMS5203/) (NUS)
+|Course Title  | Institution | Level | Duration |
+| - | - | - | -|
+|[Data Science for Internet of Things](https://nusmods.com/modules/EE5020/data-science-for-internet-of-things)| (NUS)| Level | hrs |
+|[IoT Sensor Networks](https://nusmods.com/modules/EE5024/io-t-sensor-networks)| (NUS)| Level | hrs |
+|[The Knowledge and Innovation Economy 4.0](https://inetapps.nus.edu.sg/sacs/LifeLongLearning/CourseDetails/BMS5203/)| (NUS)| Level | hrs |
 
 ---
 [Big Data and Business Strategy](https://executive-education.nus.edu.sg/programmes/leading-with-big-data-analytics-machine-learning/) (NUS)
