@@ -2,6 +2,8 @@
 title: Training Partners
 permalink: /training-partners
 ---
-**IHLs and Autonomous Universities**
+**Academic Institutions**
 
 ![Alt text for image on Isomer site](/images/AICAC.png)
+
+
