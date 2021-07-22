@@ -19,10 +19,10 @@ third_nav_title: By Areas
 |[5G as a platform for Industry Transformation](https://scale.nus.edu.sg/programmes/executive-courses/tech-enabled-services/5g-as-a-platform-for-industry-transformation){:target="_blank" rel="noopener"}  | NUS | Intermediate | 12 hrs |
 |[5G Fundamentals and Applications](https://www.rp.edu.sg/ace/short-course/Detail/5g-fundamentals-and-applications){:target="_blank" rel="noopener"}  | RP | Basic | 8 hrs |
 |[5G Fundamentals for all](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/5g-fundamentals-for-all.html#course-overview){:target="_blank" rel="noopener"}  | TP | Basic | 14 hrs |
-|5G Industry Practitioner (Cloud & Virtualization) | SP | Intermediate | 16 hrs |
-|5G Industry Practitioner (Core Network)]| SP | Intermediate | 16 hrs |
-|5G Industry Practitioner (Overview) | SP | Intermediate | 16 hrs |
-|5G Industry Practitioner (Radio Access Network) | SP | Intermediate | 16 hrs |
+|[5G Industry Practitioner (Cloud & Virtualization)](https://www.sp.edu.sg/pace){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
+|[5G Industry Practitioner (Core Network)](https://www.sp.edu.sg/pace){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
+|[5G Industry Practitioner (Overview)](https://www.sp.edu.sg/pace){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
+|[5G Industry Practitioner (Radio Access Network)](https://www.sp.edu.sg/pace){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
 |[5G-Based Localization Methods](https://www.ntu.edu.sg/pace/programmes/detail/5g-based-localization-methods){:target="_blank" rel="noopener"}  | NTU | Intermediate | 7 hrs |
 |[Advanced Certificate in Technical Fundamentals of Cybersecurity Module 4: Introduction to 5G Networks](https://academy.smu.edu.sg/advanced-certificate-technical-fundamentals-cybersecurity-module-4-introduction-5g-networks-5231){:target="_blank" rel="noopener"}  | SMU | Basic | 31 hrs |
 |[Designing Intelligent Edge Computing ](https://www.iss.nus.edu.sg/executive-education/course/detail/designing-intelligent-edge--computing/software-systems){:target="_blank" rel="noopener"}  | NUS | Advanced | 26 hrs |
