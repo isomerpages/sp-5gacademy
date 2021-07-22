@@ -5,9 +5,6 @@ third_nav_title: By Acad Institutions
 ---
 |Course Title  | Level | Duration |
 | - | - | - | 
-|[Be an IT Professional (Network Technology)](https://www.ite.edu.sg/courses/course-finder/course/SGUS-be-an-it-professional-(network-technology)){:target="_blank" rel="noopener"} |Basic|364 hrs |
-|[Be an IT Professional (Programming)](https://www.ite.edu.sg/courses/course-finder/course/SGUS-be-an-it-professional-(programming)){:target="_blank" rel="noopener"} |Basic|365 hrs |
-|[Be an IT Professional (Programming) + Bridging](https://www.ite.edu.sg/courses/course-finder/course/SGUS-be-an-it-professional-(programming)){:target="_blank" rel="noopener"} |Basic|627.83 hrs |
 |[CoC in AI 101: Customer Relationship Management Chatbot](https://www.ite.edu.sg/courses/course-finder/course/coc-in-ai-101-customer-relationship-management-chatbot){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in AI Fundamentals using Nvidia Jetson Nano](https://www.ite.edu.sg/courses/course-finder/course/coc-in-ai-fundamentals-using-nvidia-jetson-nano){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[CoC in Artificial Intelligence Foundation (Data)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-artificial-intelligence-foundation-(data)){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
