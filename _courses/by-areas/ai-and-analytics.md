@@ -4,7 +4,7 @@ permalink: /courses/ai
 third_nav_title: By Areas
 ---
 |Course Title  | Institution | Level | Duration |
-| - | - | - | -|
+| - | - | - | - |
 |[(SBMC) Specialist Diploma in Applied Artificial Intelligence - Introduction to Data Management for Machine Learning](https://www.rp.edu.sg/ace/course-summary/Detail/specialist-diploma-in-applied-artificial-intelligence){:target="_blank" rel="noopener"}  | RP | Basic | 30 hrs |
 |[(SBMC) Specialist Diploma in Applied Artificial Intelligence - Introduction to Programming](https://www.rp.edu.sg/ace/course-summary/Detail/specialist-diploma-in-applied-artificial-intelligence){:target="_blank" rel="noopener"}  | RP | Basic | 30 hrs |
 |[(SBMC) Specialist Diploma in Applied Artificial Intelligence - Machine Learning Fundamentals](https://www.rp.edu.sg/ace/course-summary/Detail/specialist-diploma-in-applied-artificial-intelligence){:target="_blank" rel="noopener"}  | RP | Basic | 30 hrs |
