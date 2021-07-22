@@ -58,7 +58,6 @@ third_nav_title: By Acad Institutions
 |[NTU-FTA Series - Cloud and API Economy ](https://www.ntu.edu.sg/pace/programmes/detail/ntu-fta-series---cloud-and-api-economy){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[NTU-FTA Series - loT (Synchronous e-learning)](https://www.ntu.edu.sg/pace/programmes/detail/ntu-fta-series---lot){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Preparing for Cybersecurity](https://www.ntu.edu.sg/pace/programmes/detail/preparing-for-cybersecurity){:target="_blank" rel="noopener"} |Basic|16 hrs |
-|[SGUP-CT - Salesforce Career Kickstarter Programme (Synchronous e-learning) ](https://www.ntu.edu.sg/pace/programmes/detail/sgup-ct---salesforce-career-kickstarter-programme){:target="_blank" rel="noopener"} |Intermediate|384 hrs |
 |[Top AI Skills to Learn - Introduction to AI (Basic)](http://pace.ntu.edu.sg/LifelongLearning/PDP/Pages/CourseDetail.aspx?EventId=25d3bc8d-b1df-4d98-a08f-3521ffb9c863){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Top AI Skills to Learn - Machine Learning](https://www.ntu.edu.sg/pace/programmes/detail/top-ai-skills-to-learn---machine-learning){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Top AI Skills to Learn - Natural Language Processing (NLP)](https://www.ntu.edu.sg/pace/programmes/detail/top-ai-skills-to-learn---natural-language-processing-(nlp)){:target="_blank" rel="noopener"} |Basic|7 hrs |
