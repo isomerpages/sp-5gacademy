@@ -61,7 +61,6 @@ third_nav_title: By Acad Institutions
 |[Managing Cybersecurity Risk ](https://www.iss.nus.edu.sg/executive-education/course/detail/managing-cybersecurity--risk/cybersecurity){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
 |[Modern Cyber Security Technologies for Senior Managers](https://stmi.nus.edu.sg/event/modern-cyber-security-technologies-for-senior-managers-skillsfuture-series-3/){:target="_blank" rel="noopener"} |Intermediate|3 days |
 |[New Media and Sentiment Mining ](https://www.iss.nus.edu.sg/executive-education/course/detail/new-media-and-sentiment--mining/data-science){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
-|[NUS SGUS Programme in International Financial Technology (FinTech) for non-Technical Executives ](https://scale.nus.edu.sg/nus-sgunited-skills/overview/professional-services){:target="_blank" rel="noopener"} |Basic|614.5 hrs |
 |[Octave Programming for AI, Machine Learning and Data Analytics ](https://scale.nus.edu.sg/programmes/executive-courses/data-analytics/octave-programming-for-ai-machine-learning-and-data-analytics){:target="_blank" rel="noopener"} |Basic|6.5 hrs |
 |[Pattern Recognition and Machine Learning Systems ](https://www.iss.nus.edu.sg/executive-education/course/detail/pattern-recognition-and-machine--learning-systems){:target="_blank" rel="noopener"} |Intermediate|32.5 hrs |
 |[Platform Security](https://www.iss.nus.edu.sg/executive-education/course/detail/platform--security/software-systems){:target="_blank" rel="noopener"} |Advanced|26 hrs |
