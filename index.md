@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Singapore 5G & Telecoms Academy
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
