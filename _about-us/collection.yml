@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - singapore-5g-and-telecoms-academy-steering-committee.md
       - academic-institution-curriculum-advisory-committee.md
       - workforce-development-committee.md
       - consortium-partner-committee.md
+      - singapore-5g-and-telecoms-academy-steering-committee.md
