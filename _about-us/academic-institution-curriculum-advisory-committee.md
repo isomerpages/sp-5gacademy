@@ -24,8 +24,10 @@ permalink: /about-us/aicac
 | Mr Ang Cheng Chwee     | Ngee Ann Polytechnic    |
 | Mr Yung Weng Ho    | Ngee Ann Polytechnic    |
 | Dr Li Yan     | Ngee Ann Polytechnic    |
-| Dr Ang Siau Gek     | National University of Singapore     |
-| Dr Ang Siau Gek     | National University of Singapore     |
-| Dr Ang Siau Gek     | National University of Singapore     |
-| Dr Ang Siau Gek     | National University of Singapore     |
-| Dr Ang Siau Gek     | National University of Singapore     |
+| Mr Albert Toh Peng Teik    | Republic Polytechnic     |
+| Mr Soh Lai Seng | Republic Polytechnic     |
+| Ms Wong Wai Ling    | Republic Polytechnic     |
+| Mr John Leong Kit Hoong    | Temasek Polytechnic     |
+| Dr Eng Pin Kwang   | Temasek Polytechnic     |
+| Dr Eric Cheung Lai Yip  | Institute of Technical Education     |
+| Dr Derek Yeo Sang Ann    | Institute of Technical Education     |
