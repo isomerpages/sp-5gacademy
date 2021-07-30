@@ -20,7 +20,7 @@ sections:
           description: "> 600 courses to choose from"
           url: /courses/5gtelecoms
         - title: Training Partners
-          description: ""
+          description: Universities and Institutes of Higher Learning
           url: /training-partners
         - title: Resources
           description: Events and Media Stories
