@@ -17,7 +17,7 @@ sections:
           description: ""
           url: /about-us/steering-comm
         - title: Courses
-          description: By Skills Category/ By Trainer
+          description: "> 600 courses to choose from"
           url: /courses/5gtelecoms
         - title: Training Partners
           description: ""
