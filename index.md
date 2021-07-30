@@ -30,8 +30,6 @@ sections:
       subtitle: What we offer
       description: We strive to coordinate programmes to develop skills across the
         country's 5G ecosystem.
-      button: Courses
-      url: Courses
   - resources:
       title: Media
       subtitle: Learn more
