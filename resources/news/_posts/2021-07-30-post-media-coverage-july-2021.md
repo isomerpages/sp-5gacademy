@@ -5,4 +5,4 @@ permalink: /news/permalink
 layout: post
 ---
 | Article| Source |
-| -------- | -------- |
+| 3G airwaves to be auctioned to boost 5G coverage in S'pore | The Straits Times |
