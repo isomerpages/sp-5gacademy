@@ -4,12 +4,11 @@ permalink: /about-us/aicac
 ---
 | Name | Institution |
 | -------- | -------- |
-| Dr Ang Siau Gek     | National University of Singapore     |
-| Ms Evelyn      | National University of Singapore     |
-| Dr Thomas Chai     | Singapore Polytechnic     |
 | Prof. Kwoh Chee Keong   | Nanyang Technological University |
 |Ms  Neo Wei Ting    | Nanyang Technological University     |
 | Prof. Tay Wee Peng     | Nanyang Technological University   |
+| Dr Ang Siau Gek     | National University of Singapore     |
+| Ms Evelyn      | National University of Singapore     |
 | Mr Robin Ngan     | Singapore Institute of Technology     |
 | Assoc. Prof. Forest Tan      | Singapore Institute of Technology     |
 | Mr Christopher Chow     | Singapore Management University    |
@@ -27,6 +26,8 @@ permalink: /about-us/aicac
 | Mr Albert Toh Peng Teik    | Republic Polytechnic     |
 | Mr Soh Lai Seng | Republic Polytechnic     |
 | Ms Wong Wai Ling    | Republic Polytechnic     |
+| Dr Thomas Chai     | Singapore Polytechnic     |
+| Mr Toh Ser Khoon     | Singapore Polytechnic     |
 | Mr John Leong Kit Hoong    | Temasek Polytechnic     |
 | Dr Eng Pin Kwang   | Temasek Polytechnic     |
 | Dr Eric Cheung Lai Yip  | Institute of Technical Education     |
