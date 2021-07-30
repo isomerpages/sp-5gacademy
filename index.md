@@ -11,7 +11,7 @@ sections:
       subtitle: Charting Singapore's 5G & Telecoms manpower development with you
       background: /images/hero-banner.png
       button: click here to enquire
-      url: '"="www.google.com" target="_blank"'
+      url: '"="www.google.com" target="_blank'
       key_highlights:
         - title: About Us
           description: ""
