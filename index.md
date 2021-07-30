@@ -10,8 +10,8 @@ sections:
       title: Singapore 5G & Telecoms Academy
       subtitle: Charting Singapore's 5G & Telecoms manpower development with you
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      button: click here to enquire
+      url: https://form.gov.sg/60fc3172d0fde7001257e316
       key_highlights:
         - title: About Us
           description: ""
