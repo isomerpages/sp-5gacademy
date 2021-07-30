@@ -5,7 +5,9 @@ permalink: /resources/events/permalink
 layout: post
 ---
 **Date:** 15 July, Thursday
+
 **Time:** 
+
 **Conducted by:**
 
 Register here.
