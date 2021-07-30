@@ -9,30 +9,23 @@ locations:
       - 5G & Telecoms Academy (T1431)
       - Singapore 139651
     operating_hours:
-      - days: Mon - Fri
+      - days: Mon - Thu
         time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
+        description: ""
+      - days: Fri
+        time: 8.30am - 5.30pm
         description: ""
     maps_link: ""
     title: Main Office
-  - address:
-      - ""
-      - ""
-      - ""
-    operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch
 contacts:
   - content:
       - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
+      - email: LIM_Joo_Ghee@sp.edu.sg
       - other: ""
-    title: Careers
+    title: Lim Joo Ghee
+  - content:
+      - phone: +65 6666 6666
+      - email: chiangfp@nus.edu.sg
+      - other: ""
+    title: Chiang Fock Pong
 ---
