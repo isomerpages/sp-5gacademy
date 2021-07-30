@@ -17,13 +17,13 @@ sections:
           description: ""
           url: /about-us/steering-comm
         - title: Courses
-          description: ""
+          description: By Skills Category/ By Trainer
           url: /courses/5gtelecoms
         - title: Training Partners
           description: ""
           url: /training-partners
         - title: Resources
-          description: ""
+          description: Events and Media Stories
           url: /resources
   - infobar:
       title: The Connectivity Needs of All Industries  -  24 August 2021
