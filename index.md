@@ -50,5 +50,5 @@ sections:
         smart building/estate and advanced manufacturing
       button: Come Join Us
       url: https://industry.sp.edu.sg/5g-aiot/" target="_blank
-      image: /images/AIoT%20Centre_1.png
+      image: /images/AIoT%20Centre_2.jpg
 ---
