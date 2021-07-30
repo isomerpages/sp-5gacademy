@@ -26,11 +26,12 @@ sections:
           description: Events and Media Stories
           url: /resources
   - infobar:
-      title: The Connectivity Needs of All Industries  -  24 August 2021
-      subtitle: UPCOMING EVENT
-      description: Nanyang Polytechnic Webinar
-      button: Sign up now
-      url: /faq/
+      title: Manpower Development in 5G & Related Technology
+      subtitle: What we offer
+      description: We strive to coordinate programmes to develop skills across the
+        country's 5G ecosystem.
+      button: Courses
+      url: /Courses/
   - resources:
       title: Media
       subtitle: Learn more
@@ -43,12 +44,4 @@ sections:
       url: https://form.gov.sg/#!/60fc3172d0fde7001257e316" target="_blank
       image: /images/articles/5G%20Garage_2.jpg
       alt: Image alt text
-  - infopic:
-      title: 5G & AIoT Centre Launch <p>(10 Nov 2021)</p>
-      subtitle: UPCOMING EVENT
-      description: Our experties are targeted towards industries such as smart city,
-        smart building/estate and advanced manufacturing
-      button: Come Join Us
-      url: https://industry.sp.edu.sg/5g-aiot/" target="_blank
-      image: /images/AIoT%20Centre_2.jpg
 ---
