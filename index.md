@@ -26,9 +26,9 @@ sections:
           description: ""
           url: /resources
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
+      title: The Connectivity Needs of All Industries      24 August 2021
+      subtitle: UPCOMING EVENT
+      description: Nanyang Polytechnic Webinar
       button: Button text
       url: /faq/
   - resources:
