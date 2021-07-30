@@ -35,4 +35,12 @@ sections:
       title: Media
       subtitle: Learn more
       button: View More
+  - infopic:
+      title: The Connectivity Needs of All Industries
+      subtitle: UPCOMING EVENT
+      description: Nanyang Polytechnic Webinar
+      button: Register Now
+      url: https://form.gov.sg/#!/60fc3172d0fde7001257e316" target="_blank
+      image: /images/articles/5G%20Garage_2.jpg
+      alt: Image alt text
 ---
