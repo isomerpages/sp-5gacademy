@@ -35,7 +35,7 @@ sections:
       subtitle: Learn more
       button: View More
   - infopic:
-      title: The Connectivity Needs of All Industries
+      title: The Connectivity Needs of All Industries<p>(24 Aug 2021)</p>
       subtitle: UPCOMING EVENT
       description: Nanyang Polytechnic Webinar
       button: Register Now
