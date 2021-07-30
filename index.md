@@ -43,4 +43,13 @@ sections:
       url: https://form.gov.sg/#!/60fc3172d0fde7001257e316" target="_blank
       image: /images/articles/5G%20Garage_2.jpg
       alt: Image alt text
+  - infopic:
+      title: Infopic T5G & AIoT Centre Launch (10 November 2021)itle
+      subtitle: UPCOMING EVENT
+      description: Our experties are targeted yp industries such as smart city, smart
+        building/estate and advanced manufacturing
+      button: Come Join Us
+      url: https://industry.sp.edu.sg/5g-aiot/" target="_blank
+      image: /images/AIoT%20Centre_1.png
+      alt: Image alt text
 ---
