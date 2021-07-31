@@ -4,31 +4,29 @@ permalink: /about-us/aicac
 ---
 | Name | Institution |
 | -------- | -------- |
+| Dr Eric Cheung Lai Yip  | Institute of Technical Education     |
+| Dr Derek Yeo Sang Ann    | Institute of Technical Education     ||Mr Melvyn Suan    | Nanyang Polytechnic     |
+| Ms Lim Siew Kiat     | Nanyang Polytechnic     |
+| Mr Poh Boon Kiat     | Nanyang Polytechnic     |
 | Prof. Kwoh Chee Keong   | Nanyang Technological University |
-|Ms  Neo Wei Ting    | Nanyang Technological University     |
 | Prof. Tay Wee Peng     | Nanyang Technological University   |
 | Dr Ang Siau Gek     | National University of Singapore     |
-| Ms Evelyn      | National University of Singapore     |
-| Mr Robin Ngan     | Singapore Institute of Technology     |
+| Mr Ang Cheng Chwee     | Ngee Ann Polytechnic    |
+| Dr Li Yan     | Ngee Ann Polytechnic    |
+| Mr Yung Weng Ho    | Ngee Ann Polytechnic    |
 | Assoc. Prof. Forest Tan      | Singapore Institute of Technology     |
+| Mr Robin Ngan     | Singapore Institute of Technology     |
 | Mr Christopher Chow     | Singapore Management University    |
 | Ms Julia Teo     | Singapore Management University     |
 | Assoc. Prof. Luke Peh Lu Chang     | Singapore University of Social Sciences    |
 | Dr Zhu Yong Qing     |  Singapore University of Social Sciences   |
-| Prof David Yau | Singapore University of Technology and Design     |
+| Prof David Yau | Singapore University of Technology and Design   |
 | Mr Ng Keng Boon     | Singapore University of Technology and Design     |
-|Mr Melvyn Suan    | Nanyang Polytechnic     |
-| Ms Lim Siew Kiat     | Nanyang Polytechnic     |
-| Mr Poh Boon Kiat     | Nanyang Polytechnic     |
-| Mr Ang Cheng Chwee     | Ngee Ann Polytechnic    |
-| Mr Yung Weng Ho    | Ngee Ann Polytechnic    |
-| Dr Li Yan     | Ngee Ann Polytechnic    |
 | Mr Albert Toh Peng Teik    | Republic Polytechnic     |
 | Mr Soh Lai Seng | Republic Polytechnic     |
 | Ms Wong Wai Ling    | Republic Polytechnic     |
 | Dr Thomas Chai     | Singapore Polytechnic     |
 | Mr Toh Ser Khoon     | Singapore Polytechnic     |
-| Mr John Leong Kit Hoong    | Temasek Polytechnic     |
+| Mr Wong Jian Chang   | Singapore Polytechnic   |
 | Dr Eng Pin Kwang   | Temasek Polytechnic     |
-| Dr Eric Cheung Lai Yip  | Institute of Technical Education     |
-| Dr Derek Yeo Sang Ann    | Institute of Technical Education     |
+| Mr John Leong Kit Hoong    | Temasek Polytechnic     |
