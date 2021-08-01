@@ -8,5 +8,5 @@ permalink: /about-us/steering-comm
 | Mr Toh Ser Khoon   | Co-Chair   | Singapore Polytechnic |
 | Mr Chiang Fock Pong  | Head, PMO   | National University of Singapore |
 |Dr Lim Joo Ghee    | Head, Tech. Solutions, L&D   | Singapore Polytechnic|
-|Ms Kim Lee   | Lead, Administration   | National University of Singapore|
+|Ms Boon Kim Lee   | Lead, Administration   | National University of Singapore|
 |Ms Elaine Lye   | Lead, Administration   | Singapore Polytechnic|
