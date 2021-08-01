@@ -5,7 +5,8 @@ permalink: /about-us/aicac
 | Name | Institution |
 | -------- | -------- |
 | Dr Eric Cheung Lai Yip  | Institute of Technical Education     |
-| Dr Derek Yeo Sang Ann    | Institute of Technical Education     ||Mr Melvyn Suan    | Nanyang Polytechnic     |
+| Dr Derek Yeo Sang Ann    | Institute of Technical Education    |
+|Mr Melvyn Suan    | Nanyang Polytechnic     |
 | Ms Lim Siew Kiat     | Nanyang Polytechnic     |
 | Mr Poh Boon Kiat     | Nanyang Polytechnic     |
 | Prof. Kwoh Chee Keong   | Nanyang Technological University |
