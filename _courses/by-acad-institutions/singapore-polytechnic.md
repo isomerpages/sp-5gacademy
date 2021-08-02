@@ -5,10 +5,10 @@ third_nav_title: By Acad Institutions
 ---
 |Course Title  | Level | Duration |
 | - | - | - | 
-|[5G Industry Practitioner (Cloud & Virtualization)](https://www.sp.edu.sg/pace){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
-|[5G Industry Practitioner (Core Network)](https://www.sp.edu.sg/pace){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
-|[5G Industry Practitioner (Overview)](https://www.sp.edu.sg/pace){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
-|[5G Industry Practitioner (Radio Access Network)](https://www.sp.edu.sg/pace){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
+|[5G Industry Practitioner (Cloud & Virtualization)](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/sp-ericsson-5g-industry-practitioner-certificate/5g-industry-practitioner-(cloud-virtualisation)){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
+|[5G Industry Practitioner (Core Network)](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/sp-ericsson-5g-industry-practitioner-certificate/5g-industry-practitioner-(core-network)){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
+|[5G Industry Practitioner (Overview)](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/sp-ericsson-5g-industry-practitioner-certificate/5g-industry-practitioner-(overview)){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
+|[5G Industry Practitioner (Radio Access Network)](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/sp-ericsson-5g-industry-practitioner-certificate/5g-industry-practitioner-(radio-access-network)){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
 |[Advanced Manufacturing and Industrial IOT](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-register/advanced-manufacturing-and-industrial-iot){:target="_blank" rel="noopener"} |Intermediate|7 hrs |
 |[Advanced Operations of Drones/Unmanned Aerial Vehicles](https://www.sp.edu.sg/pace/courses/course-type/short-modular/advanced-operations-of-drones-unmanned-aerial-vehicles){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
 |[AI e-enabled Robotics for Beginners](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/ai-e-enabled-robotics-for-beginners){:target="_blank" rel="noopener"} |Basic|8 hrs |
