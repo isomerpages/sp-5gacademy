@@ -4,14 +4,15 @@ permalink: /about-us/aicac
 ---
 | Name | Institution |
 | -------- | -------- |
-| Dr Eric Cheung Lai Yip  | Institute of Technical Education     |
+| Dr Ang Siau Gek  (Co-Chair)    | National University of Singapore     |
+| Dr Thomas Chai (Co-Chair)     | Singapore Polytechnic     |
 | Dr Derek Yeo Sang Ann    | Institute of Technical Education    |
+| Dr Eric Cheung Lai Yip  | Institute of Technical Education     |
 |Mr Melvyn Suan    | Nanyang Polytechnic     |
 | Ms Lim Siew Kiat     | Nanyang Polytechnic     |
 | Mr Poh Boon Kiat     | Nanyang Polytechnic     |
 | Prof. Kwoh Chee Keong   | Nanyang Technological University |
 | Prof. Tay Wee Peng     | Nanyang Technological University   |
-| Dr Ang Siau Gek     | National University of Singapore     |
 | Mr Ang Cheng Chwee     | Ngee Ann Polytechnic    |
 | Dr Li Yan     | Ngee Ann Polytechnic    |
 | Mr Yung Weng Ho    | Ngee Ann Polytechnic    |
@@ -26,7 +27,6 @@ permalink: /about-us/aicac
 | Mr Albert Toh Peng Teik    | Republic Polytechnic     |
 | Mr Soh Lai Seng | Republic Polytechnic     |
 | Ms Wong Wai Ling    | Republic Polytechnic     |
-| Dr Thomas Chai     | Singapore Polytechnic     |
 | Mr Toh Ser Khoon     | Singapore Polytechnic     |
 | Mr Wong Jian Chang   | Singapore Polytechnic   |
 | Dr Eng Pin Kwang   | Temasek Polytechnic     |
