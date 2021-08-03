@@ -4,8 +4,8 @@ permalink: /about-us/steering-comm
 ---
 | Name | Office | Organisation |
 | --------------------- | -------- | -------- |
-| Mr Suresh H Punjabi    | Co-Chair   | National University of Singapore |
-| Mr Toh Ser Khoon   | Co-Chair   | Singapore Polytechnic |
+| Mr Suresh H Punjabi    | Co-Chair, Steering Comm   | National University of Singapore |
+| Mr Toh Ser Khoon   | Co-Chair, Steering Comm   | Singapore Polytechnic |
 | Mr Chiang Fock Pong  | Head, PMO   | National University of Singapore |
 |Dr Lim Joo Ghee    | Head, Tech. Solutions, L&D   | Singapore Polytechnic|
 |Ms Boon Kim Lee   | Lead, Administration   | National University of Singapore|
