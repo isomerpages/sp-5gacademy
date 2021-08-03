@@ -42,4 +42,13 @@ sections:
       url: https://form.gov.sg/#!/60fc3172d0fde7001257e316" target="_blank
       image: /images/articles/5G%20Garage_2.jpg
       alt: Image alt text
+  - infopic:
+      title: 5G & AIoT Centre Launch
+      subtitle: Upcoming Event - 10 Nov
+      description: test test
+      button: Register here
+      url: https://www.sp.edu.sg/engineering-cluster/eee/industry/technology-centres/r-d-@-eee/aiot-technology-hub"
+        target="blank"
+      image: /images/AIoT%20Centre_2.jpg
+      alt: aiot_img
 ---
