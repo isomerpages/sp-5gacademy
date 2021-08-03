@@ -19,13 +19,13 @@ locations:
     title: Main Office
 contacts:
   - content:
-      - phone: +65 6123 4567
+      - phone: ""
       - email: LIM_Joo_Ghee@sp.edu.sg
       - other: ""
-    title: Lim Joo Ghee
+    title: Dr Lim Joo Ghee
   - content:
-      - phone: +65 6666 6666
+      - phone: ""
       - email: chiangfp@nus.edu.sg
       - other: ""
-    title: Chiang Fock Pong
+    title: Mr Chiang Fock Pong
 ---
