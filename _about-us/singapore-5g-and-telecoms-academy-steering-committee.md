@@ -2,7 +2,7 @@
 title: Singapore 5G & Telecoms Academy Steering Committee
 permalink: /about-us/steering-comm
 ---
-| Name | Office | Organisation |
+| Name | Office | Academic Institute |
 | --------------------- | -------- | -------- |
 | Mr Suresh H Punjabi    | Co-Chair, Steering Comm   | National University of Singapore |
 | Mr Toh Ser Khoon   | Co-Chair, Steering Comm   | Singapore Polytechnic |
