@@ -2,9 +2,10 @@
 title: How 5G & its Enabling Technologies Create Innovation & New Opportunities
   <p>(17 Sep)</p>
 date: 2021-07-29
-permalink: /resources/events/permalink
+permalink: /resources/events/how5g
 layout: post
 ---
+
 
 
 <Summary>
