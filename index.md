@@ -49,6 +49,6 @@ sections:
       button: Register here
       url: https://www.sp.edu.sg/engineering-cluster/eee/industry/technology-centres/r-d-@-eee/aiot-technology-hub"
         target="blank"
-      image: /images/AIoT%20Centre_2.jpg
+      image: /images/AIoT%20Centre_1.png
       alt: aiot_img
 ---
