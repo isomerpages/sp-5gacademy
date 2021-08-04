@@ -2,7 +2,7 @@
 title: Workforce Development Committee
 permalink: /about-us/wdc
 ---
-| Name | Company | What We Offer |
+| Name | Company | Company |
 | -------- | -------- | -------- |
 | Mr Suresh H Punjabi   |  Co-Chair   | National University of Singapore  |
 | Mr Loh Yew Chiong     | Co-Chair   | Singapore Polytechnic   |
