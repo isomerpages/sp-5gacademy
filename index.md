@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Singapore 5G & Telecoms Academy
       subtitle: Charting Singapore's 5G & Telecoms manpower development with you
-      background: /images/Finger%20on%205G_Blue.jpeg
+      background: /images/Man_White_Orange_1.jpeg
       button: click here to enquire
       url: https://form.gov.sg/#!/60fc3172d0fde7001257e316" target="_blank
       key_highlights:
