@@ -4,6 +4,3 @@ date: 2021-07-27
 permalink: /resources/events/aiot
 layout: post
 ---
-
-
-
