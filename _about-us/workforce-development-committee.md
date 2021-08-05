@@ -7,7 +7,7 @@ permalink: /about-us/wdc
 | Mr Suresh H Punjabi   |  Co-Chair   | National University of Singapore  |
 | Mr Loh Yew Chiong     | Co-Chair   | Singapore Polytechnic   |
 | Mr Andy Sim    | Member  |  [Dell Technologies](https://www.delltechnologies.com/en-sg/contactus.htm){:target="blank"}  |
-| Mr Eric Seow     | Member   |  [Dell Technologies](https://sp-5gacademy-staging.netlify.app/about-us/wdc){:target="blank"}   |
+| Mr Eric Seow     | Member   |  [Dell Technologies](https://www.delltechnologies.com/en-sg/contactus.htm){:target="blank"}   |
 | Mr Adrian Hia    | Member   |  VMware Singapore Pte. Ltd   |
 | Ms Lai Lock See    | Member  | VMware Singapore Pte. Ltd |
 | Mr Jeremy Lim    | Member   |  Cisco Systems (USA) Pte Ltd  |
