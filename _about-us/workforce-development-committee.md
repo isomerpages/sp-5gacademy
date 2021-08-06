@@ -7,9 +7,10 @@ permalink: /about-us/wdc
 | Mr Suresh H Punjabi |  National University of Singapore  |  5G PMO   | Co-Chair   |
 | Mr Loh Yew Chiong    | Singapore Polytechnic   | 5G PMO   | Co-Chair   |
 | Mr Andy Sim   |  [Dell Technologies](https://www.delltechnologies.com/en-sg/contactus.htm){:target="blank"}  |Equipment  |Description  |
-| Mr Eric Seow     | Member   |  [Dell Technologies](https://www.delltechnologies.com/en-sg/contactus.htm){:target="blank"}   |
-| Mr Adrian Hia    | Member   |  VMware Singapore Pte. Ltd   |
-| Ms Lai Lock See    | Member  | VMware Singapore Pte. Ltd |
+| Mr Eric Seow     |  [Dell Technologies](https://www.delltechnologies.com/en-sg/contactus.htm){:target="blank"}   |Equipment  |Description  |
+| Mr Adrian Hia  |  VMware Singapore Pte. Ltd   |Equipment  |Description  |
+| Mr Adrian Hia  |  VMware Singapore Pte. Ltd   |Equipment  |Description  |
+| Ms Lai Lock See    | VMware Singapore Pte. Ltd |
 | Mr Jeremy Lim    | Member   |  Cisco Systems (USA) Pte Ltd  |
 | Mr Reuben Yap     | Member   | Cisco Systems (USA) Pte Ltd |
 | Ms Ng Chiang Choon     | Member   |  IBM Singapore  |
