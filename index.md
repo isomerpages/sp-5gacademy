@@ -35,14 +35,6 @@ sections:
       subtitle: Learn more
       button: View More
   - infopic:
-      title: The Connectivity Needs of All Industries<p>(24 Aug 2021)</p>
-      subtitle: UPCOMING EVENT
-      description: Nanyang Polytechnic Webinar
-      button: Register Now
-      url: https://form.gov.sg/#!/60fc3172d0fde7001257e316" target="_blank
-      image: /images/articles/5G%20Garage_2.jpg
-      alt: Image alt text
-  - infopic:
       title: 5G & AIoT Centre Launch
       subtitle: Upcoming Event - 10 Nov
       description: test test
