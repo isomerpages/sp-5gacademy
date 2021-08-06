@@ -11,8 +11,8 @@ The webinar will focus on how 5G introduces new technological transformation and
 These technology shifts are helping telco operators and enterprises to drive  innovations in their respective domains. As leaders in their fields of digital transformation, cloud and virtualization, speakers from Dell and VMWare will be speaking on how these latest digital trends and technologies have given rise to new opportunities and innovation in various sectors in the industry.
 
 
-DATE:
-TIME:
-VENUE:
+DATE: 17 SEPTEMBER 2021 <p>
+TIME: 1pm to 2pm <p>
+VENUE: via Zoom 
 
 REGISTER NOW!
