@@ -36,8 +36,8 @@ sections:
       button: View More
   - infopic:
       title: 5G & AIoT Centre Launch
-      subtitle: Upcoming Event - 10 Nov
-      description: test test
+      subtitle: Upcoming Event - 10 Nov 2021
+      description: "DATE: 10 NOV 2021 <p> TIME: TBC <p> VENUE: TBC"
       button: Register here
       url: https://www.sp.edu.sg/engineering-cluster/eee/industry/technology-centres/r-d-@-eee/aiot-technology-hub"
         target="blank"
