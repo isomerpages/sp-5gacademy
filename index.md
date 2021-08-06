@@ -39,8 +39,7 @@ sections:
       subtitle: Upcoming Event - 10 Nov 2021
       description: "DATE: 10 NOV 2021 <p> TIME: TBC <p> VENUE: TBC"
       button: Register here
-      url: https://www.sp.edu.sg/engineering-cluster/eee/industry/technology-centres/r-d-@-eee/aiot-technology-hub"
-        target="blank"
+      url: https://industry.sp.edu.sg/5g-aiot/
       image: /images/AIoT%20Centre_1.png
       alt: aiot_img
   - infopic:
