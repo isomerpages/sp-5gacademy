@@ -43,4 +43,12 @@ sections:
         target="blank"
       image: /images/AIoT%20Centre_1.png
       alt: aiot_img
+  - infopic:
+      title: SUSS Analytics and Visualisation Challenge 2021
+      subtitle: UPCOMING EVENT - 10 SEP 2021
+      description: "DATE: 10 SEP 2021 <p> Time: 1.30 pm to 6.00 pm <p> Venue: Online event"
+      button: Register here
+      url: https://www.suss.edu.sg/docs/default-source/contentdoc/sbiz/avc2021-registrationform.pdf
+      image: /images/SUSS%20Image%201.jpg
+      alt: Analyticsandvisualisation.jpg
 ---
