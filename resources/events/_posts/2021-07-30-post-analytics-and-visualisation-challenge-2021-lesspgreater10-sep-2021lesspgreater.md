@@ -4,7 +4,7 @@ date: 2021-07-30
 permalink: /resources/events/analytics
 layout: post
 ---
-# About the Event
+![Alt text for image on Isomer site](/images/SUSS%20Image%201.jpg)# About the Event
 
 The SUSS Analytics and Visualisation Challenge 2021 (AVC21) welcomes poster submissions from A'levels, International Baccalaureate, and Polytechnic Diploma students.
 
@@ -39,7 +39,4 @@ The finalists for the event will be selected based on the following criteria:
 
 | 11 July 2021    | Registration and submission close for Poster Challenge     | 
 | 13 August 2021    | Notification of accepted submission by email     | 
-| 10 September 2021    | SUSS Analytics and Visualisation Challenge 2021     | 
-
-
-
+| 10 September 2021    | SUSS Analytics and Visualisation Challenge 2021     |
