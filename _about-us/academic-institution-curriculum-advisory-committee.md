@@ -2,7 +2,7 @@
 title: Academic Institution Curriculum Advisory Committee
 permalink: /about-us/aicac
 ---
-| Name | Institution |
+| Name | Academic Institution |
 | -------- | -------- |
 | Dr Ang Siau Gek  (Co-Chair)    | National University of Singapore     |
 | Dr Thomas Chai (Co-Chair)     | Singapore Polytechnic     |
