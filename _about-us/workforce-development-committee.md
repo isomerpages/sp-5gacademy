@@ -2,10 +2,10 @@
 title: Workforce Development Committee
 permalink: /about-us/wdc
 ---
-| Name | Company | Company |
+| Name | Company | Classification |Business Description |
 | -------- | -------- | -------- |
-| Mr Suresh H Punjabi   |  Co-Chair   | National University of Singapore  |
-| Mr Loh Yew Chiong     | Co-Chair   | Singapore Polytechnic   |
+| Mr Suresh H Punjabi |  National University of Singapore  |  5G PMO   | Co-Chair   |
+| Mr Loh Yew Chiong    | Singapore Polytechnic   | 5G PMO   | Co-Chair   |
 | Mr Andy Sim    | Member  |  [Dell Technologies](https://www.delltechnologies.com/en-sg/contactus.htm){:target="blank"}  |
 | Mr Eric Seow     | Member   |  [Dell Technologies](https://www.delltechnologies.com/en-sg/contactus.htm){:target="blank"}   |
 | Mr Adrian Hia    | Member   |  VMware Singapore Pte. Ltd   |
