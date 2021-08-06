@@ -2,7 +2,7 @@
 title: Workforce Development Committee
 permalink: /about-us/wdc
 ---
-| Name | Company | Classification |Business Description |
+| Name | Company | Classification |Description |
 | -------- | -------- | -------- |
 | Mr Suresh H Punjabi |  National University of Singapore  |  5G PMO   | Co-Chair   |
 | Mr Loh Yew Chiong    | Singapore Polytechnic   | 5G PMO   | Co-Chair   |
