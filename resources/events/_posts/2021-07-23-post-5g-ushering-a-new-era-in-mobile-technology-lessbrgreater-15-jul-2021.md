@@ -5,7 +5,6 @@ permalink: /resources/events/newera
 layout: post
 ---
 # About the Event
-**5G: Ushering a New Era in Mobile Technology**
 
 How does 5G work and what is the impact on daily life? How can businesses benefit from 5G and are there any areas of concern in adopting this technology?
 
