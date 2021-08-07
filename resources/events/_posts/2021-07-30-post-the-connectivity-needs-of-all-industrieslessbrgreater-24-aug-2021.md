@@ -14,6 +14,11 @@ Hosted in conjunction with Anritsu, Amazon Web Services, Murata, NUS ISS, Singte
 	TIME: 2pm - 4pm 
 	VENUE: via Zoom
 
+# Details
+**DATE: 24 AUGUST 2021
+TIME: 2 pm - 4 pm
+VENUE: via Zoom**
+
 ![Alt text for image on Isomer site](/images/NYP%20Program_24Aug.jpg)
 
 <a href="https://form.gov.sg/#!/60b87b59451c8300119f0809" target='_blank'><button>Register Now</button></a>
