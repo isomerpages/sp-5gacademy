@@ -11,7 +11,6 @@ How does 5G work and what is the impact on daily life? How can businesses benefi
 
 How prepared will your businesses be when Singapore unlocks its full-fledged 5G capabilities for businesses by the year 2025?
 
-**Learning points**<br>
 From this webinar, you can get answers to these pertinent questions . You can also get tips on how to readily upgrade your skills and knowledge on the go, anytime and anywhere, using micro-learning courses.
 
 # Details
