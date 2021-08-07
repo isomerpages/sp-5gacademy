@@ -8,9 +8,9 @@ Nanyang Polytechnic would like to invite you to register for the exclusive live 
 Hosted in conjunction with Anritsu, Amazon Web Services, Murata, NUS ISS, Singtel, ST Microelectronics and Nanyang Polytechnic, the 2 hour session will see 7 key market experts coming together to share on the future of cellular connectivity for 5G, Cat-M1 and NB-IoT. 
 
 # DETAILS
-	DATE: 24 AUGUST 2021
+**	DATE: 24 AUGUST 2021
 	TIME: 2pm - 4pm 
-	VENUE: via Zoom
+	VENUE: via Zoom**
 
 
 ![Alt text for image on Isomer site](/images/Agenda_NYP_24Aug.jpg)
