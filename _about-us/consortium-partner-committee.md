@@ -4,7 +4,7 @@ permalink: /about-us/cpc
 ---
 **Consortium Partner WDC**
 
-| Name | Office | Institution |
+| Name | Office | Academic Institution |
 | -------- | -------- | -------- |
 | Mr Loh Yew Chiong     | Co-Chair   | Singapore Polytechnic   |
 | Mr Suresh H Punjabi     | Co-Chair   | National University of Singapore   |
