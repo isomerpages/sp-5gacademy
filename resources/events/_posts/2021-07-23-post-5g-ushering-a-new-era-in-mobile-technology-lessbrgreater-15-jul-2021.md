@@ -15,7 +15,7 @@ From this webinar, you can get answers to these pertinent questions . You can al
 
 # Details
 **DATE: 15 JULY 2021 <br> 
-TIME: 10.00 am - 10.45 pm <br> 
+TIME: 10.00 am - 10.45 am <br> 
 VENUE: via Zoom**
 
 ![Alt text for image on Isomer site](/images/events/events/5G%20Ushering%20a%20New%20Era%20in%20Mobile%20Technology.png)
