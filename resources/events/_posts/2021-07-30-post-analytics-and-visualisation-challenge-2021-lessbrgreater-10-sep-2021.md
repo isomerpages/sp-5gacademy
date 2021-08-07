@@ -18,4 +18,10 @@ Topics concerning the challenges faced by our youths may include the pressures a
 You may select a theme that you would like to submit your poster to. The content in your poster submissions may touch on both themes. If you are unsure about which theme to choose, just make a submission and we will help to assign your posters to the most appropriate category.
 
 # Details
+**DATE: 10 SEP 2021 <br>
+TIME: 1.30 pm - 6.00 pm <br>
+VENUE: Online event**
+
+<a href="https://www.suss.edu.sg/docs/default-source/contentdoc/sbiz/avc2021-registrationform.pdf" target='_blank'><button>Register Now</button></a>
+
 <a href="https://www.google.com" target='_blank'><button>Register Now</button></a>
