@@ -19,7 +19,7 @@ permalink: /about-us/cpc
 
 **Consortium Partner CAC**
 
-| Name | Office | Organisation |
+| Name | Office | Academic Institution |
 | -------- | -------- | -------- |
 | Prof Ang Siau Gek     | Co-Chair   | National University of Singapore   |
 | Dr Thomas Chai     | Co-Chair   | Singapore Polytechnic  |
