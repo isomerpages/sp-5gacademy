@@ -14,7 +14,6 @@ Hosted in conjunction with Anritsu, Amazon Web Services, Murata, NUS ISS, Singte
 	TIME: 2pm - 4pm 
 	VENUE: via Zoom
 
-
-![Alt text for image on Isomer site](/images/Agenda_NYP_24Aug.jpg)
+![Alt text for image on Isomer site](/images/NYP%20Program_24Aug.jpg)
 
 <a href="https://form.gov.sg/#!/60b87b59451c8300119f0809" target='_blank'><button>Register Now</button></a>
