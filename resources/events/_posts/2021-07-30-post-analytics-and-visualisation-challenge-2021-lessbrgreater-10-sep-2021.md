@@ -23,5 +23,3 @@ TIME: 1.30 pm - 6.00 pm <br>
 VENUE: Online event**
 
 <a href="https://www.suss.edu.sg/docs/default-source/contentdoc/sbiz/avc2021-registrationform.pdf" target='_blank'><button>Register Now</button></a>
-
-<a href="https://www.google.com" target='_blank'><button>Register Now</button></a>
