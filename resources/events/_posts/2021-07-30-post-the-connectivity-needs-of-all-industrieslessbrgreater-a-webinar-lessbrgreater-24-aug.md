@@ -10,4 +10,4 @@ Hosted in conjunction with Anritsu, Amazon Web Services, Murata, NUS ISS, Singte
 ![Alt text for image on Isomer site](/images/NYP24AugBanner.jpg)
 ![Alt text for image on Isomer site](/images/Agenda_NYP_24Aug.jpg)
 
-<button onclick="window.location.href='https://youtu.be/dQw4w9WgXcQ';">Register Now</button>
+<button onclick="window.open('https://youtu.be/dQw4w9WgXcQ', '_blank')">Register Now</button>
