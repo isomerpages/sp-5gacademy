@@ -10,11 +10,6 @@ This exclusive live webinar, “The Connectivity Needs of All Industries” is o
 Hosted in conjunction with Anritsu, Amazon Web Services, Murata, NUS ISS, Singtel, ST Microelectronics and Nanyang Polytechnic, the 2 hour session will see 7 key market experts coming together to share on the future of cellular connectivity for 5G, Cat-M1 and NB-IoT. 
 
 # Details
-	DATE: 24 AUGUST 2021
-	TIME: 2pm - 4pm 
-	VENUE: via Zoom
-
-# Details
 **DATE: 24 AUGUST 2021 <br> 
 TIME: 2 pm - 4 pm <br> 
 VENUE: via Zoom**
