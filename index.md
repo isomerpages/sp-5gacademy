@@ -37,8 +37,8 @@ sections:
   - infopic:
       title: 5G & AIoT Centre Launch
       subtitle: Upcoming Event - 10 Nov 2021
-      description: '<span style="font-weight:bold;"><p> DATE: 10 NOV 2021</p> <p>
-        TIME: TBC </p><p> VENUE: TBC</p> </span>'
+      description: '<p> <span style="font-weight:bold;">DATE: 10 NOV 2021<br>TIME:
+        TBC<br> VENUE: TBC </span></p>'
       button: Register here
       url: https://industry.sp.edu.sg/5g-aiot/
       image: /images/AIoT%20Centre_1.png
