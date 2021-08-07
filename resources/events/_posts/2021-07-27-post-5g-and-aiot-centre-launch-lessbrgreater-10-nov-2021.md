@@ -5,3 +5,9 @@ permalink: /resources/events/aiot
 layout: post
 ---
 
+
+![Alt text for image on Isomer site](/images/AIoT%20Centre_1.png)
+
+
+
+<a href="https://www.google.com" target='_blank'><button>Register Now</button></a>
