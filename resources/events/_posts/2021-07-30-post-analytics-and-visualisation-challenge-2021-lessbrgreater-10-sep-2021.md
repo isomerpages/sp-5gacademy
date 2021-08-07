@@ -22,4 +22,6 @@ You may select a theme that you would like to submit your poster to. The content
 TIME: 1.30 pm - 6.00 pm <br>
 VENUE: Online event**
 
+![Alt text for image on Isomer site](/images/SUSS%20Image%201.jpg)
+
 <a href="https://www.suss.edu.sg/docs/default-source/contentdoc/sbiz/avc2021-registrationform.pdf" target='_blank'><button>Register Now</button></a>
