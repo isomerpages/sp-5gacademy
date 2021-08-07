@@ -7,8 +7,12 @@ layout: post
 Nanyang Polytechnic would like to invite you to register for the exclusive live webinar, “The Connectivity Needs of All Industries” on 24 August 2021 at 2pm. 
 Hosted in conjunction with Anritsu, Amazon Web Services, Murata, NUS ISS, Singtel, ST Microelectronics and Nanyang Polytechnic, the 2 hour session will see 7 key market experts coming together to share on the future of cellular connectivity for 5G, Cat-M1 and NB-IoT. 
 
-![Alt text for image on Isomer site](/images/NYP24AugBanner.jpg)
+# DETAILS
+	DATE: 24 AUGUST 2021
+	TIME: 2pm - 4pm 
+	VENUE: via Zoom
+
+
 ![Alt text for image on Isomer site](/images/Agenda_NYP_24Aug.jpg)
 
 <a href="https://form.gov.sg/#!/60b87b59451c8300119f0809" target='_blank'><button>Register Now</button></a>
-
