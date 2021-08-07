@@ -12,4 +12,3 @@ Hosted in conjunction with Anritsu, Amazon Web Services, Murata, NUS ISS, Singte
 
 <a href="https://form.gov.sg/#!/60b87b59451c8300119f0809" target='_blank'><button>Register Now</button></a>
 
-<a href="https://www.google.com" target='_blank'><button>Register Now</button></a>
