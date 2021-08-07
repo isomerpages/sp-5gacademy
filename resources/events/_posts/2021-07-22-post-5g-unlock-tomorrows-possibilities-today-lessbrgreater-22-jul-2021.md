@@ -16,4 +16,4 @@ VENUE: via Zoom**
 
 
 
-*Thank you for your interest. The Webinar is over. If you have any questions, please contact Webinar host: Smart Nation Singapore. *
+Thank you for your interest. The Webinar is over. If you have any questions, please contact Webinar host: Smart Nation Singapore. 
