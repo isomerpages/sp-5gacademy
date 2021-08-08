@@ -33,4 +33,4 @@ VENUE: via Zoom**
 }
 </style>
 
-<center><a href="https://form.gov.sg/#!/60b87b59451c8300119f0809" target='_blank'><button class="btn" id="register">Register Now</button></a></center>
+<center><a href="https://form.gov.sg/#!/60b87b59451c8300119f0809" target='blank'><button class="btn" id="register">Register Now</button></a></center>
