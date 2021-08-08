@@ -18,7 +18,7 @@ VENUE: via Zoom**
 
 <style>
 #register {
- background-color: #0000ff;
+  background-color: #0000ff;
   border: none;
   color: white;
   padding: 16px 32px;
