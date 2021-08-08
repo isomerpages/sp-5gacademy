@@ -16,6 +16,7 @@ VENUE: via Zoom**
 
 ![Alt text for image on Isomer site](/images/NYP%20Program_24Aug.jpg)
 
+<style>
 #register {
   display: inline-block;
   border-radius: 4px;
@@ -55,5 +56,6 @@ VENUE: via Zoom**
   opacity: 1;
   right: 0;
 }
+</style>
 
 <a href="https://form.gov.sg/#!/60b87b59451c8300119f0809" target='_blank'><button class="btn" id="register">Register Now</button></a>
