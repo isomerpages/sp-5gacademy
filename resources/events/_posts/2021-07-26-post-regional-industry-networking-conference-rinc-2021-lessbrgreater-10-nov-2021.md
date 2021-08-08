@@ -15,5 +15,21 @@ VENUE: SIngapore Polytechnic**
 
 
 
+<style>
+#register {
+  background-color: #0000ff;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+</style>
 
-<a href="https://www.google.com" target='_blank'><button>Register Now</button></a>
+<center><a href="https://industry.sp.edu.sg/5g-aiot/" target='blank'><button class="btn" id="register">Register Now</button></a></center>
