@@ -18,43 +18,18 @@ VENUE: via Zoom**
 
 <style>
 #register {
-  display: inline-block;
-  border-radius: 4px;
-  background-color: #f4511e;
+ background-color: #0000ff;
   border: none;
-  color: #FFFFFF;
+  color: white;
+  padding: 16px 32px;
   text-align: center;
-  font-size: 28px;
-  padding: 20px;
-  width: 200px;
-  transition: all 0.5s;
-  cursor: pointer;
-  margin: 5px;
-}
-
-#register span {
-  cursor: pointer;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
   display: inline-block;
-  position: relative;
-  transition: 0.5s;
-}
-
-#register span:after {
-  content: '\00bb';
-  position: absolute;
-  opacity: 0;
-  top: 0;
-  right: -20px;
-  transition: 0.5s;
-}
-
-#register:hover span {
-  padding-right: 25px;
-}
-
-#register:hover span:after {
-  opacity: 1;
-  right: 0;
+  text-decoration: none;
+  cursor: pointer;
 }
 </style>
 
