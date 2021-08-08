@@ -10,4 +10,4 @@ permalink: /training-partners
 
 | Column 1 | Column 2 | Column 3 |Column 3 |
 | -------- | -------- | -------- |-------- |
-| ![Alt text for image on Isomer site](/images/ITE%20Logo.jpg)    | ![Alt text for image on Isomer site](/images/NYP%20Logo.jpg)    | Text     |Text     |
+| ![Alt text for image on Isomer site](/images/ITE%20Logo.jpg)    | ![Alt text for image on Isomer site](/images/NYP%20Logo.jpg)    | ![Alt text for image on Isomer site](/images/NTU%20Logo.jpg)  |![Alt text for image on Isomer site](/images/NP%20Logo.jpg)   |
