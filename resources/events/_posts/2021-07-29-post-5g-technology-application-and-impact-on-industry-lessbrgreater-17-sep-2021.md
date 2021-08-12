@@ -4,7 +4,6 @@ date: 2021-07-29
 permalink: /resources/events/how5g
 layout: post
 ---
-
 # About the Event
 
 This webinar on 5G Transformation  will focus on how 5G introduces new technological transformation and innovations that can shape industry paradigm.
@@ -15,10 +14,10 @@ As leaders in their fields of digital transformation, cloud and virtualization, 
 
 # Details
 **DATE: 17 SEPTEMBER 2021 <br> 
-TIME: XX pm - XX pm <br> 
+TIME: 1.00 pm - 2.30 pm <br> 
 VENUE: via Zoom**
 
-![Alt text for image on Isomer site](/images/5G%20Network%20and%20Buildings.png)
+![Alt text for image on Isomer site](/images/5G%20Technology%20Application%20and%20Impact%20on%20Industry_img.png)
 
 
 <style>
@@ -38,4 +37,4 @@ VENUE: via Zoom**
 }
 </style>
 
-<center><a href="https://industry.sp.edu.sg/5g-aiot/" target='blank'><button class="btn" id="register">Register Now</button></a></center>
+<center><a href="https://nus.syd1.qualtrics.com/jfe/form/SV_b7RJE8yBmCZvdjM" target='blank'><button class="btn" id="register">Register Now</button></a></center>
