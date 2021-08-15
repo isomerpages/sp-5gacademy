@@ -54,7 +54,7 @@ sections:
   - infopic:
       title: 5G Technology Application & Impact Across Industries
       subtitle: "5G Webinar series #1"
-      description: Infopic description
+      description: "DATE: 17 SEP 2021 <p> TIME: 1.00 pm to 2.30 pm <p> VENUE: Virtual event"
       button: Register Now
       url: https://nus.syd1.qualtrics.com/jfe/form/SV_b7RJE8yBmCZvdjM
       image: /images/5G%20Technology%20Application%20and%20Impact%20Across%20Industries.png
