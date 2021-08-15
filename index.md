@@ -55,6 +55,6 @@ sections:
       subtitle: Upcoming Event - 10 Nov 2021
       description: Infopic description
       button: Find Out More
-      url: /resources/events/aiot
+      url: /resources/events/aiot" target="_blank"
       alt: Image alt text
 ---
