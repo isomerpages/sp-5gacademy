@@ -51,10 +51,11 @@ sections:
       image: /images/5G%20Technology%20Application%20and%20Impact%20Across%20Industries.png
       alt: Image alt text
   - infopic:
-      title: AIoT Centre Launch
+      title: 5G & AIoT Centre Launch
       subtitle: Upcoming Event - 10 Nov 2021
       description: Infopic description
       button: Find Out More
       url: /resources/events/aiot" target="_blank"
-      alt: Image alt text
+      alt: 5G and AIot Image
+      image: /images/AIoT%20Centre_1.png
 ---
