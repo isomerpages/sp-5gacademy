@@ -35,15 +35,6 @@ sections:
       subtitle: Learn more
       button: View More
   - infopic:
-      title: 5G & AIoT Centre Launch
-      subtitle: Upcoming Event - 10 Nov 2021
-      description: '<p> <span style="font-weight:bold;">DATE: 10 NOV 2021<br>TIME:
-        TBC<br>VENUE: TBC </span></p>'
-      button: Register here
-      url: https://industry.sp.edu.sg/5g-aiot/
-      image: /images/AIoT%20Centre_1.png
-      alt: aiot_img
-  - infopic:
       title: SUSS Analytics and Visualisation Challenge 2021
       subtitle: UPCOMING EVENT - 10 SEP 2021
       description: "DATE: 10 SEP 2021 <p> TIME: 1.30 pm to 6.00 pm <p> VENUE: Online event"
