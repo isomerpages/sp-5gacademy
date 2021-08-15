@@ -6,3 +6,5 @@ permalink: /training-partners
 
 ![Alt text for image on Isomer site](/images/AICAC.png)
 
+
+
