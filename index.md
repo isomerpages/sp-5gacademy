@@ -51,4 +51,12 @@ sections:
       url: https://www.suss.edu.sg/docs/default-source/contentdoc/sbiz/avc2021-registrationform.pdf
       image: /images/SUSS%20Image%201.jpg
       alt: Analyticsandvisualisation.jpg
+  - infopic:
+      title: 5G Technology Application & Impact Across Industries
+      subtitle: "5G Webinar series #1"
+      description: Infopic description
+      button: Register Now
+      url: https://nus.syd1.qualtrics.com/jfe/form/SV_b7RJE8yBmCZvdjM
+      image: /images/5G%20Technology%20Application%20and%20Impact%20Across%20Industries.png
+      alt: Image alt text
 ---
