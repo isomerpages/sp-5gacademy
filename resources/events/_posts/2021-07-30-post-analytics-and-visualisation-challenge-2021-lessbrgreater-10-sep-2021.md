@@ -24,4 +24,23 @@ VENUE: Online event**
 
 ![Alt text for image on Isomer site](/images/SUSS%20Image%201.jpg)
 
-<a href="https://www.suss.edu.sg/docs/default-source/contentdoc/sbiz/avc2021-registrationform.pdf" target='_blank'><button>Register Now</button></a>
+<style>
+#register {
+  background-color: #0000ff;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+</style>
+
+<center><a id="register" href="https://www.suss.edu.sg/docs/default-source/contentdoc/sbiz/avc2021-registrationform.pdf><button class=">Register Now</a></center>
+
+<a href="https://www.suss.edu.sg/docs/default-source/contentdoc/sbiz/avc2021-registrationform.pdf"><button>Register Now</button></a>
