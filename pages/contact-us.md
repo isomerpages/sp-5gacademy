@@ -15,7 +15,7 @@ locations:
       - days: Fri
         time: 8.30am - 5.30pm
         description: ""
-    maps_link: https://www.google.com/maps/place/1%C2%B018'35.1%22N+103%C2%B046'43.5%22E/@1.3097323,103.7787407,21z/data=!4m5!3m4!1s0x0:0x0!8m2!3d1.3096765!4d103.7789302
+    maps_link: ""
     title: Main Office
 contacts:
   - content:
