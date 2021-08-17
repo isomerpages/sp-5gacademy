@@ -212,6 +212,7 @@ Ms Sharala Axryd, chief executive officer of Cads, says data storytelling is a c
 "A data storylistener can spot errors that others can't see and can see through decision-making fallacies, biases in data and misuses of data," she says.
 
 **What workers want**
+
 Hybrid work arrangements, flexible hours and support for mental health are being prioritised by employees and job seekers amid lifestyle shifts fuelled by the Covid-19 pandemic.
 
 Recruitment firms that The Sunday Times spoke to say that workers in Singapore are looking for more than essential benefits such as annual leave and medical coverage.
