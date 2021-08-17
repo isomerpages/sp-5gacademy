@@ -136,31 +136,36 @@ Mr Richard Koh, chief technology officer of Microsoft Singapore, says there is a
 
 Even in healthcare, laboratory tests are being performed by automated analysers, freeing up medical technicians for other value-added work, says Dr Prem Kumar Nair, chief executive officer of IHH Healthcare Singapore.
 
-**Cyber-security and data protection experts**<p></p><p>
+**Cyber-security and data protection experts**
+
 The pandemic has brought more businesses and organisations online, and also more consumers.
 
 Mr Ben King, country director of Google Singapore, says that 30 per cent of all digital service users were first-timers last year.
 
 There is rising demand for specialists who can protect confidential information about companies or their customers. Specialists in data privacy laws will also be needed to guide company policies.
 
-**Data analysts and data scientists**</p><p>
+**Data analysts and data scientists**
+
 Data scientists analyse large volumes of data to improve business outcomes. They are in demand in most sectors, including healthcare, manufacturing and real estate and in the financial services industry.
 
 In healthcare, for example, large amounts of data are generated regularly, either from hospital-grade medical devices or health trackers worn by individuals. This data can be analysed to help improve healthcare outcomes for patients.
 
 Similarly, data sent by sensors tracking the usage of a building or the performance of an automated factory assembly line can be analysed to improve the carbon footprint of a building or maximise the efficiency of production.
 
-**High-touch roles in healthcare**</p><p>
+**High-touch roles in healthcare**
+
 Demand for doctors, nurses and allied health professionals such as pharmacists, radiologists and physiotherapists is expected to remain strong. However, AI and tech tools will be developed to reduce human error due to fatigue and also to reduce the time such professionals spend on rote tasks.
 
-**Hospitality professionals**</p><p>
+**Hospitality professionals**
+
 The human touch remains important in sectors such as tourism and dining.
 
 Ms Chew Chien Way, director of human resources and organisation development at the Singapore Tourism Board, says Singapore aims to position itself as a haven for urban wellness.
 
 This means increased demand for fitness and wellness coaches, as well as hospitality professionals, among others.
 
-**Sustainability experts**</p><p>
+**Sustainability experts**
+
 This is a growing theme across sectors.
 
 As industries seek to reduce their carbon footprint, sustainability professionals will be required to define how this can be done and track whether or not projects are sustainable.
@@ -235,4 +240,4 @@ Professional development is also a big draw for job seekers, according to recrui
 
 Ms Teo says: "Job seekers also want jobs that can help them gain exposure and learn new skills as more are aware of the need to build career security.
 
-"To ensure they stay ahead of shifting skill demands, they want to be employed in jobs that challenge them and enable them to acquire skills that can help them stay gainfully employed or expand their career."</p>
+"To ensure they stay ahead of shifting skill demands, they want to be employed in jobs that challenge them and enable them to acquire skills that can help them stay gainfully employed or expand their career."<p></p>
