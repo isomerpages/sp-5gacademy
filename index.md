@@ -39,8 +39,8 @@ sections:
       subtitle: UPCOMING EVENT - 10 SEP 2021
       description: "DATE: 10 SEP 2021 <br> TIME: 1.30 pm to 6.00 pm <br> VENUE:
         Virtual event"
-      button: Register Now
-      url: https://www.suss.edu.sg/docs/default-source/contentdoc/sbiz/avc2021-registrationform.pdf
+      button: Find Out More
+      url: /resources/events/analytics" target="_blank"
       image: /images/SUSS%20Image%201.jpg
       alt: Analyticsandvisualisation.jpg
   - infopic:
