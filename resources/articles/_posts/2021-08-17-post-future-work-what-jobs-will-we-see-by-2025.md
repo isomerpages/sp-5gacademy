@@ -4,7 +4,7 @@ date: 2021-08-17
 permalink: /resources/articles/futurework
 layout: post
 ---
-SINGAPORE - Tech skills, the human touch and data analysis will drive the jobs of the future.
+THE STRAITS TIMES - Tech skills, the human touch and data analysis will drive the jobs of the future.
 
 Those are the sentiments of major employers and recruitment firms The Straits Times spoke to.
 
@@ -124,41 +124,41 @@ Like many employers seeking to hire talent in a new and rapidly growing field, M
 
 Thus, she adds, "when we are hiring candidates, we look at skill sets as well as mindsets", and self-motivated candidates with a willingness to learn tend to stand out.
 
-**The jobs of the future**
+**The jobs of the future**<p>
 Whether new roles, or old roles reinvented, the jobs of the future require specialist skills.
 
-**AI and automation experts**
+**AI and automation experts**</p><p>
 Artificial intelligence (AI) experts will be needed to design automation for the future. More sectors are turning to AI and machine learning to do rote tasks, such as office administration or oversight of a production line.
 
 Mr Richard Koh, chief technology officer of Microsoft Singapore, says there is a growing demand for deep tech and skilled professionals in the AI industry.
 
 Even in healthcare, laboratory tests are being performed by automated analysers, freeing up medical technicians for other value-added work, says Dr Prem Kumar Nair, chief executive officer of IHH Healthcare Singapore.
 
-**Cyber-security and data protection experts**
+**Cyber-security and data protection experts**</p><p>
 The pandemic has brought more businesses and organisations online, and also more consumers.
 
 Mr Ben King, country director of Google Singapore, says that 30 per cent of all digital service users were first-timers last year.
 
 There is rising demand for specialists who can protect confidential information about companies or their customers. Specialists in data privacy laws will also be needed to guide company policies.
 
-**Data analysts and data scientists**
+**Data analysts and data scientists**</p><p>
 Data scientists analyse large volumes of data to improve business outcomes. They are in demand in most sectors, including healthcare, manufacturing and real estate and in the financial services industry.
 
 In healthcare, for example, large amounts of data are generated regularly, either from hospital-grade medical devices or health trackers worn by individuals. This data can be analysed to help improve healthcare outcomes for patients.
 
 Similarly, data sent by sensors tracking the usage of a building or the performance of an automated factory assembly line can be analysed to improve the carbon footprint of a building or maximise the efficiency of production.
 
-**High-touch roles in healthcare**
+**High-touch roles in healthcare**</p><p>
 Demand for doctors, nurses and allied health professionals such as pharmacists, radiologists and physiotherapists is expected to remain strong. However, AI and tech tools will be developed to reduce human error due to fatigue and also to reduce the time such professionals spend on rote tasks.
 
-**Hospitality professionals**
+**Hospitality professionals**</p><p>
 The human touch remains important in sectors such as tourism and dining.
 
 Ms Chew Chien Way, director of human resources and organisation development at the Singapore Tourism Board, says Singapore aims to position itself as a haven for urban wellness.
 
 This means increased demand for fitness and wellness coaches, as well as hospitality professionals, among others.
 
-**Sustainability experts**
+**Sustainability experts**</p><p>
 This is a growing theme across sectors.
 
 As industries seek to reduce their carbon footprint, sustainability professionals will be required to define how this can be done and track whether or not projects are sustainable.
@@ -233,4 +233,4 @@ Professional development is also a big draw for job seekers, according to recrui
 
 Ms Teo says: "Job seekers also want jobs that can help them gain exposure and learn new skills as more are aware of the need to build career security.
 
-"To ensure they stay ahead of shifting skill demands, they want to be employed in jobs that challenge them and enable them to acquire skills that can help them stay gainfully employed or expand their career."
+"To ensure they stay ahead of shifting skill demands, they want to be employed in jobs that challenge them and enable them to acquire skills that can help them stay gainfully employed or expand their career."</p>
