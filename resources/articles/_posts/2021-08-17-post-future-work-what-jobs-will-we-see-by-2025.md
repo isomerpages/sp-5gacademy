@@ -124,17 +124,19 @@ Like many employers seeking to hire talent in a new and rapidly growing field, M
 
 Thus, she adds, "when we are hiring candidates, we look at skill sets as well as mindsets", and self-motivated candidates with a willingness to learn tend to stand out.
 
-**The jobs of the future**<p>
+**The jobs of the future**
+
 Whether new roles, or old roles reinvented, the jobs of the future require specialist skills.
 
-**AI and automation experts**</p><p>
+**AI and automation experts**
+
 Artificial intelligence (AI) experts will be needed to design automation for the future. More sectors are turning to AI and machine learning to do rote tasks, such as office administration or oversight of a production line.
 
 Mr Richard Koh, chief technology officer of Microsoft Singapore, says there is a growing demand for deep tech and skilled professionals in the AI industry.
 
 Even in healthcare, laboratory tests are being performed by automated analysers, freeing up medical technicians for other value-added work, says Dr Prem Kumar Nair, chief executive officer of IHH Healthcare Singapore.
 
-**Cyber-security and data protection experts**</p><p>
+**Cyber-security and data protection experts**<p></p><p>
 The pandemic has brought more businesses and organisations online, and also more consumers.
 
 Mr Ben King, country director of Google Singapore, says that 30 per cent of all digital service users were first-timers last year.
