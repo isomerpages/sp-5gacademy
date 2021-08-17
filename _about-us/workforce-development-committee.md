@@ -7,7 +7,7 @@ permalink: /about-us/wdc
 | Mr Suresh H Punjabi |   [National University of Singapore](https://www.nus.edu.sg){:target="blank"} |  5G PMO   | Co-Chair   |
 | Mr Loh Yew Chiong    |  [Singapore Polytechnic](https://www.sp.edu.sg){:target="blank"} | 5G PMO   | Co-Chair   |
 | Mr Andy Sim   |  [Dell Technologies](https://www.delltechnologies.com/en-sg/contactus.htm){:target="blank"}  |Equipment  | Description  |
-| Mr Eric Seow     |  [Dell Technologies](https://www.delltechnologies.com/en-sg/contactus.htm){:target="blank"}   |Equipment  | Description  |
+| Mr Eric Seow     |  [Dell Technologies](https://www.delltechnologies.com/en-sg/contactus.htm){:target="blank"}   |Equipment  | Please find attached, a copy of the Singapore 5G & Telecoms Academy’s Event Calendar. We hope you are able to share with us, any 5G-related events that your organisation is   |
 | Mr Adrian Hia  |  VMware Singapore Pte. Ltd   |Equipment  | Description  |
 | Ms Lai Lock See |  VMware Singapore Pte. Ltd   |Equipment  | Description  |
 | Mr Jeremy Lim    |  Cisco Systems (USA) Pte Ltd  |Equipment  | Description  |
