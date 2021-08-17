@@ -41,4 +41,5 @@ VENUE: Online event**
 }
 </style>
 
-<center><a href="https://www.suss.edu.sg/docs/default-source/contentdoc/sbiz/avc2021-registrationform.pdf><button class=" id="register">Register Now</a></center>
+
+<center><a href=""><button id="register" class="btn">Register Now</button></a></center>
