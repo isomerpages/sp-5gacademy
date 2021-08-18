@@ -31,7 +31,7 @@ sections:
       description: We strive to coordinate programmes to develop skills across the
         country's 5G ecosystem.
   - resources:
-      title: Media
+      title: Resources
       subtitle: Learn more
       button: View More
   - infopic:
