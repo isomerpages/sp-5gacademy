@@ -4,13 +4,4 @@ date: 2021-07-28
 permalink: /resources/events/deployment
 layout: post
 ---
-
-
-
-
-
-
-
-
-
-
+![ComingSoon](/images/banners-and-logos/Website%20Event%20Placeholder.png)
