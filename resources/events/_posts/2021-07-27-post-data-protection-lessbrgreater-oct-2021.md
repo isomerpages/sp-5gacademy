@@ -4,4 +4,4 @@ date: 2021-07-27
 permalink: /resources/events/data
 layout: post
 ---
-![5G Holding Image](/images/Website%20Event%20Placeholder.png)
+![ComingSoon](/images/banners-and-logos/Website%20Event%20Placeholder.png)
