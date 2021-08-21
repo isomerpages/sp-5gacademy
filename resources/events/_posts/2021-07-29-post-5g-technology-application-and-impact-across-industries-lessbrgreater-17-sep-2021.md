@@ -37,4 +37,4 @@ VENUE: via Zoom**
 }
 </style>
 
-<center><a href="https://nus.syd1.qualtrics.com/jfe/form/SV_b7RJE8yBmCZvdjM"><button class="btn" id="register">Register Now</button></a></center>
+<center><a href="https://nus.syd1.qualtrics.com/jfe/form/SV_b7RJE8yBmCZvdjM"><button id="register" class="btn">Register Now</button></a></center>
