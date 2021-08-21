@@ -12,5 +12,4 @@ Industry Partners
 
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
-|<a href="https://www.siemens.com/global/en.html"><img alt="Siemens" src="/images/banners-and-logos/Logo_Siemens_sie-logo-petrol-cmyk.png/"></a>| Text     | Text     |
-
+|<a href="https://www.siemens.com/global/en.html"><img src="/images/banners-and-logos/Logo_Siemens_sie-logo-petrol-cmyk.png" alt="Siemens"></a>| Text     | Text     |
