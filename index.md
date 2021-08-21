@@ -55,7 +55,7 @@ sections:
   - infopic:
       title: 5G & AIoT Centre Launch
       subtitle: Upcoming Event - 17 Nov 2021
-      description: "DATE: 17 NOV 2021 <br> <By Appointment Only> <br> VENUE: Singapore
+      description: "DATE: 17 NOV 2021 <br> (By Appointment Only) <br> VENUE: Singapore
         Polytechnic"
       button: Find Out More
       url: /resources/events/aiot" target="_blank"
