@@ -42,4 +42,4 @@ VENUE: Online event**
 </style>
 
 
-<center><a rel="noopener" href="https://www.suss.edu.sg/news-and-events/events/analytics-and-visualisation-challenge-2021"><button id="register" class="btn">Register Now</button></a></center>
+<center><a href="https://www.suss.edu.sg/news-and-events/events/analytics-and-visualisation-challenge-2021" rel="noopener"><button class="btn" id="register">Register Now</button></a></center>
