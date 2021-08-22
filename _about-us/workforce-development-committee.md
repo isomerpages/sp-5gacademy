@@ -23,4 +23,3 @@ permalink: /about-us/wdc
 | Ms Teresa Lee   | SPTel   | Equipment |  Description|
 | Mr Raymond Soh  | Ericsson Telecommunications Pte Ltd | Equipment |  Description |
 
-
