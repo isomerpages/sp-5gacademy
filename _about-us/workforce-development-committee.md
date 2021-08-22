@@ -2,9 +2,6 @@
 title: Workforce Development Committee
 permalink: /about-us/wdc
 ---
-| Name | Company | Classification |Description |
-|
-
 | Name | Organisation | Classification|Description|
 | -------- | -------- | -------- |-------- |
 | Mr Suresh H Punjabi   | National University of Singapore   | 5G  Academy | Co-Chair |
