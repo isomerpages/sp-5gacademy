@@ -26,10 +26,10 @@ sections:
           description: Events and Media Stories
           url: /resources
   - infobar:
-      title: Manpower Development in 5G & Related Technology
+      title: Manpower Development in 5G & Related Technologies
       subtitle: What we offer
-      description: We strive to coordinate programmes to develop skills across the
-        country's 5G ecosystem.
+      description: Ascertain the demand, supply and promote 5G manpower development by
+        partnering government agencies, industry players and IHLs
   - resources:
       title: Resources
       subtitle: Learn more
