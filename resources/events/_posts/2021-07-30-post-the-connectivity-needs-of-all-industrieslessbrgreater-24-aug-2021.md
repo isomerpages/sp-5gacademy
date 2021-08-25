@@ -33,4 +33,6 @@ VENUE: via Zoom**
 }
 </style>
 
-<center><a href="https://form.gov.sg/#!/60b87b59451c8300119f0809" target='blank'><button class="btn" id="register">Register Now</button></a></center>
+<center><a href="https://form.gov.sg/#!/60b87b59451c8300119f0809"><button id="register" class="btn">Register Now</button></a></center>
+
+Thank you for your interest. This webinar is over. If you have any questions, please contact Webinar host: Smart Nation Singapore.
