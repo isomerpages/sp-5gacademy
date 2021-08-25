@@ -28,5 +28,5 @@ permalink: /about-us/wdc
 
 | -------- | -------- | -------- |-------- |
 | CISCO   | DELL    | ![Ericsson Logo](/images/wdc-members-logos/ERI_vertical_RGB.png)   |IBM    |
-| ![Micron Logo](/images/wdc-members-logos/Micron%20Logo%20-%20Blue.png)   | ![NEC Logo](/images/wdc-members-logos/NEC%20logo.png)   |  ![Siemens Logo](/images/wdc-members-logos/Logo_Siemens_sie-logo-petrol-cmyk.png)   |![VMware Logo](/images/wdc-members-logos/vmw-logo-vmware-logo-black-72.png)   |
+| ![Micron Logo](/images/wdc-members-logos/Micron%20Logo%20-%20Blue.png)   | ![NEC Logo](/images/wdc-members-logos/NEC%20logo.png)style="width: 100%; height: 100%  |  ![Siemens Logo](/images/wdc-members-logos/Logo_Siemens_sie-logo-petrol-cmyk.png)   |![VMware Logo](/images/wdc-members-logos/vmw-logo-vmware-logo-black-72.png)   |
 
