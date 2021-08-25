@@ -6,8 +6,8 @@ permalink: /about-us/wdc
 | -------- | -------- | -------- |-------- |
 |Mr Suresh H Punjabi     |National University of Singapore     | 5G PMO   |Co-Chair   |
 |Mr Loh Yew Chiong     |Singapore Polytechnic     | 5G PMO   |Co-Chair   |
-|Mr Jeremy Lim     |Cisco Systems (USA) Pte Ltd     |  -    |Description   |
-|Mr Reuben Yap     | Cisco Systems (USA) Pte Ltd     |  -    |Description   |
+|Mr Jeremy Lim     |Cisco Systems (USA) Pte Ltd     |  -    | -   |
+|Mr Reuben Yap     | Cisco Systems (USA) Pte Ltd     |  -    | -    |
 |Mr Andy Sim     |Dell Technologies     | Equipment Vendor   |Dell Technologies helps organizations and individuals build their digital future and transform how they work, live and play. The company provides customers with the industry’s broadest and most innovative technology and services portfolio for the data era.  |
 |Mr Eric Seow     |Dell Technologies     | Equipment Vendor   |Dell Technologies helps organizations and individuals build their digital future and transform how they work, live and play. The company provides customers with the industry’s broadest and most innovative technology and services portfolio for the data era.  |
 |Mr Raymond Soh     | Ericsson | ICT Solution Provider|Ericsson is a global ICT player with operations in 180 markets, helping telco customers go digital, increase efficiency and find new revenue streams. Our innovation investments have delivered the benefits of mobility and mobile broadband to billions of people around the world.    |
