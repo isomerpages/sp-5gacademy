@@ -2,21 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Singapore 5G & Telecoms <br> Academy
-locations:
-  - address:
-      - 500 Dover Road
-      - 5G & Telecoms Academy (T1431)
-      - Singapore 139651
-    operating_hours:
-      - days: Mon - Thu
-        time: 8.30am - 6.00pm
-        description: ""
-      - days: Fri
-        time: 8.30am - 5.30pm
-        description: ""
-    maps_link: ""
-    title: Main Office
+agency_name: Singapore <br>5G & Telecoms <br> Academy
 contacts:
   - content:
       - phone: ""
