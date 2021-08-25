@@ -28,7 +28,7 @@ permalink: /about-us/wdc
 
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
-| ![Ericsson](/images/wdc-members-logos/ERI_vertical_RGB.png)    | |<a <img src="/images/wdc-members-logos/ERI_vertical_RGB.png>" alt="Ericsson" style="width: 100%; height: 100%"></a>|   | Text     |
+| ![Ericsson Logo](/images/wdc-members-logos/ERI_vertical_RGB.png)    |![Micron Logo](/images/wdc-members-logos/Micron%20Logo%20-%20Blue.png) | ![NEC Logo](/images/wdc-members-logos/NEC%20logo.png)  | 
 
 
 
