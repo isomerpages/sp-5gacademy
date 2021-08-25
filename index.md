@@ -4,7 +4,7 @@ title: Singapore 5G & Telecoms Academy
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: This website is still under construction
+notification: ""
 sections:
   - hero:
       title: Singapore 5G & Telecoms Academy
