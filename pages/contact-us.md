@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Singapore 5G & Telecoms Academy
+agency_name: Singapore 5G & Telecoms <br> Academy
 locations:
   - address:
       - 500 Dover Road
