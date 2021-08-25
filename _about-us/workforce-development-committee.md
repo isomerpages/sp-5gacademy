@@ -29,7 +29,7 @@ permalink: /about-us/wdc
 
 
 | -------- | -------- | -------- |
-| ![Ericsson Logo](/images/wdc-members-logos/ERI_vertical_RGB.png)    |![Micron Logo](/images/wdc-members-logos/Micron%20Logo%20-%20Blue.png) | ![NEC Logo](/images/wdc-members-logos/NEC%20logo.png)  | ![Siemens Logo](/images/wdc-members-logos/Logo_Siemens_sie-logo-petrol-cmyk.png) | ![VMware Logo](/images/wdc-members-logos/vmw-logo-vmware-logo-black-72.png) | 
+| ![Ericsson Logo](/images/wdc-members-logos/ERI_vertical_RGB.png)    |![Micron Logo](/images/wdc-members-logos/Micron%20Logo%20-%20Blue.png) | ![Siemens Logo](/images/wdc-members-logos/Logo_Siemens_sie-logo-petrol-cmyk.png) | ![VMware Logo](/images/wdc-members-logos/vmw-logo-vmware-logo-black-72.png) | 
 
 
 
