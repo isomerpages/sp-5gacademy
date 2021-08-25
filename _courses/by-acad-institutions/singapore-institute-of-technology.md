@@ -14,4 +14,4 @@ third_nav_title: By Acad Institutions
 |[Managing and Leading Artificial Intelligence Projects for Smart Factory (Synchronous e-learning)](https://sitlearn.singaporetech.edu.sg/modular-certification-courses-data-engineering-smart-factory/){:target="_blank" rel="noopener"} |Basic|48 hrs |
 |[Hands-on Machine Learning for FINTECH ](https://sitlearn.singaporetech.edu.sg/individualcourse/?title=Hands-on-Machine-Learning-for-FINTECH&id=cec8f30d-e67f-eb11-a812-002248161940&FD=true){:target=""_blank"" rel=""noopener""} |Intermediate|24 hrs |
 |[Application of Data Engineering](https://sitlearn.singaporetech.edu.sg/individualcourse/?title=DSF6010-Application-of-Data-Engineering&id=1db7f530-14c8-eb11-bacc-000d3a8073ce&FD=true){:target="_blank" rel="noopener"} |Basic|48 hrs |
-|[Application of Robotics & Automation for Smart Factory]{:target="_blank" rel="noopener"} |Basic|48 hrs |
+|Application of Robotics & Automation for Smart Factory|Basic|48 hrs |
