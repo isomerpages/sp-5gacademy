@@ -22,3 +22,11 @@ permalink: /about-us/wdc
 |Ms Teresa Lee |SPTel     |  -    | -    |
 |Mr Adrian Hia     |VMware | Software/Service provider |VMware software powers the world’s complex digital infrastructure. The company’s cloud, networking and security, and digital workspace offerings provide a dynamic and efficient digital foundation to customers globally, aided by an extensive ecosystem of partners.  |
 |Ms Lai Lock See| VMware | Software/Service provider |VMware software powers the world’s complex digital infrastructure. The company’s cloud, networking and security, and digital workspace offerings provide a dynamic and efficient digital foundation to customers globally, aided by an extensive ecosystem of partners.   |
+
+
+
+
+| -------- | -------- | -------- |-------- |
+| CISCO   | DELL    | ![Ericsson Logo](/images/wdc-members-logos/ERI_vertical_RGB.png)   |IBM    |
+| ![Micron Logo](/images/wdc-members-logos/Micron%20Logo%20-%20Blue.png)   | ![NEC Logo](/images/wdc-members-logos/NEC%20logo.png)   |  ![Siemens Logo](/images/wdc-members-logos/Logo_Siemens_sie-logo-petrol-cmyk.png)   |![VMware Logo](/images/wdc-members-logos/vmw-logo-vmware-logo-black-72.png)   |
+
