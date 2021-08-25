@@ -17,10 +17,10 @@ sections:
           description: ""
           url: /about-us/steering-comm
         - title: Courses
-          description: "> 600 courses to choose from"
+          description: "> 500 courses to choose from"
           url: /courses/5gtelecoms
         - title: Training Partners
-          description: Universities and Institutes of Higher Learning
+          description: IHLs and Training Partners
           url: /training-partners
         - title: Resources
           description: Events and Media Stories
