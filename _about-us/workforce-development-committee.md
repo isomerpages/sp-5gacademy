@@ -10,7 +10,7 @@ permalink: /about-us/wdc
 |Mr Reuben Yap     | Cisco Systems (USA) Pte Ltd     |  -    |Description   |
 |Mr Andy Sim     |Dell Technologies     | Equipment Vendor   |Description   |
 |Mr Eric Seow     |Dell Technologies     | Equipment Vendor   |Description   |
-|Mr Raymond Soh     | Ericsson | ICT Solution Provider|Description   |
+|Mr Raymond Soh     | Ericsson | ICT Solution Provider|Ericsson is a global ICT player with operations in 180 markets, helping telco customers go digital, increase efficiency and find new revenue streams. Our innovation investments have delivered the benefits of mobility and mobile broadband to billions of people around the world.    |
 |Ms Ng Chiang Choon |IBM Singapore     |  -    |Description   |
 |Ms Joan Yeo| IBM Singapore     |  -    |Description   |
 |Mr Teddy Pramono     | Micron | Manufacturer |Description   |
