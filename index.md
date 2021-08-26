@@ -63,8 +63,7 @@ sections:
   - infopic:
       title: VMworld 2021
       subtitle: Upcoming Event- 5 - 7 Oct 2021
-      description: "Ever wondered how to deliver apps and services faster to improve
-        the customer experience? "
+      description: "DATE:  5 - 7 OCT 2021 "
       button: Find Out More
       url: /resources/events/vmworld-2021" target="_blank"
       image: /images/events/events/VMworld%20Image.png
