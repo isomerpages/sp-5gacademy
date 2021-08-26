@@ -2,13 +2,13 @@ title: Singapore 5G & Telecoms Academy
 url: ""
 favicon: /images/5GAcademyIcon_Transparent.png
 colors:
-  primary-color: "#1472e0"
-  secondary-color: "#4372d6"
+  primary-color: "#104f94"
+  secondary-color: "#104f94"
   media-colors:
     - title: media-color-one
       color: "#49759a"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#4adede"
     - title: media-color-three
       color: "#1f998e"
     - title: media-color-four

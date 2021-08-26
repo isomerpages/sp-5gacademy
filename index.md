@@ -55,10 +55,17 @@ sections:
   - infopic:
       title: 5G & AIoT Centre Launch
       subtitle: Upcoming Event - 17 Nov 2021
-      description: "DATE: 17 NOV 2021 <br> (By Appointment Only) <br> VENUE: Singapore
-        Polytechnic"
+      description: "DATE: 17 NOV 2021 <br> VENUE: Singapore Polytechnic"
       button: Find Out More
       url: /resources/events/aiot" target="_blank"
       alt: 5G and AIot Image
       image: /images/AIoT%20Centre_1.png
+  - infopic:
+      title: VMworld 2021
+      subtitle: Upcoming Event- 5 - 7 Oct 2021
+      description: "DATE:  5 - 7 OCT 2021 "
+      button: Find Out More
+      url: /resources/events/vmworld-2021" target="_blank"
+      image: /images/events/events/VMworld%20Image.png
+      alt: VMworld 2021
 ---
