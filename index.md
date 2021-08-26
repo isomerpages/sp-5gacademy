@@ -60,4 +60,13 @@ sections:
       url: /resources/events/aiot" target="_blank"
       alt: 5G and AIot Image
       image: /images/AIoT%20Centre_1.png
+  - infopic:
+      title: VMworld 2021
+      subtitle: Upcoming Event - 17 Nov 2021
+      description: "Ever wondered how to deliver apps and services faster to improve
+        the customer experience? "
+      button: Find Out More
+      url: /resources/events/vmware2021" target="_blank"
+      image: /images/events/events/VMworld%20Image.png
+      alt: VMworld 2021
 ---
