@@ -62,7 +62,7 @@ sections:
       image: /images/AIoT%20Centre_1.png
   - infopic:
       title: VMworld 2021
-      subtitle: Upcoming Event - 17 Nov 2021
+      subtitle: Upcoming Event- 5 - 7 Oct 2021
       description: "Ever wondered how to deliver apps and services faster to improve
         the customer experience? "
       button: Find Out More
