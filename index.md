@@ -66,7 +66,7 @@ sections:
       description: "Ever wondered how to deliver apps and services faster to improve
         the customer experience? "
       button: Find Out More
-      url: /resources/events/vmware2021" target="_blank"
+      url: /resources/events/vmworld-2021" target="_blank"
       image: /images/events/events/VMworld%20Image.png
       alt: VMworld 2021
 ---
