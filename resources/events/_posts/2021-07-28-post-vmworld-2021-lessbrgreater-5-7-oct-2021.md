@@ -33,4 +33,4 @@ Meet the top speakers at VMworld 2021! VMware’s partnerships with AWS, Microso
 }
 </style>
 
-<center><a href="https://bit.ly/3CkTOtT"><button class="btn" id="register">Register Now</button></a></center>
+<center><a href="https://bit.ly/3CkTOtT"target="_blank"><button class="btn" id="register">Register Now</button></a></center>
