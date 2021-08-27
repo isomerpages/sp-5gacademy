@@ -3,6 +3,8 @@ title: Cloud & Virtualization
 permalink: /courses/cloud
 third_nav_title: By Areas
 ---
+<p style="line-height:1"><small>The courses in this area have been provided by members of the Academic Institution Curriculum Advisory Committee.</small></p>
+
 |Course Title  | Institution | Level | Duration |
 | - | - | - | -|
 |[(ISC)2 CCSP CBK Training Seminar ](https://www.iss.nus.edu.sg/executive-education/course/detail/isc2-ccsp-cbk-training-seminar/cybersecurity){:target="_blank" rel="noopener"}  | NUS | Intermediate | 32.5 hrs |
