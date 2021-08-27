@@ -20,7 +20,7 @@ sections:
           description: "> 500 courses to choose from"
           url: /courses/5gtelecoms
         - title: Training Partners
-          description: IHLs and Training Partners
+          description: IHLs and Training Providers
           url: /training-partners
         - title: Resources
           description: Events and Media Stories
