@@ -15,7 +15,7 @@ permalink: /about-us/wdc
 |Ms Joan Yeo| IBM Singapore     | 
 |Mr Teddy Pramono     | Micron | 
 |Mr Henry Suseno Nilam     | Micron | 
-|Ms Esther Liang | Micron | Manufacturer |
+|Ms Esther Liang | Micron | 
 |Dr Paul Wang     | NEC Asia Pacific Pte Ltd | 
 |Mr Benjamin Moey     | Siemens Pte Ltd | 
 |Mr Adrian Hia     |VMware | 
