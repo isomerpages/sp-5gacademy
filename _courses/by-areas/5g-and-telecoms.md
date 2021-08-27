@@ -13,7 +13,6 @@ third_nav_title: By Areas
 		line-height: 1.2;
 	}
 </style>
-<p><small>The courses in this area has been provided by members of the Academic Institute Curriculum Advisory Committee.</p>
 
 |Course Title  | Institution | Level | Duration |
 | - | - | - | -|
