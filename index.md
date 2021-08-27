@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Singapore 5G & Telecoms Academy
-description: Brief site description here
+description: Manpower development in 5G & Related Technologies
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
