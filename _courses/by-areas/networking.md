@@ -3,6 +3,8 @@ title: Networking
 permalink: /courses/networking
 third_nav_title: By Areas
 ---
+<p style="line-height:1"><small>The courses in this area have been provided by members of the Academic Institution Curriculum Advisory Committee.</small></p>
+
 |Course Title  | Institution | Level | Duration |
 | - | - | - | -|
 |[5G Industry Practitioner (Core Network)](https://www.sp.edu.sg/pace/){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
