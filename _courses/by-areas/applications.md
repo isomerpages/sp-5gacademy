@@ -3,6 +3,8 @@ title: Applications
 permalink: /courses/applications
 third_nav_title: By Areas
 ---
+<p style="line-height:1"><small>The courses in this area have been provided by members of the Academic Institution Curriculum Advisory Committee.</small></p>
+
 |Course Title  | Institution | Level | Duration |
 | - | - | - | -|
 |[5G Industry Practitioner (Overview)](TBC){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |

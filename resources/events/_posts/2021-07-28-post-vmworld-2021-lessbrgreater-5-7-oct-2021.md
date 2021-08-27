@@ -11,7 +11,7 @@ Meet the top speakers at VMworld 2021! VMware’s partnerships with AWS, Microso
 
 
 # Details
-**DATE: 5 - 7 OCTOBER 2021**
+**DATE: 5 - 7 OCTOBER 2021**<br> For more information, please click [here](/files/events/Telco%20Guide%20VMworld%202021.pdf). 
 
 
 ![Alt text for image on Isomer site](/images/events/events/VMworld%20Image.png)

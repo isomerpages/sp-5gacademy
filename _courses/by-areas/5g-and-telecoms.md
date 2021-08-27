@@ -14,6 +14,8 @@ third_nav_title: By Areas
 	}
 </style>
 
+<p style="line-height:1"><small>The courses in this area have been provided by members of the Academic Institution Curriculum Advisory Committee.</small></p>
+
 |Course Title  | Institution | Level | Duration |
 | - | - | - | -|
 |[5G as a platform for Industry Transformation](https://scale.nus.edu.sg/programmes/executive-courses/tech-enabled-services/5g-as-a-platform-for-industry-transformation){:target="_blank" rel="noopener"}  | NUS | Intermediate | 12 hrs |
