@@ -7,7 +7,7 @@ layout: post
 # About the Event
 Ever wondered how to deliver apps and services faster to improve the customer experience? Register now for 100% free & online access to VMworld 2021 pass at <a href="https://bit.ly/3CkTOtT" target="_blank">https://bit.ly/3CkTOtT</a> 
 
-Meet the top speakers at VMworld 2021! VMware’s partnerships with AWS, Microsoft Azure, Google Cloud, IBM Cloud, & Oracle make VMworld 2021 one of the most important cloud conferences to attend. There are 800+ keynotes and breakouts happening at this year’s premier multi-cloud event. You can mix and match filters by session type, track, audience, & product. You can access their content catalogue at [https://bit.ly/373oWzC](https://bit.ly/373oWzC)
+Meet the top speakers at VMworld 2021! VMware’s partnerships with AWS, Microsoft Azure, Google Cloud, IBM Cloud, & Oracle make VMworld 2021 one of the most important cloud conferences to attend. There are 800+ keynotes and breakouts happening at this year’s premier multi-cloud event. You can mix and match filters by session type, track, audience, & product. You can access their content catalogue at <a href="https://bit.ly/373oWzC" target="_blank">https://bit.ly/373oWzC</a> 
 
 
 # Details
