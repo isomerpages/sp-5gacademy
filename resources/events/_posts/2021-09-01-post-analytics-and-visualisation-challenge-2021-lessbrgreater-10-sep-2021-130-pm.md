@@ -1,9 +1,12 @@
 ---
-title: Analytics and Visualisation Challenge 2021 <br> (10 Sep 2021)
-date: 2021-07-30
+title: Analytics and Visualisation Challenge 2021 <br> 10 Sep 2021, 1:30 pm
+date: 2021-09-01
 permalink: /resources/events/analytics
 layout: post
 ---
+
+
+
 # About the Event
 
 The SUSS Analytics and Visualisation Challenge 2021 (AVC21) welcomes poster submissions from A'levels, International Baccalaureate, and Polytechnic Diploma students.

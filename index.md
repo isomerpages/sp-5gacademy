@@ -53,19 +53,27 @@ sections:
       image: /images/5G%20Technology%20Application%20and%20Impact%20Across%20Industries.png
       alt: Image alt text
   - infopic:
+      title: Industry 4.0 Virtual Roundtable
+      subtitle: Upcoming event - 21 sep 2021
+      description: "DATE: 21 SEP 2021 <br> TIME: 10:00 am to 11:30 am"
+      button: Find Out More
+      url: /resources/events/industry" target="_blank"
+      image: /images/events/events/Industry%204%20Virtual%20Roundtable%20Image.png
+      alt: Industry 4.0 Image
+  - infopic:
+      title: VMworld 2021
+      subtitle: Upcoming Event 5 - 7 Oct 2021
+      description: "DATE: 5 - 7 OCT 2021"
+      button: Find Out More
+      url: /resources/events/vmworld-2021 "target=_blank"
+      image: /images/events/events/VMworld%20Image.png
+      alt: VMworld2021-image
+  - infopic:
       title: 5G & AIoT Centre Launch
       subtitle: Upcoming Event - 17 Nov 2021
       description: "DATE: 17 NOV 2021 <br> VENUE: Singapore Polytechnic"
       button: Find Out More
-      url: /resources/events/aiot" target="_blank"
-      alt: 5G and AIot Image
+      url: resources/events/aiot "target=_blank"
       image: /images/AIoT%20Centre_1.png
-  - infopic:
-      title: VMworld 2021
-      subtitle: Upcoming Event- 5 - 7 Oct 2021
-      description: "DATE:  5 - 7 OCT 2021 "
-      button: Find Out More
-      url: /resources/events/vmworld-2021" target="_blank"
-      image: /images/events/events/VMworld%20Image.png
-      alt: VMworld 2021
+      alt: 5gandaiot-image
 ---

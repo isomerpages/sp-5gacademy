@@ -1,9 +1,10 @@
 ---
-title: The Connectivity Needs of All Industries<br> (24 Aug 2021)
+title: The Connectivity Needs of All Industries<br> 24 Aug 2021, 2:00 pm
 date: 2021-07-24
 permalink: /resources/events/connectivity
 layout: post
 ---
+
 
 # About the Event
 This exclusive live webinar, “The Connectivity Needs of All Industries” is organised by Nanyang Polytechnic.
