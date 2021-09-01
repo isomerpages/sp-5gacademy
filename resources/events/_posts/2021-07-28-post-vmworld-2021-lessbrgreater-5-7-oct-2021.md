@@ -1,9 +1,10 @@
 ---
-title: VMworld 2021 <br> (5 - 7 Oct 2021)
+title: VMworld 2021 <br> 5 - 7 Oct 2021
 date: 2021-07-28
 permalink: /resources/events/vmworld-2021
 layout: post
 ---
+
 # About the Event
 Ever wondered how to deliver apps and services faster to improve the customer experience? Register now for 100% free & online access to VMworld 2021 pass at <a href="https://bit.ly/3CkTOtT" target="_blank">https://bit.ly/3CkTOtT</a> 
 
