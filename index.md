@@ -73,7 +73,7 @@ sections:
       subtitle: Upcoming event - 21 sep 2021
       description: "DATE: 21 SEP 2021 <br> TIME: 10:00 am to 11:30 am"
       button: Find Out More
-      url: /resources/events/industry
+      url: /resources/events/industry" target="_blank"
       image: /images/events/events/Industry%204%20Virtual%20Roundtable%20Image.png
       alt: Industry 4.0 Image
 ---
