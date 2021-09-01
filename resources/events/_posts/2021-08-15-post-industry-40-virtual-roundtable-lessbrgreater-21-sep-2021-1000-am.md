@@ -17,8 +17,6 @@ Explore more case studies on Technology Support Services here: <a href="https://
 
 
 # Details
-**DATE: 21 SEPTEMBER 2021**
-
 
 ![Industry 4.0 image](/images/events/events/industry-ibm.png)
 
