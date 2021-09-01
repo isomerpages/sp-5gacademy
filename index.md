@@ -76,4 +76,12 @@ sections:
       url: /resources/events/industry" target="_blank"
       image: /images/events/events/Industry%204%20Virtual%20Roundtable%20Image.png
       alt: Industry 4.0 Image
+  - infopic:
+      title: VMworld 2021
+      subtitle: Upcoming Event 5 - 7 Oct 2021
+      description: "DATE: 5 - 7 OCT 2021"
+      button: Find Out More
+      url: /resources/events/vmworld-2021 "target=_blank"
+      image: /images/events/events/VMworld%20Image.png
+      alt: VMworld2021-image
 ---
