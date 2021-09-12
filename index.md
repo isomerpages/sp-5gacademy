@@ -35,15 +35,6 @@ sections:
       subtitle: Learn more
       button: View More
   - infopic:
-      title: SUSS Analytics and Visualisation Challenge 2021
-      subtitle: UPCOMING EVENT - 10 SEP 2021
-      description: "DATE: 10 SEP 2021 <br> TIME: 1.30 pm to 6.00 pm <br> VENUE:
-        Virtual event"
-      button: Find Out More
-      url: /resources/events/analytics" target="_blank"
-      image: /images/SUSS%20Image%201.jpg
-      alt: Analyticsandvisualisation.jpg
-  - infopic:
       title: 5G Technology Application & Impact Across Industries
       subtitle: "5G Webinar series #1"
       description: "DATE: 17 SEP 2021 <br> TIME: 1.00 pm to 2.30 pm <br> VENUE:
