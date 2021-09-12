@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
+      - background.md
       - academic-institution-curriculum-advisory-committee.md
       - workforce-development-committee.md
       - consortium-partner-committee.md
       - singapore-5g-and-telecoms-academy-programme-manager-office.md
-      - background.md
