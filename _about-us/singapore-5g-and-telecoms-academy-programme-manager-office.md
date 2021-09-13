@@ -7,7 +7,7 @@ In partnership with the Infocomm Media Development Authority (IMDA), the Singapo
 Managed by both National University of Singapore (NUS) and Singapore Polytechnic (SP) as Consortium Partners, the Singapore 5G & Telecoms Academy supports the industry by developing 5G-related training courses and academic programmes as well as collaboration with Institutions of Higher Learning and private training providers.
 
 The Singapore 5G & Telecoms Academy is supported by the formation of the Curriculum Advisory 
-Committee (CAC), including Academic Institutions CAC, which provides advice on curriculum matters, determine and maintain course & programme directory; and the Workforce Development Committee (WDC) which provides ground-up demand, market insights and drives adoption of manpower development in 5G & related technologies
+Committee (CAC), including Academic Institutions CAC, which provides advice on curriculum matters, determine and maintain course & programme directory; and the Workforce Development Committee (WDC) which provides ground-up demand, market insights and drives adoption of manpower development in 5G & related technologies.
 
 
 
