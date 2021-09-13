@@ -12,13 +12,19 @@ Committee (CAC), including Academic Institutions CAC, which provides advice on c
 
 
 
+|  |  |    | 
+| -------- | -------- | -------- | 
+|<img  src="/images/banners-and-logos/IMDA%20Logo.png" alt="IMDA"  style="width: 60%; height: 60%">| <img src="/images/banners-and-logos/NUS%20Logo.png" alt="NUS"  style="width: 100%; height: 100%"> |<img  src="/images/banners-and-logos/SP%20Logo.png" alt = "SP" style="width: 70%; height: 70%"> |
 
-| Name | Office | Academic Institution |
+
+
+
+| Name | Office| Academic Institution |
 | -------- | -------- | -------- |
-| Mr Suresh H Punjabi    | Co-Chair, Steering Comm   | National University of Singapore   |
-| Mr Toh Ser Khoon    | Co-Chair, Steering Comm   |Singapore Polytechnic  |
-|Mr Chiang Fock Pong | Head, PMO  | National University of Singapore   |
-| Dr Lim Joo Ghee   | Head, Tech. Solutions, L&D   | Singapore Polytechnic  |
-|Ms Kim Lee  | Lead, Administration   | National University of Singapore   |
-|Ms Elaine Lye   | Lead, Administration  | Singapore Polytechnic   |
+| Mr Suresh H Punjabi   | Co-Chair, Steering Comm    | National University of Singapore |
+| Mr Toh Ser Khoon  | Co-Chair, Steering Comm    | Singapore Polytechnic |
+|Mr Chiang Fock Pong   | Head, PMO | National University of Singapore |
+| Dr Lim Joo Ghee | Head, Tech. Solutions, L&D  | Singapore Polytechnic |
+| Ms Kim Lee | Lead, Administration  | National University of Singapore |
+|Ms Elaine Lye | Lead, Administration |Singapore Polytechnic |
 
