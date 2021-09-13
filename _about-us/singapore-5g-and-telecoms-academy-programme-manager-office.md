@@ -14,7 +14,7 @@ Committee (CAC), including Academic Institutions CAC, which provides advice on c
 
 |  |  |    | 
 | -------- | -------- | -------- | 
-|<img style="width: 60%; height: 60%" alt="IMDA" src="/images/banners-and-logos/IMDA%20Logo.png">| <img style="width: 100%; height: 100%" alt="NUS" src="/images/banners-and-logos/NUS%20Logo.png"> |<img style="width: 70%; height: 70%" alt="SP" src="/images/banners-and-logos/SP%20Logo.png"> |
+|<img style="width: 50%; height: 50%" alt="IMDA" src="/images/banners-and-logos/IMDA%20Logo.png">| <img style="width: 100%; height: 100%" alt="NUS" src="/images/banners-and-logos/NUS%20Logo.png"> |<img style="width: 60%; height: 60%" alt="SP" src="/images/banners-and-logos/SP%20Logo.png"> |
 |  ||  | 
 
 
