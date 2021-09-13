@@ -11,10 +11,6 @@ Committee (CAC), including Academic Institutions CAC, which provides advice on c
 
 
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-|   ![Alt text for image on Isomer site](/images/banners-and-logos/IMDA%20Logo.png)   | ![Alt text for image on Isomer site](/images/banners-and-logos/NUS%20Logo.png)   | ![Alt text for image on Isomer site](/images/SP%20Logo.png)   |
-
 
 
 | Name | Office | Academic Institution |
