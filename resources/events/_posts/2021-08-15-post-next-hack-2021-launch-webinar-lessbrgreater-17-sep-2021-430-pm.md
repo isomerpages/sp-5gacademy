@@ -11,6 +11,12 @@ Would you like to put your technical or business skills to the test? Are you cra
 
 Find out all you need to know by enrolling now for the launch webinar.
 
+![NEXTHack2021](/images/events/events/NEXTHack2021.png)
+# Details
+**DATE: 17 SEPTEMBER 2021**
+
+![NEXTHack2021 Keynote speaker](/images/events/events/NEXTHack2021%20Keynote%20Speaker.png)
+
 **What's in it for you? **<br>
 •	NEXT Hack 2021 Award<br>
 •	Cash prizes of up to SGD10,000 per team!<br>
@@ -21,12 +27,6 @@ Find out all you need to know by enrolling now for the launch webinar.
 •	Business, Technical, and Financial support<br>
 •	World-class training in Product Strategy, Design Thinking, Marketing, and many more!<br>
 •	Exciting Start-up like experience
-
-
-# Details
-**DATE: 17 SEPTEMBER 2021**<br>For more information, please click  <a target="_blank">here</a> 
-
-![NEXTHack2021](/images/events/events/NEXTHack2021.png)
 
 <style>
 #register {
