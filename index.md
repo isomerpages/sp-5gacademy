@@ -46,7 +46,7 @@ sections:
   - infopic:
       title: NEXT Hack 2021 Challenge
       subtitle: Upcoming Event 17 Sep 2021
-      description: "DATE: 17 SEP 2021"
+      description: "DATE: 17 SEP 2021 <br> TIME: 4.30 pm to 6.00 pm "
       button: Find Out More
       url: /resources/events/nexthack2021
       image: /images/events/events/NEXTHack2021.png
