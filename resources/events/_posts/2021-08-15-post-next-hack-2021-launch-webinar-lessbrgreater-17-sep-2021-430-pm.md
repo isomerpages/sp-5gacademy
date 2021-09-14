@@ -22,12 +22,11 @@ An exclusive programme for winners
 •	World-class training in Product Strategy, Design Thinking, Marketing, and many more!
 •	Exciting Start-up like experience
 
-![NEXTHack2021](/images/events/events/NEXTHack2021.png)
+
 # Details
 **DATE: 17 SEPTEMBER 2021**<br>For more information, please click <a target="_blank">here</a>
 
-
-![Alt text for image on Isomer site](/images/events/events/VMworld%20Image.png)
+![NEXTHack2021](/images/events/events/NEXTHack2021.png)
 
 <style>
 #register {
