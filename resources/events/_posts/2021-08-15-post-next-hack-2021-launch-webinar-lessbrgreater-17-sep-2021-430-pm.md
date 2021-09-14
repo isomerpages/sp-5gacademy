@@ -13,7 +13,7 @@ Would you like to put your technical or business skills to the test? Are you cra
 
 ![NEXTHack2021](/images/events/events/NEXTHack2021.png)
 # Details
-**DATE: 17 SEPTEMBER 2021**
+**DATE: 17 SEPTEMBER 2021**<br>
 **TIME: 4:30pm - 6:00pm**
 
 
