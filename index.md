@@ -67,4 +67,12 @@ sections:
       url: resources/events/aiot "target=_blank"
       image: /images/AIoT%20Centre_1.png
       alt: 5gandaiot-image
+  - infopic:
+      title: The NEXT Hack 2021 Challenge
+      subtitle: Upcoming Event 17 Sep 2021
+      description: "DATE: 17 SEP 2021"
+      button: Find Out More
+      url: /resources/events/nexthack2021
+      image: /images/events/events/NEXTHack2021.png
+      alt: Image alt text
 ---
