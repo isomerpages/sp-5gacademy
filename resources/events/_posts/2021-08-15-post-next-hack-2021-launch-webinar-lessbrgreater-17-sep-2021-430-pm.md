@@ -24,7 +24,7 @@ An exclusive programme for winners
 
 
 # Details
-**DATE: 17 SEPTEMBER 2021**<br>For more information, please click <a target="_blank">here</a>
+**DATE: 17 SEPTEMBER 2021**<br>For more information, please click  <a target="_blank">here</a> 
 
 ![NEXTHack2021](/images/events/events/NEXTHack2021.png)
 
@@ -45,4 +45,4 @@ An exclusive programme for winners
 }
 </style>
 
-<center><a target="_blank" href="https://form.jotform.com/212518958648066"><button id="register" class="btn">Register Now</button></a></center>
+<center><a href="https://form.jotform.com/212518958648066" target="_blank"><button class="btn" id="register">Register Now</button></a></center>
