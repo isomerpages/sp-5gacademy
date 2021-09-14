@@ -44,7 +44,7 @@ sections:
       image: /images/5G%20Technology%20Application%20and%20Impact%20Across%20Industries.png
       alt: Image alt text
   - infopic:
-      title: The NEXT Hack 2021 Challenge
+      title: NEXT Hack 2021 Challenge
       subtitle: Upcoming Event 17 Sep 2021
       description: "DATE: 17 SEP 2021"
       button: Find Out More
