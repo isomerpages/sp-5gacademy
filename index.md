@@ -44,6 +44,14 @@ sections:
       image: /images/5G%20Technology%20Application%20and%20Impact%20Across%20Industries.png
       alt: Image alt text
   - infopic:
+      title: NEXT Hack 2021 Challenge
+      subtitle: Upcoming Event 17 Sep 2021
+      description: "DATE: 17 SEP 2021 <br> TIME: 4.30 pm to 6.00 pm "
+      button: Find Out More
+      url: /resources/events/nexthack2021
+      image: /images/events/events/NEXTHack2021.png
+      alt: NEXTHack 2021-image
+  - infopic:
       title: Industry 4.0 Virtual Roundtable
       subtitle: Upcoming event - 21 sep 2021
       description: "DATE: 21 SEP 2021 <br> TIME: 10:00 am to 11:30 am"
