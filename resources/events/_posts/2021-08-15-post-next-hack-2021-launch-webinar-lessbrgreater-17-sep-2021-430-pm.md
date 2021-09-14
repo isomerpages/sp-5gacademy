@@ -4,9 +4,12 @@ date: 2021-08-15
 permalink: /resources/events/nexthack2021
 layout: post
 ---
-
 # About the Event
-Ever wondered how to deliver apps and services faster to improve the customer experience? Register now for 100% free &amp; online access to VMworld 2021 pass at <a target="_blank" href="https://bit.ly/3CkTOtT">https://bit.ly/3CkTOtT</a> 
+NCS is organising an inaugural Product Innovation Challenge and we are welcoming participants from outside of NCS too!
+
+Would you like to put your technical or business skills to the test? Are you craving for a challenge and a change from your daily work? If the answer is a resounding YES, wait no more!
+
+Find out all you need to know by enrolling now for the launch webinar.
 
 What's in it for you?
 •	NEXT Hack 2021 Award
@@ -19,7 +22,7 @@ An exclusive programme for winners
 •	World-class training in Product Strategy, Design Thinking, Marketing, and many more!
 •	Exciting Start-up like experience
 
-
+![NEXTHack2021](/images/events/events/NEXTHack2021.png)
 # Details
 **DATE: 17 SEPTEMBER 2021**<br>For more information, please click <a target="_blank">here</a>
 
