@@ -11,12 +11,12 @@ Would you like to put your technical or business skills to the test? Are you cra
 
 Find out all you need to know by enrolling now for the launch webinar.
 
-What's in it for you? <br>
+**What's in it for you? **<br>
 •	NEXT Hack 2021 Award<br>
 •	Cash prizes of up to SGD10,000 per team!<br>
 •	The opportunity to join our NEXT Products &amp; Platforms Incubation Program to bring your idea to life!
 
-An exclusive programme for winners<br>
+**An exclusive programme for winners**<br>
 •	Mentoring and Coaching by Professionals<br>
 •	Business, Technical, and Financial support<br>
 •	World-class training in Product Strategy, Design Thinking, Marketing, and many more!<br>
