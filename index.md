@@ -74,5 +74,5 @@ sections:
       button: Find Out More
       url: /resources/events/nexthack2021
       image: /images/events/events/NEXTHack2021.png
-      alt: Image alt text
+      alt: NEXTHack 2021-image
 ---
