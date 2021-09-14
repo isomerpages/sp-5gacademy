@@ -17,7 +17,7 @@ Find out all you need to know by enrolling now for the launch webinar.
 
 ![NEXTHack2021 Keynote speaker](/images/events/events/NEXTHack2021%20Keynote%20Speaker.png)
 
-**What's in it for you? **<br>
+**What's in it for you?** <br>
 •	NEXT Hack 2021 Award<br>
 •	Cash prizes of up to SGD10,000 per team!<br>
 •	The opportunity to join our NEXT Products &amp; Platforms Incubation Program to bring your idea to life!
