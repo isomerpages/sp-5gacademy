@@ -9,11 +9,13 @@ NCS is organising an inaugural Product Innovation Challenge and we are welcoming
 
 Would you like to put your technical or business skills to the test? Are you craving for a challenge and a change from your daily work? If the answer is a resounding YES, wait no more!
 
-Find out all you need to know by enrolling now for the launch webinar.
+***Find out all you need to know by enrolling now for the launch webinar.***
 
 ![NEXTHack2021](/images/events/events/NEXTHack2021.png)
 # Details
 **DATE: 17 SEPTEMBER 2021**
+**TIME: 4:30pm - 6:00pm**
+
 
 ![NEXTHack2021 Keynote speaker](/images/events/events/NEXTHack2021%20Keynote%20Speaker.png)
 
