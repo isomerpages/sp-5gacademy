@@ -82,5 +82,5 @@ sections:
       button: Find Out More
       url: /resources/events/securingyour5gnetwork
       image: /images/events/events/Securing%20your%205G%20network.png
-      alt: Image alt text
+      alt: Securing your 5G network- img
 ---
