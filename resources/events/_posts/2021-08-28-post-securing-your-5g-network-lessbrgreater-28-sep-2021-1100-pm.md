@@ -18,13 +18,12 @@ The session is intended for an audience working in 5G, MEC, Security Strategy an
 •	Securing Enterprise 5G services and access<br>
 
 
-![NEXTHack2021](/images/events/events/NEXTHack2021.png)
 # Details
 **DATE: 28 SEPTEMBER 2021**<br>
 **TIME: 11:00pm**
 
 
-![NEXTHack2021 Keynote speaker](/images/events/events/NEXTHack2021%20Keynote%20Speaker.png)
+![Securing Your 5G Network image](/images/events/events/Securing%20your%205G%20network.png)
 
 
 
