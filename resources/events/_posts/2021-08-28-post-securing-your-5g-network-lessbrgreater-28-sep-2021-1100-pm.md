@@ -11,11 +11,11 @@ layout: post
 
 The session is intended for an audience working in 5G, MEC, Security Strategy and Planning, Telecom Strategy & Planning, Network Design or Operations teams in the Service Provider and Enterprise community, needing to understand the threat surface and its mitigation in 5G deployments. We will also cover topics around securing enterprise hosted Multi-access Edge Computing (MEC) use cases.
 
-**CKN attendees will learn about the following and more:**
-•	Better understanding the surface threats
-•	How to mitigate cyber-security threats as you build 5G networks and services
-•	Securing critical segments like Multi-access Edge Compute (MEC)
-•	Securing Enterprise 5G services and access
+**CKN attendees will learn about the following and more:**<br>
+•	Better understanding the surface threats<br>
+•	How to mitigate cyber-security threats as you build 5G networks and services<br>
+•	Securing critical segments like Multi-access Edge Compute (MEC)<br>
+•	Securing Enterprise 5G services and access<br>
 
 
 ![NEXTHack2021](/images/events/events/NEXTHack2021.png)
