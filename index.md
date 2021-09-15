@@ -60,6 +60,14 @@ sections:
       image: /images/events/events/Industry%204%20Virtual%20Roundtable%20Image.png
       alt: Industry 4.0 Image
   - infopic:
+      title: Securing your 5G network
+      subtitle: Upcoming Event 28 Sep 2021
+      description: "DATE: 28 SEP 2021 <br> TIME: 11:00 pm"
+      button: Find Out More
+      url: /resources/events/securingyour5gnetwork
+      image: /images/events/events/Securing%20your%205G%20network.png
+      alt: Securing your 5G network- img
+  - infopic:
       title: VMworld 2021
       subtitle: Upcoming Event 5 - 7 Oct 2021
       description: "DATE: 5 - 7 OCT 2021"
@@ -75,12 +83,4 @@ sections:
       url: resources/events/aiot "target=_blank"
       image: /images/AIoT%20Centre_1.png
       alt: 5gandaiot-image
-  - infopic:
-      title: Securing your 5G network
-      subtitle: Upcoming Event 28 Sep 2021
-      description: "DATE: 28 SEP 2021 <br> TIME: 11:00 pm"
-      button: Find Out More
-      url: /resources/events/securingyour5gnetwork
-      image: /images/events/events/Securing%20your%205G%20network.png
-      alt: Securing your 5G network- img
 ---
