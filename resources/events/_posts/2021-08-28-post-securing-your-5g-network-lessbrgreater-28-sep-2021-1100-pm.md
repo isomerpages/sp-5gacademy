@@ -1,9 +1,10 @@
 ---
-title: Securing your 5G network <br> 28 Sep 2021, 11:00 pm
+title: Securing Your 5G Network <br> 28 Sep 2021, 11:00 pm
 date: 2021-08-28
 permalink: /resources/events/securingyour5gnetwork
 layout: post
 ---
+
 # **Securing your 5G network** - <br>A highly effective and vendor agnostic security architecture for 5G
 # About the Event
 
