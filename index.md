@@ -60,7 +60,7 @@ sections:
       image: /images/events/events/Industry%204%20Virtual%20Roundtable%20Image.png
       alt: Industry 4.0 Image
   - infopic:
-      title: Securing your 5G network
+      title: Securing Your 5G Network
       subtitle: Upcoming Event 28 Sep 2021
       description: "DATE: 28 SEP 2021 <br> TIME: 11:00 pm"
       button: Find Out More
