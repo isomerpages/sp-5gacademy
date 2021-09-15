@@ -4,7 +4,7 @@ date: 2021-08-28
 permalink: /resources/events/securingyour5gnetwork
 layout: post
 ---
-# Securing your 5G network - <br>A highly effective and vendor agnostic security architecture for 5G
+# **Securing your 5G network** - <br>A highly effective and vendor agnostic security architecture for 5G
 # About the Event
 
 5G and Mobile Edge Computing (MEC) are here, and will further transform our lives in good ways. But are your network and services as secure as they need to be? A week does not pass without a news story about cyber-attacks - now, more than ever, the network must be secured and trusted. Our webinar will begin with a review of why and how 5G and MEC help evolve the disaggregation and distributed deployment models from the radio network, through the core and which applications and services are moving towards the network edge. We will then address the 5G specific threat surfaces and its mitigation techniques. Last but not the least the session will describe the actual deployment models to secure the edge deployments and edge services for 5G.
