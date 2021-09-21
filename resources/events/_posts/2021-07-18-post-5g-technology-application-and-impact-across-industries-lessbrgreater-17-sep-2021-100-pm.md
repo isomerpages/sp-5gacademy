@@ -1,9 +1,10 @@
 ---
 title: 5G Technology Application & Impact Across Industries <br> 17 Sep 2021, 1:00 pm
-date: 2021-08-30
+date: 2021-07-18
 permalink: /resources/events/how5g
 layout: post
 ---
+
 
 
 # About the Event
