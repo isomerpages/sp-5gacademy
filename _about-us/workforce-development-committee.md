@@ -19,17 +19,11 @@ permalink: /about-us/wdc
 |Dr Paul Wang     | NEC Asia Pacific Pte Ltd | 
 |Mr Benjamin Moey     | Siemens Pte Ltd | 
 |Mr Adrian Hia     |VMware | 
-|Ms Lai Lock See| VMware | 
+|Ms Lai Lock See| VMware |
 
 
 
-
-
-
-
-
-
-
-
-
-
+| Column 1 | Column 2 | Column 3 |Column 3 |
+| -------- | -------- | -------- |-------- |
+| |<a href="https://www.delltechnologies.com/en-sg/index.htm"><img src="/images/wdc-members-logos/Dell%20Logo%20200x200.png" alt="Dell" style="width: 50%; height: 50%"></a>|  | Text     | Text     |Text  |
+| Text     | Text     | Text     |Text  |
