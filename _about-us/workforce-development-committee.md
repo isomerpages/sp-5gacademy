@@ -16,8 +16,8 @@ permalink: /about-us/wdc
 |Mr Teddy Pramono     | Micron | 
 |Mr Henry Suseno Nilam     | Micron | 
 |Ms Esther Liang | Micron | 
-|Dr Paul Wang     | 
-|Mr Benjamin Moey     | Siemens Pte Ltd | Write-Up    | 
+|Dr Paul Wang     | NEC Asia Pacific Pte Ltd | 
+|Mr Benjamin Moey     | Siemens Pte Ltd | 
 |Mr Adrian Hia    |VMware | 
 |Ms Lai Lock See| VMware | 
 
@@ -28,4 +28,4 @@ permalink: /about-us/wdc
 |  |  |  | |
 | -------- | -------- | -------- |-------- |
 | <a href="https://www.delltechnologies.com/en-sg/index.htm" target="blank"><img src="/images/wdc-members-logos/Dell%20Logo%20200x200.png" alt="Dell" style="width: 40%; height: 40%"></a>|<a href="https://www.ericsson.com/en" target="blank"><img src="/images/wdc-members-logos/Ericsson%20Logo%20200x200.png" alt="Ericsson" style="width: 1000%; height: 1000%"></a>|<a href="https://www.ibm.com/sg-en?p1=Search&p4=43700052661453023&p5=e&gclid=Cj0KCQjwsZKJBhC0ARIsAJ96n3VCQF5SLzCrH_XIdQzYH78htF-IcTpBEbpCOXh5zi5lW2F-M0Np2TwaAsJXEALw_wcB&gclsrc=aw.ds" target="blank"><img src="/images/wdc-members-logos/IBM%20Logo%20200x200.png" alt="IBM" style="width: 40%; height: 40%"></a> |<a href="https://www.micron.com/" target="blank"><img src="/images/wdc-members-logos/Micron%20Logo.png" alt="Micron" style="width: 1000%; height: 1000%"></a> |
-| Text     | Text     | Text     |Text|
+|  <a href="https://sg.nec.com/en_SG/global/solutions/5g/index.html " target="blank"><img src="/images/wdc-members-logos/NEC%20Logo%20200x200.png" alt="NEC" style="width: 40%; height: 40%"></a>|<a href="https://www.ericsson.com/en" target="blank"><img src="/images/wdc-members-logos/Ericsson%20Logo%20200x200.png" alt="Ericsson" style="width: 1000%; height: 1000%"></a>  | Text     | Text     |Text| Text| 
