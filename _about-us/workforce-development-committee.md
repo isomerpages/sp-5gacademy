@@ -18,7 +18,7 @@ permalink: /about-us/wdc
 |Ms Esther Liang | Micron | Write-Up    | 
 |Dr Paul Wang     | NEC Asia Pacific Pte Ltd | NEC has been supporting infrastructure for businesses over 120 years. By re-imagining the digital journey with intelligent connectivity, NEC aims to co-create new value with telecom operators, enterprises and governments. | 
 |Mr Benjamin Moey     | Siemens Pte Ltd | Write-Up    | 
-|Mr Adrian Hia  <br> Ms Lai Lock See   |VMware | VMware software powers the world’s complex digital infrastructure. The company’s cloud, networking and security, and digital workspace offerings provide a dynamic and efficient digital foundation to customers globally, aided by an extensive ecosystem of partners.  | 
+|Mr Adrian Hia  <br><br> Ms Lai Lock See   |VMware | VMware software powers the world’s complex digital infrastructure. The company’s cloud, networking and security, and digital workspace offerings provide a dynamic and efficient digital foundation to customers globally, aided by an extensive ecosystem of partners.  | 
 |Ms Lai Lock See| VMware | Write-Up    | 
 
 <br />
