@@ -39,4 +39,4 @@ Explore more case studies on Technology Support Services here: <a href="https://
 
 <center><a href="https://www.ibm.com/events/reg/flow/ibm/tdyxjhmb/regcteba1/createaccount" target="_blank"><button class="btn" id="register">Register Now</button></a></center>
 
-Thank you for your interest. This event is over. If you have any questions, please contact Event host: IBM.
+Thank you for your interest. This event is over. <br> If you have any questions, please contact Event host: IBM.
