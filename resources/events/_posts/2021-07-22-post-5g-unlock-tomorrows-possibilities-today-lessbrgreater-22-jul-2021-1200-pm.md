@@ -4,7 +4,6 @@ date: 2021-07-22
 permalink: /resources/events/unlocktomorrow
 layout: post
 ---
-
 # About the Event
 Join the National University of Singapore, Singapore Polytechnic and Tech Talent Assembly to explore Singapore’s journey into 5G and Artificial Intelligence of Things (AIoT) applications.
 
@@ -17,4 +16,4 @@ VENUE: via Zoom**
 
 
 
-Thank you for your interest. This webinar is over. If you have any questions, please contact Webinar host: Smart Nation Singapore.
+Thank you for your interest. This webinar is over. <br> If you have any questions, please contact Webinar host: Smart Nation Singapore.
