@@ -33,13 +33,12 @@ permalink: /about-us/wdc
 
 <table>
   <tr>
-    <td> <img src="/images/wdc-members-logos/Dell%20Logo%20200x200.png"  alt="1"></td>
+    <td align="center"> <img src="/images/wdc-members-logos/Dell%20Logo%20200x200.png"  alt="1"></td>
 
-    <td><img src="/images/wdc-members-logos/Ericsson%20Logo%20200x200.png" alt="2"></td>
+    <td align="center"><img src="/images/wdc-members-logos/Ericsson%20Logo%20200x200.png" alt="2"></td>
    
-    <td><img src="/images/wdc-members-logos/IBM%20Logo%20200x200.png" alt="3"></td>
+    <td align="center"><img src="/images/wdc-members-logos/IBM%20Logo%20200x200.png" alt="3"></td>
 
-    <td><img src="/images/wdc-members-logos/Micron%20Logo.png" alt="3">
-  </td>
+    <td align="center"><img src="/images/wdc-members-logos/Micron%20Logo.png" alt="4"></td>
   </tr>
 </table>
