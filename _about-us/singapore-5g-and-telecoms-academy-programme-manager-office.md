@@ -14,7 +14,7 @@ Committee (CAC), including Academic Institutions CAC, which provides advice on c
 
 |  |  |    | 
 | -------- | -------- | -------- | 
-|<img style="width: 50%; height: 50%" alt="IMDA" src="/images/banners-and-logos/IMDA%20Logo.png">| <img style="width: 100%; height: 100%" alt="NUS" src="/images/banners-and-logos/NUS%20Logo.png"> |<img style="width: 60%; height: 60%" alt="SP" src="/images/banners-and-logos/SP%20Logo.png"> |
+|<img  alt="IMDA" src="/images/banners-and-logos/IMDA%20Logo.png">| <img  alt="NUS" src="/images/banners-and-logos/NUS%20Logo.png"> |<img  alt="SP" src="/images/banners-and-logos/SP%20Logo.png"> |
 |  ||  | 
 
 
@@ -27,4 +27,3 @@ Committee (CAC), including Academic Institutions CAC, which provides advice on c
 | Dr Lim Joo Ghee | Head, Tech. Solutions, L&amp;D  | Singapore Polytechnic |
 | Ms Kim Lee | Lead, Administration  | National University of Singapore |
 |Ms Elaine Lye | Lead, Administration |Singapore Polytechnic |
-

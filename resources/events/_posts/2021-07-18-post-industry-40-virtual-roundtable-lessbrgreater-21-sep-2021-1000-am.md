@@ -4,9 +4,6 @@ date: 2021-07-18
 permalink: /resources/events/industry
 layout: post
 ---
-
-
-
 # About the Event
 Industry 4.0 is revolutionizing the way companies manufacture, improve and distribute their products. Manufacturers are integrating enabling technologies, including Internet of Things (IoT), cloud computing and analytics, AI and machine learning into their production facilities and throughout their operations.
 
@@ -41,3 +38,5 @@ Explore more case studies on Technology Support Services here: <a href="https://
 </style>
 
 <center><a href="https://www.ibm.com/events/reg/flow/ibm/tdyxjhmb/regcteba1/createaccount" target="_blank"><button class="btn" id="register">Register Now</button></a></center>
+
+Thank you for your interest. This event is over. <br> If you have any questions, please contact Event host: IBM.

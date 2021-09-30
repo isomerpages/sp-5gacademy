@@ -1,6 +1,6 @@
 ---
 title: Securing Your 5G Network <br> 28 Sep 2021, 11:00 pm
-date: 2021-08-28
+date: 2021-07-17
 permalink: /resources/events/securingyour5gnetwork
 layout: post
 ---
@@ -45,3 +45,5 @@ The session is intended for an audience working in 5G, MEC, Security Strategy an
 </style>
 
 <center><a href="https://events-cisco.webex.com/mw3300/mywebex/default.do?nomenu=true&siteurl=events-cisco&service=6&rnd=0.5216605761130297&main_url=https%3A%2F%2Fevents-cisco.webex.com%2Fec3300%2Feventcenter%2Fevent%2FeventAction.do%3FtheAction%3Ddetail%26%26%26EMK%3D4832534b00000005b3a80493fde3ad64af91614c78f10baa54f368368da425e553cfc9214027766b%26siteurl%3Devents-cisco%26confViewID%3D202191934991676377%26encryptTicket%3DSDJTSwAAAAUZTGPSGRN-VOftScFJW6kDWcbyP8gG8x3ryDMm_LwvrQ2%26" target="_blank"><button class="btn" id="register">Register Now</button></a></center>
+
+Thank you for your interest. This event is over. <br> If you have any questions, please contact event host: Cisco

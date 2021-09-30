@@ -4,9 +4,6 @@ date: 2021-07-18
 permalink: /resources/events/how5g
 layout: post
 ---
-
-
-
 # About the Event
 
 This webinar on 5G Transformation  will focus on how 5G introduces new technological transformation and innovations that can shape industry paradigm.
@@ -41,3 +38,5 @@ VENUE: via Zoom**
 </style>
 
 <center><a href="https://nus.syd1.qualtrics.com/jfe/form/SV_b7RJE8yBmCZvdjM" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
+
+Thank you for your interest. This webinar is over. <br> If you have any questions, please contact Webinar host: 5G Academy.

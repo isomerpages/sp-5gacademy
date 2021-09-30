@@ -4,10 +4,6 @@ date: 2021-07-20
 permalink: /resources/events/analytics
 layout: post
 ---
-
-
-
-
 # About the Event
 
 The SUSS Analytics and Visualisation Challenge 2021 (AVC21) welcomes poster submissions from A'levels, International Baccalaureate, and Polytechnic Diploma students.
@@ -47,3 +43,6 @@ VENUE: Online event**
 
 
 <center><a  href="https://www.suss.edu.sg/news-and-events/events/analytics-and-visualisation-challenge-2021" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
+
+Thank you for your interest. This event is over. <br>
+If you have any questions, please contact event host: SUSS

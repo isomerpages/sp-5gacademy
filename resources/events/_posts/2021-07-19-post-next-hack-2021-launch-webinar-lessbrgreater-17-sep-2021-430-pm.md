@@ -4,7 +4,6 @@ date: 2021-07-19
 permalink: /resources/events/nexthack2021
 layout: post
 ---
-
 # About the Event
 NCS is organising an inaugural Product Innovation Challenge and we are welcoming participants from outside of NCS too!
 
@@ -49,3 +48,6 @@ Would you like to put your technical or business skills to the test? Are you cra
 </style>
 
 <center><a href="https://form.jotform.com/212518958648066" target="_blank"><button class="btn" id="register">Register Now</button></a></center>
+
+Thank you for your interest. This webinar is over. <br>
+If you have any questions, please contact Webinar host: NCS
