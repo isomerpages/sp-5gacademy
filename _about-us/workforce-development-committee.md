@@ -23,6 +23,7 @@ permalink: /about-us/wdc
 
 <br />
 <br />
+80
 
 | -------- | -------- | -------- |-------- |
 | <a href="https://www.delltechnologies.com/en-sg/index.htm" target="blank"><img src="/images/wdc-members-logos/Dell%20Logo%20200x200%20v2.png" alt="Dell" style="height:80%; width:80%" ></a>|<a href="https://www.ericsson.com/en" target="blank"><img src="/images/wdc-members-logos/Ericsson%20Logo%20200x200%20v2.png" alt="Ericsson" style="height:80%; width:80%" ></a>|<a href="https://www.ibm.com/sg-en?p1=Search&p4=43700052661453023&p5=e&gclid=Cj0KCQjwsZKJBhC0ARIsAJ96n3VCQF5SLzCrH_XIdQzYH78htF-IcTpBEbpCOXh5zi5lW2F-M0Np2TwaAsJXEALw_wcB&gclsrc=aw.ds" target="blank"><img src="/images/wdc-members-logos/IBM%20Logo%20200x200.png" alt="IBM"> style="height:80%; width:80%" </a> |<a href="https://www.micron.com/" target="blank"><img src="/images/wdc-members-logos/Micron%20Logo%20200x200%20v2.png" alt="Micron" style="height:80%; width:80%" ></a> |
