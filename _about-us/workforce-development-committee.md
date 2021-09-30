@@ -31,18 +31,15 @@ permalink: /about-us/wdc
 |  <a href="https://sg.nec.com/en_SG/global/solutions/5g/index.html " target="blank"><img src="/images/wdc-members-logos/NEC%20Logo%20200x200.png" alt="NEC" style="width: 50%; height: 50%"></a>|<a href="www.siemens.com/digitalenterprise" target="blank"><img src="/images/wdc-members-logos/Siemens%20Logo%20200x200.png" alt="Siemens" style="width: 10000%; height: 10000%"></a> | <img src="/images/wdc-members-logos/VMware%20Logo%20200x200.png" alt="VMWare" style="width: 40%; height: 40%"> |
 
 
-You can use these html tags for this,
-
 <table>
   <tr>
-    <td> <img src="/images/wdc-members-logos/Dell%20Logo%20200x200.png"  alt="1" width = 360px height = 640px ></td>
+    <td> <img src="/images/wdc-members-logos/Dell%20Logo%20200x200.png"  alt="1"></td>
 
-    <td><img src="/images/wdc-members-logos/Ericsson%20Logo%20200x200.png" alt="2" width = 360px height = 640px></td>
-   </tr> 
-   <tr>
-      <td><img src="/images/wdc-members-logos/IBM%20Logo%20200x200.png" alt="3" width = 360px height = 640px></td>
+    <td><img src="/images/wdc-members-logos/Ericsson%20Logo%20200x200.png" alt="2"></td>
+   
+    <td><img src="/images/wdc-members-logos/IBM%20Logo%20200x200.png" alt="3"></td>
 
-      <td><img src="/images/wdc-members-logos/Micron%20Logo.png" width = 360px height = 640px>
+    <td><img src="/images/wdc-members-logos/Micron%20Logo.png">
   </td>
   </tr>
 </table>
