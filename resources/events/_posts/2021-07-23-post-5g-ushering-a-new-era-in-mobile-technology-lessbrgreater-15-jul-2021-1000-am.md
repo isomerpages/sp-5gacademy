@@ -4,7 +4,6 @@ date: 2021-07-23
 permalink: /resources/events/newera
 layout: post
 ---
-
 # About the Event
 
 How does 5G work and what is the impact on daily life? How can businesses benefit from 5G and are there any areas of concern in adopting this technology?
@@ -20,4 +19,4 @@ VENUE: via Zoom**
 
 ![Alt text for image on Isomer site](/images/events/events/5G%20Ushering%20a%20New%20Era%20in%20Mobile%20Technology.png)
 
-Thank you for your interest. This webinar is over. If you have any questions, please contact Webinar host: Temasek Polytechnic.
+Thank you for your interest. This webinar is over. <br> If you have any questions, please contact Webinar host: Temasek Polytechnic.
