@@ -39,7 +39,7 @@ permalink: /about-us/wdc
    
     <td><img src="/images/wdc-members-logos/IBM%20Logo%20200x200.png" alt="3"></td>
 
-    <td><img src="/images/wdc-members-logos/Micron%20Logo.png">
+    <td><img src="/images/wdc-members-logos/Micron%20Logo.png" alt="3">
   </td>
   </tr>
 </table>
