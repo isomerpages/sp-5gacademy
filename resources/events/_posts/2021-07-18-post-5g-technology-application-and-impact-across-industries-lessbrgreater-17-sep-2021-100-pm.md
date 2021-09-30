@@ -39,4 +39,4 @@ VENUE: via Zoom**
 
 <center><a href="https://nus.syd1.qualtrics.com/jfe/form/SV_b7RJE8yBmCZvdjM" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
 
-Thank you for your interest. This webinar is over. If you have any questions, please contact Webinar host: 5G Academy.
+Thank you for your interest. This webinar is over. <br> If you have any questions, please contact Webinar host: 5G Academy.
