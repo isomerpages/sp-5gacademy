@@ -28,6 +28,7 @@ permalink: /about-us/wdc
   display: block;
   margin-left: auto;
   margin-right: auto;
+  vertical-align: middle;
 }
  
 | -------- | -------- | -------- |-------- |
