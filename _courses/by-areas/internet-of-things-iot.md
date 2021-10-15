@@ -79,4 +79,4 @@ third_nav_title: By Areas
 |[Modern Cyber Security Technologies for Senior Managers](https://stmi.nus.edu.sg/event/modern-cyber-security-technologies-for-senior-managers-skillsfuture-series-3/){:target="_blank" rel="noopener"}  | NUS | Intermediate | 3 days |
 |[Modular Certificate in Analytics & Internet of Things - Part of Diploma in Engineering (Electronics) (DEEC1) (Classroom & Synchronous)](https://www.cet.np.edu.sg/courses/diploma-in-engineering-electronics/){:target="_blank" rel="noopener"}  | NP | Basic | 165 hrs |
 |[NB-IoT Understanding Low Power Cellular LTE ](https://eservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=CE1267){:target="_blank" rel="noopener"}  | NYP | Basic | 7 hrs |
-|[NTU-FTA Series - loT (Synchronous e-learning)](https://www.ntu.edu.sg/pace/programmes/detail/ntu-fta-series
+|[NTU-FTA Series - loT (Synchronous e-learning)](https://www.ntu.edu.sg/pace/programmes/detail/ntu-fta-series---lot){:target="_blank" rel="noopener"} | NTU | Basic | 7 hrs |
