@@ -11,9 +11,9 @@ RINC is an iconic annual industry event organised by Singapore Polytechnic since
 
 In this year’s edition, RINC 2021 will focus on **5G and Artificial Intelligence of Things (AIoT) for the Enterprises** – including how 5G & AIoT can be applied in the advanced manufacturing and built-environment sectors to bring about industry and community transformation. 
 
-Distinguished speakers from *Ericsson* and ***Singtel*** will share their insights on how 5G transforms businesses locally and internationally as well as what it takes for businesses to embark on this transformative journey towards a digital and intelligent future.
+Distinguished speakers from ***Ericsson*** and ***Singtel*** will share their insights on how 5G transforms businesses locally and internationally as well as what it takes for businesses to embark on this transformative journey towards a digital and intelligent future.
 
-Come join us at the Regional Industry Networking Conference (RINC) 2021 to explore exciting solutions that would be beneficial to you and your business. 
+Come join us at RINC 2021 to explore exciting solutions that would be beneficial to you and your business. 
 # Details
 **DATE: 17 NOVEMBER 2021 <br> 
 TIME: 11.30 am - 1.00 pm <br> 
