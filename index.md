@@ -39,9 +39,9 @@ sections:
       subtitle: Upcoming Event 17 Nov 2021
       description: "DATE: 17 NOV 2021"
       button: Find Out More
-      url: /resources/events/vmworld-2021 "target=_blank"
-      image: /images/events/events/VMworld%20Image.png
-      alt: VMworld2021-image
+      url: /resources/events/RINC2021 "target=_blank"
+      image: /images/events/events/RINC%202021.jpg
+      alt: RINC2021-image
   - infopic:
       title: 5G Learning Journey
       subtitle: Upcoming Event - 17 Nov 2021
