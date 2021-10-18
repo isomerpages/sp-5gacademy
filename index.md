@@ -35,7 +35,7 @@ sections:
       subtitle: Learn more
       button: View More
   - infopic:
-      title: RINC 2021
+      title: RINC 2021 (Regional Industry Networking Conference)
       subtitle: Upcoming Event 17 Nov 2021
       description: "DATE: 17 NOV 2021"
       button: Find Out More
