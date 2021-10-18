@@ -43,7 +43,7 @@ sections:
       image: /images/events/events/VMworld%20Image.png
       alt: VMworld2021-image
   - infopic:
-      title: 5G & AIoT Centre Launch
+      title: 5G Learning Journey
       subtitle: Upcoming Event - 17 Nov 2021
       description: "DATE: 17 NOV 2021 <br> VENUE: Singapore Polytechnic"
       button: Find Out More
