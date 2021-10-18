@@ -44,7 +44,7 @@ sections:
       alt: RINC2021-image
   - infopic:
       title: 5G Learning Journey
-      subtitle: Upcoming Event - 17 Nov 2021
+      subtitle: Regular event
       description: "(BY APPOINTMENT ONLY) <br> VENUE: Singapore Polytechnic"
       button: Find Out More
       url: /resources/events/5G-learning-journey "target=_blank"
