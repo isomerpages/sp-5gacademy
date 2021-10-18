@@ -5,4 +5,37 @@ date: 2021-10-18
 permalink: /resources/events/RINC2021
 layout: post
 ---
+# About the Event
 
+The future of many innovative and transformative enterprise solutions rely on the convergence and adoption of 5G technology and Artificial Intelligence of Things (AIoT). The former enables seamless network connectivity with low latency and ultra-high reliability, while the latter allows edge devices to become ever-smarter and more intuitive, not just as data generators but as aggregators, communicators, and decision-makers.
+
+Come join us at the Regional Industry Networking Conference (RINC) 2021 on 17 Nov to explore exciting solutions that would be beneficial to you and your business. 
+
+RINC is an iconic annual industry event organised by Singapore Polytechnic since 2002. During this time, RINC has seen thousands of industry participants networking and gathering to learn about the latest technologies from over 100 speakers and companies.
+
+# Details
+**DATE: 17 NOVEMBER 2021 <br> 
+TIME: 11.30 am - 1.00 pm <br> 
+VENUE: via Zoom**
+
+
+![RINC 2021](/images/events/events/RINC%202021.jpg)
+
+<style>
+#register {
+  background-color: #0000ff;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+</style>
+
+<center><a href="https://forms.office.com/pages/responsepage.aspx?id=Av8Edtir20WMrFUAVDI_yXbq6I4gol9Ll2SAZeoME79UQ0VLQ0NURDdaVUMzNE1LSDBYS0NZMUhZNi4u" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
