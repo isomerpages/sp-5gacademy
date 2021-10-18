@@ -1,9 +1,10 @@
 ---
 title: "5G: Ushering a New Era in Mobile Technology <br> 15 Jul 2021, 10:00 am"
-date: 2021-07-23
+date: 2021-09-23
 permalink: /resources/events/newera
 layout: post
 ---
+
 # About the Event
 
 How does 5G work and what is the impact on daily life? How can businesses benefit from 5G and are there any areas of concern in adopting this technology?

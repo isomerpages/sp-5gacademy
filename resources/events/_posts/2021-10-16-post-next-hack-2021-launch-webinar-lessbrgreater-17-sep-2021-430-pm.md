@@ -1,9 +1,12 @@
 ---
 title: Next Hack 2021 Launch Webinar <br> 17 Sep 2021, 4:30 pm
-date: 2021-07-19
+date: 2021-10-16
 permalink: /resources/events/nexthack2021
 layout: post
 ---
+
+
+
 # About the Event
 NCS is organising an inaugural Product Innovation Challenge and we are welcoming participants from outside of NCS too!
 

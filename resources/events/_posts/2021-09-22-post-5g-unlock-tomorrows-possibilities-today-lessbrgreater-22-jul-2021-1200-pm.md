@@ -1,9 +1,10 @@
 ---
 title: "5G: Unlock Tomorrow's Possibilities Today <br> 22 Jul 2021, 12:00 pm"
-date: 2021-07-22
+date: 2021-09-22
 permalink: /resources/events/unlocktomorrow
 layout: post
 ---
+
 # About the Event
 Join the National University of Singapore, Singapore Polytechnic and Tech Talent Assembly to explore Singapore’s journey into 5G and Artificial Intelligence of Things (AIoT) applications.
 

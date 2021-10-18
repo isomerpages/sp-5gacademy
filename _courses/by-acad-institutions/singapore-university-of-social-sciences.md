@@ -25,7 +25,7 @@ third_nav_title: By Acad Institutions
 |[Cyber Security: Threats and Measures (Classroom & Asynchronous)](https://www.suss.edu.sg/courses/detail/cet248){:target="_blank" rel="noopener"} |Basic|24 hrs |
 |[Cybersecurity - A Holistic Approach (Synchronous e-Learning)](https://www.suss.edu.sg/courses/short-course/detail/CET302){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Cybersecurity - Application security by design (Synchronous e-Learning)](https://www.suss.edu.sg/courses/short-course/detail/CET202){:target="_blank" rel="noopener"} |Basic|7 hrs |
-|[Fundamentals of Applied Electromagnetics](https://www.suss.edu.sg/courses){:target="_blank" rel="noopener"} |Basic|18 hrs |
+|[Fundamentals of Applied Electromagnetics](https://www.suss.edu.sg/courses/detail/eng205){:target="_blank" rel="noopener"} |Basic|18 hrs |
 |[GIS Applications](https://www.suss.edu.sg/courses/short-course/detail/CET203){:target="_blank" rel="noopener"} |Intermediate|7 hrs |
 |[Hyperautomation](https://www.suss.edu.sg/courses/detail/anl505){:target="_blank" rel="noopener"} |Intermediate|18 hrs |
 |[Information Security Challenges in Smart Computing ](https://www.suss.edu.sg/courses/detail/ICT338){:target="_blank" rel="noopener"} |Intermediate|36 hrs |

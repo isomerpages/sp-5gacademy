@@ -29,7 +29,7 @@ third_nav_title: By Areas
 |[Advanced Certificate in Technical Fundamentals of Cybersecurity Module 4: Introduction to 5G Networks](https://academy.smu.edu.sg/advanced-certificate-technical-fundamentals-cybersecurity-module-4-introduction-5g-networks-5231){:target="_blank" rel="noopener"}  | SMU | Basic | 31 hrs |
 |[Designing Intelligent Edge Computing ](https://www.iss.nus.edu.sg/executive-education/course/detail/designing-intelligent-edge--computing/software-systems){:target="_blank" rel="noopener"}  | NUS | Advanced | 26 hrs |
 |[Envisioning 5G IoT Solutions](https://www.iss.nus.edu.sg/executive-education/course/detail/Envisioning-5G-IoT-Solutions/software-systems){:target="_blank" rel="noopener"}  | NUS | Basic | 19.5 hrs |
-|Fundamentals of Applied Electromagnetics | SUSS | Basic | 18 hrs |
+|[Fundamentals of Applied Electromagnetics](https://www.suss.edu.sg/courses/detail/eng205){:target="_blank" rel="noopener"}  | SUSS | Basic | 18 hrs |
 |[Humanizing Smart Systems](https://www.iss.nus.edu.sg/executive-education/course/detail/humanizing-smart--systems/software-systems){:target="_blank" rel="noopener"}  | NUS | Intermediate | 26 hrs |
 |[Introduction to 5G Technology and Applications](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-register/introduction-to-5g-technology-and-applications){:target="_blank" rel="noopener"}  | SP | Basic | 16 hrs |
 |[IoT & 5G Security](https://www.iss.nus.edu.sg/executive-education/course/detail/iot-5g-security/software-systems){:target="_blank" rel="noopener"}  | NUS | Intermediate | 19.5 hrs |

@@ -35,19 +35,19 @@ sections:
       subtitle: Learn more
       button: View More
   - infopic:
-      title: VMworld 2021
-      subtitle: Upcoming Event 5 - 7 Oct 2021
-      description: "DATE: 5 - 7 OCT 2021"
+      title: RINC 2021 <br>(Regional Industry Networking Conference)
+      subtitle: Upcoming Event 17 Nov 2021
+      description: "DATE: 17 NOV 2021"
       button: Find Out More
-      url: /resources/events/vmworld-2021 "target=_blank"
-      image: /images/events/events/VMworld%20Image.png
-      alt: VMworld2021-image
+      url: /resources/events/RINC2021 "target=_blank"
+      image: /images/events/events/RINC%202021.jpg
+      alt: RINC2021-image
   - infopic:
-      title: 5G & AIoT Centre Launch
-      subtitle: Upcoming Event - 17 Nov 2021
-      description: "DATE: 17 NOV 2021 <br> VENUE: Singapore Polytechnic"
+      title: 5G Learning Journey
+      subtitle: Regular event
+      description: "(BY APPOINTMENT ONLY) <br> VENUE: Singapore Polytechnic"
       button: Find Out More
-      url: resources/events/aiot "target=_blank"
+      url: /resources/events/5G-learning-journey "target=_blank"
       image: /images/AIoT%20Centre_1.png
       alt: 5gandaiot-image
 ---
