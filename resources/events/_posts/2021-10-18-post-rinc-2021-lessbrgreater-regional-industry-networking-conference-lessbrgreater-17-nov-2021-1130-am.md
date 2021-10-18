@@ -7,12 +7,13 @@ layout: post
 ---
 # About the Event
 
-The future of many innovative and transformative enterprise solutions rely on the convergence and adoption of 5G technology and Artificial Intelligence of Things (AIoT). The former enables seamless network connectivity with low latency and ultra-high reliability, while the latter allows edge devices to become ever-smarter and more intuitive, not just as data generators but as aggregators, communicators, and decision-makers.
-
-Come join us at the Regional Industry Networking Conference (RINC) 2021 on 17 Nov to explore exciting solutions that would be beneficial to you and your business. 
-
 RINC is an iconic annual industry event organised by Singapore Polytechnic since 2002. During this time, RINC has seen thousands of industry participants networking and gathering to learn about the latest technologies from over 100 speakers and companies.
 
+In this year’s edition, RINC 2021 will focus on 5G and Artificial Intelligence of Things (AIoT) for the Enterprises – including how 5G & AIoT can be applied in the advanced manufacturing and built-environment sectors to bring about industry and community transformation. 
+
+Distinguished speakers from Ericsson and Singtel will share their insights on how 5G transforms businesses locally and internationally as well as what it takes for businesses to embark on this transformative journey towards a digital and intelligent future.
+
+Come join us at the Regional Industry Networking Conference (RINC) 2021 on 17 Nov to explore exciting solutions that would be beneficial to you and your business. 
 # Details
 **DATE: 17 NOVEMBER 2021 <br> 
 TIME: 11.30 am - 1.00 pm <br> 
