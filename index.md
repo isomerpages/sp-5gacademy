@@ -45,7 +45,7 @@ sections:
   - infopic:
       title: 5G Learning Journey
       subtitle: Upcoming Event - 17 Nov 2021
-      description: "DATE: 17 NOV 2021 <br> VENUE: Singapore Polytechnic"
+      description: "By Appointment Only <br> VENUE: Singapore Polytechnic"
       button: Find Out More
       url: resources/events/aiot "target=_blank"
       image: /images/AIoT%20Centre_1.png
