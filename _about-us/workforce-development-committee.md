@@ -6,20 +6,20 @@ permalink: /about-us/wdc
 | -------- | -------- |  -------- | 
 |Mr Suresh H Punjabi     |National University of Singapore     | 
 |Mr Loh Yew Chiong     |Singapore Polytechnic     | 
-|Mr Jeremy Lim     |Cisco Systems (USA) Pte Ltd     |  
-|Mr Reuben Yap     | Cisco Systems (USA) Pte Ltd     |  
+|Mr Jeremy Lim     |Cisco Systems  |  
+|Mr Reuben Yap     | Cisco Systems |  
 |Mr Andy Sim     |Dell Technologies     | 
 |Mr Eric Seow     |Dell Technologies     | 
-|Mr Raymond Soh     | Ericsson | 
+|Mr Raymond Soh     | Ericsson Telecommunications Pte Ltd | 
 |Ms Ng Chiang Choon |IBM Singapore     |  
 |Ms Joan Yeo| IBM Singapore     |
-|Mr Teddy Pramono     | Micron | 
-|Mr Henry Suseno Nilam     | Micron | 
-|Ms Esther Liang | Micron | 
+|Mr Teddy Pramono     | Micron Semiconductor Asia Pte Ltd  | 
+|Mr Henry Suseno Nilam     | Micron Semiconductor Asia Pte Ltd | 
+|Ms Esther Liang | Micron Semiconductor Asia Pte Ltd  | 
 |Dr Paul Wang     | NEC Asia Pacific Pte Ltd | 
-|Mr Benjamin Moey     | Siemens Pte Ltd | 
-|Mr Adrian Hia    |VMware | 
-|Ms Lai Lock See| VMware | 
+|Mr Benjamin Moey     | Siemens Singapore | 
+|Mr Adrian Hia  |VMware Singapore Pte Ltd | 
+|Ms Lai Lock See| VMware Singapore Pte Ltd | 
 
 <br />
 <br />

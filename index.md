@@ -50,4 +50,12 @@ sections:
       url: /resources/events/5G-learning-journey "target=_blank"
       image: /images/AIoT%20Centre_1.png
       alt: 5gandaiot-image
+  - infopic:
+      title: Shaping Cities Using Urban Digital Twin
+      subtitle: Upcoming Event 30 Nov 2021
+      description: "DATE: 30 NOV 2021"
+      button: Find Out More
+      url: /resources/events/Urban-Digital-Twin
+      image: /images/events/events/Urban%20Digital%20Twin.png
+      alt: Urban-Digital-Twin-image
 ---

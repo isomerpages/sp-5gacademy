@@ -31,4 +31,4 @@ permalink: /about-us/cpc
 | Dr Simon Tan Kian Hwa     | Member   |  Singapore Polytechnic   |
 | Dr Tan Kwee Teck     | Member   |  Singapore Polytechnic   |
 | Mr Toh Ser Khoon     | Member   |  Singapore Polytechnic   |
-| Dr Zhang Jiangwen    | Member   | National University of Singapore   |
+| Dr Zhang Jianwen    | Member   | National University of Singapore   |
