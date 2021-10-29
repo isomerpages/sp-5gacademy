@@ -17,9 +17,9 @@ permalink: /about-us/wdc
 |Mr Henry Suseno Nilam     | Micron Semiconductor Asia Pte Ltd | 
 |Ms Esther Liang | Micron Semiconductor Asia Pte Ltd  | 
 |Dr Paul Wang     | NEC Asia Pacific Pte Ltd | 
-|Mr Benjamin Moey     | Siemens Pte Ltd | 
-|Mr Adrian Hia    |VMware | 
-|Ms Lai Lock See| VMware | 
+|Mr Benjamin Moey     | Siemens Singapore | 
+|Mr Adrian Hia  |VMware Singapore Pte Ltd | 
+|Ms Lai Lock See| VMware Singapore Pte Ltd | 
 
 <br />
 <br />
