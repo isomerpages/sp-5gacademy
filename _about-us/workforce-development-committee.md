@@ -6,8 +6,8 @@ permalink: /about-us/wdc
 | -------- | -------- |  -------- | 
 |Mr Suresh H Punjabi     |National University of Singapore     | 
 |Mr Loh Yew Chiong     |Singapore Polytechnic     | 
-|Mr Jeremy Lim     |Cisco Systems (USA) Pte Ltd     |  
-|Mr Reuben Yap     | Cisco Systems (USA) Pte Ltd     |  
+|Mr Jeremy Lim     |Cisco Systems  |  
+|Mr Reuben Yap     | Cisco Systems |  
 |Mr Andy Sim     |Dell Technologies     | 
 |Mr Eric Seow     |Dell Technologies     | 
 |Mr Raymond Soh     | Ericsson | 
