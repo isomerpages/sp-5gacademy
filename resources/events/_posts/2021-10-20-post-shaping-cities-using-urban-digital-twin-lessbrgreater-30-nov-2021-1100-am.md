@@ -1,9 +1,10 @@
 ---
 title: Shaping Cities Using Urban Digital Twin <br> 30 Nov 2021, 11:00 am
-date: 2021-10-17
+date: 2021-10-20
 permalink: /resources/events/Urban-Digital-Twin
 layout: post
 ---
+
 # About the Event
 
 Cities around the world are increasingly integrating socio-technical data to transform their urban systems toward digital city systems. As the world continues to urbanise, convergent science, engineering and policy for urban systems are needed to ensure such transformative developments are, in fact, creating sustainable urban systems that benefit the citizens and societies at large.

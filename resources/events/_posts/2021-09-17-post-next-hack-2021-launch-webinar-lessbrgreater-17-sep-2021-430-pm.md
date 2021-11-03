@@ -1,9 +1,10 @@
 ---
 title: Next Hack 2021 Launch Webinar <br> 17 Sep 2021, 4:30 pm
-date: 2021-10-16
+date: 2021-09-17
 permalink: /resources/events/nexthack2021
 layout: post
 ---
+
 
 
 

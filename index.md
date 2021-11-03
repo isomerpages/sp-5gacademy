@@ -37,7 +37,7 @@ sections:
   - infopic:
       title: RINC 2021 <br>(Regional Industry Networking Conference)
       subtitle: Upcoming Event 17 Nov 2021
-      description: "DATE: 17 NOV 2021"
+      description: "DATE: 17 NOV 2021 <br> TIME: 11:30 am - 1:00 pm"
       button: Find Out More
       url: /resources/events/RINC2021 "target=_blank"
       image: /images/events/events/RINC%202021.jpg
@@ -53,9 +53,17 @@ sections:
   - infopic:
       title: Shaping Cities Using Urban Digital Twin
       subtitle: Upcoming Event 30 Nov 2021
-      description: "DATE: 30 NOV 2021"
+      description: "DATE: 30 NOV 2021 <br> TIME: 11:00 am - 12:00 pm"
       button: Find Out More
       url: /resources/events/Urban-Digital-Twin
       image: /images/events/events/Urban%20Digital%20Twin.png
       alt: Urban-Digital-Twin-image
+  - infopic:
+      title: BYOND MOBILE
+      subtitle: Upcoming Event 9 Nov 2021
+      description: "DATE: 9 NOV 2021 <br> TIME: 5:00 pm - 6:00 pm"
+      button: Find Out More
+      url: /resources/events/Byond-Mobile
+      image: /images/events/events/Byond_Mobile.jpg
+      alt: Beyond Mobile
 ---

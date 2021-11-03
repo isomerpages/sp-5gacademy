@@ -1,9 +1,11 @@
 ---
 title: VMworld 2021 <br> 5 - 7 Oct 2021
-date: 2021-09-10
+date: 2021-10-05
 permalink: /resources/events/vmworld-2021
 layout: post
 ---
+
+
 
 
 

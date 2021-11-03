@@ -1,9 +1,10 @@
 ---
 title: "5G: Ushering a New Era in Mobile Technology <br> 15 Jul 2021, 10:00 am"
-date: 2021-09-23
+date: 2021-07-15
 permalink: /resources/events/newera
 layout: post
 ---
+
 
 # About the Event
 
