@@ -61,7 +61,7 @@ sections:
   - infopic:
       title: BYOND MOBILE
       subtitle: Upcoming Event 9 Nov 2021
-      description: "DATE: 9 NOV 2021 <br> TIME: 4:00 pm - 5:00 pm"
+      description: "DATE: 9 NOV 2021 <br> TIME: 5:00 pm - 6:00 pm"
       button: Find Out More
       url: /resources/events/Byond-Mobile
       image: /images/events/events/Byond_Mobile.jpg
