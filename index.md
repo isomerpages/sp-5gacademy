@@ -53,7 +53,7 @@ sections:
   - infopic:
       title: Shaping Cities Using Urban Digital Twin
       subtitle: Upcoming Event 30 Nov 2021
-      description: "DATE: 30 NOV 2021"
+      description: "DATE: 30 NOV 2021 <br> TIME: 11:00 am - 12:00 pm"
       button: Find Out More
       url: /resources/events/Urban-Digital-Twin
       image: /images/events/events/Urban%20Digital%20Twin.png
