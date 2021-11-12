@@ -2,5 +2,5 @@ collections:
   flagship-programmes:
     output: true
     order:
-      - Operation & Technology Roadmapping (OTR).md
       - Career Conversion Programme (CCP).md
+      - Operation & Technology Roadmapping (OTR).md
