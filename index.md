@@ -13,9 +13,9 @@ sections:
       button: click here to enquire
       url: https://form.gov.sg/#!/60fc3172d0fde7001257e316" target="_blank
       key_highlights:
-        - title: About Us
-          description: ""
-          url: /about-us/steering-comm
+        - title: Flagship Programmes
+          description: 3 programmes to choose from
+          url: /flagship-programmes
         - title: Courses
           description: "> 500 courses to choose from"
           url: /courses/5gtelecoms
@@ -34,6 +34,14 @@ sections:
       title: Resources
       subtitle: Learn more
       button: View More
+  - infopic:
+      title: Career Conversion Programme (CCP)
+      subtitle: Flagship Programme
+      description: (Application is now open)
+      button: Find Out More
+      url: /flagship-programmes/CCP
+      image: /images/flagship-programmes/CCP_Part%205.png
+      alt: Image alt text
   - infopic:
       title: RINC 2021 <br>(Regional Industry Networking Conference)
       subtitle: Upcoming Event 17 Nov 2021
@@ -58,12 +66,4 @@ sections:
       url: /resources/events/Urban-Digital-Twin
       image: /images/events/events/Urban%20Digital%20Twin.png
       alt: Urban-Digital-Twin-image
-  - infopic:
-      title: Byond Mobile - <br> 5G in Smart City
-      subtitle: Upcoming Event 9 Nov 2021
-      description: "DATE: 9 NOV 2021 <br> TIME: 5:00 pm - 6:00 pm"
-      button: Find Out More
-      url: /resources/events/Byond-Mobile
-      image: /images/events/events/Byond_Mobile.jpg
-      alt: Beyond Mobile
 ---

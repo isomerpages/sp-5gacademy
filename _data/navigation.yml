@@ -4,9 +4,11 @@ links:
     collection: about-us
   - title: Courses
     collection: courses
-  - title: Training Partners
-    url: /training-partners
+  - title: Flagship Programmes
+    collection: flagship-programmes
   - title: Resources
     resource_room: true
+  - title: Training Partners
+    url: /training-partners
   - title: Contact Us
     url: /contact-us/

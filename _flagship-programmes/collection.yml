@@ -1,0 +1,7 @@
+collections:
+  flagship-programmes:
+    output: true
+    order:
+      - Career Conversion Programme (CCP).md
+      - Operation & Technology Roadmapping (OTR).md
+      - Training Needs Analysis (TNA).md
