@@ -58,4 +58,12 @@ sections:
       url: /resources/events/Urban-Digital-Twin
       image: /images/events/events/Urban%20Digital%20Twin.png
       alt: Urban-Digital-Twin-image
+  - infopic:
+      title: Career Conversion Programme
+      subtitle: Flagship Programme
+      description: (Application is now open)
+      button: Find Out More
+      url: /flagship-programmes/CCP
+      image: /images/flagship-programmes/CCP_Part%205.png
+      alt: Image alt text
 ---
