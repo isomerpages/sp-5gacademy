@@ -1,4 +1,5 @@
 collections:
   flagship-programmes:
     output: true
-    order: []
+    order:
+      - Career Conversion Programme (CCP).md
