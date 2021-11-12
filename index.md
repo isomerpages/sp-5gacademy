@@ -35,6 +35,14 @@ sections:
       subtitle: Learn more
       button: View More
   - infopic:
+      title: Career Conversion Programme
+      subtitle: Flagship Programme
+      description: (Application is now open)
+      button: Find Out More
+      url: /flagship-programmes/CCP
+      image: /images/flagship-programmes/CCP_Part%205.png
+      alt: Image alt text
+  - infopic:
       title: RINC 2021 <br>(Regional Industry Networking Conference)
       subtitle: Upcoming Event 17 Nov 2021
       description: "DATE: 17 NOV 2021 <br> TIME: 11:30 am - 1:00 pm"
@@ -58,12 +66,4 @@ sections:
       url: /resources/events/Urban-Digital-Twin
       image: /images/events/events/Urban%20Digital%20Twin.png
       alt: Urban-Digital-Twin-image
-  - infopic:
-      title: Career Conversion Programme
-      subtitle: Flagship Programme
-      description: (Application is now open)
-      button: Find Out More
-      url: /flagship-programmes/CCP
-      image: /images/flagship-programmes/CCP_Part%205.png
-      alt: Image alt text
 ---
