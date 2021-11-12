@@ -14,7 +14,7 @@ sections:
       url: https://form.gov.sg/#!/60fc3172d0fde7001257e316" target="_blank
       key_highlights:
         - title: Flagship Programmes
-          description: For enabling businesses
+          description: 3 programmes to choose from
           url: /flagship-programmes
         - title: Courses
           description: "> 500 courses to choose from"
