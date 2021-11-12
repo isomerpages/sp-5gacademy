@@ -35,7 +35,7 @@ sections:
       subtitle: Learn more
       button: View More
   - infopic:
-      title: Career Conversion Programme
+      title: Career Conversion Programme (CCP)
       subtitle: Flagship Programme
       description: (Application is now open)
       button: Find Out More
