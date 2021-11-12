@@ -13,9 +13,9 @@ sections:
       button: click here to enquire
       url: https://form.gov.sg/#!/60fc3172d0fde7001257e316" target="_blank
       key_highlights:
-        - title: About Us
+        - title: Flagship Programmes
           description: ""
-          url: /about-us/steering-comm
+          url: /flagship-programmes
         - title: Courses
           description: "> 500 courses to choose from"
           url: /courses/5gtelecoms
