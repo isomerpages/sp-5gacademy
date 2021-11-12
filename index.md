@@ -58,12 +58,4 @@ sections:
       url: /resources/events/Urban-Digital-Twin
       image: /images/events/events/Urban%20Digital%20Twin.png
       alt: Urban-Digital-Twin-image
-  - infopic:
-      title: Byond Mobile - <br> 5G in Smart City
-      subtitle: Upcoming Event 9 Nov 2021
-      description: "DATE: 9 NOV 2021 <br> TIME: 5:00 pm - 6:00 pm"
-      button: Find Out More
-      url: /resources/events/Byond-Mobile
-      image: /images/events/events/Byond_Mobile.jpg
-      alt: Beyond Mobile
 ---
