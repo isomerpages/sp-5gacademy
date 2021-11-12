@@ -35,4 +35,4 @@ VENUE: via Zoom**
 
 <center><a href="https://bit.ly/3BFnW1E " target="_blank"><button id="register" class="btn">Register Now</button></a></center>
 
-Thank you for your interest. This webinar is over. 
+Thank you for your interest. This webinar now is over.
