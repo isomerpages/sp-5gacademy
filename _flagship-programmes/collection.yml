@@ -1,0 +1,4 @@
+collections:
+  flagship-programmes:
+    output: true
+    order: []
