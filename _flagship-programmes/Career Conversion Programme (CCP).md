@@ -9,4 +9,4 @@ description: Career Conversion Programme
 ![CCP Part 4](/images/flagship-programmes/CCP_Part%204.png)
 ![CCP Part 5](/images/flagship-programmes/CCP_Part%205.png)
 ![CCP Part 6](/images/flagship-programmes/CCP_Part%206.png)
-![CCP Part 7](/images/flagship-programmes/CCP_Part%207.png)
+![CCP Part 7](/images/flagship-programmes/Part%207%20-%20Edit.png)
