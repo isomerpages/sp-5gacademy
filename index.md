@@ -36,7 +36,7 @@ sections:
       button: View More
   - infopic:
       title: Career Conversion Programme (CCP)
-      subtitle: Flagship Programme
+      subtitle: Manpower Solutions
       description: (Application is now open)
       button: Find Out More
       url: /flagship-programmes/CCP
