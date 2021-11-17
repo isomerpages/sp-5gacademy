@@ -13,9 +13,9 @@ sections:
       button: click here to enquire
       url: https://form.gov.sg/#!/60fc3172d0fde7001257e316" target="_blank
       key_highlights:
-        - title: Flagship Programmes
+        - title: Manpower Solutions
           description: 3 programmes to choose from
-          url: /flagship-programmes
+          url: /flagship-programmes/ccp
         - title: Courses
           description: "> 500 courses to choose from"
           url: /courses/5gtelecoms
@@ -36,7 +36,7 @@ sections:
       button: View More
   - infopic:
       title: Career Conversion Programme (CCP)
-      subtitle: Flagship Programme
+      subtitle: Manpower Solutions
       description: (Application is now open)
       button: Find Out More
       url: /flagship-programmes/CCP
