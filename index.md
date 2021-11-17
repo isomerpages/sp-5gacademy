@@ -13,7 +13,7 @@ sections:
       button: click here to enquire
       url: https://form.gov.sg/#!/60fc3172d0fde7001257e316" target="_blank
       key_highlights:
-        - title: Flagship Programmes
+        - title: Capability Building
           description: 3 programmes to choose from
           url: /flagship-programmes
         - title: Courses
