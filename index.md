@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Manpower Solutions
           description: 3 programmes to choose from
-          url: /flagship-programmes
+          url: /flagship-programmes/ccp
         - title: Courses
           description: "> 500 courses to choose from"
           url: /courses/5gtelecoms
