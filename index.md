@@ -43,14 +43,6 @@ sections:
       image: /images/manpower-solutions/5G%20CCP%20Cover%20Image-S.png
       alt: Image alt text
   - infopic:
-      title: RINC 2021 <br>(Regional Industry Networking Conference)
-      subtitle: Upcoming Event 17 Nov 2021
-      description: "DATE: 17 NOV 2021 <br> TIME: 11:30 am - 1:00 pm"
-      button: Find Out More
-      url: /resources/events/RINC2021 "target=_blank"
-      image: /images/events/events/RINC%202021.jpg
-      alt: RINC2021-image
-  - infopic:
       title: 5G Learning Journey
       subtitle: Regular event
       description: "(BY APPOINTMENT ONLY) <br> VENUE: Singapore Polytechnic"
