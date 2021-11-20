@@ -66,4 +66,12 @@ sections:
       url: /manpower-solutions/OTR
       image: /images/manpower-solutions/OTR-Cover%20Image-S.png
       alt: Image alt text
+  - infopic:
+      title: Training Needs Analysis (TNA)
+      subtitle: Manpower Solutions
+      description: (Application is now open)
+      button: Find Out More
+      url: /manpower-solutions/TNA
+      image: /images/manpower-solutions/TNA-Cover%20Image-S.png
+      alt: Image alt text
 ---
