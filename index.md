@@ -39,7 +39,7 @@ sections:
       subtitle: Manpower Solutions
       description: (Application is now open)
       button: Find Out More
-      url: /flagship-programmes/CCP
+      url: /manpower-solutions/CCP
       image: /images/manpower-solutions/5G%20CCP%20Cover%20Image-S.png
       alt: Image alt text
   - infopic:
