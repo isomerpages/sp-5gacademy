@@ -40,7 +40,7 @@ sections:
       description: (Application is now open)
       button: Find Out More
       url: /flagship-programmes/CCP
-      image: /images/flagship-programmes/CCP_Part%205.png
+      image: /images/manpower-solutions/5G%20CCP%20Cover%20Image-S.png
       alt: Image alt text
   - infopic:
       title: RINC 2021 <br>(Regional Industry Networking Conference)
