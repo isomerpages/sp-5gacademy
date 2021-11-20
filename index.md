@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Manpower Solutions
           description: 3 programmes to choose from
-          url: /flagship-programmes/ccp
+          url: /manpower-solutions/ccp
         - title: Courses
           description: "> 500 courses to choose from"
           url: /courses/5gtelecoms
@@ -39,17 +39,25 @@ sections:
       subtitle: Manpower Solutions
       description: (Application is now open)
       button: Find Out More
-      url: /flagship-programmes/CCP
-      image: /images/flagship-programmes/CCP_Part%205.png
+      url: /manpower-solutions/CCP
+      image: /images/manpower-solutions/5G%20CCP%20Cover%20Image-S.png
       alt: Image alt text
   - infopic:
-      title: RINC 2021 <br>(Regional Industry Networking Conference)
-      subtitle: Upcoming Event 17 Nov 2021
-      description: "DATE: 17 NOV 2021 <br> TIME: 11:30 am - 1:00 pm"
+      title: Operation & Technology Roadmapping (OTR)
+      subtitle: Manpower Solutions
+      description: (Application is now open)
       button: Find Out More
-      url: /resources/events/RINC2021 "target=_blank"
-      image: /images/events/events/RINC%202021.jpg
-      alt: RINC2021-image
+      url: /manpower-solutions/OTR
+      image: /images/manpower-solutions/OTR-Cover%20Image-S.png
+      alt: Image alt text
+  - infopic:
+      title: Training Needs Analysis (TNA)
+      subtitle: Manpower Solutions
+      description: (Application is now open)
+      button: Find Out More
+      url: /manpower-solutions/TNA
+      image: /images/manpower-solutions/TNA-Cover%20Image-S.png
+      alt: Image alt text
   - infopic:
       title: 5G Learning Journey
       subtitle: Regular event

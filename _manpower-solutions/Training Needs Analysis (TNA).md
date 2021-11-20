@@ -1,7 +1,7 @@
 ---
 title: Training Needs Analysis (TNA)
-permalink: /flagship-programmes/TNA
+permalink: /manpower-solutions/TNA
 description: Training Needs Analysis
 ---
 
-![Alt text for image on Isomer site](/images/banners-and-logos/Website%20Event%20Placeholder.png)
+![Training Needs Analysis (TNA)](/images/manpower-solutions/TNA-S.png)

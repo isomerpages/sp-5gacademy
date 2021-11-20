@@ -5,7 +5,6 @@ date: 2021-10-18
 permalink: /resources/events/RINC2021
 layout: post
 ---
-
 # About the Event
 
 RINC is an iconic annual industry event organised by Singapore Polytechnic since 2002. During this time, RINC has seen thousands of industry participants networking and gathering to learn about the latest technologies from over 100 speakers and companies.
@@ -41,3 +40,5 @@ VENUE: via Zoom**
 </style>
 
 <center><a href="https://forms.office.com/pages/responsepage.aspx?id=Av8Edtir20WMrFUAVDI_yXbq6I4gol9Ll2SAZeoME79UQ0VLQ0NURDdaVUMzNE1LSDBYS0NZMUhZNi4u" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
+
+Thank you for your interest. This event is over. <br> If you have any questions, please contact event host: Singapore Polytechnic
