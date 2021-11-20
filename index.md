@@ -66,4 +66,12 @@ sections:
       url: /resources/events/Urban-Digital-Twin
       image: /images/events/events/Urban%20Digital%20Twin.png
       alt: Urban-Digital-Twin-image
+  - infopic:
+      title: Operation & Technology Roadmapping (OTR)
+      subtitle: Manpower Solutions
+      description: (Application is now open)
+      button: Find Out More
+      url: /manpower-solutions/OTR
+      image: /images/manpower-solutions/OTR-Cover%20Image-S.png
+      alt: Image alt text
 ---
