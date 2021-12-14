@@ -4,9 +4,4 @@ date: 2021-10-18
 permalink: /resources/events/5G-learning-journey
 layout: post
 ---
-
-
-
-
-
-![ComingSoon](/images/banners-and-logos/Website%20Event%20Placeholder.png)
+![Update in progress](/images/banners-and-logos/Webpage%20Update-S.png)
