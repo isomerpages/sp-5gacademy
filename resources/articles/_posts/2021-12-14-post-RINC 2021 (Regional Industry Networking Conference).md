@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: /images/events/events/RINC%202021.jpg
 ---
-# RINC 2021 -
-### 5G and Artificial Intelligence of Things (AIoT) for the Enterprises
+# RINC 2021 -## 5G and Artificial Intelligence of Things (AIoT) for the Enterprises
 
 ![RINC 2021](/images/events/events/RINC%202021.jpg)
 
@@ -15,7 +14,7 @@ The Regional Industry Networking Conference (RINC) 2021, held on 17 Nov 2021 as 
 
 Minister of Communications and Information (MCI), Ms Josephine Teo, was the Guest of Honour (GOH) for the launch of 5G & AIoT Centre and 5G Learning Journey at RINC 2021. Invited guests from MCI, IMDA, Singtel, Ericsson, NUS and SMEs also attended the event. Distinguished speakers, Mr Tay Yeow Lian, Managing Director, Networks, Consumer Singapore, Singtel, and Mr Martin Wiktorin, President, Ericsson, Singapore, Brunei and Philippines, shared their insights on how 5G transformed businesses locally and internationally as well as what it would take for businesses to embark on the transformative journey towards a digital and intelligent future. 
 
-Media coverage of the event may be viewed from the links below: <br>
+**Media coverage of the event may be viewed from the links below:** <br>
 1. [RINC 2021 - YouTube](https://www.youtube.com/watch?app=desktop&v=DYSRPKzNt-A)
 2. [Development centre aims to get more firms started on 5G transformation – Channel NewsAsia, 17 November 2021 ](https://www.mewatch.sg/watch/CNA-2021-E1253-Development-centre-aims-to-get-more-firms-started-on-5G-transformation-254562?redirect=true)
 3. [逾3000人通过加快培训专才计划接受5G科技相关培训 - YouTube](https://www.youtube.com/watch?app=desktop&v=AnJfHK_CH6Y)
