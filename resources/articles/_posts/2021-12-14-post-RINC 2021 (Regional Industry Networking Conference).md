@@ -6,7 +6,8 @@ layout: post
 description: ""
 image: /images/events/events/RINC%202021.jpg
 ---
-### RINC 2021 <br> 5G and Artificial Intelligence of Things (AIoT) for the Enterprises
+# RINC 2021
+### <br> 5G and Artificial Intelligence of Things (AIoT) for the Enterprises
 
 ![RINC 2021](/images/events/events/RINC%202021.jpg)
 
