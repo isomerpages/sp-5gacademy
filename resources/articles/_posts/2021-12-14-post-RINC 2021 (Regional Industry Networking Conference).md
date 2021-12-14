@@ -16,11 +16,11 @@ The Regional Industry Networking Conference (RINC) 2021, held on 17 Nov 2021 as 
 Minister of Communications and Information (MCI), Ms Josephine Teo, was the Guest of Honour (GOH) for the launch of 5G & AIoT Centre and 5G Learning Journey at RINC 2021. Invited guests from MCI, IMDA, Singtel, Ericsson, NUS and SMEs also attended the event. Distinguished speakers, Mr Tay Yeow Lian, Managing Director, Networks, Consumer Singapore, Singtel, and Mr Martin Wiktorin, President, Ericsson, Singapore, Brunei and Philippines, shared their insights on how 5G transformed businesses locally and internationally as well as what it would take for businesses to embark on the transformative journey towards a digital and intelligent future. 
 
 Media coverage of the event may be viewed from the links below: <br>
-1. RINC 2021 - YouTube
-2. Development centre aims to get more firms started on 5G transformation – Channel NewsAsia, 17 November 2021 
-3. 逾3000人通过加快培训专才计划接受5G科技相关培训 - YouTube
-4. 过去一年逾3000人获5G科技培训 政府推出新网站提供5G课程 - 早报 (zaobao.com.sg)
-5. 'Rapid progress' made with 3,000 S'poreans trained in 5G skills in national drive, Tech News News & Top Stories - The Straits Times
+1. [RINC 2021 - YouTube](https://www.youtube.com/watch?app=desktop&v=DYSRPKzNt-A)
+2. [Development centre aims to get more firms started on 5G transformation – Channel NewsAsia, 17 November 2021 ](https://www.mewatch.sg/watch/CNA-2021-E1253-Development-centre-aims-to-get-more-firms-started-on-5G-transformation-254562?redirect=true)
+3. [逾3000人通过加快培训专才计划接受5G科技相关培训 - YouTube](https://www.youtube.com/watch?app=desktop&v=AnJfHK_CH6Y)
+4. [过去一年逾3000人获5G科技培训 政府推出新网站提供5G课程 - 早报 (zaobao.com.sg)](https://www.zaobao.com.sg/realtime/singapore/story20211117-1214334)
+5. ['Rapid progress' made with 3,000 S'poreans trained in 5G skills in national drive, Tech News News & Top Stories - The Straits Times](https://www.straitstimes.com/tech/tech-news/fast-progress-made-with-3000-sporeans-trained-in-5g-skills-in-national-drive)
 
 
 **About 5G & AIoT Centre**<br>
