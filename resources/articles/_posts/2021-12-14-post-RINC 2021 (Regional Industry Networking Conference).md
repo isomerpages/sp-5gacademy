@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: /images/events/events/RINC%202021.jpg
 ---
-# RINC 2021 <br> 5G and Artificial Intelligence of Things (AIoT) for the Enterprises
+# RINC 2021 <br>* 5G and Artificial Intelligence of Things (AIoT) for the Enterprises*
 ![RINC 2021](/images/events/events/RINC%202021.jpg)
 
 The Regional Industry Networking Conference (RINC) 2021, held on 17 Nov 2021 as a hybrid event, was a huge success. As with past RINC events, its objective was to provide a platform for local and regional participants to share and discuss industry trends and the latest developments and innovations in the various areas of engineering. RINC 2021 focussed on the theme, **5G and Artificial Intelligence of Things (AIoT) for the Enterprises**, including how 5G & AIoT can be applied in the advanced manufacturing, smart estate/building as well as green and sustainable solutions to bring about industry and community transformation.  It included a learning journey to show participants the pervasive connectivity, architecture and technologies needed to deploy a large scale AIoT ecosystem sustainably. Various 5G & AIoT applications and use cases were also presented.  
