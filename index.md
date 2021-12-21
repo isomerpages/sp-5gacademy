@@ -7,8 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Singapore 5G & Telecoms Academy
-      subtitle: Charting Singapore's 5G & Telecoms manpower development with you
       background: /images/banners-and-logos/5G%20Academy%20Christmas%202021.png
       button: click here to enquire
       url: https://form.gov.sg/#!/60fc3172d0fde7001257e316" target="_blank
