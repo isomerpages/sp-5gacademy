@@ -23,7 +23,6 @@ sections:
         - title: Resources
           description: Events and Media Stories
           url: /resources
-      title: May your holiday season <br> be wrapped up with joy!
   - infobar:
       title: Manpower Development in <br>5G & Related Technologies
       subtitle: What we offer
