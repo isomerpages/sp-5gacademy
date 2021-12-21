@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banners-and-logos/5G%20Academy%20Web%20Banner_BLANK.png
+      background: /images/banners-and-logos/5G%20Academy%20Web%20Banner%20_Split%20Text.png
       button: click here to enquire
       url: https://form.gov.sg/#!/60fc3172d0fde7001257e316" target="_blank
       key_highlights:
