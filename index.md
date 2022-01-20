@@ -67,14 +67,6 @@ sections:
       image: /images/AIoT%20Centre_1.png
       alt: 5gandaiot-image
   - infopic:
-      title: Shaping Cities Using Urban Digital Twin
-      subtitle: Upcoming Event 30 Nov 2021
-      description: "DATE: 30 NOV 2021 <br> TIME: 11:00 am - 12:00 pm"
-      button: Find Out More
-      url: /resources/events/Urban-Digital-Twin
-      image: /images/events/events/Urban%20Digital%20Twin.png
-      alt: Urban-Digital-Twin-image
-  - infopic:
       title: Transforming Industrial Operations with ARVR
       subtitle: Upcoming Event 26 Jan 2022
       description: "DATE: 26 JAN 2022 (WED) <br> TIME: 2:30 pm - 4:30 pm"
