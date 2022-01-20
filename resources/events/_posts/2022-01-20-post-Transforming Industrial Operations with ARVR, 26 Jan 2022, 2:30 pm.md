@@ -11,7 +11,7 @@ IMDA PIXEL is bringing you a session on Transforming Industrial Operations with 
 
 In this second edition of a 3-part ARVR webinar series, hear how ARVR projects with organisations such as Lockheed Martin, DB Schenker and Caterpillar are making real business impact.
 
-Join us on Wednesday 26 January, 2:30pm to 4:30pm. Click on the image below, scan the QR code or click [here](https://imda-pixel.sg/event/302) to register. 
+Join us on Wednesday 26 January, 2:30pm to 4:30pm. <br> Scan the QR code in the picture below or click [here](https://imda-pixel.sg/event/302) to register. 
 
 # Details
 **DATE: 26 JANUARY 2022 <br> 
