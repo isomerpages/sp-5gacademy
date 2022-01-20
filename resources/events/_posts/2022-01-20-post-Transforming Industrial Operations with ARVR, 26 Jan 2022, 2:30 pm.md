@@ -39,4 +39,4 @@ VENUE: via Zoom**
 }
 </style>
 
-<center><a href="https://imda-pixel.sg/302/participation_form" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
+<center><a href="https://imda-pixel.sg/event/302" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
