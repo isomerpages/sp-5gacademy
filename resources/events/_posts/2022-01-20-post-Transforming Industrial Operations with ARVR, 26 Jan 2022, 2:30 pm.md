@@ -18,7 +18,6 @@ Join us on Wednesday 26 January, 2:30pm to 4:30pm.
 TIME: 2.30 pm - 4.30 pm <br> 
 VENUE: via Zoom**
 
-<br> Scan the QR code in the picture below or click [here](https://imda-pixel.sg/event/302) to register. 
 
 ![Transforming Industrial Operations with ARVR](/images/events/Transforming%20Industrial%20Operations%20with%20ARVR.png)
 
