@@ -74,4 +74,12 @@ sections:
       url: /resources/events/Urban-Digital-Twin
       image: /images/events/events/Urban%20Digital%20Twin.png
       alt: Urban-Digital-Twin-image
+  - infopic:
+      title: Transforming Industrial Operations with ARVR
+      subtitle: Regular Event
+      description: Infopic description
+      button: find out more
+      url: /resources/events/transforming-industrial-operations-with-arvr
+      image: /images/events/Transforming%20Industrial%20Operations%20with%20ARVR.png
+      alt: Industrial Ops ARVR
 ---
