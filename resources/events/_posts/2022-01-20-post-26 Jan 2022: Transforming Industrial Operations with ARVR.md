@@ -5,18 +5,11 @@ date: 2022-01-20
 layout: post
 description: ""
 ---
-
-
-
-
-
 # About the Event
 
 IMDA PIXEL is bringing you a session on Transforming Industrial Operations with ARVR, featuring speakers from Microsoft, PTC Vuforia, Realwear, SFX Corporation and a PIXEL alumni, Hiverlab! 
 
 In this second edition of a 3-part ARVR webinar series, hear how ARVR projects with organisations such as Lockheed Martin, DB Schenker and Caterpillar are making real business impact.
-
-Join us on Wednesday 26 January, 2:30pm to 4:30pm. 
 
 # Details
 **DATE: 26 JANUARY 2022 <br> 
