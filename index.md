@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banners-and-logos/Web%20Banner%203264%2072DPI-%20CNY-17Jan2021.png
+      background: /images/banners-and-logos/CNY2022.jpg
       button: click here to enquire
       url: https://form.gov.sg/#!/60fc3172d0fde7001257e316" target="_blank
       key_highlights:
