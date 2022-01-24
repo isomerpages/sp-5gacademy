@@ -1,10 +1,11 @@
 ---
-title: RINC 2021 <br> (Regional Industry Networking Conference) <br> 17 Nov
-  2021, 11:30 am
+title: "17 Nov 2021: RINC 2021 (Regional Industry Networking Conference)"
 date: 2021-10-18
 permalink: /resources/events/RINC2021
 layout: post
+description: ""
 ---
+
 # About the Event
 
 RINC is an iconic annual industry event organised by Singapore Polytechnic since 2002. During this time, RINC has seen thousands of industry participants networking and gathering to learn about the latest technologies from over 100 speakers and companies.

@@ -1,9 +1,11 @@
 ---
-title: Securing Your 5G Network <br> 28 Sep 2021, 11:00 pm
+title: "28 Sep 2021: Securing Your 5G Network"
 date: 2021-09-28
 permalink: /resources/events/securingyour5gnetwork
 layout: post
+description: ""
 ---
+
 
 
 

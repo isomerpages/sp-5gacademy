@@ -1,9 +1,11 @@
 ---
-title: Analytics and Visualisation Challenge 2021 <br> 10 Sep 2021, 1:30 pm
+title: "10 Sep 2021: Analytics and Visualisation Challenge 2021"
 date: 2021-09-10
 permalink: /resources/events/analytics
 layout: post
+description: ""
 ---
+
 
 
 # About the Event

@@ -1,9 +1,11 @@
 ---
-title: The Connectivity Needs of All Industries<br> 24 Aug 2021, 2:00 pm
+title: "24 Aug 2021: The Connectivity Needs of All Industries"
 date: 2021-08-24
 permalink: /resources/events/connectivity
 layout: post
+description: ""
 ---
+
 
 
 
