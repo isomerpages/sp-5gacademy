@@ -35,13 +35,13 @@ sections:
       subtitle: Learn more
       button: View More
   - infopic:
-      title: Transforming Industrial Operations with ARVR
-      subtitle: Upcoming Event 26 Jan 2022
-      description: "DATE: 26 JAN 2022 (WED) <br> TIME: 2:30 pm - 4:30 pm"
-      button: find out more
-      url: /resources/events/transforming-industrial-operations-with-arvr
-      image: /images/events/Transforming%20Industrial%20Operations%20with%20ARVR_Shortened.png
-      alt: Industrial Ops ARVR
+      title: Powering Brand Experiences with ARVR
+      subtitle: Upcoming Event 9 Feb 2022
+      description: "DATE: 9 FEB 2022 (WED) <br> TIME: 2:30 pm - 4:30 pm "
+      button: FIND OUT MORE
+      url: /resources/events/powering-brand-experience-with-arvr
+      image: /images/events/Powering%20Brand%20Experience%20with%20ARVR_Shortened.png
+      alt: Powering Brand Experiences
   - infopic:
       title: Career Conversion Programme (CCP)
       subtitle: Manpower Solutions
@@ -74,12 +74,4 @@ sections:
       url: /resources/events/5G-learning-journey "target=_blank"
       image: /images/AIoT%20Centre_1.png
       alt: 5gandaiot-image
-  - infopic:
-      title: Powering Brand Experiences with ARVR
-      subtitle: Upcoming Event 9 Feb 2022
-      description: "DATE: 9 FEB 2022 (WED) <br> TIME: 2:30 pm - 4:30 pm "
-      button: FIND OUT MORE
-      url: /resources/events/powering-brand-experience-with-arvr
-      image: /images/events/Powering%20Brand%20Experience%20with%20ARVR_Shortened.png
-      alt: Powering Brand Experiences
 ---
