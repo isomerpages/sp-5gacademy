@@ -38,3 +38,5 @@ VENUE: via Zoom**
 </style>
 
 <center><a href="https://imda-pixel.sg/event/302" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
+
+Thank you for your interest. This event is over.
