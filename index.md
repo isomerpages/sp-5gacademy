@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banners-and-logos/CNY2022.jpg
+      background: /images/banners-and-logos/Man_White_Orange_1.jpeg
       button: click here to enquire
       url: https://form.gov.sg/#!/60fc3172d0fde7001257e316" target="_blank
       key_highlights:
@@ -34,14 +34,6 @@ sections:
       title: Resources
       subtitle: Learn more
       button: View More
-  - infopic:
-      title: Powering Brand Experiences with ARVR
-      subtitle: Upcoming Event 9 Feb 2022
-      description: "DATE: 9 FEB 2022 (WED) <br> TIME: 2:30 pm - 4:30 pm "
-      button: FIND OUT MORE
-      url: /resources/events/powering-brand-experience-with-arvr
-      image: /images/events/Powering%20Brand%20Experience%20with%20ARVR_Shortened.png
-      alt: Powering Brand Experiences
   - infopic:
       title: Career Conversion Programme (CCP)
       subtitle: Manpower Solutions
