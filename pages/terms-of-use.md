@@ -2,8 +2,6 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-### **TERMS OF USE**
-
 Singapore Polytechnic maintains this website as a service to its students, staff and members of the public. We invite you to visit our site often and to browse through our pages. You can also download and copy materials for your personal or educational use, but please note the restrictions stated below.
 
 **Copyright © Singapore Polytechnic, 2009 - 2022. All rights reserved.**
