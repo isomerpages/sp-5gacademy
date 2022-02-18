@@ -2,16 +2,16 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-Singapore Polytechnic maintains this website as a service to its students, staff and members of the public. We invite you to visit our site often and to browse through our pages. You can also download and copy materials for your personal or educational use, but please note the restrictions stated below.
+Singapore Polytechnic maintains this website as a service to the public. We invite you to visit our site often and to browse through our pages. You can also download and copy materials for your personal or educational use, but please note the restrictions stated below.
 
-**Copyright © Singapore Polytechnic, 2009 - 2022. All rights reserved.**
+**Copyright © Singapore Polytechnic, 2021 - 2022. All rights reserved.**
 This website and its contents are subject to copyright protection under the laws of Singapore and, through international treaties, other countries. The copyright in the contents and materials available on this website as a whole is owned by the Polytechnic. However, the copyright in some contents and materials incorporated within this Website may be owned by third parties where so indicated.
 
 **Downloading of Software and/or Documentation**
 All software and/or documentation made available on this website for downloading is the copyrighted work of the relevant suppliers. Ownership of the software and documentation belongs to the copyright holder. Thus ownership is not transferred to you if you download. The use of any such software and/or documentation is subject to the terms of a license agreement as provided by the supplier of the software. Please read the license agreement when you are installing the software.
 
 **Use of Logo and Intellectual Property**
-Written permission must be obtained from Singapore Polytechnic for the use, copying, reproduction or redistribution of the Singapore Polytechnic logo.
+Written permission must be obtained from 5G Academy for the use, copying, reproduction or redistribution of the 5G Academy logo.
 
 Materials, including source code, pages, documents and online graphics, audio and video in this website are protected by law. The intellectual property rights in the materials is owned by or licensed to Singapore Polytechnic. All rights reserved.
 
