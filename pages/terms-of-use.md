@@ -11,7 +11,7 @@ This website and its contents are subject to copyright protection under the laws
 All software and/or documentation made available on this website for downloading is the copyrighted work of the relevant suppliers. Ownership of the software and documentation belongs to the copyright holder. Thus ownership is not transferred to you if you download. The use of any such software and/or documentation is subject to the terms of a license agreement as provided by the supplier of the software. Please read the license agreement when you are installing the software.
 
 **Use of Logo and Intellectual Property**
-Written permission must be obtained from 5G Academy for the use, copying, reproduction or redistribution of the 5G Academy logo.
+Written permission must be obtained from Singapore Polytechnic for the use, copying, reproduction or redistribution of the Singapore Polytechnic logo.
 
 Materials, including source code, pages, documents and online graphics, audio and video in this website are protected by law. The intellectual property rights in the materials is owned by or licensed to Singapore Polytechnic. All rights reserved.
 
