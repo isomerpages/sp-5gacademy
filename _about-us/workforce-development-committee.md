@@ -11,14 +11,14 @@ permalink: /about-us/wdc
 |Mr Andy Sim     |Dell Technologies     | 
 |Mr Eric Seow     |Dell Technologies     | 
 |Mr Raymond Soh     | Ericsson Telecommunications Pte Ltd | 
-|Ms Ng Chiang Choon |IBM Singapore     |  
+|Ms Ong Tun Kim |IBM Singapore     |  
 |Ms Joan Yeo| IBM Singapore     |
 |Mr Teddy Pramono     | Micron Semiconductor Asia Pte Ltd  | 
 |Mr Henry Suseno Nilam     | Micron Semiconductor Asia Pte Ltd | 
 |Ms Esther Liang | Micron Semiconductor Asia Pte Ltd  | 
 |Dr Paul Wang     | NEC Asia Pacific Pte Ltd | 
 |Mr Benjamin Moey     | Siemens Singapore | 
-|Mr Adrian Hia  |VMware Singapore Pte Ltd | 
+|Mr Jenson Chong  |VMware Singapore Pte Ltd | 
 |Ms Lai Lock See| VMware Singapore Pte Ltd | 
 
 <br />
