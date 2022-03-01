@@ -27,6 +27,6 @@ Committee (CAC), including Academic Institutions CAC, which provides advice on c
 | Dr Lim Joo Ghee | Head, Tech. Solutions, L&amp;D  | Singapore Polytechnic |
 | Ms Kim Lee | Lead, Administration  | National University of Singapore |
 |Ms Elaine Lye | Lead, Administration |Singapore Polytechnic |
-|Mr Adam Koh | Lead, Career Conversion Programme & Administration |National University of Singapore |
+|Mr Marcus Wee | Lead, Career Conversion Programme & Administration |National University of Singapore |
 |Mr Raymond Ho| Lead, Career Conversion Programme & Administration |Singapore Polytechnic |
 |Mr James Yee | 5G Programme and Projects |Singapore Polytechnic |
