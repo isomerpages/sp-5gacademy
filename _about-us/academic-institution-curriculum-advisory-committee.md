@@ -18,9 +18,9 @@ permalink: /about-us/aicac
 | Mr Yung Weng Ho    | Ngee Ann Polytechnic    |
 | Assoc. Prof. Forest Tan      | Singapore Institute of Technology     |
 | Mr Robin Ngan     | Singapore Institute of Technology     |
-| Mr Christopher Chow     | Singapore Management University    |
-| Ms Julia Teo     | Singapore Management University     |
+| Dr Shaun Ho     | Singapore Management University    |
 | Assoc. Prof. Luke Peh Lu Chang     | Singapore University of Social Sciences    |
+| Assoc. Prof. Bheema Thiagarajan Lokesh     | Singapore University of Social Sciences    |
 | Dr Zhu Yong Qing     |  Singapore University of Social Sciences   |
 | Prof David Yau | Singapore University of Technology and Design   |
 | Mr Ng Keng Boon     | Singapore University of Technology and Design     |
