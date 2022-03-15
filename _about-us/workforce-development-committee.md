@@ -29,3 +29,5 @@ permalink: /about-us/wdc
 |  <a href="https://sg.nec.com/en_SG/global/solutions/5g/index.html " target="blank"><img style="padding: 0px 5px 5px 0px;" src="/images/wdc-members-logos/NEC%20Logo%20200x200%20v2.png" alt="NEC"></a>|<a href="https://www.siemens.com/digitalenterprise" target="blank"><img style="padding: 0px 5px 5px 0px;" src="/images/wdc-members-logos/Siemens%20Logo%20200x200%20v2.png" alt="Siemens"></a> | <a href="https://telco.vmware.com" target="blank"><img style="padding: 0px 5px 5px 0px;" src="/images/wdc-members-logos/VMware%20Logo%20200x200%20v2.png" alt="VMWare"></a> |   |
 | <a href="https://www.cisco.com/c/en_sg/index.html" target="blank"><img style="padding: 0px 8px 8px 0px;" src="/images/wdc-members-logos/Cisco%20Logo%20200x200%20v2.png" alt="Cisco"></a>|
 | <a href="https://www.nokia.com/" target="blank"><img style="padding: 0px 8px 8px 0px;" src="/images/wdc-members-logos/Nokia%20Logo%20200x200%20v2.png" alt="Nokia"></a>|
+![Cisco Logo](/images/wdc-members-logos/Cisco%20Logo%20200x200s.png)
+![Nokia logo](/images/wdc-members-logos/NOKIA_LOGO_RGB_HR%20200x200.png)
