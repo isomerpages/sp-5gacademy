@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: /images/articles/NUS Article_16Mar2022.jpg
 ---
-
-NUS collaborates in 5G Academy to develop Singapore’s 5G talent pipeline - 16 March 2022
+# NUS collaborates in 5G Academy to develop Singapore’s 5G talent pipeline
 
 ![NUS News](/images/articles/NUS%20Article_16Mar2022.jpg)
 The 5G Academy has brought together all twelve local Institutions of Higher Learning and leading industry players such as Cisco Systems, IBM and Micron to develop and steer its initiatives.
