@@ -9,7 +9,7 @@ image: /images/articles/NUS Article_16Mar2022.jpg
 # NUS collaborates in 5G Academy to develop Singapore’s 5G talent pipeline
 
 ![NUS News](/images/articles/NUS%20Article_16Mar2022.jpg)
-The 5G Academy has brought together all twelve local Institutions of Higher Learning and leading industry players such as Cisco Systems, IBM and Micron to develop and steer its initiatives.
+*The 5G Academy has brought together all twelve local Institutions of Higher Learning and leading industry players such as Cisco Systems, IBM and Micron to develop and steer its initiatives.*
 
 More than 3,000 Singaporeans and Singapore Permanent Residents have been trained in 5G and related technologies over the last year, as part of plans by the Infocomm Media Development Authority (IMDA) to roll out 5G coverage nationwide by 2025, according to statistics provided by the Singapore 5G & Telecoms Academy (5G Academy).
 
@@ -20,6 +20,7 @@ The National University of Singapore (NUS) and Singapore Polytechnic (SP) were a
 “Singapore has always held that talent is its most important competitive advantage. Being 5G-ready represents an important next step for Singapore as it strives towards being a leading SMART nation, driven by the desire to create advanced digital solutions that can transform our businesses, economy and society,” said Prof Susanna Leong, Vice Provost (Masters' Programmes and Lifelong Education) and Dean, School of Continuing and Lifelong Education (SCALE), NUS.
 
 5G, the fifth-generation mobile network, is a new global wireless standard. It will offer higher speeds, lower latency and greater capacity over older 3G and 4G technologies, and is set to enable vastly improved connectivity and user experiences.
+
 ![](/images/articles/profsusannaleong1920x1080.jpg)
 
 Prof Susanna Leong, NUS Vice Provost (Masters' Programmes and Lifelong Education) and Dean of SCALE, expressed appreciation for the opportunity – made possible by the IMDA, for NUS to collaborate with the diverse range of 5G stakeholders in Singapore.
@@ -42,4 +43,4 @@ With the IMDA’s aim of extending 5G coverage across 50 per cent of Singapore b
 
 It plans to embark on a host of new initiatives, including partnerships with 5G test beds; increased engagement with 5G stakeholders such as training providers, employers and small-and-medium-sized enterprises; programmes to help enterprises kickstart and ramp up 5G talent development; and the launch of a 5G Readiness Index to help enterprises better gauge awareness of and willingness to adopt 5G. It will also seek to provide market insights and intelligence to stakeholders to advance the development of skills frameworks and training courses and programmes.
 
-By NUS School of Continuing and Lifelong Education
+*By NUS School of Continuing and Lifelong Education*
