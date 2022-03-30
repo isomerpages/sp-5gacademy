@@ -2,7 +2,6 @@ collections:
   courses:
     output: true
     order:
-      - By Private Training Providers.md
       - by-areas/.keep
       - by-areas/5g-and-telecoms.md
       - by-areas/internet-of-things-iot.md
@@ -24,3 +23,4 @@ collections:
       - by-acad-institutions/singapore-university-of-social-sciences.md
       - by-acad-institutions/singapore-university-of-technology-and-design.md
       - by-acad-institutions/temasek-polytechnic.md
+      - By Private Training Providers.md
