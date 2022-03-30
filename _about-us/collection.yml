@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Training Providers Curriculum Advisory Committee.md
+      - Training Partners Curriculum Advisory Committee.md
       - academic-institution-curriculum-advisory-committee.md
       - workforce-development-committee.md
       - consortium-partner-committee.md
