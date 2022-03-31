@@ -11,7 +11,7 @@ permalink: /about-us/aicac
 |Mr Melvyn Suan    | Nanyang Polytechnic     |
 | Ms Lim Siew Kiat     | Nanyang Polytechnic     |
 | Mr Poh Boon Kiat     | Nanyang Polytechnic     |
-| Prof. Kwoh Chee Keong   | Nanyang Technological University |
+| Assoc. Prof. Shirley Lim   | Nanyang Technological University |
 | Prof. Tay Wee Peng     | Nanyang Technological University   |
 | Mr Ang Cheng Chwee     | Ngee Ann Polytechnic    |
 | Dr Li Yan     | Ngee Ann Polytechnic    |
