@@ -17,8 +17,8 @@ permalink: /about-us/wdc
 |Mr Henry Suseno Nilam     | Micron Semiconductor Asia Pte Ltd | 
 |Ms Esther Liang | Micron Semiconductor Asia Pte Ltd  | 
 |Dr Paul Wang     | NEC Asia Pacific Pte Ltd | 
-|Mr Mohammad K Jajurie     | Nokia | 
-|Mr Jefson Batuwael    | Nokia | 
+|Mr Mohammad K Jajurie     | Nokia Singapore | 
+|Mr Jefson Batuwael    | Nokia Singapore | 
 |Mr Benjamin Moey     | Siemens Singapore | 
 |Mr Jenson Chong  |VMware Singapore Pte Ltd | 
 |Ms Lai Lock See| VMware Singapore Pte Ltd | 
