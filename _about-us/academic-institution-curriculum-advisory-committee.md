@@ -23,7 +23,6 @@ permalink: /about-us/aicac
 | Assoc. Prof. Bheema Thiagarajan Lokesh     | Singapore University of Social Sciences    |
 | Dr Zhu Yong Qing     |  Singapore University of Social Sciences   |
 | Prof David Yau | Singapore University of Technology and Design   |
-| Mr Ng Keng Boon     | Singapore University of Technology and Design     |
 | Mr Albert Toh Peng Teik    | Republic Polytechnic     |
 | Mr Soh Lai Seng | Republic Polytechnic     |
 | Ms Wong Wai Ling    | Republic Polytechnic     |
