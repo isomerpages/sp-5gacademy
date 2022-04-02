@@ -14,6 +14,7 @@ permalink: /about-us/wdc
 |Ms Ong Tun Kim |IBM Singapore     |  
 |Ms Joan Yeo| IBM Singapore     |
 |Mr Teddy Pramono     | Micron Semiconductor Asia Pte Ltd  | 
+|Mr Kevin Chan     | Micron Semiconductor Asia Pte Ltd  | 
 |Mr Henry Suseno Nilam     | Micron Semiconductor Asia Pte Ltd | 
 |Ms Esther Liang | Micron Semiconductor Asia Pte Ltd  | 
 |Dr Paul Wang     | NEC Asia Pacific Pte Ltd | 
