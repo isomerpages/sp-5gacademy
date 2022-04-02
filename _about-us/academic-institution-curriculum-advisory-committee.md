@@ -9,7 +9,6 @@ permalink: /about-us/aicac
 | Dr Derek Yeo Sang Ann    | Institute of Technical Education    |
 | Dr Eric Cheung Lai Yip  | Institute of Technical Education     |
 |Mr Melvyn Suan    | Nanyang Polytechnic     |
-| Ms Lim Siew Kiat     | Nanyang Polytechnic     |
 | Mr Poh Boon Kiat     | Nanyang Polytechnic     |
 | Assoc. Prof. Shirley Lim   | Nanyang Technological University |
 | Prof. Tay Wee Peng     | Nanyang Technological University   |
@@ -23,7 +22,7 @@ permalink: /about-us/aicac
 | Assoc. Prof. Bheema Thiagarajan Lokesh     | Singapore University of Social Sciences    |
 | Dr Zhu Yong Qing     |  Singapore University of Social Sciences   |
 | Prof David Yau | Singapore University of Technology and Design   |
-| Mr Albert Toh Peng Teik    | Republic Polytechnic     |
+| Mr Sim Choon Hou    | Republic Polytechnic     |
 | Mr Soh Lai Seng | Republic Polytechnic     |
 | Ms Wong Wai Ling    | Republic Polytechnic     |
 | Mr Toh Ser Khoon     | Singapore Polytechnic     |
