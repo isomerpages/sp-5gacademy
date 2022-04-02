@@ -22,9 +22,9 @@ Committee (CAC), including Academic Institutions CAC, which provides advice on c
 | Name | Office| Academic Institution |
 | -------- | -------- | -------- |
 | Mr Suresh H Punjabi   | Co-Chair, Steering Comm    | National University of Singapore |
-| Mr Toh Ser Khoon  | Co-Chair, Steering Comm    | Singapore Polytechnic |
+| Dr Lim Joo Ghee | Co-Chair, Steering Comm    | Singapore Polytechnic |
 |Mr Chiang Fock Pong   | Head, PMO | National University of Singapore |
-| Dr Lim Joo Ghee | Head, Tech. Solutions, L&amp;D  | Singapore Polytechnic |
+| Mr Chia Chow Leong | Head, Tech. Solutions, L&amp;D  | Singapore Polytechnic |
 | Ms Kim Lee | Lead, Administration  | National University of Singapore |
 |Ms Elaine Lye | Lead, Administration |Singapore Polytechnic |
 |Mr Marcus Wee | Lead, Career Conversion Programme & Administration |National University of Singapore |

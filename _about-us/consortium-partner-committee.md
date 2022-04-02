@@ -12,7 +12,7 @@ permalink: /about-us/cpc
 | Dr Chan Mun Kitt     | Member   |  National University of Singapore   |
 | Mr David Chai     | Member   |  Singapore Polytechnic   |
 | Prof Evelyn Teo     | Member  | National University of Singapore   |
-| Mr Lee Leck Seng    | Member   |  Singapore Polytechnic  |
+| Dr Lim Joo Ghee    | Member   |  Singapore Polytechnic  |
 | Dr Shah Kwok Wei     | Member   | National University of Singapore   |
 | Mr Toh Ser Khoon     | Member   |  Singapore Polytechnic   |
 | Mr Wong Jian Chang     | Member   |  Singapore Polytechnic   |
@@ -24,11 +24,10 @@ permalink: /about-us/cpc
 | Prof Ang Siau Gek     | Co-Chair   | National University of Singapore   |
 | Dr Thomas Chai     | Co-Chair   | Singapore Polytechnic  |
 | Prof Chan Mun Choon     | Member  |  National University of Singapore   |
-| Mr Chia Chow Leong    | Member   |  Singapore Polytechnic  |
+| Mr Tan Chee Seng    | Member   |  Singapore Polytechnic  |
 | Prof Evelyn Teo     | Member  | National University of Singapore   |
 | Prof Mohan Gurusamy     | Member   |  National University of Singapore   |
-| Dr Shah Kwok Wei     | Member   | National University of Singapore   |
 | Dr Simon Tan Kian Hwa     | Member   |  Singapore Polytechnic   |
 | Dr Tan Kwee Teck     | Member   |  Singapore Polytechnic   |
-| Mr Toh Ser Khoon     | Member   |  Singapore Polytechnic   |
+| Dr Lim Joo Ghee  | Member   |  Singapore Polytechnic   |
 | Dr Zhang Jianwen    | Member   | National University of Singapore   |
