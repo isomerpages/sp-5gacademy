@@ -5,8 +5,8 @@ description: ""
 ---
 | Name | Training Partner |
 | -------- | -------- |
-| Mr How Choon Thim, Alan    | COMAT    |
-| Mr Heng Koon Huat, Robin   | COMAT   |
+| Mr Heng Koon Huat, Robin   | ST Engineering   |
+| Mr How Choon Thim, Alan    | ST Engineering    |
 | Ms Adeline Lee  | CloudAssist  |
 | Mr Sam Yeo  | CloudAssist    |
 | Mr Stanley Wong   | BridgingMinds   |
@@ -16,6 +16,6 @@ description: ""
 | Mohammed Isa Bin Mohammed Nasser     | NTUC LearningHub  |
 | Mr Senthil Kumar    | NTUC LearningHub  |
 | Mr Gary Chow     | NTUC LearningHub    |
-| Ms Joan Yeo    | IBM Singapore   |
 | Ms Ong Tun Kim      | IBM Singapore  |
+| Ms Joan Yeo    | IBM Singapore   |
 | Ms Cheryl Gan   | IBM Singapore    |
