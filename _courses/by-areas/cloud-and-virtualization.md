@@ -12,7 +12,7 @@ third_nav_title: By Areas
 |[Cloud Architecting: Specialist Diploma in Cloud Architecting and Management Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/cloud-architecting){:target="_blank" rel="noopener"} |Basic|45 hrs |
 |[Cloud Computing Fundamentals: Specialist Diploma in Cloud Architecting and Management Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/cloud-security-and-devops){:target="_blank" rel="noopener"} |Basic|45 hrs |
 |[Cloud Implementation: Specialist Diploma in Cloud Architecting and Management Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/cloud-implementation){:target="_blank" rel="noopener"} |Basic|45 hrs |
-|[5G Industry Practitioner (Cloud & Virtualization)](TBC){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
+|[5G Industry Practitioner (Cloud & Virtualization)](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/sp-ericsson-5g-industry-practitioner-certificate/5g-industry-practitioner-(cloud-virtualisation)){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
 |[Advanced Certificate in Applied Data Analytics Module 5: Understanding Big Data with Cloud Computing (Synchronous e-Learning) ](https://academy.smu.edu.sg/understanding-big-data-cloud-computing-4531){:target="_blank" rel="noopener"}  | SMU | Intermediate | 14 hrs |
 |[Advanced Certificate in Digital Business Module 3: Introduction to Robotic Process Automation ](https://academy.smu.edu.sg/graduate-certificate-digital-finance-module-3-ai-and-robotic-process-automation-1991){:target="_blank" rel="noopener"}  | SMU | Basic | 15 hrs |
 |[Advanced Technology Stack Series: Establishing Foundation in Cloud Services and Applications ](https://academy.smu.edu.sg/establishing-foundation-cloud-services-and-applications-4551){:target="_blank" rel="noopener"}  | SMU | Basic | 14 hrs |
@@ -23,7 +23,7 @@ third_nav_title: By Areas
 |[Architecting Software Solutions ](https://www.iss.nus.edu.sg/executive-education/course/detail/architecting-software--solutions/software-systems){:target="_blank" rel="noopener"}  | NUS | Advanced | 32.5 hrs |
 |[Automation with Amazon Web Services ](){:target="_blank" rel="noopener"}  | TP | Basic | 78 hrs |
 |[AWS Academy Accreditation Preparation Course](https://www.sp.edu.sg/pace/courses/course-type/online/aws-academy-accreditation-preparation-course){:target="_blank" rel="noopener"}  | SP | Basic | 20 hrs |
-|[AWS Academy Cloud Architecting (synchronous e-learning) ](https://www.rp.edu.sg/ace/short-course/Detail/aws-academy-cloud-architecting){:target="_blank" rel="noopener"}  | RP | Basic | 36 hrs |
+|[AWS Academy Cloud Architecting](https://www.rp.edu.sg/ace/short-course/Detail/aws-academy-cloud-architecting){:target="_blank" rel="noopener"}  | RP | Basic | 36 hrs |
 |[AWS Academy Cloud Foundations ](https://www.cet.np.edu.sg/courses/aws-academy-cloud-foundations/){:target=""_blank"" rel=""noopener""}  | NP | Basic | 16 hrs |"
 |[AWS Cloud Foundations](https://www.rp.edu.sg/ace/short-course/Detail/aws-academy-cloud-foundations){:target="_blank" rel="noopener"}  | RP | Basic | 18 hrs |
 |[Big Data Computing in the Cloud ](https://www.suss.edu.sg/courses/detail/ICT337){:target="_blank" rel="noopener"}  | SUSS | Basic | 36 hrs |
