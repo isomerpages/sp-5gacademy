@@ -5,7 +5,7 @@ third_nav_title: By Acad Institutions
 ---
 |Course Title  | Level | Duration |
 | - | - | - | 
-|[(SBMC) Specialist Diploma in Applied Artificial Intelligence - Introduction to Data Management for Machine Learning](https://www.rp.edu.sg/ace/course-summary/Detail/specialist-diploma-in-applied-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|30 hrs |
+|[Machine Learning Fundamentals: Specialist Diploma in Applied Artificial Intelligence Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/machine-learning-fundamentals){:target="_blank" rel="noopener"} |Basic|30 hrs |
 |[(SBMC) Specialist Diploma in Applied Artificial Intelligence - Introduction to Programming](https://www.rp.edu.sg/ace/course-summary/Detail/specialist-diploma-in-applied-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|30 hrs |
 |[(SBMC) Specialist Diploma in Applied Artificial Intelligence - Machine Learning Fundamentals](https://www.rp.edu.sg/ace/course-summary/Detail/specialist-diploma-in-applied-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|30 hrs |
 |[(SBMC) Specialist Diploma in Applied Artificial Intelligence - Math for Machine Learning](https://www.rp.edu.sg/ace/course-summary/Detail/specialist-diploma-in-applied-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|30 hrs |
