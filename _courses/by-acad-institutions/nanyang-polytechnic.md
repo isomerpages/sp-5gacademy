@@ -15,4 +15,4 @@ third_nav_title: By Acad Institutions
 |[Secure Software Development and Testing](https://www.nyp.edu.sg/schools/sit/lifelong-learning/secure-software-development-and-testing.html){:target="_blank" rel="noopener"} |Basic|28 hrs |
 |[Smart IoT Basics ](https://nypeservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=24885){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Understanding of Internet of Things (IoT) ](https://nypeservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=21220){:target="_blank" rel="noopener"} |Basic|7 hrs |
-|Specialist Diploma in Cloud Computing and Intelligent Services Management ](https://nypeservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=24303){:target="_blank" rel="noopener"} |Basic|300 hrs |
+|[Specialist Diploma in Cloud Computing and Intelligent Services Management ](https://nypeservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=24303){:target="_blank" rel="noopener"} |Basic|300 hrs |
