@@ -6,14 +6,6 @@ third_nav_title: By Acad Institutions
 |Course Title  | Level | Duration |
 | - | - | - | 
 |[Machine Learning Fundamentals: Specialist Diploma in Applied Artificial Intelligence Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/machine-learning-fundamentals){:target="_blank" rel="noopener"} |Basic|30 hrs |
-|[(SBMC) Specialist Diploma in Applied Artificial Intelligence - Introduction to Programming](https://www.rp.edu.sg/ace/course-summary/Detail/specialist-diploma-in-applied-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|30 hrs |
-|[(SBMC) Specialist Diploma in Applied Artificial Intelligence - Machine Learning Fundamentals](https://www.rp.edu.sg/ace/course-summary/Detail/specialist-diploma-in-applied-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|30 hrs |
-|[(SBMC) Specialist Diploma in Applied Artificial Intelligence - Math for Machine Learning](https://www.rp.edu.sg/ace/course-summary/Detail/specialist-diploma-in-applied-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|30 hrs |
-|[(SBMC) Specialist Diploma in Applied Artificial Intelligence - Recommender Systems](https://www.rp.edu.sg/ace/course-summary/Detail/specialist-diploma-in-applied-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|30 hrs |
-|[(SBMC) Specialist Diploma in Applied Artificial Intelligence - Virtual Assistants](https://www.rp.edu.sg/ace/course-summary/Detail/specialist-diploma-in-applied-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|30 hrs |
-|[(SBMC) Specialist Diploma in Cloud Architecting and Management - Cloud Architecting ](https://www.rp.edu.sg/ace/course-summary/Detail/specialist-diploma-in-cloud-architecting-and-management){:target="_blank" rel="noopener"} |Basic|45 hrs |
-|[(SBMC) Specialist Diploma in Cloud Architecting and Management - Cloud Implementation ](https://www.rp.edu.sg/ace/course-summary/Detail/specialist-diploma-in-cloud-architecting-and-management){:target="_blank" rel="noopener"} |Basic|45 hrs |
-|[(SBMC) Specialist Diploma in Cloud Architecting and Management - Cloud Security & DevOps](https://www.rp.edu.sg/ace/course-summary/Detail/specialist-diploma-in-cloud-architecting-and-management){:target="_blank" rel="noopener"} |Basic|45 hrs |
 |[5G Fundamentals and Applications](https://www.rp.edu.sg/ace/short-course/Detail/5g-fundamentals-and-applications){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[Adopting Digital Technologies into Operations ](https://www.rp.edu.sg/ace/short-course/Detail/adopting-digital-technologies-into-operations){:target="_blank" rel="noopener"} |Basic|7.5 hrs |
 |[Applied Artificial Intelligence with Python](https://www.rp.edu.sg/ace/short-course/Detail/applied-artificial-intelligence-with-python){:target="_blank" rel="noopener"} |Basic|16 hrs |
