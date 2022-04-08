@@ -39,4 +39,3 @@ third_nav_title: By Acad Institutions
 |[RF and Microwave Design of Wireless Systems](https://www.suss.edu.sg/courses/detail/eng333){:target="_blank" rel="noopener"} |Advanced|18 hrs |
 |[Virtual Reality and Augmented Reality](https://www.suss.edu.sg/courses/detail/mtd369){:target="_blank" rel="noopener"} |Intermediate|18 hrs |
 |[Web Application Development](https://www.suss.edu.sg/courses/detail/ICT239){:target="_blank" rel="noopener"} |Basic|36 hrs |
-|[Wireless Communication Systems](https://www.suss.edu.sg/courses/detail/eng315?urlname=beng-electronics-behe){:target="_blank" rel="noopener"} |Advanced|36 hrs |
