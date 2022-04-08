@@ -9,9 +9,9 @@ third_nav_title: By Areas
 | - | - | - | -|
 |[(ISC)2 CCSP CBK Training Seminar ](https://www.iss.nus.edu.sg/executive-education/course/detail/isc2-ccsp-cbk-training-seminar/cybersecurity){:target="_blank" rel="noopener"}  | NUS | Intermediate | 32.5 hrs |
 |[(ISC)² CISSP CBK Training Seminar](https://www.iss.nus.edu.sg/executive-education/course/detail/isc2-cissp-cbk-training-seminar/cybersecurity){:target="_blank" rel="noopener"}  | NUS | Intermediate | 32.5 hrs |
-|[(SBMC) Specialist Diploma in Cloud Architecting and Management - Cloud Architecting ](https://www.rp.edu.sg/ace/course-summary/Detail/specialist-diploma-in-cloud-architecting-and-management){:target="_blank" rel="noopener"}  | RP | Basic | 45 hrs |
-|[(SBMC) Specialist Diploma in Cloud Architecting and Management - Cloud Implementation ](https://www.rp.edu.sg/ace/course-summary/Detail/specialist-diploma-in-cloud-architecting-and-management){:target="_blank" rel="noopener"}  | RP | Basic | 45 hrs |
-|[(SBMC) Specialist Diploma in Cloud Architecting and Management - Cloud Security & DevOps](https://www.rp.edu.sg/ace/course-summary/Detail/specialist-diploma-in-cloud-architecting-and-management){:target="_blank" rel="noopener"}  | RP | Basic | 45 hrs |
+|[Cloud Architecting: Specialist Diploma in Cloud Architecting and Management Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/cloud-architecting){:target="_blank" rel="noopener"} |Basic|45 hrs |
+|[Cloud Computing Fundamentals: Specialist Diploma in Cloud Architecting and Management Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/cloud-security-and-devops){:target="_blank" rel="noopener"} |Basic|45 hrs |
+|[Cloud Implementation: Specialist Diploma in Cloud Architecting and Management Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/cloud-implementation){:target="_blank" rel="noopener"} |Basic|45 hrs |
 |[5G Industry Practitioner (Cloud & Virtualization)](TBC){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
 |[Advanced Certificate in Applied Data Analytics Module 5: Understanding Big Data with Cloud Computing (Synchronous e-Learning) ](https://academy.smu.edu.sg/understanding-big-data-cloud-computing-4531){:target="_blank" rel="noopener"}  | SMU | Intermediate | 14 hrs |
 |[Advanced Certificate in Digital Business Module 3: Introduction to Robotic Process Automation ](https://academy.smu.edu.sg/graduate-certificate-digital-finance-module-3-ai-and-robotic-process-automation-1991){:target="_blank" rel="noopener"}  | SMU | Basic | 15 hrs |
