@@ -7,11 +7,10 @@ third_nav_title: By Areas
 
 |Course Title  | Institution | Level | Duration |
 | - | - | - | -|
-|[5G Industry Practitioner (Overview)](TBC){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
+|[5G Industry Practitioner (Overview)](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/sp-ericsson-5g-industry-practitioner-certificate/5g-industry-practitioner-(overview)#:~:text=This%20course%20aims%20to%20provide,it%20drives%20new%20business%20models.){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
 |[Advanced Customer Analytics](https://www.iss.nus.edu.sg/executive-education/course/detail/advanced-customer--analytics/data-science){:target="_blank" rel="noopener"}  | NUS | Advanced | 21 hrs |
 |[Advanced Machine Learning: Deep Learning (Synchronous e-learning)](https://scale.nus.edu.sg/programmes/executive-courses/data-analytics/advanced-machine-learning-deep-learning){:target="_blank" rel="noopener"}  | NUS | Basic | 6.5 hrs |
 |[Advanced Manufacturing and Industrial IOT](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-register/advanced-manufacturing-and-industrial-iot){:target="_blank" rel="noopener"}  | SP | Intermediate | 7 hrs |
-|[Advanced Operations of Drones/Unmanned Aerial Vehicles](https://www.sp.edu.sg/pace/courses/course-type/short-modular/advanced-operations-of-drones-unmanned-aerial-vehicles){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
 |[AI e-enabled Robotics for Beginners](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/ai-e-enabled-robotics-for-beginners){:target="_blank" rel="noopener"}  | SP | Basic | 8 hrs |
 |[Application of Robotics](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/application-of-robotics){:target="_blank" rel="noopener"}  | SP | Basic | 8 hrs |
 |[Application of Robotics & Automation for Smart Factory](https://sitlearn.singaporetech.edu.sg/individualcourse/?title=DSF-6040-Application-of-Robotics-and-Automation-for-Smart-Factory&id=81e36756-b7db-ea11-a813-000d3a85436c&FD=true){:target="_blank" rel="noopener"}  | SIT | Basic | 48 hrs |
