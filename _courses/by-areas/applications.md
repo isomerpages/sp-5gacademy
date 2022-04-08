@@ -65,7 +65,6 @@ third_nav_title: By Areas
 |[Introduction to Blockchain](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/introduction-to-blockchain){:target="_blank" rel="noopener"}  | SP | Basic | 16 hrs |
 |[Introduction to Data Analytics and Applications](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-register/introduction-to-data-analytics-and-applications){:target="_blank" rel="noopener"}  | SP | Basic | 8 hrs |
 |[Introduction to Digital Transformation & Industrial IoT](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/introduction-to-digital-workplace-transformation){:target="_blank" rel="noopener"}  | SP | Basic | 24 hrs |
-|[Introduction to Unmanned Aerial Systems (UAS) Technologies](https://www.sutd.edu.sg/Education/Academy/Our-Offerings/SkillsFuture-Series-Courses/Urban-Solutions/Intro-to-Unmanned-Aerial-Systems-UAS-Technologies){:target="_blank" rel="noopener"}  | SUTD | Basic | 14 hrs |
 |[iOS Application Development](https://www.suss.edu.sg/courses/detail/mtd367){:target="_blank" rel="noopener"}  | SUSS | Basic | 36 hrs |
 |[IoT and Hybrid Mobile App Development](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/iot-and-hybrid-mobile-app-development){:target="_blank" rel="noopener"}  | SP | Intermediate | 12 hrs |
 |[Machine Learning, Deep Learning and Applications in Finance](https://www.suss.edu.sg/courses/detail/fin525){:target="_blank" rel="noopener"}  | SUSS | Intermediate | 36 hrs |
