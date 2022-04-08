@@ -6,7 +6,6 @@ third_nav_title: By Acad Institutions
 |Course Title  | Level | Duration |
 | - | - | - | 
 |[Certificate in Network & System Administration (part of Diploma in Infocomm & Digital Media (IT Network and System Administration) ](https://www.nyp.edu.sg/schools/sit/lifelong-learning/wsc_leading_to_diploma_in_infocomm_digitalmedia/entry-and-application.html){:target="_blank" rel="noopener"} |Basic|135 hrs |
-|[Cloud and Virtualization Essentials ](https://eservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=CE1212){:target="_blank" rel="noopener"} |Basic|6 hrs |
 |[Cloud Computing Application ](https://eservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=CE1204){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Cloud Computing Awareness ](https://eservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=CE1138){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Cloud Computing Development ](https://eservices.nyp.edu.sg/attachments/alls/CE1209%20-%20Cloud%20Computing%20Development%20dtd%2017%20Oct%2019_134430.pdf){:target="_blank" rel="noopener"} |Basic|7 hrs |
