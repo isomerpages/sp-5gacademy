@@ -13,7 +13,5 @@ third_nav_title: By Acad Institutions
 |[Post-Diploma Certificate in Deep Learning and AI Applications (part of Specialist Diploma in Applied Artificial Intelligence)](https://nypeservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=23786){:target="_blank" rel="noopener"} |Basic|120 hrs |
 |[Post-Diploma Certificate in Robotics & Automation Systems (Part of Specialist Diploma in Robotics & Automation Systems Design) ](https://www.nyp.edu.sg/schools/seg/lifelong-learning/elp-specialist-diploma-in-robotics-and-automation-systems-design.html){:target="_blank" rel="noopener"} |Basic|142 hrs |
 |[Secure Software Development and Testing](https://www.nyp.edu.sg/schools/sit/lifelong-learning/secure-software-development-and-testing.html){:target="_blank" rel="noopener"} |Basic|28 hrs |
-|[SGUS Programme in ICT (Cyber Security & Data Analytics)](https://eservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=20469){:target="_blank" rel="noopener"} |Basic|360 hrs |
-|[SGUS Programme in Precision Engineering and Automation & Robotics ](https://eservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=18011){:target="_blank" rel="noopener"} |Basic|364 hrs |
 |[Smart IoT Basics ](https://eservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=CE1210){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Understanding of Internet of Things (IoT) ](https://eservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=CE1167){:target="_blank" rel="noopener"} |Basic|7 hrs |
