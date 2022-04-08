@@ -10,13 +10,12 @@ third_nav_title: By Acad Institutions
 |[Adopting Digital Technologies into Operations ](https://www.rp.edu.sg/ace/short-course/Detail/adopting-digital-technologies-into-operations){:target="_blank" rel="noopener"} |Basic|7.5 hrs |
 |[Applied Artificial Intelligence with Python](https://www.rp.edu.sg/ace/short-course/Detail/applied-artificial-intelligence-with-python){:target="_blank" rel="noopener"} |Basic|16 hrs |
 |[Artificial Intelligence for Techies - A Hands-On Approach](https://www.rp.edu.sg/ace/short-course/Detail/artificial-intelligence-for-techies-a-hands-on-approach){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS Academy Cloud Architecting (synchronous e-learning) ](https://www.rp.edu.sg/ace/short-course/Detail/aws-academy-cloud-architecting){:target="_blank" rel="noopener"} |Basic|36 hrs |
-|[AWS Cloud Foundations](https://www.rp.edu.sg/ace/short-course/Detail/aws-academy-cloud-foundations){:target="_blank" rel="noopener"} |Basic|18 hrs |
+|[AWS Academy Cloud Architecting](https://www.rp.edu.sg/ace/short-course/Detail/aws-academy-cloud-architecting){:target="_blank" rel="noopener"} |Basic|32 hrs |
+|[AWS Cloud Foundations](https://www.rp.edu.sg/ace/short-course/Detail/aws-academy-cloud-foundations){:target="_blank" rel="noopener"} |Basic|16 hrs |
 |[CISCO Network Administration ](https://www.rp.edu.sg/ace/short-course/Detail/cisco-network-administration){:target="_blank" rel="noopener"} |Basic|108 hrs |
-|[Cyber Security Essentials (Synchronous e-learning)](https://www.rp.edu.sg/ace/short-course/Detail/cybersecurity-essentials){:target="_blank" rel="noopener"} |Basic|7.5 hrs |
 |[Data Science with Python](https://www.rp.edu.sg/ace/short-course/Detail/data-science-with-python){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
 |[Deep Learning – Optimisation Techniques](https://www.rp.edu.sg/ace/short-course/Detail/deep-learning-optimisation-techniques){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
-|[Deep Learning with Python (synchronous e-learning)](https://www.rp.edu.sg/ace/short-course/Detail/deep-learning-with-python){:target="_blank" rel="noopener"} |Basic|16 hrs |
+|[Deep Learning with Python](https://www.rp.edu.sg/ace/short-course/Detail/deep-learning-with-python){:target="_blank" rel="noopener"} |Basic|16 hrs |
 |[Implementing IT Security @ Work (synchronous e-learning) ](https://www.rp.edu.sg/ace/short-course/Detail/implementing-IT-security-at-work){:target="_blank" rel="noopener"} |Basic|16 hrs |
 |[Industry 4.0 in Action (2 days) (synchronous e-learning) ](https://www.rp.edu.sg/ace/short-course/Detail/industry-4.0-in-action-(2-days)){:target="_blank" rel="noopener"} |Basic|15.5 hrs |
 |[Intro to Hotel Technology Innovation (Synchronous eLearning)](https://www.rp.edu.sg/ace/short-course/Detail/intro-to-hotel-technology-innovation){:target="_blank" rel="noopener"} |Basic|7.5 hrs |
