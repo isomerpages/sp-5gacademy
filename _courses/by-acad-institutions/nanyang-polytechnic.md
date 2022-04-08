@@ -14,4 +14,4 @@ third_nav_title: By Acad Institutions
 |[Post-Diploma Certificate in Robotics & Automation Systems (Part of Specialist Diploma in Robotics & Automation Systems Design) ](https://www.nyp.edu.sg/schools/seg/lifelong-learning/elp-specialist-diploma-in-robotics-and-automation-systems-design.html){:target="_blank" rel="noopener"} |Basic|142 hrs |
 |[Secure Software Development and Testing](https://www.nyp.edu.sg/schools/sit/lifelong-learning/secure-software-development-and-testing.html){:target="_blank" rel="noopener"} |Basic|28 hrs |
 |[Smart IoT Basics ](https://nypeservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=24885){:target="_blank" rel="noopener"} |Basic|7 hrs |
-|[Understanding of Internet of Things (IoT) ](https://eservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=CE1167){:target="_blank" rel="noopener"} |Basic|7 hrs |
+|[Understanding of Internet of Things (IoT) ](https://nypeservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=21220){:target="_blank" rel="noopener"} |Basic|7 hrs |
