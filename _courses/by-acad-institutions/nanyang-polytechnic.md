@@ -9,7 +9,6 @@ third_nav_title: By Acad Institutions
 |[Cloud Computing Awareness ](https://nypeservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=24893){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Cyber Defence Fundamentals ](https://www.nyp.edu.sg/schools/sit/lifelong-learning/cyber-defence-fundamentals.html){:target="_blank" rel="noopener"} |Basic|28 hrs |
 |[IoT Applications in Supply Chain Management ](https://nypeservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=22574){:target="_blank" rel="noopener"} |Basic|7 hrs |
-|[IoT in Manufacturing ](https://eservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=CE1177){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[NB-IoT Understanding Low Power Cellular LTE ](https://eservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=CE1267){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Post Diploma Certificate in Data and Applications Security (part of Specialist Diploma in Information Security) ](https://www.nyp.edu.sg/schools/sit/lifelong-learning/specialist-diploma-in-cybersecurity/entry-and-application.html){:target="_blank" rel="noopener"} |Intermediate|138 hrs |
 |[Post-Diploma Certificate in Deep Learning and AI Applications (part of Specialist Diploma in Applied Artificial Intelligence)](https://eservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=itsp07){:target="_blank" rel="noopener"} |Basic|120 hrs |
