@@ -7,7 +7,6 @@ third_nav_title: By Acad Institutions
 | - | - | - | 
 |[Certificate in Network & System Administration (part of Diploma in Infocomm & Digital Media (IT Network and System Administration) ](https://www.nyp.edu.sg/schools/sit/lifelong-learning/wsc_leading_to_diploma_in_infocomm_digitalmedia/entry-and-application.html){:target="_blank" rel="noopener"} |Basic|135 hrs |
 |[Cloud Computing Awareness ](https://nypeservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=24893){:target="_blank" rel="noopener"} |Basic|7 hrs |
-|[Color Machine Vision & Applications](https://eservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=CE1195){:target="_blank" rel="noopener"} |Basic|21 hrs |
 |[Cyber Defence Fundamentals ](https://www.nyp.edu.sg/schools/sit/lifelong-learning/cyber-defence-fundamentals.html){:target="_blank" rel="noopener"} |Basic|28 hrs |
 |[Cybersecurity Essentials](https://eservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=CI1212){:target="_blank" rel="noopener"} |Basic|12 hrs |
 |[Cybersecurity for Workplace](https://eservices.nyp.edu.sg/attachments/alls/Cyber%20Workplace%20brochure_112601.pdf){:target="_blank" rel="noopener"} |Basic|14.5 hrs |
