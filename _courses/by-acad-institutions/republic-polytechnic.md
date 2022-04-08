@@ -13,6 +13,10 @@ third_nav_title: By Acad Institutions
 |[AWS Academy Cloud Architecting](https://www.rp.edu.sg/ace/short-course/Detail/aws-academy-cloud-architecting){:target="_blank" rel="noopener"} |Basic|32 hrs |
 |[AWS Cloud Foundations](https://www.rp.edu.sg/ace/short-course/Detail/aws-academy-cloud-foundations){:target="_blank" rel="noopener"} |Basic|16 hrs |
 |[CISCO Network Administration ](https://www.rp.edu.sg/ace/short-course/Detail/cisco-network-administration){:target="_blank" rel="noopener"} |Basic|108 hrs |
+|[Cloud Implementation: Specialist Diploma in Cloud Architecting and Management Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/cloud-implementation){:target="_blank" rel="noopener"} |Basic|45 hrs |
+|[Cloud Architecting: Specialist Diploma in Cloud Architecting and Management Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/cloud-architecting){:target="_blank" rel="noopener"} |Basic|45 hrs |
+|[Cloud Computing Fundamentals: Specialist Diploma in Cloud Architecting and Management Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/cloud-security-and-devops){:target="_blank" rel="noopener"} |Basic|45 hrs |
+|[Cloud Security and DevOps](https://www.rp.edu.sg/ace/short-course/Detail/cloud-security-and-devops){:target="_blank" rel="noopener"} |Basic|45 hrs |
 |[Data Science with Python](https://www.rp.edu.sg/ace/short-course/Detail/data-science-with-python){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
 |[Deep Learning – Optimisation Techniques](https://www.rp.edu.sg/ace/short-course/Detail/deep-learning-optimisation-techniques){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
 |[Deep Learning with Python](https://www.rp.edu.sg/ace/short-course/Detail/deep-learning-with-python){:target="_blank" rel="noopener"} |Basic|16 hrs |
@@ -20,5 +24,4 @@ third_nav_title: By Acad Institutions
 |[Intro to Hotel Technology Innovation](https://www.rp.edu.sg/ace/short-course/Detail/intro-to-hotel-technology-innovation){:target="_blank" rel="noopener"} |Basic|7.5 hrs |
 |[Leading And Developing Staff Capability In F&B Through Change Management](https://www.rp.edu.sg/ace/short-course/Detail/leading-and-developing-staff-capability-in-f-b-through-change-management){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[Diploma in Engineering (Electrical and Electronics)](https://www.rp.edu.sg/ace/course-summary/Detail/diploma-in-engineering-(electrical-and-electronics)){:target="_blank" rel="noopener"} |Basic|174 hrs |
-|[Cloud Implementation: Specialist Diploma in Cloud Architecting and Management Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/cloud-implementation){:target="_blank" rel="noopener"} |Basic|45 hrs |
-|[Cloud Architecting: Specialist Diploma in Cloud Architecting and Management Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/cloud-architecting){:target="_blank" rel="noopener"} |Basic|45 hrs |
+|[The Fundamentals of Digital Forensics](https://www.rp.edu.sg/ace/short-course/Detail/the-fundamentals-of-digital-forensics){:target="_blank" rel="noopener"} |Basic|40 hrs |
