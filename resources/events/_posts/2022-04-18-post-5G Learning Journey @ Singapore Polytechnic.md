@@ -28,3 +28,22 @@ Register by completing the form**
 ![5G Learning Journey Synopsis](/images/events/Regular%20Programmes/5G%20Learning%20Journey%20Content_1.png)
 ![5G Learning Journey Details](/images/events/Regular%20Programmes/5G%20Learning%20Journey%20Content_2.png)
 ![5G Learning Journey Use Cases](/images/events/Regular%20Programmes/5G%20Learning%20Journey%20Content_3.png)
+
+<style>
+#register {
+  background-color: #0000ff;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+</style>
+
+<center><a href="https://form.gov.sg/#!/623d6ee7d4b65800125b32fa" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
