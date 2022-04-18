@@ -37,7 +37,7 @@ sections:
   - infopic:
       title: 5G Learning Journey
       subtitle: Regular event
-      description: "Book your slot now! <br> VENUE: Singapore Polytechnic"
+      description: "Application is now open <br> VENUE: Singapore Polytechnic"
       button: Find Out More
       url: /resources/events/5G-learning-journey "target=_blank"
       image: /images/events/Regular Programmes/5G Learning Journey Cover Image.png
