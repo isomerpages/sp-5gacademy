@@ -10,15 +10,15 @@ description: ""
 The 5G Learning Journey is a 2-hour Programme designed to educate participants in 5G Technology Capabilities and its Possibilities in areas of Smart Facilities, Advanced Manufacturing, Urban Solutions and Sustainability.  
 
 * Learn interesting concepts through topics like 5G Overview and Introduction to AIoT 
-* Engaging discussions on how 5G & AIoT together can benefit company and workforce
-* Get to know the top 5G & AIoT uses cases
-* Explore how features such as ultra low latency, high speed connectivity, massive sensor data of 5G & AIoT can enable key drivers such as real time cloud computing, intelligent control and AI that is transforming your industry 
+* Engaging discussions on how 5G &amp; AIoT together can benefit company and workforce
+* Get to know the top 5G &amp; AIoT uses cases
+* Explore how features such as ultra low latency, high speed connectivity, massive sensor data of 5G &amp; AIoT can enable key drivers such as real time cloud computing, intelligent control and AI that is transforming your industry 
 * Short and consultative style discussions to help uncover your company's problem statement(s) 
 
 
 # Details
-**VENUE: Singapore Polytechnic
-By Appointment Only via the registration link below.** 
+**VENUE: Singapore Polytechnic 
+Register via the link below. ****
 
 ![5G Learning Journey Synopsis](/images/events/Regular%20Programmes/5G%20Learning%20Journey%20Content_1.png)
 ![5G Learning Journey Content 1](/images/events/Regular%20Programmes/5G%20Learning%20Journey%20Content_2.png)
@@ -41,4 +41,4 @@ By Appointment Only via the registration link below.**
 }
 </style>
 
-<center><a href="https://form.gov.sg/#!/623d6ee7d4b65800125b32fa" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
+<center><a target="_blank" href="https://form.gov.sg/#!/623d6ee7d4b65800125b32fa"><button class="btn" id="register">Register Now</button></a></center>
