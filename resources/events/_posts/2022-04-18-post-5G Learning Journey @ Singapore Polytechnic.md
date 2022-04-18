@@ -15,9 +15,8 @@ The 5G Learning Journey is a 2 hours Programme designed to educate participants 
 * Explore how features such as ultra low latency, high speed connectivity, massive sensor data of 5G & AIoT can enable key drivers such as real time cloud computing, intelligent control and AI that is transforming your industry 
 * Short and consultative style discussion to help uncover your company problem statement(s) 
 # Details
-**By Appointment Only <br> 
-VENUE: Singapore Polytechnic
-Register by completing the form in the link below**
+**By Appointment Only. Register via the link below. <br> 
+VENUE: Singapore Polytechnic**
 ![5G Learning Journey Synopsis](/images/events/Regular%20Programmes/5G%20Learning%20Journey%20Content_1.png)
 ![5G Learning Journey Content 1](/images/events/Regular%20Programmes/5G%20Learning%20Journey%20Content_2.png)
 ![5G Learning Journey Content 2](/images/events/Regular%20Programmes/5G%20Learning%20Journey%20Content_2B.png)
