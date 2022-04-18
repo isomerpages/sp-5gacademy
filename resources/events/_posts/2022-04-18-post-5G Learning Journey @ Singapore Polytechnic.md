@@ -23,12 +23,11 @@ The 5G Learning Journey is a 2 hours Programme designed to educate participants 
 # Details
 **By Appointment Only <br> 
 VENUE: Singapore Polytechnic
-Register by completing the form**
-
+Register by completing the form in the link below**
 ![5G Learning Journey Synopsis](/images/events/Regular%20Programmes/5G%20Learning%20Journey%20Content_1.png)
-![5G Learning Journey Details](/images/events/Regular%20Programmes/5G%20Learning%20Journey%20Content_2.png)
+![5G Learning Journey Content 1](/images/events/Regular%20Programmes/5G%20Learning%20Journey%20Content_2.png)
+![5G Learning Journey Content 2](/images/events/Regular%20Programmes/5G%20Learning%20Journey%20Content_2B.png)
 ![5G Learning Journey Use Cases](/images/events/Regular%20Programmes/5G%20Learning%20Journey%20Content_3.png)
-
 <style>
 #register {
   background-color: #0000ff;
