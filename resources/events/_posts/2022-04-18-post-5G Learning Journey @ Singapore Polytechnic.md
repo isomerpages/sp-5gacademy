@@ -12,20 +12,8 @@ The 5G Learning Journey is a 2 hours Programme designed to educate participants 
 * Learn interesting concepts through topics like 5G Overview and Introduction to AIoT 
 * Engaging discussion on how 5G & AIoT together can benefit company and workforce
 * Get to know the top 5G & AIoT uses cases
-
-
-
-| Column 1 | Column 2 | 
-| -------- | -------- | 
-|5G Remote Teleoperations using Real Wear   | Text     | 
-|5G UAV – Façade Inspection / Solar Panel Inspection   | Text     | 
-|5G AIoT – Classroom AI Management System   | Text     | 
-|o	5G Smart Manufacturing – Digital Twin*  | Text     | 
-*much more inside the 5G Learning Journey
-*
 * Explore how features such as ultra low latency, high speed connectivity, massive sensor data of 5G & AIoT can enable key drivers such as real time cloud computing, intelligent control and AI that is transforming your industry 
 * Short and consultative style discussion to help uncover your company problem statement(s) 
-
 # Details
 **By Appointment Only <br> 
 VENUE: Singapore Polytechnic
