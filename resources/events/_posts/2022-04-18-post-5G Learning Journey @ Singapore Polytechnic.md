@@ -14,13 +14,15 @@ The 5G Learning Journey is a 2 hours Programme designed to educate participants 
 * Get to know the top 5G & AIoT uses cases
 
 
-| Column 1 | 
-| -------- | 
-|  5G Remote Teleoperations using Real Wear    |
-|  5G UAV – Façade Inspection / Solar Panel Inspection    |
-|  5G AIoT – Classroom AI Management System    |
-|  5G Smart Manufacturing – Digital Twin*    |
- * Much more inside the 5G Learning Journey
+
+| Column 1 | Column 2 | 
+| -------- | -------- | 
+|5G Remote Teleoperations using Real Wear   | Text     | 
+|5G UAV – Façade Inspection / Solar Panel Inspection   | Text     | 
+|5G AIoT – Classroom AI Management System   | Text     | 
+|o	5G Smart Manufacturing – Digital Twin*  | Text     | 
+*much more inside the 5G Learning Journey
+*
 * Explore how features such as ultra low latency, high speed connectivity, massive sensor data of 5G & AIoT can enable key drivers such as real time cloud computing, intelligent control and AI that is transforming your industry 
 * Short and consultative style discussion to help uncover your company problem statement(s) 
 
