@@ -7,12 +7,7 @@ third_nav_title: By Areas
 
 |Course Title  | Institution | Level | Duration |
 | - | - | - | -|
-|[(SBMC) Specialist Diploma in Applied Artificial Intelligence - Introduction to Data Management for Machine Learning](https://www.rp.edu.sg/ace/course-summary/Detail/specialist-diploma-in-applied-artificial-intelligence){:target="_blank" rel="noopener"}  | RP | Basic | 30 hrs |
-|[(SBMC) Specialist Diploma in Applied Artificial Intelligence - Introduction to Programming](https://www.rp.edu.sg/ace/course-summary/Detail/specialist-diploma-in-applied-artificial-intelligence){:target="_blank" rel="noopener"}  | RP | Basic | 30 hrs |
-|[(SBMC) Specialist Diploma in Applied Artificial Intelligence - Machine Learning Fundamentals](https://www.rp.edu.sg/ace/course-summary/Detail/specialist-diploma-in-applied-artificial-intelligence){:target="_blank" rel="noopener"}  | RP | Basic | 30 hrs |
-|[(SBMC) Specialist Diploma in Applied Artificial Intelligence - Math for Machine Learning](https://www.rp.edu.sg/ace/course-summary/Detail/specialist-diploma-in-applied-artificial-intelligence){:target="_blank" rel="noopener"}  | RP | Basic | 30 hrs |
-|[(SBMC) Specialist Diploma in Applied Artificial Intelligence - Recommender Systems](https://www.rp.edu.sg/ace/course-summary/Detail/specialist-diploma-in-applied-artificial-intelligence){:target="_blank" rel="noopener"}  | RP | Basic | 30 hrs |
-|[(SBMC) Specialist Diploma in Applied Artificial Intelligence - Virtual Assistants](https://www.rp.edu.sg/ace/course-summary/Detail/specialist-diploma-in-applied-artificial-intelligence){:target="_blank" rel="noopener"}  | RP | Basic | 30 hrs |
+|[Machine Learning Fundamentals: Specialist Diploma in Applied Artificial Intelligence Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/machine-learning-fundamentals){:target="_blank" rel="noopener"}  | RP | Basic | 30 hrs |
 |[5-Day AI Bootcamp](https://academy.smu.edu.sg/5-day-ai-bootcamp-4241){:target="_blank" rel="noopener"}  | SMU | Intermediate | 39 hrs |
 |[5-Day AI Bootcamp (Synchronous E-learning)](https://academy.smu.edu.sg/5-day-ai-bootcamp-4241){:target="_blank" rel="noopener"}  | SMU | Intermediate | 39 hrs |
 |[Advanced Certificate in Digital Business Module 1: Leading with Data Driven Strategy](https://academy.smu.edu.sg/advanced-certificate-digital-business-module-1-leading-data-driven-strategy-2631){:target="_blank" rel="noopener"}  | SMU | Intermediate | 15 hrs |

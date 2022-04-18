@@ -36,4 +36,4 @@ third_nav_title: By Areas
 |[Leading 5G Industry Transformation (for Telecom and related Professionals)](https://scale.nus.edu.sg/programmes/executive-courses/tech-enabled-services/leading-5g-industry-transformation-(for-telecom-and-related-professionals)){:target="_blank" rel="noopener"}  | NUS | Intermediate | 6 hrs |
 |[RF and Microwave Design of Wireless Systems](https://www.suss.edu.sg/courses/detail/eng333){:target="_blank" rel="noopener"}  | SUSS | Advanced | 18 hrs |
 |[SMU Executive Certificate in China Business Module 5: Tapping into the Innovation and Entrepreneurship Ecosystem in China](https://academy.smu.edu.sg/smu-executive-certificate-china-business-module-5-tapping-innovation-and-entrepreneurship-ecosystem){:target="_blank" rel="noopener"}  | SMU | Basic | 7 hrs |
-|[Wireless Communication Systems](https://www.suss.edu.sg/courses/detail/eng315?urlname=beng-electronics-behe){:target="_blank" rel="noopener"}  | SUSS | Advanced | 36 hrs |
+|[HCIA - 5G](https://www.suss.edu.sg/courses/detail/eng315?urlname=beng-electronics-behe){:target="_blank" rel="noopener"}  | SUSS | Advanced | 36 hrs |
