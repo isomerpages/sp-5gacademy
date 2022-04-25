@@ -22,4 +22,4 @@ third_nav_title: By Acad Institutions
 |[Post Diploma Certificate in Application of AI Systems - Part of Specialist Diploma in AI for Engineers (SDAIE)](https://www.cet.np.edu.sg/courses/specialist-diploma-in-ai-for-engineers/){:target="_blank" rel="noopener"} |Intermediate|120 hrs |
 |[Post-Diploma Certificate in Foundations of AI Systems - Part of Specialist Diploma in AI for Engineers (SDAIE)](https://www.cet.np.edu.sg/courses/specialist-diploma-in-ai-for-engineers/){:target="_blank" rel="noopener"} |Basic|120 hrs |
 |[Smart Building Operations and the Internet of Things ](https://www.cet.np.edu.sg/courses/smart-building-operations-and-the-internet-of-things/){:target="_blank" rel="noopener"} |Basic|24 hrs |
-|[UnSupervised Machine Learning](https://www.np.edu.sg/lifelonglearning/Pages/Unsupervised-Machine-Learning.aspx){:target="_blank" rel="noopener"} |Basic|32 hrs |
+|[UnSupervised Machine Learning](https://www.np.edu.sg/lifelonglearning/Pages/Unsupervised-Machine-Learning.aspx){:target="_blank" rel="noopener"} |Advanced|32 hrs |
