@@ -22,8 +22,8 @@ third_nav_title: By Training Providers
 |[Designing Microsoft Azure Infrastructure Solutions](https://docs.microsoft.com/en-us/learn/certifications/courses/az-305t00){:target="_blank" rel="noopener"} |Advanced|32 hrs |
 |[Efficient Threat Detection with Yara - Coming Soon!]|Intermediate|16 hrs |
 |[Google Cloud Certified - Cloud Digital Leader](https://cloud.google.com/training/business#cloud-digital-leader-path/){:target=""_blank"" rel=""noopener""} |Basic|16 hrs |
-|[Google Cloud in Security](https://www.cloudassistsvcs.com/google-cloud-certified-professional-cloud-security-engineer-bundle/){:target="_blank" rel="noopener"} |Advanced|24 hrs |
 |[Google Cloud in Networking](https://www.cloudassistsvcs.com/google-cloud-certified-professional-cloud-network-engineer-bundle/){:target="_blank" rel="noopener"} |Advanced|16 hrs |
+|[Google Cloud in Security](https://www.cloudassistsvcs.com/google-cloud-certified-professional-cloud-security-engineer-bundle/){:target="_blank" rel="noopener"} |Advanced|24 hrs |
 |[Iasa IT Architecture Core (AC) CITA-F (Foundation Training)](https://iasaglobal.org/Public/Learn/Course-Offerings/Certified-IT-Architect---Foundation.aspx){:target="_blank" rel="noopener"} |Basic|32 hrs |
 |[Iasa Solution Architect CITA-A (Solution Training)](https://iasaglobal.org/Public/Learn/Course-Offerings/Certified%20IT%20Architect%20%E2%80%93%20Associate.aspx){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
 |[Kubernetes and Cloud-Native Associate (KCNA)](https://training.linuxfoundation.org/training/kubernetes-and-cloud-native-essentials-lfs250-kubernetes-and-cloud-native-associate-kcna-exam-bundle/){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
