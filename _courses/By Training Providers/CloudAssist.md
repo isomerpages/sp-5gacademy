@@ -11,7 +11,6 @@ third_nav_title: By Training Providers
 |[Application Modernization Fundamentals - Coming Soon!]|Basic|24 hrs |
 |[Architecting with Google Cloud - Design and Process](https://www.cloudassistsvcs.com/google-cloud-certified-professional-cloud-architect-bundle/){:target="_blank" rel="noopener"} |Advanced|24 hrs |
 |[Architecting with Google Compute Engine](https://www.cloudassistsvcs.com/google-cloud-certified-associate-cloud-engineer/){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
-|[Google Cloud Certified - Cloud Digital Leader](https://cloud.google.com/training/business#cloud-digital-leader-path/){:target=""_blank"" rel=""noopener""} |Basic|16 hrs |
 |[Certified Cloud Security Engineer (CCSE)](https://iclass.eccouncil.org/certified-cloud-security-engineer-ccse/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
 |[Certified Ethical Hacker (CEH)](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
 |[Certified Hacking Forensic Investigator (CHFI)](https://www.eccouncil.org/programs/computer-hacking-forensic-investigator-chfi/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
@@ -22,7 +21,9 @@ third_nav_title: By Training Providers
 |[Data Engineering on Google Cloud Platform](https://www.cloudassistsvcs.com/google-cloud-certified-professional-data-engineer-bundle/){:target="_blank" rel="noopener"} |Advanced|24 hrs |
 |[Designing Microsoft Azure Infrastructure Solutions](https://docs.microsoft.com/en-us/learn/certifications/courses/az-305t00){:target="_blank" rel="noopener"} |Advanced|32 hrs |
 |[Efficient Threat Detection with Yara - Coming Soon!]|Intermediate|16 hrs |
+|[Google Cloud Certified - Cloud Digital Leader](https://cloud.google.com/training/business#cloud-digital-leader-path/){:target=""_blank"" rel=""noopener""} |Basic|16 hrs |
 |[Google Cloud in Security](https://www.cloudassistsvcs.com/google-cloud-certified-professional-cloud-security-engineer-bundle/){:target="_blank" rel="noopener"} |Advanced|24 hrs |
 |[Google Cloud in Networking](https://www.cloudassistsvcs.com/google-cloud-certified-professional-cloud-network-engineer-bundle/){:target="_blank" rel="noopener"} |Advanced|16 hrs |
+|[Iasa IT Architecture Core (AC) CITA-F (Foundation Training)](https://iasaglobal.org/Public/Learn/Course-Offerings/Certified-IT-Architect---Foundation.aspx){:target="_blank" rel="noopener"} |Basic|32 hrs |
 |[Logging, Monitoring and Observability in Google Cloud](https://www.cloudassistsvcs.com/google-cloud-certified-professional-cloud-devops-engineer-bundle/){:target="_blank" rel="noopener"} |Advanced|24 hrs |
 |[Data Engineering on Google Cloud Platform](https://www.cloudassistsvcs.com/google-cloud-certified-professional-data-engineer-bundle/){:target="_blank" rel="noopener"} |Advanced|24 hrs |
