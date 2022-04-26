@@ -19,6 +19,8 @@ third_nav_title: By Training Providers
 |[Certified Kubernetes Administrator (CKA)](https://www.cloudassistsvcs.com/certified-kubernetes-administrator-cka/){:target=""_blank"" rel=""noopener""} |Advanced|32 hrs |
 |[Certified Kubernetes Application Developer (CKAD)](https://www.cloudassistsvcs.com/certified-kubernetes-application-developer-ckad/){:target=""_blank"" rel=""noopener""} |Advanced|24 hrs |
 |[Certified Kubernetes Security Specialist (CKS)](https://training.linuxfoundation.org/training/kubernetes-security-essentials-lfs260/){:target=""_blank"" rel=""noopener""} |Advanced|24 hrs |
+|[Data Engineering on Google Cloud Platform](https://www.cloudassistsvcs.com/google-cloud-certified-professional-data-engineer-bundle/){:target="_blank" rel="noopener"} |Advanced|24 hrs |
+|[Designing Microsoft Azure Infrastructure Solutions](https://docs.microsoft.com/en-us/learn/certifications/courses/az-305t00){:target="_blank" rel="noopener"} |Advanced|32 hrs |
 |[Google Cloud in Security](https://www.cloudassistsvcs.com/google-cloud-certified-professional-cloud-security-engineer-bundle/){:target="_blank" rel="noopener"} |Advanced|24 hrs |
 |[Google Cloud in Networking](https://www.cloudassistsvcs.com/google-cloud-certified-professional-cloud-network-engineer-bundle/){:target="_blank" rel="noopener"} |Advanced|16 hrs |
 |[Logging, Monitoring and Observability in Google Cloud](https://www.cloudassistsvcs.com/google-cloud-certified-professional-cloud-devops-engineer-bundle/){:target="_blank" rel="noopener"} |Advanced|24 hrs |
