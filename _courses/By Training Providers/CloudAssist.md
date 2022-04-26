@@ -25,5 +25,18 @@ third_nav_title: By Training Providers
 |[Google Cloud in Security](https://www.cloudassistsvcs.com/google-cloud-certified-professional-cloud-security-engineer-bundle/){:target="_blank" rel="noopener"} |Advanced|24 hrs |
 |[Google Cloud in Networking](https://www.cloudassistsvcs.com/google-cloud-certified-professional-cloud-network-engineer-bundle/){:target="_blank" rel="noopener"} |Advanced|16 hrs |
 |[Iasa IT Architecture Core (AC) CITA-F (Foundation Training)](https://iasaglobal.org/Public/Learn/Course-Offerings/Certified-IT-Architect---Foundation.aspx){:target="_blank" rel="noopener"} |Basic|32 hrs |
+|[Iasa Solution Architect CITA-A (Solution Training)](https://iasaglobal.org/Public/Learn/Course-Offerings/Certified%20IT%20Architect%20%E2%80%93%20Associate.aspx){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[Kubernetes and Cloud-Native Associate (KCNA)](https://training.linuxfoundation.org/training/kubernetes-and-cloud-native-essentials-lfs250-kubernetes-and-cloud-native-associate-kcna-exam-bundle/){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[Kubernetes Foundations & Cluster Operations ](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=96906&rcode=CourseCatalog){:target="_blank" rel="noopener"} |Basic|32 hrs |
 |[Logging, Monitoring and Observability in Google Cloud](https://www.cloudassistsvcs.com/google-cloud-certified-professional-cloud-devops-engineer-bundle/){:target="_blank" rel="noopener"} |Advanced|24 hrs |
-|[Data Engineering on Google Cloud Platform](https://www.cloudassistsvcs.com/google-cloud-certified-professional-data-engineer-bundle/){:target="_blank" rel="noopener"} |Advanced|24 hrs |
+|[Malware Analysis & Reverse Engineering - Coming Soon!]|Intermediate|40 hrs |
+|[Microsoft Azure Administrator](https://docs.microsoft.com/en-gb/learn/certifications/courses/az-104t00){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[PYTHON ADVANCED](https://edube.org/study/pcpp1-1){:target="_blank" rel="noopener"} |Advanced|80 hrs |
+|[PYTHON ESSENTIALS - PART 1](https://edube.org/study/pe1){:target="_blank" rel="noopener"} |Basic|40 hrs |
+|[PYTHON ESSENTIALS - PART 2](https://edube.org/study/pe2){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[TOGAF® 9.2 Foundation and Certified (Level 1 and 2)](https://www.opengroup.org/certifications/togaf){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[VMware Certified Technical Associate Data Center Virtualization Core Skills Training](https://www.cloudassistsvcs.com/vmware-data-center-virtualization-core-technical-skills/){:target="_blank" rel="noopener"} |Basic|24 hrs |
+|[VMware Cloud Director: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=97100&rcode=CourseCatalog){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[Google Cloud in Networking](https://www.cloudassistsvcs.com/google-cloud-certified-professional-cloud-network-engineer-bundle/){:target="_blank" rel="noopener"} |Advanced|16 hrs |
+|[Google Cloud in Networking](https://www.cloudassistsvcs.com/google-cloud-certified-professional-cloud-network-engineer-bundle/){:target="_blank" rel="noopener"} |Advanced|16 hrs |
+|[Google Cloud in Networking](https://www.cloudassistsvcs.com/google-cloud-certified-professional-cloud-network-engineer-bundle/){:target="_blank" rel="noopener"} |Advanced|16 hrs |
