@@ -37,6 +37,11 @@ third_nav_title: By Training Providers
 |[TOGAF® 9.2 Foundation and Certified (Level 1 and 2)](https://www.opengroup.org/certifications/togaf){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[VMware Certified Technical Associate Data Center Virtualization Core Skills Training](https://www.cloudassistsvcs.com/vmware-data-center-virtualization-core-technical-skills/){:target="_blank" rel="noopener"} |Basic|24 hrs |
 |[VMware Cloud Director: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=97100&rcode=CourseCatalog){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[VMware NSX-T Data Center: Install, Configure, Manage ](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=92720&rcode=CourseCatalog){:target="_blank" rel="noopener"} |Basic|40 hrs |
+|[VMware Tanzu Kubernetes Grid: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=96343&rcode=CourseCatalog){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[VMware Telco Cloud Automation: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=95957){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[VMware Telco Cloud Infrastructure: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=97110){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[Google Cloud in Networking](https://www.cloudassistsvcs.com/google-cloud-certified-professional-cloud-network-engineer-bundle/){:target="_blank" rel="noopener"} |Advanced|16 hrs |
 |[Google Cloud in Networking](https://www.cloudassistsvcs.com/google-cloud-certified-professional-cloud-network-engineer-bundle/){:target="_blank" rel="noopener"} |Advanced|16 hrs |
 |[Google Cloud in Networking](https://www.cloudassistsvcs.com/google-cloud-certified-professional-cloud-network-engineer-bundle/){:target="_blank" rel="noopener"} |Advanced|16 hrs |
 |[Google Cloud in Networking](https://www.cloudassistsvcs.com/google-cloud-certified-professional-cloud-network-engineer-bundle/){:target="_blank" rel="noopener"} |Advanced|16 hrs |
