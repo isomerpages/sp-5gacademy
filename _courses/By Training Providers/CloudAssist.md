@@ -41,7 +41,10 @@ third_nav_title: By Training Providers
 |[VMware Tanzu Kubernetes Grid: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=96343&rcode=CourseCatalog){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
 |[VMware Telco Cloud Automation: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=95957){:target="_blank" rel="noopener"} |Advanced|40 hrs |
 |[VMware Telco Cloud Infrastructure: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=97110){:target="_blank" rel="noopener"} |Advanced|40 hrs |
-|[Google Cloud in Networking](https://www.cloudassistsvcs.com/google-cloud-certified-professional-cloud-network-engineer-bundle/){:target="_blank" rel="noopener"} |Advanced|16 hrs |
-|[Google Cloud in Networking](https://www.cloudassistsvcs.com/google-cloud-certified-professional-cloud-network-engineer-bundle/){:target="_blank" rel="noopener"} |Advanced|16 hrs |
-|[Google Cloud in Networking](https://www.cloudassistsvcs.com/google-cloud-certified-professional-cloud-network-engineer-bundle/){:target="_blank" rel="noopener"} |Advanced|16 hrs |
-|[Google Cloud in Networking](https://www.cloudassistsvcs.com/google-cloud-certified-professional-cloud-network-engineer-bundle/){:target="_blank" rel="noopener"} |Advanced|16 hrs |
+|[VMware Telco Cloud Operations: Install, Configure, Manage - Coming Soon!]|Advanced|24 hrs |
+|[VMware Telco Cloud Platform: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=97105){:target="_blank" rel="noopener"} |Advanced|24 hrs |
+|[VMware vSAN: Management and Operations](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=94596&rcode=CourseCatalog){:target="_blank" rel="noopener"} |Basic|24 hrs |
+|[VMware vSphere with Tanzu: Deploy and Manage [V7]](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=93247&rcode=CourseCatalog){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[VMware vSphere: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=93058&rcode=CourseCatalog){:target="_blank" rel="noopener"} |Basic|40 hrs |
+|[Windows Digital Forensics - Coming Soon!]|Intermediate|40 hrs |
+|[Windows Incident Response - Coming Soon!]|Intermediate|40 hrs |
