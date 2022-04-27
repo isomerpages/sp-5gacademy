@@ -26,9 +26,11 @@ third_nav_title: By Training Providers
 |[ITIL 4 Foundation](https://www.bridgingminds.net/itil-4-foundation#1512458782902-095d8540-4705){:target="_blank" rel="noopener"} |Basic|21 hrs |
 |[ITIL 4 Managing Professional Transition](https://www.bridgingminds.net/iitl-mamaging-professional-transition#1512458782867-caab09fb-03b1){:target="_blank" rel="noopener"} |Advanced|35 hr
 |[Microsoft Azure Fundamental - AZ900](https://www.bridgingminds.net/az900){:target="_blank" rel="noopener"} |Basic|14 hrs |
-|[DevSecOps](https://www.bridgingminds.net/DevSecOps){:target="_blank" rel="noopener"} |Basic|14 hrs |
-|[DevSecOps](https://www.bridgingminds.net/DevSecOps){:target="_blank" rel="noopener"} |Basic|14 hrs |s |
-|[DevSecOps](https://www.bridgingminds.net/DevSecOps){:target="_blank" rel="noopener"} |Basic|14 hrs |
+|[Microsoft Azure Administrator - AZ104](https://www.bridgingminds.net/az103){:target="_blank" rel="noopener"} |Intermediate|35 hrs |
+|[Microsoft Azure Architect Technologies - AZ303](https://www.bridgingminds.net/az300){:target="_blank" rel="noopener"} |Advanced|35 hrs |s |
+|[Palo Alto Firewall Essentials Configuration and Management (EDU-210)](https://www.bridgingminds.net/edu-210/){:target="_blank" rel="noopener"} |Basic|35 hrs |
+|[Palo Alto : Optimizing Threat Prevention (EDU-214)](https://www.bridgingminds.net/paloalto-214){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
+|[Palo Alto: Managing Firewall At Scale (EDU-220)](https://www.bridgingminds.net/paloalto-220/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Project Management Professional (PMP)](https://www.bridgingminds.net/pmi_pmp/){:target="_blank" rel="noopener"} |Intermediate|35 hrs |
 |[PRINCE2 Foundation](https://www.bridgingminds.net/prince2-foundation/){:target="_blank" rel="noopener"} |Basic|21 hrs |
 |[PRINCE2 Practitoner](https://www.bridgingminds.net/bm-prince2-practitioner-outline/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
