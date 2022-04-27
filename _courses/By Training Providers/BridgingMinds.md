@@ -6,7 +6,6 @@ third_nav_title: By Training Providers
 ---
 |Course Title  | Level | Duration |
 | - | - | - | 
-|[XXX - Coming Soon!]|Basic|24 hrs |
 |[ITIL 4 Foundation](https://www.bridgingminds.net/itil-4-foundation#1512458782902-095d8540-4705){:target="_blank" rel="noopener"} |Basic|21 hrs |
 |[ITIL 4 Managing Professional Transition](https://www.bridgingminds.net/iitl-mamaging-professional-transition#1512458782867-caab09fb-03b1){:target="_blank" rel="noopener"} |Advanced|35 hrs |
 |[Cobit 2019 Foundation](https://www.bridgingminds.net/cobit2019-foundation-course){:target="_blank" rel="noopener"} |Basic|21 hrs |
