@@ -17,5 +17,8 @@ third_nav_title: By Training Providers
 |[Certified Information Security Manager (CISM)](https://www.bridgingminds.net/certified-information-security-manager/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
 |[Certified in Risk and Information Systems Control (CRISC)](https://www.bridgingminds.net/certified-in-risk-and-information-system-control){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
 |[Certified Cloud Security Engineer (CCSE)](https://www.bridgingminds.net/k_course/certified-cloud-security-engineer-ec-councilccse/){:target="_blank" rel="noopener"} |Intermediate|35 hrs |
-|[Architecting with Google Compute Engine](https://www.cloudassistsvcs.com/google-cloud-certified-associate-cloud-engineer/){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
-|[Architecting with Google Compute Engine](https://www.cloudassistsvcs.com/google-cloud-certified-associate-cloud-engineer/){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[EC Council Certified Ethical Hacker (CEH)](https://www.bridgingminds.net/certified-ethical-hacker-ceh){:target="_blank" rel="noopener"} |Intermediate|35 hrs |
+|[EC Council Incident Handler (ECIH)](https://www.bridgingminds.net/incident-handler-ecih){:target="_blank" rel="noopener"} |Basic|21 hrs |
+|[CompTIA Security+ (IT Security for ICT Professionals)](https://www.bridgingminds.net/comptia-security){:target="_blank" rel="noopener"} |Basic|35 hrs |
+|[DevSecOps](https://www.bridgingminds.net/DevSecOps){:target="_blank" rel="noopener"} |Basic|14 hrs |
+|[Project Management Professional (PMP)](https://www.bridgingminds.net/pmi_pmp/){:target="_blank" rel="noopener"} |Intermediate|35 hrs |
