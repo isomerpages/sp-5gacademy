@@ -11,7 +11,7 @@ third_nav_title: By Training Providers
 |[AI Awareness Training (Data Analytics Track)](https://www.comat.com.sg/classroom-learning/training/ai/ai-awareness-training-data-analytics-track/){:target=""_blank"" rel=""noopener""} |Intermediate|8 hrs |
 |[AWS Certified Solutions Architect – Associate (Bundle)](https://www.comat.com.sg/classroom-learning/training/cloud/aws-certified-solutions-architect-associate-bundle/){:target=""_blank"" rel=""noopener""} |Intermediate|32 hrs |
 |[AZ-305: Designing Microsoft Azure Infrastructure Solutions](https://www.comat.com.sg/classroom-learning/training/cloud/az-305-designing-microsoft-azure-infrastructure-solutions/){:target=""_blank"" rel=""noopener""} |Intermediate|28 hrs |
-|[Certified Ethical Hacker (CEH)](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
-|[Certified Ethical Hacker (CEH)](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
+|[AZ-900 – Azure Fundamentals](https://www.comat.com.sg/classroom-learning/training/cloud/az-900-azure-fundamentals/){:target=""_blank"" rel=""noopener""} |Basic|8.5 hrs |
+|[CADS - Cybersecurity Attack and Defense Specialist](https://www.comat.com.sg/classroom-learning/training/cyber-security/cads-cybersecurity-attack-and-defense-specialist/){:target=""_blank"" rel=""noopener""} |Intermediate|40.75 hrs |
 |[Certified Ethical Hacker (CEH)](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
 |[Certified Ethical Hacker (CEH)](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
