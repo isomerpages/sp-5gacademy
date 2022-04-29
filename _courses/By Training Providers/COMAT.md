@@ -27,6 +27,14 @@ third_nav_title: By Training Providers
 |[CompTIA PenTest+](https://www.comat.com.sg/classroom-learning/training/cyber-security/comptia-pentest/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
 |[Comptia Security+](https://www.comat.com.sg/classroom-learning/training/cyber-security/comptia-security/){:target=""_blank"" rel=""noopener""} |Intermediate|37 hrs |
 |[Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (AZ-600)](https://www.comat.com.sg/classroom-learning/training/cloud/configuring-and-operating-a-hybrid-cloud-with-microsoft-azure-stack-hub-az-600/){:target=""_blank"" rel=""noopener""} |Intermediate|28 hrs |
+|[CSE - Cybersecurity Evangelist](https://www.comat.com.sg/classroom-learning/training/cyber-security/cse-cybersecurity-evangelist/){:target=""_blank"" rel=""noopener""} |Intermediate|22 hrs |
+|[Data Analysis with Tableau](https://www.comat.com.sg/classroom-learning/training/data-science/data-analysis-with-tableau/){:target=""_blank"" rel=""noopener""} |Intermediate|16 hrs |
+|[Data Visualization with Power BI](https://www.comat.com.sg/classroom-learning/training/data-science/data-visualization-with-power-bi/){:target=""_blank"" rel=""noopener""} |Intermediate|15 hrs |
+|[Designing Cisco Enterprise Networks (ENSLD)](https://www.comat.com.sg/classroom-learning/training/networking/designing-cisco-enterprise-networks/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
+|[Designing Cisco Enterprise Wireless Networks (ENWLSD)](https://www.comat.com.sg/classroom-learning/training/networking/designing-cisco-enterprise-wireless-networks/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
+|[DevOps Foundation](https://www.comat.com.sg/classroom-learning/training/devops/devops-foundation/){:target=""_blank"" rel=""noopener""} |Basic|16 hrs |
+|[EC-Council Certified Cloud Security Engineer](https://www.comat.com.sg/classroom-learning/training/cyber-security/ec-council-certified-cloud-security-engineer/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
+|[Certified Ethical Hacker](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
 |[Certified Ethical Hacker](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
 |[Certified Ethical Hacker](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
 |[Certified Ethical Hacker](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
