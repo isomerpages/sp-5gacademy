@@ -6,7 +6,6 @@ third_nav_title: By Training Providers
 ---
 |Course Title  | Level | Duration |
 | - | - | - | 
-|[Advanced Malware Analyisis & Reverse Engineering - Coming Soon!]|Intermediate|40 hrs |
 |[AI Awareness Training (AI Track)](https://www.comat.com.sg/classroom-learning/training/ai/ai-awareness-training-ai-track/){:target=""_blank"" rel=""noopener""} |Intermediate|8 hrs |
 |[AI Awareness Training (Data Analytics Track)](https://www.comat.com.sg/classroom-learning/training/ai/ai-awareness-training-data-analytics-track/){:target=""_blank"" rel=""noopener""} |Intermediate|8 hrs |
 |[AWS Certified Solutions Architect – Associate (Bundle)](https://www.comat.com.sg/classroom-learning/training/cloud/aws-certified-solutions-architect-associate-bundle/){:target=""_blank"" rel=""noopener""} |Intermediate|32 hrs |
@@ -39,4 +38,6 @@ third_nav_title: By Training Providers
 |[Implementing Cisco Enterprise Wireless Networks (ENWLSI)](https://www.comat.com.sg/classroom-learning/training/networking/implementing-cisco-enterprise-wireless-networks){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
 |[In-Depth AI Training](https://www.comat.com.sg/classroom-learning/training/ai/in-depth-ai-training/){:target=""_blank"" rel=""noopener""} |Advanced|32 hrs |
 |[Introduction to Cyber Security](https://www.comat.com.sg/classroom-learning/training/cyber-security/introduction-to-cyber-security/){:target=""_blank"" rel=""noopener""} |Basic|8 hrs |
-|[Certified Ethical Hacker](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
+|[ITIL® 4 Foundation Certificate in IT Service Management](https://www.comat.com.sg/classroom-learning/training/it-service-management/itil-4-foundation-certificate-in-it-service-management/){:target=""_blank"" rel=""noopener""} |Basic|20 hrs |
+|[Microsoft Azure Administrator](https://www.comat.com.sg/classroom-learning/training/cloud/microsoft-azure-administrator/){:target=""_blank"" rel=""noopener""} |Intermediate|32 hrs |
+|[PMP® - Project Management Professional Training](https://www.comat.com.sg/classroom-learning/training/project-management/pmp-project-management-professional-training/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
