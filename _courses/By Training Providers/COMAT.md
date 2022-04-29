@@ -19,4 +19,14 @@ third_nav_title: By Training Providers
 |[CISM - Certified Information Security Manager](https://www.comat.com.sg/classroom-learning/training/cyber-security/cism-certified-information-security-manager/){:target=""_blank"" rel=""noopener""} |Advanced|32 hrs |
 |[CISSP - Certified Information Systems Security Professional](https://www.comat.com.sg/classroom-learning/training/cyber-security/cissp-certified-information-systems-security-professional/){:target=""_blank"" rel=""noopener""} |Advanced|40 hrs |
 |[CND - Certified Network Defender](https://www.comat.com.sg/classroom-learning/training/cyber-security/cnd-certified-network-defender/){:target=""_blank"" rel=""noopener""} |Intermediate|37 hrs |
+|[CompTIA Cloud+](https://www.comat.com.sg/classroom-learning/training/cloud/comptia-cloud/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
+|[Certified Ethical Hacker](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
+|[Certified Ethical Hacker](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
+|[Certified Ethical Hacker](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
+|[Certified Ethical Hacker](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
+|[Certified Ethical Hacker](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
+|[Certified Ethical Hacker](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
+|[Certified Ethical Hacker](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
+|[Certified Ethical Hacker](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
+|[Certified Ethical Hacker](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
 |[Certified Ethical Hacker](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
