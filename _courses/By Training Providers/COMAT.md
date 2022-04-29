@@ -34,7 +34,7 @@ third_nav_title: By Training Providers
 |[Designing Cisco Enterprise Wireless Networks (ENWLSD)](https://www.comat.com.sg/classroom-learning/training/networking/designing-cisco-enterprise-wireless-networks/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
 |[DevOps Foundation](https://www.comat.com.sg/classroom-learning/training/devops/devops-foundation/){:target=""_blank"" rel=""noopener""} |Basic|16 hrs |
 |[EC-Council Certified Cloud Security Engineer](https://www.comat.com.sg/classroom-learning/training/cyber-security/ec-council-certified-cloud-security-engineer/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
-|[Certified Ethical Hacker](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
-|[Certified Ethical Hacker](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
-|[Certified Ethical Hacker](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
+|[ICDL Cloud computing](https://www.comat.com.sg/classroom-learning/training/cloud/icdl-insights-cloud-computing/){:target=""_blank"" rel=""noopener""} |Basic|8 hrs |
+|[Implementing and Operating Cisco Enterprise Network Core Technologies (ENCOR)](https://www.comat.com.sg/classroom-learning/training/networking/implementing-and-operating-cisco-enterprise-network-core-technologies/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
+|[Implementing Cisco Enterprise Wireless Networks (ENWLSI)](https://www.comat.com.sg/classroom-learning/training/networking/implementing-cisco-enterprise-wireless-networks){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
 |[Certified Ethical Hacker](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
