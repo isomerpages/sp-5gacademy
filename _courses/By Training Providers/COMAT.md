@@ -37,4 +37,6 @@ third_nav_title: By Training Providers
 |[ICDL Cloud computing](https://www.comat.com.sg/classroom-learning/training/cloud/icdl-insights-cloud-computing/){:target=""_blank"" rel=""noopener""} |Basic|8 hrs |
 |[Implementing and Operating Cisco Enterprise Network Core Technologies (ENCOR)](https://www.comat.com.sg/classroom-learning/training/networking/implementing-and-operating-cisco-enterprise-network-core-technologies/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
 |[Implementing Cisco Enterprise Wireless Networks (ENWLSI)](https://www.comat.com.sg/classroom-learning/training/networking/implementing-cisco-enterprise-wireless-networks){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
+|[In-Depth AI Training](https://www.comat.com.sg/classroom-learning/training/ai/in-depth-ai-training/){:target=""_blank"" rel=""noopener""} |Advanced|32 hrs |
+|[Introduction to Cyber Security](https://www.comat.com.sg/classroom-learning/training/cyber-security/introduction-to-cyber-security/){:target=""_blank"" rel=""noopener""} |Basic|8 hrs |
 |[Certified Ethical Hacker](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
