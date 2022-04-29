@@ -13,5 +13,10 @@ third_nav_title: By Training Providers
 |[AZ-305: Designing Microsoft Azure Infrastructure Solutions](https://www.comat.com.sg/classroom-learning/training/cloud/az-305-designing-microsoft-azure-infrastructure-solutions/){:target=""_blank"" rel=""noopener""} |Intermediate|28 hrs |
 |[AZ-900 – Azure Fundamentals](https://www.comat.com.sg/classroom-learning/training/cloud/az-900-azure-fundamentals/){:target=""_blank"" rel=""noopener""} |Basic|8.5 hrs |
 |[CADS - Cybersecurity Attack and Defense Specialist](https://www.comat.com.sg/classroom-learning/training/cyber-security/cads-cybersecurity-attack-and-defense-specialist/){:target=""_blank"" rel=""noopener""} |Intermediate|40.75 hrs |
-|[Certified Ethical Hacker (CEH)](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
-|[Certified Ethical Hacker (CEH)](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
+|[CCNA - Cisco Certified Network Associate](https://www.comat.com.sg/classroom-learning/training/networking/ccna-cisco-certified-network-associate/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
+|[Certified Ethical Hacker](https://www.comat.com.sg/classroom-learning/training/cyber-security/ceh-certified-ethical-hacker/){:target=""_blank"" rel=""noopener""} |Intermediate|35 hrs |
+|[CHFI – Computer Hacking Forensic Investigator](https://www.comat.com.sg/classroom-learning/training/cyber-security/chfi-computer-hacking-forensic-investigator/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
+|[CISM - Certified Information Security Manager](https://www.comat.com.sg/classroom-learning/training/cyber-security/cism-certified-information-security-manager/){:target=""_blank"" rel=""noopener""} |Advanced|32 hrs |
+|[CISSP - Certified Information Systems Security Professional](https://www.comat.com.sg/classroom-learning/training/cyber-security/cissp-certified-information-systems-security-professional/){:target=""_blank"" rel=""noopener""} |Advanced|40 hrs |
+|[CND - Certified Network Defender](https://www.comat.com.sg/classroom-learning/training/cyber-security/cnd-certified-network-defender/){:target=""_blank"" rel=""noopener""} |Intermediate|37 hrs |
+|[Certified Ethical Hacker](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
