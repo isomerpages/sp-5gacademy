@@ -56,7 +56,9 @@ third_nav_title: By Training Providers
 |Splunk Core Certified User|Basic| |
 |System Operations on AWS|Advanced|24 hrs |
 |[The Machine Learning Pipeline on AWS](https://www.ntuclearninghub.com/en-gb/-/course/the-machine-learning-pipeline-on-aws-2){:target="_blank" rel="noopener"} |Advanced|30 hrs |
-|[Certified Information Systems Auditor (CISA)](https://www.bridgingminds.net/certified-information-systems-auditor/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
+|Virtual Reality - Accelerating towards a Metaverse future|Basic| 88 hrs|
+|[VMware Cloud Director: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=97100&rcode=CourseCatalog){:target="_blank" rel="noopener"} |Intermediate|5 days |
+|VMware Horizon 8: Deploy and Manage|Intermediate| |
 |[Certified Information Systems Auditor (CISA)](https://www.bridgingminds.net/certified-information-systems-auditor/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
 |[Certified Information Systems Auditor (CISA)](https://www.bridgingminds.net/certified-information-systems-auditor/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
 |[Certified Information Systems Auditor (CISA)](https://www.bridgingminds.net/certified-information-systems-auditor/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
