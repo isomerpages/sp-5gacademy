@@ -19,9 +19,9 @@ third_nav_title: By Training Providers
 |Cisco CCNA Cyber Security Operations]|Intermediate| |
 |CompTIA Advanced Security Practitioner (CASP+)|Advanced| |
 |CompTIA Cloud +|| |
-|CompTIA Linux +||24 hrs |
-|Architecting on AWS |Intermediate|24 hrs |
-|Architecting on AWS |Intermediate|24 hrs |
+|CompTIA Linux +|| |
+|CompTIA Network +|Intermediate|40 hrs |
+|CompTIA Security+|Intermediate| |
 |[Certified Information Systems Auditor (CISA)](https://www.bridgingminds.net/certified-information-systems-auditor/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
 |[Certified Information Systems Auditor (CISA)](https://www.bridgingminds.net/certified-information-systems-auditor/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
 |[Certified Information Systems Auditor (CISA)](https://www.bridgingminds.net/certified-information-systems-auditor/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
