@@ -37,4 +37,12 @@ third_nav_title: By Training Providers
 |Internet of Things Practitioner Part 1|Basic|37.5 hrs |
 |ISACA Certificate of Cloud Auditing Knowledge (CCAK)|Basic| |
 |IISACA Certified Information Security Manager® (CISM®)|Intermediate| |
+|[ITIL 4 Foundation](https://www.ntuclearninghub.com/en-gb/-/course/nicf-itil-4-foundation-sf){:target="_blank" rel="noopener"} |Basic|24 hrs |
+|[Java SE Programming I](https://www.ntuclearninghub.com/en-gb/-/course/nicf-java-se-programming-i-sf){:target="_blank" rel="noopener"} |Basic|35 hrs |
+|[Java SE Programming II](https://www.ntuclearninghub.com/en-gb/-/course/nicf-java-se-programming-ii-sf){:target="_blank" rel="noopener"} |Intermediate|35 hrs |
+|[Certified Information Systems Auditor (CISA)](https://www.bridgingminds.net/certified-information-systems-auditor/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
+|[Certified Information Systems Auditor (CISA)](https://www.bridgingminds.net/certified-information-systems-auditor/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
+|[Certified Information Systems Auditor (CISA)](https://www.bridgingminds.net/certified-information-systems-auditor/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
+|[Certified Information Systems Auditor (CISA)](https://www.bridgingminds.net/certified-information-systems-auditor/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
+|[Certified Information Systems Auditor (CISA)](https://www.bridgingminds.net/certified-information-systems-auditor/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
 |[Certified Information Systems Auditor (CISA)](https://www.bridgingminds.net/certified-information-systems-auditor/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
