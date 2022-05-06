@@ -68,6 +68,6 @@ third_nav_title: By Training Providers
 |[Vmware Virtualisation and Cloud Fundamentals](https://www.ntuclearninghub.com/en-gb/-/course/vmware-virtualization-and-cloud-fundamentals-2){:target="_blank" rel="noopener"} |Basic|22.5 hrs |
 |VMware vRealize Automation: Install  Configure  Manage [V8.3]|Intermediate|40 hrs |
 |VMware vRealize Operations: Install  Configure  Manage [V8.2]|Intermediate|40 hrs |
-|[Certified Information Systems Auditor (CISA)](https://www.bridgingminds.net/certified-information-systems-auditor/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
-|[Certified Information Systems Auditor (CISA)](https://www.bridgingminds.net/certified-information-systems-auditor/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
-|[Certified Information Systems Auditor (CISA)](https://www.bridgingminds.net/certified-information-systems-auditor/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
+|[VMware vSAN: Management and Operations](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=94596&rcode=CourseCatalog){:target="_blank" rel="noopener"} |Basic|3 days |
+|[VMware vSphere with Tanzu: Deploy and Manage [V7]](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=93247&rcode=CourseCatalog){:target="_blank" rel="noopener"} |Intermediate|3 days|
+|[VMware vSphere: Install  Configure  Manage [V7]](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=93058&rcode=CourseCatalog){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
