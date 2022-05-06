@@ -46,8 +46,8 @@ third_nav_title: By Training Providers
 |NICF - EC-Council Certified Incident Handler (ECIH)|Intermediate| |
 |NICF - Microsoft Azure Administrator (SF)|Intermediate|32 hrs |
 |NICF-Implementing and Administering Cisco Solutions (CCNA) (SF)|Intermediate|40 hrs |
-|Nokia Bell Labs 5G Foundation  | BL00100-V-0220|Intermediate| |
-|Nokia Bell Labs 5G Networking| BL00160-V-2006|Intermediate| |
+|Nokia Bell Labs 5G Foundation |Intermediate| |
+|Nokia Bell Labs 5G Networking|Intermediate| |
 |Nokia Bell Labs Industrial Automation Networks|| |
 |[PMI Agile Certified Practitioner (PMI-ACP)](https://www.ntuclearninghub.com/en-gb/-/course/nicf-pmi-agile-certified-practitioner-pmi-acp-sf){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
 |[Project Management Professional](https://www.ntuclearninghub.com/en-gb/-/course/nicf-project-management-professional-pmp-sf){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
