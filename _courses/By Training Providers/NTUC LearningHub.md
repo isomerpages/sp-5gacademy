@@ -59,6 +59,11 @@ third_nav_title: By Training Providers
 |Virtual Reality - Accelerating towards a Metaverse future|Basic| 88 hrs|
 |[VMware Cloud Director: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=97100&rcode=CourseCatalog){:target="_blank" rel="noopener"} |Intermediate|5 days |
 |VMware Horizon 8: Deploy and Manage|Intermediate| |
+|[VMware NSX-T Data Center: Install  Configure  Manage [V3.0]](https://mylearn.vmware.com/descriptions/EDU_DATASHEET%20VMware%20NSX-T%20Data%20Center%20Install%20Configure%20Manage%20V3.0.pdf){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[VMware Tanzu Kubernetes Grid: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=96343&rcode=CourseCatalog){:target="_blank" rel="noopener"} |Intermediate|3 days|
+|[VMware Telco Cloud Automation: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=95957){:target="_blank" rel="noopener"} |Advanced|5 days |
+|[Certified Information Systems Auditor (CISA)](https://www.bridgingminds.net/certified-information-systems-auditor/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
+|[Certified Information Systems Auditor (CISA)](https://www.bridgingminds.net/certified-information-systems-auditor/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
 |[Certified Information Systems Auditor (CISA)](https://www.bridgingminds.net/certified-information-systems-auditor/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
 |[Certified Information Systems Auditor (CISA)](https://www.bridgingminds.net/certified-information-systems-auditor/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
 |[Certified Information Systems Auditor (CISA)](https://www.bridgingminds.net/certified-information-systems-auditor/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
