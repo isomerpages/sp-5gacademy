@@ -49,6 +49,13 @@ third_nav_title: By Training Providers
 |Nokia Bell Labs 5G Foundation  | BL00100-V-0220|Intermediate| |
 |Nokia Bell Labs 5G Networking| BL00160-V-2006|Intermediate| |
 |Nokia Bell Labs Industrial Automation Networks|| |
+|[PMI Agile Certified Practitioner (PMI-ACP)](https://www.ntuclearninghub.com/en-gb/-/course/nicf-pmi-agile-certified-practitioner-pmi-acp-sf){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[Project Management Professional](https://www.ntuclearninghub.com/en-gb/-/course/nicf-project-management-professional-pmp-sf){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|Security Engineering on AWS|Advanced|24 hrs |
+|[Site Reliability Engineering Foundation](https://www.ntuclearninghub.com/en-gb/-/course/nicf-site-reliability-engineering-foundation-sref-sf){:target="_blank" rel="noopener"} |Basic|16 hrs |
+|Splunk Core Certified User|Basic| |
+|System Operations on AWS|Advanced|24 hrs |
+|[The Machine Learning Pipeline on AWS](https://www.ntuclearninghub.com/en-gb/-/course/the-machine-learning-pipeline-on-aws-2){:target="_blank" rel="noopener"} |Advanced|30 hrs |
 |[Certified Information Systems Auditor (CISA)](https://www.bridgingminds.net/certified-information-systems-auditor/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
 |[Certified Information Systems Auditor (CISA)](https://www.bridgingminds.net/certified-information-systems-auditor/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
 |[Certified Information Systems Auditor (CISA)](https://www.bridgingminds.net/certified-information-systems-auditor/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
