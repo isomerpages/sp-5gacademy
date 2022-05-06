@@ -40,8 +40,15 @@ third_nav_title: By Training Providers
 |[ITIL 4 Foundation](https://www.ntuclearninghub.com/en-gb/-/course/nicf-itil-4-foundation-sf){:target="_blank" rel="noopener"} |Basic|24 hrs |
 |[Java SE Programming I](https://www.ntuclearninghub.com/en-gb/-/course/nicf-java-se-programming-i-sf){:target="_blank" rel="noopener"} |Basic|35 hrs |
 |[Java SE Programming II](https://www.ntuclearninghub.com/en-gb/-/course/nicf-java-se-programming-ii-sf){:target="_blank" rel="noopener"} |Intermediate|35 hrs |
-|[Certified Information Systems Auditor (CISA)](https://www.bridgingminds.net/certified-information-systems-auditor/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
-|[Certified Information Systems Auditor (CISA)](https://www.bridgingminds.net/certified-information-systems-auditor/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
+|[Kubernetes Foundations & Cluster Operations](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=96906&rcode=CourseCatalog){:target="_blank" rel="noopener"} |Basic|4 days|
+|[Microsoft Azure Cloud Fundamentals](https://www.ntuclearninghub.com/en-gb/-/course/microsoft-azure-fundamentals){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|Microsoft Azure Security Technologies|Advanced|32 hrs |
+|NICF - EC-Council Certified Incident Handler (ECIH)|Intermediate| |
+|NICF - Microsoft Azure Administrator (SF)|Intermediate|32 hrs |
+|NICF-Implementing and Administering Cisco Solutions (CCNA) (SF)|Intermediate|40 hrs |
+|Nokia Bell Labs 5G Foundation  | BL00100-V-0220|Intermediate| |
+|Nokia Bell Labs 5G Networking| BL00160-V-2006|Intermediate| |
+|Nokia Bell Labs Industrial Automation Networks|| |
 |[Certified Information Systems Auditor (CISA)](https://www.bridgingminds.net/certified-information-systems-auditor/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
 |[Certified Information Systems Auditor (CISA)](https://www.bridgingminds.net/certified-information-systems-auditor/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
 |[Certified Information Systems Auditor (CISA)](https://www.bridgingminds.net/certified-information-systems-auditor/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
