@@ -22,6 +22,19 @@ third_nav_title: By Training Providers
 |CompTIA Linux +|| |
 |CompTIA Network +|Intermediate|40 hrs |
 |CompTIA Security+|Intermediate| |
-|[Certified Information Systems Auditor (CISA)](https://www.bridgingminds.net/certified-information-systems-auditor/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
-|[Certified Information Systems Auditor (CISA)](https://www.bridgingminds.net/certified-information-systems-auditor/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
+|Designing Microsoft Infrastructure Solutions (AZ-305)|Advanced|32 hrs |
+|[DevSecOps Foundation](https://www.devopsinstitute.com/certifications/devsecops-foundation/){:target="_blank" rel="noopener"} |Basic|15 hrs |
+|EC-Council Certified Ethical Hacker (CEH)|Intermediate| |
+|EC-Council Certified Network Defender (CND)|Intermediate| |
+|EC-Council Certified Threat Intelligence Analyst (CTIA)|Intermediate| |
+|[Fundamental of Python Programming](https://www.ntuclearninghub.com/en-gb/-/course/fundamentals-of-python-programming){:target="_blank" rel="noopener"} |Basic|15 hrs |
+|Fundamentals of Business Development & Account Management|Basic|64 hrs |
+|IBFIT11 - Machine Learning Pipline on AWS|Advanced|32 hrs |
+|IBFIT21 - Vmware Virtualisation and Cloud Fundamentals|Basic|22.5 hrs |
+|[IBFIT36 - Microsoft Azure Cloud Fundamentals](https://www.ntuclearninghub.com/en-gb/-/course/microsoft-azure-fundamentals){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[ICAgile - Product Ownership](https://www.ntuclearninghub.com/en-gb/-/course/icagile-agile-product-ownership){:target="_blank" rel="noopener"} |Basic|15 hrs |
+|IInteraction Design for Augmented Reality|Basic|88 hrs |
+|Internet of Things Practitioner Part 1|Basic|37.5 hrs |
+|ISACA Certificate of Cloud Auditing Knowledge (CCAK)|Basic| |
+|IISACA Certified Information Security Manager® (CISM®)|Intermediate| |
 |[Certified Information Systems Auditor (CISA)](https://www.bridgingminds.net/certified-information-systems-auditor/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
