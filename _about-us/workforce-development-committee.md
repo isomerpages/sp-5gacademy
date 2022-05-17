@@ -24,7 +24,7 @@ permalink: /about-us/wdc
 |Mr Sriram Ramanan     | Siemens Singapore | 
 |Ms Veronika Indirawati     | Siemens Singapore | 
 |Mr Phillip Taylor     | Siemens Singapore | 
-|Mr Vivian Yik     | Siemens Singapore | 
+|Ms Vivian Yik     | Siemens Singapore | 
 |Mr Jenson Chong  |VMware Singapore Pte Ltd | 
 |Ms Lai Lock See| VMware Singapore Pte Ltd | 
 
