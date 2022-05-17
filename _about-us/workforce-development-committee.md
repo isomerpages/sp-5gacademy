@@ -20,7 +20,11 @@ permalink: /about-us/wdc
 |Dr Paul Wang     | NEC Asia Pacific Pte Ltd | 
 |Mr Mohammad K Jajurie     | Nokia Singapore | 
 |Mr Jefson Batuwael    | Nokia Singapore | 
-|Mr Benjamin Moey     | Siemens Singapore | 
+|Mr Tobias Botzenhardt  | Siemens Singapore | 
+|Mr Sriram Ramanan     | Siemens Singapore | 
+|Ms Veronika Indirawati     | Siemens Singapore | 
+|Mr Phillip Taylor     | Siemens Singapore | 
+|Mr Vivian Yik     | Siemens Singapore | 
 |Mr Jenson Chong  |VMware Singapore Pte Ltd | 
 |Ms Lai Lock See| VMware Singapore Pte Ltd | 
 
