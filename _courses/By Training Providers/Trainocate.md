@@ -39,12 +39,12 @@ Enterprise 5G Solutions  Coming Soon!]|| |
 |[CISCO - (ENSLD) Designing Cisco Enterprise Networks (ENSLD)](https://trainocate.com/sg/courses/cisco/ensld){:target="_blank" rel="noopener"} |Advanced|40 hrs |
 |[CISCO - (ENWLSD) Designing Cisco Enterprise Wireless Networks](https://trainocate.com/sg/courses/cisco/enwlsd){:target="_blank" rel="noopener"} |Advanced|40 hrs |
 |[CISCO - (ENWLSI) Implementing Cisco Enterprise Wireless Networks](https://trainocate.com/sg/courses/cisco/enwlsi){:target="_blank" rel="noopener"} |Advanced|40 hrs |
-|[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[CISCO - (ENAUI) Implementing Automation for Cisco Enterprise Solutions ](https://trainocate.com/sg/courses/cisco/enaui){:target="_blank" rel="noopener"} |Advanced|24 hrs |
+|[CISCO - (WLFNDU) Understanding Cisco Wireless Foundations v1.0](https://trainocate.com/sg/courses/cisco/wlfndu){:target="_blank" rel="noopener"} |Basic|40 hrs |
+|[CISCO - (SCOR) Implementing and Operating Cisco Security Core Technologies](https://trainocate.com/sg/courses/cisco/scor){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[CISCO - (SSNGFW) Securing Networks with Cisco Firepower Next Generation Firewall v1.0 ](https://trainocate.com/sg/courses/cisco/ssngfw){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[CISCO - (SSFIPS) Securing Networks with Cisco Firepower Next-Generation IPS ](https://trainocate.com/sg/courses/cisco/ssfips){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[CISCO - (SISE) Implementing and Configuring Cisco Identity Services Engine](https://trainocate.com/sg/courses/cisco/sise){:target="_blank" rel="noopener"} |Advanced|40 hrs |
 |[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
