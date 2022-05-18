@@ -53,7 +53,7 @@ Enterprise 5G Solutions  Coming Soon!]|| |
 |[CISCO - (DCIT) Troubleshooting Cisco Data Center Infrastructure ](https://trainocate.com/sg/courses/cisco/dcit){:target="_blank" rel="noopener"} |Advanced|40 hrs |
 |[CISCO - (DCACI) Implementing Cisco Application Centric Infrastructure ](https://trainocate.com/sg/courses/cisco/dcaci){:target="_blank" rel="noopener"} |Advanced|40 hrs |
 |[CISCO - (DCMDS) Configuring Cisco MDS 9000 Series Switches](https://trainocate.com/sg/courses/cisco/dcmds){:target="_blank" rel="noopener"} |Advanced|32 hrs |
-|[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[CISCO -  (DCAUI) Implementing Automation for Cisco Data Center Solutions](https://trainocate.com/sg/courses/cisco/dcaui){:target="_blank" rel="noopener"} |Advanced|24 hrs |
+|[CISCO - (DCFNDU) Understanding Cisco Data Center Foundations](https://trainocate.com/sg/courses/cisco/dcfndu){:target="_blank" rel="noopener"} |Basic|40 hrs |
+|[CISCO - (CLCOR) Implementing and Operating Cisco Collaboration Core Technologies ](https://trainocate.com/sg/courses/cisco/clcor){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[CISCO - (CLICA) Implementing Cisco Collaboration Applications](https://trainocate.com/sg/courses/cisco/clica){:target="_blank" rel="noopener"} |Advanced|40 hrs |
