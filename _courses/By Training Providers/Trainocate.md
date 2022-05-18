@@ -23,4 +23,14 @@ third_nav_title: By Training Providers
 |[AWS - (ML) The Machine Learning Pipeline on AWS](https://trainocate.com/sg/courses/aws/aws-ml){:target="_blank" rel="noopener"} |Advanced|32 hrs |
 |[AWS - (PDDA) Planning and Designing Databases on AWS](https://trainocate.com/sg/courses/aws/aws-pdda){:target="_blank" rel="noopener"} |Advanced|24 hrs |
 |[AWS - (RCAEKS) Running Containers on Amazon Elastic Kubernetes Service (Amazon EKS)](https://trainocate.com/sg/courses/aws/aws-rcaeks){:target="_blank" rel="noopener"} |Advanced|24 hrs |
+|[AXELOS - (ITIL4F) Foundation](https://trainocate.com/sg/courses/itil/itil4f){:target="_blank" rel="noopener"} |Basic|24 hrs |
+|[AXELOS - (ITIL4MPT) Managing Professional Transition](https://trainocate.com/sg/courses/itil/itil4mpt){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[AXELOS - (ITIL4CDS) Create, Deliver and Support](  https://trainocate.com/sg/courses/itil/itilcds){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[AXELOS - (ITIL4DPI) Direct Plan and Improve](https://trainocate.com/sg/courses/itil/itil4dpi){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[AXELOS - (ITIL4DSV) Specialist Drive Stakeholder Value](https://trainocate.com/sg/courses/itil/itil4-dsv){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[AXELOS - (ITIL4HVIT)  High Velocity IT](https://trainocate.com/sg/courses/itil/itil4-hvit){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[AXELOS - (ITIL4DIS)  Digital and IT Strategy](https://trainocate.com/sg/courses/itil/itil4dits){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
