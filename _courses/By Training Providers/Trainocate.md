@@ -45,6 +45,15 @@ Enterprise 5G Solutions  Coming Soon!]|| |
 |[CISCO - (SSNGFW) Securing Networks with Cisco Firepower Next Generation Firewall v1.0 ](https://trainocate.com/sg/courses/cisco/ssngfw){:target="_blank" rel="noopener"} |Advanced|40 hrs |
 |[CISCO - (SSFIPS) Securing Networks with Cisco Firepower Next-Generation IPS ](https://trainocate.com/sg/courses/cisco/ssfips){:target="_blank" rel="noopener"} |Advanced|40 hrs |
 |[CISCO - (SISE) Implementing and Configuring Cisco Identity Services Engine](https://trainocate.com/sg/courses/cisco/sise){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[CISCO - (SWSA) Securing the Web with Cisco Web Security Appliance](https://trainocate.com/sg/courses/cisco/swsa){:target="_blank" rel="noopener"} |Advanced|16 hrs |
+|[CISCO - (SVPN) Implementing Secure Solutions with Virtual Private Networks](https://trainocate.com/sg/courses/cisco/svpn){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[CISCO - (SAUI) Implementing Automation for Cisco Security Solutions](https://trainocate.com/sg/courses/cisco/saui){:target="_blank" rel="noopener"} |Advanced|24 hrs |
+|[CISCO - (DCCOR) Implementing and Operating Cisco Data Center Core Technologies](https://trainocate.com/sg/courses/cisco/dccor){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[CISCO - (DCID) Designing Cisco Data Center Infrastructure](https://trainocate.com/sg/courses/cisco/dcid){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[CISCO - (DCIT) Troubleshooting Cisco Data Center Infrastructure ](https://trainocate.com/sg/courses/cisco/dcit){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[CISCO - (DCACI) Implementing Cisco Application Centric Infrastructure ](https://trainocate.com/sg/courses/cisco/dcaci){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[CISCO - (DCMDS) Configuring Cisco MDS 9000 Series Switches](https://trainocate.com/sg/courses/cisco/dcmds){:target="_blank" rel="noopener"} |Advanced|32 hrs |
+|[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
