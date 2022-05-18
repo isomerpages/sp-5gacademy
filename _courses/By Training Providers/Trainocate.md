@@ -20,7 +20,7 @@ third_nav_title: By Training Providers
 |[AWS - (BDATA) Big Data on AWS](https://trainocate.com/sg/courses/aws/aws-bdata){:target="_blank" rel="noopener"} |Advanced|24 hrs |
 |[AWS - (DATAWARE) Data Warehousing on AWS ](https://trainocate.com/sg/courses/aws/aws-dataware){:target="_blank" rel="noopener"} |Advanced|24 hrs |
 |[AWS - (SECENG) Security Engineering on AWS ](https://trainocate.com/sg/courses/aws/aws-seceng){:target="_blank" rel="noopener"} |Advanced|24 hrs |
-|[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS - (ML) The Machine Learning Pipeline on AWS](https://trainocate.com/sg/courses/aws/aws-ml){:target="_blank" rel="noopener"} |Advanced|32 hrs |
+|[AWS - (PDDA) Planning and Designing Databases on AWS](https://trainocate.com/sg/courses/aws/aws-pdda){:target="_blank" rel="noopener"} |Advanced|24 hrs |
+|[AWS - (RCAEKS) Running Containers on Amazon Elastic Kubernetes Service (Amazon EKS)](https://trainocate.com/sg/courses/aws/aws-rcaeks){:target="_blank" rel="noopener"} |Advanced|24 hrs |
 |[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
