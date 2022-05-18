@@ -19,7 +19,7 @@ third_nav_title: By Training Providers
 |[AWS - (DEVOPS) DevOps Engineering on AWS](https://trainocate.com/sg/courses/aws/aws-devops){:target="_blank" rel="noopener"} |Advanced|24 hrs |
 |[AWS - (BDATA) Big Data on AWS](https://trainocate.com/sg/courses/aws/aws-bdata){:target="_blank" rel="noopener"} |Advanced|24 hrs |
 |[AWS - (DATAWARE) Data Warehousing on AWS ](https://trainocate.com/sg/courses/aws/aws-dataware){:target="_blank" rel="noopener"} |Advanced|24 hrs |
-|[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS - (SECENG) Security Engineering on AWS ](https://trainocate.com/sg/courses/aws/aws-seceng){:target="_blank" rel="noopener"} |Advanced|24 hrs |
 |[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
