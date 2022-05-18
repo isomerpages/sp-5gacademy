@@ -30,13 +30,15 @@ third_nav_title: By Training Providers
 |[AXELOS - (ITIL4DSV) Specialist Drive Stakeholder Value](https://trainocate.com/sg/courses/itil/itil4-dsv){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
 |[AXELOS - (ITIL4HVIT)  High Velocity IT](https://trainocate.com/sg/courses/itil/itil4-hvit){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
 |[AXELOS - (ITIL4DIS)  Digital and IT Strategy](https://trainocate.com/sg/courses/itil/itil4dits){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
-|[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[CISCO - (5GCOPS) Operationalizing Cisco
+Enterprise 5G Solutions  Coming Soon!]|| |
+|[CISCO - (CCNA) Implementing and Administering Cisco Solutions ](https://trainocate.com/sg/courses/cisco/ccna){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[CISCO - (ENCOR) Implementing and Operating Cisco Enterprise Network Core Technologies](https://trainocate.com/sg/courses/cisco/encor){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[CISCO - (ENARSI) Implementing Cisco Enterprise Advanced Routing and Services ](https://trainocate.com/sg/courses/cisco/enarsi){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[CISCO - (ENSDWI) Implementing Cisco SD-WAN Solutions ](https://trainocate.com/sg/courses/cisco/ensdwi){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[CISCO - (ENSLD) Designing Cisco Enterprise Networks (ENSLD)](https://trainocate.com/sg/courses/cisco/ensld){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[CISCO - (ENWLSD) Designing Cisco Enterprise Wireless Networks](https://trainocate.com/sg/courses/cisco/enwlsd){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[CISCO - (ENWLSI) Implementing Cisco Enterprise Wireless Networks](https://trainocate.com/sg/courses/cisco/enwlsi){:target="_blank" rel="noopener"} |Advanced|40 hrs |
 |[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"} |Basic|8 hrs |
