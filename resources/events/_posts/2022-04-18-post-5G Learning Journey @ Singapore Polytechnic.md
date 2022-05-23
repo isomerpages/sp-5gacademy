@@ -12,11 +12,11 @@ description: ""
 * Learn interesting concepts through topics like 5G Overview and Introduction to AIoT 
 * Engaging discussions on how 5G &amp; AIoT together can benefit the company and workforce
 * Get to know the top 5G &amp; AIoT uses cases
-	1. 5G Remote Teleoperations using Real Wear
-	2. 5G UAV – Façade Inspection / Solar Panel Inspection
-	3. 5G AIoT – Classroom AI Management System
-	4. 5G Smart Manufacturing – Digital Twin*
-	5. Much more inside the 5G Learning Journey
+		1. 5G Remote Teleoperations using Real Wear
+		2. 5G UAV – Façade Inspection / Solar Panel Inspection
+		3. 5G AIoT – Classroom AI Management System
+		4. 5G Smart Manufacturing – Digital Twin*
+		5. Much more inside the 5G Learning Journey
 
 * Explore how features such as ultra low latency, high speed connectivity, massive sensor data of 5G &amp; AIoT can enable key drivers such as real time cloud computing, intelligent control and AI that are transforming your industry 
 * Short and consultative style discussions to help uncover your company's problem statement(s) 
