@@ -12,6 +12,7 @@ description: ""
 * Learn interesting concepts through topics like 5G Overview and Introduction to AIoT 
 * Engaging discussions on how 5G &amp; AIoT together can benefit the company and workforce
 * Get to know the top 5G &amp; AIoT uses cases
+
 		1. 5G Remote Teleoperations using Real Wear
 		2. 5G UAV – Façade Inspection / Solar Panel Inspection
 		3. 5G AIoT – Classroom AI Management System
