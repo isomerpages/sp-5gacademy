@@ -73,6 +73,16 @@ third_nav_title: By Training Providers
 |[CompTIA - (CTA+) A+ Training](https://trainocate.com/sg/courses/comptia/ct-a+){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[CompTIA - (CTNetwork+) Network+ Training](https://trainocate.com/sg/courses/comptia/ct-network+){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[CompTIA - (CTSecurity+)  Security+ Training](https://trainocate.com/sg/courses/comptia/ct-security+){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[CompTIA - (CTCASP+)  Advanced Security Practitioner Training](https://trainocate.com/sg/courses/comptia/ct-casp+){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[CompTIA - (CTSA+) Cybersecurity Analyst Training](https://trainocate.com/sg/courses/comptia/ct-cysa+){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[CompTIA - (CTPenTest+) PenTest+ Training](https://trainocate.com/sg/courses/comptia/ct-pentest+){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[CompTIA - (CTCloud+) Cloud+ Training](https://trainocate.com/sg/courses/comptia/ct-cloud+){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[CompTIA - (CTLinux+) Linux+ Training](https://trainocate.com/sg/courses/comptia/ct-linux+){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[CompTIA - (CTServer+) Server+ Training](https://trainocate.com/sg/courses/comptia/ct-server+){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
