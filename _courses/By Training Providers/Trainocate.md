@@ -98,12 +98,12 @@ third_nav_title: By Training Providers
 |[Google Cloud Platform - (GCPMLTFGC) Machine Learning with TensorFlow on Google Cloud](https://trainocate.com/sg/courses/google-cloud-platform/gcpmltfgc){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[Google Cloud Platform - (GCPAMLTF) Advanced Machine Learning with TensorFlow on Google Cloud Platform](https://trainocate.com/sg/courses/google-cloud-platform/gcpamltf){:target="_blank" rel="noopener"} |Advanced|40 hrs |
 |[Google Cloud Platform - (GCPDEVA) Developing Applications with Google Cloud Platform](https://trainocate.com/sg/courses/google-cloud-platform/gcpdeva){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[ISACA - (COBIT2019F) COBIT 2019 Foundation](https://trainocate.com/sg/courses/isaca/cobit2019f){:target="_blank" rel="noopener"} |Basic|24 hrs |
+|[ISACA - (CISM) Certified Information Security Manager](https://trainocate.com/sg/courses/isaca/cism){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[ISACA - (CISA) Certified Information Systems Auditor](https://trainocate.com/sg/courses/isaca/cisa){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[ISACA - (CRISC) Certified in Risk and Information Systems Control](https://trainocate.com/sg/courses/isaca/crisc){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[ISACA - (CGEIT) Certified in the Governance of Enterprise IT](https://trainocate.com/sg/courses/isaca/cgeit){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[(ISC)2 - (CISSP) Certified Information System Security Professional Prep Course](https://trainocate.com/sg/courses/cybersecurity/cissp){:target="_blank" rel="noopener"} |Advanced|40 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
