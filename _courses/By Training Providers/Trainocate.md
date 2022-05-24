@@ -79,10 +79,10 @@ third_nav_title: By Training Providers
 |[CompTIA - (CTCloud+) Cloud+ Training](https://trainocate.com/sg/courses/comptia/ct-cloud+){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[CompTIA - (CTLinux+) Linux+ Training](https://trainocate.com/sg/courses/comptia/ct-linux+){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[CompTIA - (CTServer+) Server+ Training](https://trainocate.com/sg/courses/comptia/ct-server+){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[DevOps Institute - (DOF) DevOps Foundation](https://trainocate.com/sg/courses/devops-institute/dof){:target="_blank" rel="noopener"} |Basic|24 hrs |
+|[DevOps Institute - (DSOF) DevSecOps Foundation](https://trainocate.com/sg/courses/devops-institute/dsof){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[DevOps Institute - (SREF) Site Reliability Engineering Foundation](https://trainocate.com/sg/courses/devops-institute/sref){:target="_blank" rel="noopener"} |Basic|24 hrs |
+|[Fortinet - (FGTSEC) FortiGate Security](https://trainocate.com/sg/courses/fortinet/ft-fgt-sec){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[Fortinet - (FGTINF) FortinetFortiGate Infrastructure](https://trainocate.com/sg/courses/fortinet/ft-fgt-inf){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
