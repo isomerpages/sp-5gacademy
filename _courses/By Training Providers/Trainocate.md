@@ -56,3 +56,23 @@ third_nav_title: By Training Providers
 |[CISCO - (DCFNDU) Understanding Cisco Data Center Foundations](https://trainocate.com/sg/courses/cisco/dcfndu){:target="_blank" rel="noopener"} |Basic|40 hrs |
 |[CISCO - (CLCOR) Implementing and Operating Cisco Collaboration Core Technologies ](https://trainocate.com/sg/courses/cisco/clcor){:target="_blank" rel="noopener"} |Advanced|40 hrs |
 |[CISCO - (CLICA) Implementing Cisco Collaboration Applications](https://trainocate.com/sg/courses/cisco/clica){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[CISCO -  (CLACCM) Implementing Cisco Advanced Call Control and Mobility Services](https://trainocate.com/sg/courses/cisco/claccm){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[CISCO - (CLCEI) Implementing Cisco Collaboration Cloud and Edge Solutions](https://trainocate.com/sg/courses/cisco/clcei){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[CISCO -  (CLAUI) Implementing Automation for Cisco Collaboration Solutions](https://trainocate.com/sg/courses/cisco/claui){:target="_blank" rel="noopener"} |Advanced|24 hrs |
+|[CISCO - (CLFNDU) Understanding Cisco Collaboration Foundations ](https://trainocate.com/sg/courses/cisco/clfndu){:target="_blank" rel="noopener"} |Basic|40 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
