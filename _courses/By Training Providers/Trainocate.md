@@ -95,9 +95,9 @@ third_nav_title: By Training Providers
 |[Google Cloud Platform - (GCPBD) Google Cloud Platform Big Data and Machine Learning Fundamentals](https://trainocate.com/sg/courses/google-cloud-platform/gcpbd){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[Google Cloud Platform - (GCPDE) Data Engineering on Google Cloud Platform](https://trainocate.com/sg/courses/google-cloud-platform/gcpde){:target="_blank" rel="noopener"} |Advanced|32 hrs |
 |[Google Cloud Platform - (GCPDI) From Data to Insights with Google Cloud Platform](https://trainocate.com/sg/courses/google-cloud-platform/gcpdi){:target="_blank" rel="noopener"} |Intermediate|3 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[Google Cloud Platform - (GCPMLTFGC) Machine Learning with TensorFlow on Google Cloud](https://trainocate.com/sg/courses/google-cloud-platform/gcpmltfgc){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[Google Cloud Platform - (GCPAMLTF) Advanced Machine Learning with TensorFlow on Google Cloud Platform](https://trainocate.com/sg/courses/google-cloud-platform/gcpamltf){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[Google Cloud Platform - (GCPDEVA) Developing Applications with Google Cloud Platform](https://trainocate.com/sg/courses/google-cloud-platform/gcpdeva){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
