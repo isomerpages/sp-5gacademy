@@ -60,11 +60,11 @@ third_nav_title: By Training Providers
 |[CISCO - (CLCEI) Implementing Cisco Collaboration Cloud and Edge Solutions](https://trainocate.com/sg/courses/cisco/clcei){:target="_blank" rel="noopener"} |Advanced|40 hrs |
 |[CISCO -  (CLAUI) Implementing Automation for Cisco Collaboration Solutions](https://trainocate.com/sg/courses/cisco/claui){:target="_blank" rel="noopener"} |Advanced|24 hrs |
 |[CISCO - (CLFNDU) Understanding Cisco Collaboration Foundations ](https://trainocate.com/sg/courses/cisco/clfndu){:target="_blank" rel="noopener"} |Basic|40 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[CISCO - (CLCNF) Implementing Cisco Collaboration Conferencing](https://trainocate.com/sg/courses/cisco/clcnf){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[CISCO - (SPCOR) Implementing and Operating Cisco Service Provider Network Core Technologies](https://trainocate.com/sg/courses/cisco/spcor){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[CISCO - (SPRI) Implementing Cisco Service Provider Advanced Routing Solutions](https://trainocate.com/sg/courses/cisco/spri){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[CISCO - (SPVI) Implementing Cisco Service Provider VPN Services](https://trainocate.com/sg/courses/cisco/spvi){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[CISCO - (SPAUI) Implementing Automation for Cisco Service Provider Solutions ](https://trainocate.com/sg/courses/cisco/spaui){:target="_blank" rel="noopener"} |Advanced|24 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
