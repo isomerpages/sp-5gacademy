@@ -93,6 +93,16 @@ third_nav_title: By Training Providers
 |[Google Cloud Platform - (GCPNET) Networking in Google Cloud Platform](https://trainocate.com/sg/courses/google-cloud-platform/gcpnet){:target="_blank" rel="noopener"} |Advanced|16 hrs |
 |[Google Cloud Platform - (GCPSEC) Security in Google Cloud Platform](https://trainocate.com/sg/courses/google-cloud-platform/gcsec){:target="_blank" rel="noopener"} |Advanced|24 hrs |
 |[Google Cloud Platform - (GCPBD) Google Cloud Platform Big Data and Machine Learning Fundamentals](https://trainocate.com/sg/courses/google-cloud-platform/gcpbd){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[Google Cloud Platform - (GCPDE) Data Engineering on Google Cloud Platform](https://trainocate.com/sg/courses/google-cloud-platform/gcpde){:target="_blank" rel="noopener"} |Advanced|32 hrs |
+|[Google Cloud Platform - (GCPDI) From Data to Insights with Google Cloud Platform](https://trainocate.com/sg/courses/google-cloud-platform/gcpdi){:target="_blank" rel="noopener"} |Intermediate|3 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
