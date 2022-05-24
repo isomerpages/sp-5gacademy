@@ -67,12 +67,12 @@ third_nav_title: By Training Providers
 |[CISCO - (SPAUI) Implementing Automation for Cisco Service Provider Solutions ](https://trainocate.com/sg/courses/cisco/spaui){:target="_blank" rel="noopener"} |Advanced|24 hrs |
 |[CISCO -  (SPFNDU) Understanding Cisco Service Provider Network Foundations](https://trainocate.com/sg/courses/cisco/spfndu){:target="_blank" rel="noopener"} |Basic|40 hrs |
 |[CISCO - (SECCLD) Securing Cloud Deployments with Cisco Technologies ](https://trainocate.com/sg/courses/cisco/seccld){:target="_blank" rel="noopener"} |Advanced|32 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[CISCO - (CBROPS) Understanding Cisco Cybersecurity Operations Fundamentals](https://trainocate.com/sg/courses/cisco/cbrops){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[CISCO - (CBRCOR) Performing CyberOps Using Cisco Security Technologies ](https://trainocate.com/sg/courses/cisco/cbrcor){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[CISCO - (SESA) Securing Email with Cisco Email Security Appliance ](https://trainocate.com/sg/courses/cisco/sesa){:target="_blank" rel="noopener"} |Advanced|32 hrs |
+|[CompTIA - (CTA+) A+ Training](https://trainocate.com/sg/courses/comptia/ct-a+){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[CompTIA - (CTNetwork+) Network+ Training](https://trainocate.com/sg/courses/comptia/ct-network+){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[CompTIA - (CTSecurity+)  Security+ Training](https://trainocate.com/sg/courses/comptia/ct-security+){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
