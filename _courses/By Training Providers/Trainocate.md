@@ -56,3 +56,63 @@ third_nav_title: By Training Providers
 |[CISCO - (DCFNDU) Understanding Cisco Data Center Foundations](https://trainocate.com/sg/courses/cisco/dcfndu){:target="_blank" rel="noopener"} |Basic|40 hrs |
 |[CISCO - (CLCOR) Implementing and Operating Cisco Collaboration Core Technologies ](https://trainocate.com/sg/courses/cisco/clcor){:target="_blank" rel="noopener"} |Advanced|40 hrs |
 |[CISCO - (CLICA) Implementing Cisco Collaboration Applications](https://trainocate.com/sg/courses/cisco/clica){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[CISCO -  (CLACCM) Implementing Cisco Advanced Call Control and Mobility Services](https://trainocate.com/sg/courses/cisco/claccm){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[CISCO - (CLCEI) Implementing Cisco Collaboration Cloud and Edge Solutions](https://trainocate.com/sg/courses/cisco/clcei){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[CISCO -  (CLAUI) Implementing Automation for Cisco Collaboration Solutions](https://trainocate.com/sg/courses/cisco/claui){:target="_blank" rel="noopener"} |Advanced|24 hrs |
+|[CISCO - (CLFNDU) Understanding Cisco Collaboration Foundations ](https://trainocate.com/sg/courses/cisco/clfndu){:target="_blank" rel="noopener"} |Basic|40 hrs |
+|[CISCO - (CLCNF) Implementing Cisco Collaboration Conferencing](https://trainocate.com/sg/courses/cisco/clcnf){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[CISCO - (SPCOR) Implementing and Operating Cisco Service Provider Network Core Technologies](https://trainocate.com/sg/courses/cisco/spcor){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[CISCO - (SPRI) Implementing Cisco Service Provider Advanced Routing Solutions](https://trainocate.com/sg/courses/cisco/spri){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[CISCO - (SPVI) Implementing Cisco Service Provider VPN Services](https://trainocate.com/sg/courses/cisco/spvi){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[CISCO - (SPAUI) Implementing Automation for Cisco Service Provider Solutions ](https://trainocate.com/sg/courses/cisco/spaui){:target="_blank" rel="noopener"} |Advanced|24 hrs |
+|[CISCO -  (SPFNDU) Understanding Cisco Service Provider Network Foundations](https://trainocate.com/sg/courses/cisco/spfndu){:target="_blank" rel="noopener"} |Basic|40 hrs |
+|[CISCO - (SECCLD) Securing Cloud Deployments with Cisco Technologies ](https://trainocate.com/sg/courses/cisco/seccld){:target="_blank" rel="noopener"} |Advanced|32 hrs |
+|[CISCO - (CBROPS) Understanding Cisco Cybersecurity Operations Fundamentals](https://trainocate.com/sg/courses/cisco/cbrops){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[CISCO - (CBRCOR) Performing CyberOps Using Cisco Security Technologies ](https://trainocate.com/sg/courses/cisco/cbrcor){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[CISCO - (SESA) Securing Email with Cisco Email Security Appliance ](https://trainocate.com/sg/courses/cisco/sesa){:target="_blank" rel="noopener"} |Advanced|32 hrs |
+|[CompTIA - (CTA+) A+ Training](https://trainocate.com/sg/courses/comptia/ct-a+){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[CompTIA - (CTNetwork+) Network+ Training](https://trainocate.com/sg/courses/comptia/ct-network+){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[CompTIA - (CTSecurity+)  Security+ Training](https://trainocate.com/sg/courses/comptia/ct-security+){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[CompTIA - (CTCASP+)  Advanced Security Practitioner Training](https://trainocate.com/sg/courses/comptia/ct-casp+){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[CompTIA - (CTSA+) Cybersecurity Analyst Training](https://trainocate.com/sg/courses/comptia/ct-cysa+){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[CompTIA - (CTPenTest+) PenTest+ Training](https://trainocate.com/sg/courses/comptia/ct-pentest+){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[CompTIA - (CTCloud+) Cloud+ Training](https://trainocate.com/sg/courses/comptia/ct-cloud+){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[CompTIA - (CTLinux+) Linux+ Training](https://trainocate.com/sg/courses/comptia/ct-linux+){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[CompTIA - (CTServer+) Server+ Training](https://trainocate.com/sg/courses/comptia/ct-server+){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[DevOps Institute - (DOF) DevOps Foundation](https://trainocate.com/sg/courses/devops-institute/dof){:target="_blank" rel="noopener"} |Basic|24 hrs |
+|[DevOps Institute - (DSOF) DevSecOps Foundation](https://trainocate.com/sg/courses/devops-institute/dsof){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[DevOps Institute - (SREF) Site Reliability Engineering Foundation](https://trainocate.com/sg/courses/devops-institute/sref){:target="_blank" rel="noopener"} |Basic|24 hrs |
+|[Fortinet - (FGTSEC) FortiGate Security](https://trainocate.com/sg/courses/fortinet/ft-fgt-sec){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[Fortinet - (FGTINF) FortinetFortiGate Infrastructure](https://trainocate.com/sg/courses/fortinet/ft-fgt-inf){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
+|[Google Cloud Platform - (GCPCIN) Google Cloud Fundamentals: Core Infrastructure](https://trainocate.com/sg/courses/google-cloud-platform/gcpcin){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[Google Cloud Platform - (GCPAWS) Google Cloud Fundamentals for AWS Professionals](https://trainocate.com/sg/courses/google-cloud-platform/gcpaws){:target="_blank" rel="noopener"} |Intermediate|8 hrs |
+|[Google Cloud Platform - (GCPAZURE) Google Cloud Fundamentals for Azure Professionals](https://trainocate.com/sg/courses/google-cloud-platform/gcpazure){:target="_blank" rel="noopener"} |Intermediate|8 hrs |
+|[Google Cloud Platform - (GCPGCE) Architecting with Google Compute Engine](https://trainocate.com/sg/courses/google-cloud-platform/gcpgce){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[Google Cloud Platform - (GCPDNPS) Architecting with Google Cloud: Design and Process](https://trainocate.com/sg/courses/google-cloud-platform/gcpdnps){:target="_blank" rel="noopener"} |Advanced|16 hrs |
+|[Google Cloud Platform - (GCPGKE) Architecting with Google Kubernetes Engine](https://trainocate.com/sg/courses/google-cloud-platform/gcpgke){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[Google Cloud Platform - (GCPNET) Networking in Google Cloud Platform](https://trainocate.com/sg/courses/google-cloud-platform/gcpnet){:target="_blank" rel="noopener"} |Advanced|16 hrs |
+|[Google Cloud Platform - (GCPSEC) Security in Google Cloud Platform](https://trainocate.com/sg/courses/google-cloud-platform/gcsec){:target="_blank" rel="noopener"} |Advanced|24 hrs |
+|[Google Cloud Platform - (GCPBD) Google Cloud Platform Big Data and Machine Learning Fundamentals](https://trainocate.com/sg/courses/google-cloud-platform/gcpbd){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[Google Cloud Platform - (GCPDE) Data Engineering on Google Cloud Platform](https://trainocate.com/sg/courses/google-cloud-platform/gcpde){:target="_blank" rel="noopener"} |Advanced|32 hrs |
+|[Google Cloud Platform - (GCPDI) From Data to Insights with Google Cloud Platform](https://trainocate.com/sg/courses/google-cloud-platform/gcpdi){:target="_blank" rel="noopener"} |Intermediate|3 hrs |
+|[Google Cloud Platform - (GCPMLTFGC) Machine Learning with TensorFlow on Google Cloud](https://trainocate.com/sg/courses/google-cloud-platform/gcpmltfgc){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[Google Cloud Platform - (GCPAMLTF) Advanced Machine Learning with TensorFlow on Google Cloud Platform](https://trainocate.com/sg/courses/google-cloud-platform/gcpamltf){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[Google Cloud Platform - (GCPDEVA) Developing Applications with Google Cloud Platform](https://trainocate.com/sg/courses/google-cloud-platform/gcpdeva){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[ISACA - (COBIT2019F) COBIT 2019 Foundation](https://trainocate.com/sg/courses/isaca/cobit2019f){:target="_blank" rel="noopener"} |Basic|24 hrs |
+|[ISACA - (CISM) Certified Information Security Manager](https://trainocate.com/sg/courses/isaca/cism){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[ISACA - (CISA) Certified Information Systems Auditor](https://trainocate.com/sg/courses/isaca/cisa){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[ISACA - (CRISC) Certified in Risk and Information Systems Control](https://trainocate.com/sg/courses/isaca/crisc){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[ISACA - (CGEIT) Certified in the Governance of Enterprise IT](https://trainocate.com/sg/courses/isaca/cgeit){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[(ISC)2 - (CISSP) Certified Information System Security Professional Prep Course](https://trainocate.com/sg/courses/cybersecurity/cissp){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[(ISC)2 - (CCSP) Certified Cloud Security Professional](https://trainocate.com/sg/courses/cybersecurity/ccsp){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[Microsoft - (AZ-900) Azure Fundamentals ](https://trainocate.com/sg/courses/microsoft/az-900t00-a){:target="_blank" rel="noopener"} |Basic|16 hrs |
+|[Microsoft - (AI-900) Azure AI Fundamentals ](https://trainocate.com/sg/courses/microsoft/ai-900){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[Microsoft - (DP-900) Azure Data Fundamentals ](https://trainocate.com/sg/courses/microsoft/dp-900){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[Microsoft - (AZ-120) Planning and Administering Microsoft Azure for SAP Workloads](https://trainocate.com/sg/courses/microsoft/az-120t00-a){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[Microsoft - (AZ-220) Azure IoT Developer](https://trainocate.com/sg/courses/microsoft/az-220t00-a){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[Microsoft - (AZ-140) Configuring and Operating Microsoft Azure Virtual Desktop](https://trainocate.com/sg/courses/microsoft/az-140t00-a){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[Microsoft - (DP-420) Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB](https://trainocate.com/sg/courses/microsoft/dp-420t00){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[Microsoft - (AZ-104) Azure Administrator ](https://trainocate.com/sg/courses/microsoft/az-104){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[Microsoft - (AZ-500) Azure Security Technologies (AZ-500)](https://trainocate.com/sg/courses/microsoft/az-500){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[Microsoft -  (AZ-204) Developing Solutions for Microsoft Azure](https://trainocate.com/sg/courses/microsoft/az-204){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[Microsoft - (DP-300) Administering Relational Databases on Microsoft Azure](https://trainocate.com/sg/courses/microsoft/dp-300t00-a){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
