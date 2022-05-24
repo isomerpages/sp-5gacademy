@@ -65,8 +65,8 @@ third_nav_title: By Training Providers
 |[CISCO - (SPRI) Implementing Cisco Service Provider Advanced Routing Solutions](https://trainocate.com/sg/courses/cisco/spri){:target="_blank" rel="noopener"} |Advanced|40 hrs |
 |[CISCO - (SPVI) Implementing Cisco Service Provider VPN Services](https://trainocate.com/sg/courses/cisco/spvi){:target="_blank" rel="noopener"} |Advanced|40 hrs |
 |[CISCO - (SPAUI) Implementing Automation for Cisco Service Provider Solutions ](https://trainocate.com/sg/courses/cisco/spaui){:target="_blank" rel="noopener"} |Advanced|24 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[CISCO -  (SPFNDU) Understanding Cisco Service Provider Network Foundations](https://trainocate.com/sg/courses/cisco/spfndu){:target="_blank" rel="noopener"} |Basic|40 hrs |
+|[CISCO - (SECCLD) Securing Cloud Deployments with Cisco Technologies ](https://trainocate.com/sg/courses/cisco/seccld){:target="_blank" rel="noopener"} |Advanced|32 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
