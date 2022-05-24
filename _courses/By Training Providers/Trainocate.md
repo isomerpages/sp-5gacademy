@@ -84,5 +84,18 @@ third_nav_title: By Training Providers
 |[DevOps Institute - (SREF) Site Reliability Engineering Foundation](https://trainocate.com/sg/courses/devops-institute/sref){:target="_blank" rel="noopener"} |Basic|24 hrs |
 |[Fortinet - (FGTSEC) FortiGate Security](https://trainocate.com/sg/courses/fortinet/ft-fgt-sec){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
 |[Fortinet - (FGTINF) FortinetFortiGate Infrastructure](https://trainocate.com/sg/courses/fortinet/ft-fgt-inf){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
+|[Google Cloud Platform - (GCPCIN) Google Cloud Fundamentals: Core Infrastructure](https://trainocate.com/sg/courses/google-cloud-platform/gcpcin){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[Google Cloud Platform - (GCPAWS) Google Cloud Fundamentals for AWS Professionals](https://trainocate.com/sg/courses/google-cloud-platform/gcpaws){:target="_blank" rel="noopener"} |Intermediate|8 hrs |
+|[Google Cloud Platform - (GCPAZURE) Google Cloud Fundamentals for Azure Professionals](https://trainocate.com/sg/courses/google-cloud-platform/gcpazure){:target="_blank" rel="noopener"} |Intermediate|8 hrs |
+|[Google Cloud Platform - (GCPGCE) Architecting with Google Compute Engine](https://trainocate.com/sg/courses/google-cloud-platform/gcpgce){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[Google Cloud Platform - (GCPDNPS) Architecting with Google Cloud: Design and Process](https://trainocate.com/sg/courses/google-cloud-platform/gcpdnps){:target="_blank" rel="noopener"} |Advanced|16 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
