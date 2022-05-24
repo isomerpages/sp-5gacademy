@@ -112,9 +112,7 @@ third_nav_title: By Training Providers
 |[Microsoft - (AZ-220) Azure IoT Developer](https://trainocate.com/sg/courses/microsoft/az-220t00-a){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
 |[Microsoft - (AZ-140) Configuring and Operating Microsoft Azure Virtual Desktop](https://trainocate.com/sg/courses/microsoft/az-140t00-a){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
 |[Microsoft - (DP-420) Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB](https://trainocate.com/sg/courses/microsoft/dp-420t00){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[Microsoft - (AZ-104) Azure Administrator ](https://trainocate.com/sg/courses/microsoft/az-104){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[Microsoft - (AZ-500) Azure Security Technologies (AZ-500)](https://trainocate.com/sg/courses/microsoft/az-500){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[Microsoft -  (AZ-204) Developing Solutions for Microsoft Azure](https://trainocate.com/sg/courses/microsoft/az-204){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[Microsoft - (DP-300) Administering Relational Databases on Microsoft Azure](https://trainocate.com/sg/courses/microsoft/dp-300t00-a){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
