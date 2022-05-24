@@ -104,6 +104,16 @@ third_nav_title: By Training Providers
 |[ISACA - (CRISC) Certified in Risk and Information Systems Control](https://trainocate.com/sg/courses/isaca/crisc){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
 |[ISACA - (CGEIT) Certified in the Governance of Enterprise IT](https://trainocate.com/sg/courses/isaca/cgeit){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
 |[(ISC)2 - (CISSP) Certified Information System Security Professional Prep Course](https://trainocate.com/sg/courses/cybersecurity/cissp){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[(ISC)2 - (CCSP) Certified Cloud Security Professional](https://trainocate.com/sg/courses/cybersecurity/ccsp){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[Microsoft - (AZ-900) Azure Fundamentals ](https://trainocate.com/sg/courses/microsoft/az-900t00-a){:target="_blank" rel="noopener"} |Basic|16 hrs |
+|[Microsoft - (AI-900) Azure AI Fundamentals ](https://trainocate.com/sg/courses/microsoft/ai-900){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[Microsoft - (DP-900) Azure Data Fundamentals ](https://trainocate.com/sg/courses/microsoft/dp-900){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[Microsoft - (AZ-120) Planning and Administering Microsoft Azure for SAP Workloads](https://trainocate.com/sg/courses/microsoft/az-120t00-a){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[Microsoft - (AZ-220) Azure IoT Developer](https://trainocate.com/sg/courses/microsoft/az-220t00-a){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[Microsoft - (AZ-140) Configuring and Operating Microsoft Azure Virtual Desktop](https://trainocate.com/sg/courses/microsoft/az-140t00-a){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[Microsoft - (DP-420) Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB](https://trainocate.com/sg/courses/microsoft/dp-420t00){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
