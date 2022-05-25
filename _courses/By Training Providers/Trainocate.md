@@ -116,3 +116,13 @@ third_nav_title: By Training Providers
 |[Microsoft - (AZ-500) Azure Security Technologies (AZ-500)](https://trainocate.com/sg/courses/microsoft/az-500){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
 |[Microsoft -  (AZ-204) Developing Solutions for Microsoft Azure](https://trainocate.com/sg/courses/microsoft/az-204){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[Microsoft - (DP-300) Administering Relational Databases on Microsoft Azure](https://trainocate.com/sg/courses/microsoft/dp-300t00-a){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[Microsoft - (AZ-600)Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub](https://trainocate.com/sg/courses/microsoft/az-600t00){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[Microsoft - (AZ-700) Designing and Implementing Microsoft Azure Networking Solutions](https://trainocate.com/sg/courses/microsoft/az-700){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[Microsoft - (DP-100) Designing and Implementing a Data Science Solution on Azure ](https://trainocate.com/sg/courses/microsoft/dp-100){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[Microsoft - (DP-203) Data Engineering on Microsoft Azure ](https://trainocate.com/sg/courses/microsoft/dp-203t00-a){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[Microsoft - (AI-102) Designing and Implementing a Microsoft Azure AI Solution ](https://trainocate.com/sg/courses/microsoft/ai-102t00){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
