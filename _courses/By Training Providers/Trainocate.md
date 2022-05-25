@@ -187,5 +187,6 @@ third_nav_title: By Training Providers
 |[VMware - (VRAICM8) Vmware vRealize Automation: Install, Configure, Manage [V8]](https://trainocate.com/sg/courses/vmware/vraicm8){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[VMware - (VROPSICM8) Vmware vRealize Operations: Install, Configure, Manage [V8]](https://trainocate.com/sg/courses/vmware/vropsicm8){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[VMware - (SDWANDDMSP3) VMware SD-WAN by VeloCloud: Design and Deploy [V3.x]](https://trainocate.com/sg/courses/vmware/sdwanddmsp3){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[VMware - (HDMAVFT8) Vmware Horizon 8: Deploy and Manage plus App Volumes Fast Track](https://trainocate.com/sg/courses/vmware/hdmavft8){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[VMware - (HCSMADM) Vmware Horizon Cloud Service: Deploy and Manage on Microsoft Azure](https://trainocate.com/sg/courses/vmware/hcsmadm){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[VMware - (WS1DM21X) Vmware Workspace ONE: Deploy and Manage [V21.x]](https://trainocate.com/sg/courses/vmware/ws1dm21x){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
