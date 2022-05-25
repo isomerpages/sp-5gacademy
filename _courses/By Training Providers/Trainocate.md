@@ -138,6 +138,16 @@ third_nav_title: By Training Providers
 |[Microsoft - (MS-100) Microsoft 365 Identity and Services](https://trainocate.com/sg/courses/microsoft/ms-100t00-a){:target="_blank" rel="noopener"} |Advanced|40 hrs |
 |[Microsoft - (MS-101) Microsoft 365 Mobility and Security](https://trainocate.com/sg/courses/microsoft/ms-101t00-a){:target="_blank" rel="noopener"} |Advanced|40 hrs |
 |[Microsoft - (PL-900) Microsoft Power Platform Fundamentals](https://trainocate.com/sg/courses/microsoft/pl-900t00-a){:target="_blank" rel="noopener"} |Basic|16 hrs |
+|[Microsoft - (PL-100) Power Platform App Maker](https://trainocate.com/sg/courses/microsoft/pl-100t00-a){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[Microsoft - (PL-200) Power Platform Functional Consultant](https://trainocate.com/sg/courses/microsoft/pl-200t00-a){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[Microsoft - (PL-300) Power BI Analyst ](https://trainocate.com/sg/courses/microsoft/pl-300t00){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[Microsoft - (PL-400) Power Platform Developer ](https://trainocate.com/sg/courses/microsoft/pl-400t00-a){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[Microsoft - (PL-600) Microsoft Power Platform Solution Architect ](https://trainocate.com/sg/courses/microsoft/pl-600t00){:target="_blank" rel="noopener"} |Advanced|32 hrs |
+|[NetApp - (CDOTDP9) ONTAP Cluster Administration and Data Protection Bundle](https://trainocate.com/sg/courses/netapp/cdotdp9){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[NetApp -(AOCMCDOT) ONTAP Administration of Active IQ Unified Manager](https://trainocate.com/sg/courses/netapp/aocmcdot){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
