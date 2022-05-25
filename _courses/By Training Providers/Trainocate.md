@@ -166,14 +166,14 @@ third_nav_title: By Training Providers
 |[Trend Micro - (TRNM0003) Apex One Training for Certified Professionals](https://trainocate.com/sg/courses/trend-micro/trnm0003){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
 |[Trend Micro - (TMTPSS) TippingPoint Security Solutions 1.0 Training for Certified Professionals](https://trainocate.com/sg/courses/trend-micro/tmtpss){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
 |[VMware - (TKGIEICM110) VMware Tanzu Kubernetes Grid Integrated Edition: Install, Configure, Manage [V1.10]](https://trainocate.com/sg/courses/vmware/tkgieicm110){:target="_blank" rel="noopener"} |Advanced|32 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[VMware - (TKGICM1) VMware Tanzu Kubernetes Grid: Install, Configure, Manage [V1.0]](https://trainocate.com/sg/courses/vmware/tkgicm1){:target="_blank" rel="noopener"} |Advanced|16 hrs |
+|[VMware - (TRMQICM) VMware Tanzu RabbitMQ: Install, Configure, Manage](https://trainocate.com/sg/courses/vmware/trmqicm){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[VMware - (TASICM) Vmware Tanzu Application Service: Install, Configure, Manage](https://trainocate.com/sg/courses/vmware/tasicm){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[VMware - (KF) Kubernetes Foundations](https://trainocate.com/sg/courses/vmware/kf){:target="_blank" rel="noopener"} |Basic|16 hrs |
+|[VMware - (KCO) Kubernetes Cluster Operations](https://trainocate.com/sg/courses/vmware/kco){:target="_blank" rel="noopener"} |Intermediate|8 hrs |
+|[VMware - (TMCMO2020) Tanzu Mission Control: Management and Operations 2020](https://trainocate.com/sg/courses/vmware/tmcmo2020){:target="_blank" rel="noopener"} |Advanced|8 hrs |
+|[VMware - (AWSDCM2021) VMware Cloud on AWS: Deploy, Configure, Manage 2021](https://trainocate.com/sg/courses/vmware/awsdcm2021){:target="_blank" rel="noopener"} |Advanced|32 hrs |
+|[VMware - (VSANT7) VMware vSAN: Troubleshooting [V7]](https://trainocate.com/sg/courses/vmware/vsant7){:target="_blank" rel="noopener"} |Advanced|16 hrs |
+|[VMware - (VSANDM67) VMware vSAN: Deploy and Manage v6.7](https://trainocate.com/sg/courses/vmware/vsandm67){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[Vmware - (VSANPD7) VMware vSAN: Plan and Deploy [V7]](https://trainocate.com/sg/courses/vmware/vsanpd7){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
