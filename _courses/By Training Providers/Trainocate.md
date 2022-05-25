@@ -160,9 +160,9 @@ third_nav_title: By Training Providers
 |[Red Hat - (RH135) System Administration II with RHCSA® Exam](https://trainocate.com/sg/courses/red-hat/rh135){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[Red Hat - (RH199) RHCSA Rapid Track course](https://trainocate.com/sg/courses/red-hat/rh199){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[Red Hat - (RH295) Enterprise Linux Automation with Ansible and Exam](https://trainocate.com/sg/courses/red-hat/rh295){:target="_blank" rel="noopener"} |Advanced|32 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[Red Hat - (DO457) Ansible for Network Automation](https://trainocate.com/sg/courses/red-hat/do457){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[Trend Micro - (TMCPDS) Deep Security 20 Training for Certified Professionals](https://trainocate.com/sg/courses/trend-micro/tmcpds){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[Trend Micro - (TRNN1040) Deep Discovery Advanced Threat Detection 3.0 Edition 3 Training For Certified Professionals](https://trainocate.com/sg/courses/trend-micro/trnn1040){:target="_blank" rel="noopener"} |Advanced|24 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
