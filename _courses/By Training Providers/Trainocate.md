@@ -184,8 +184,8 @@ third_nav_title: By Training Providers
 |[VMware - (VSFT7) VMware vSphere: Fast Track [V7]](https://trainocate.com/sg/courses/vmware/vsft7){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[VMware - (VSD7) VMware vSphere: Design [V7]](https://trainocate.com/sg/courses/vmware/vsd7){:target="_blank" rel="noopener"} |Advanced|24 hrs |
 |[VMware - (VSAAW7) Vmware vSphere: Advanced Administration Workshop [V7]](https://trainocate.com/sg/courses/vmware/vsaaw7){:target="_blank" rel="noopener"} |Advanced|40 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[VMware - (VRAICM8) Vmware vRealize Automation: Install, Configure, Manage [V8]](https://trainocate.com/sg/courses/vmware/vraicm8){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[VMware - (VROPSICM8) Vmware vRealize Operations: Install, Configure, Manage [V8]](https://trainocate.com/sg/courses/vmware/vropsicm8){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[VMware - (SDWANDDMSP3) VMware SD-WAN by VeloCloud: Design and Deploy [V3.x]](https://trainocate.com/sg/courses/vmware/sdwanddmsp3){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
