@@ -163,6 +163,16 @@ third_nav_title: By Training Providers
 |[Red Hat - (DO457) Ansible for Network Automation](https://trainocate.com/sg/courses/red-hat/do457){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
 |[Trend Micro - (TMCPDS) Deep Security 20 Training for Certified Professionals](https://trainocate.com/sg/courses/trend-micro/tmcpds){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
 |[Trend Micro - (TRNN1040) Deep Discovery Advanced Threat Detection 3.0 Edition 3 Training For Certified Professionals](https://trainocate.com/sg/courses/trend-micro/trnn1040){:target="_blank" rel="noopener"} |Advanced|24 hrs |
+|[Trend Micro - (TRNM0003) Apex One Training for Certified Professionals](https://trainocate.com/sg/courses/trend-micro/trnm0003){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[Trend Micro - (TMTPSS) TippingPoint Security Solutions 1.0 Training for Certified Professionals](https://trainocate.com/sg/courses/trend-micro/tmtpss){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[VMware - (TKGIEICM110) VMware Tanzu Kubernetes Grid Integrated Edition: Install, Configure, Manage [V1.10]](https://trainocate.com/sg/courses/vmware/tkgieicm110){:target="_blank" rel="noopener"} |Advanced|32 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
