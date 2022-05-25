@@ -176,4 +176,16 @@ third_nav_title: By Training Providers
 |[VMware - (VSANT7) VMware vSAN: Troubleshooting [V7]](https://trainocate.com/sg/courses/vmware/vsant7){:target="_blank" rel="noopener"} |Advanced|16 hrs |
 |[VMware - (VSANDM67) VMware vSAN: Deploy and Manage v6.7](https://trainocate.com/sg/courses/vmware/vsandm67){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
 |[Vmware - (VSANPD7) VMware vSAN: Plan and Deploy [V7]](https://trainocate.com/sg/courses/vmware/vsanpd7){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
+|[VMware - (VSKDM7) VMware vSphere with Tanzu: Deploy and Manage v7](https://trainocate.com/sg/courses/vmware/vskdm7){:target="_blank" rel="noopener"} |Advanced|24 hrs |
+|[VMware - (VSICM7) VMware vSphere: Install, Configure, Manage v7](https://trainocate.com/sg/courses/vmware/vsicm7){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[VMware - (VSOS7) VMware vSphere: Optimize and Scale [V7]](https://trainocate.com/sg/courses/vmware/vsos7){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[VMware - (VOSTFT7)VMware vSphere: Optimize and Scale plus Troubleshooting Fast Track [V7]](https://trainocate.com/sg/courses/vmware/vostft7){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[VMware - (VSTS7) VMware vSphere: Troubleshooting [V7]](https://trainocate.com/sg/courses/vmware/vsts7){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[VMware - (VSFT7) VMware vSphere: Fast Track [V7]](https://trainocate.com/sg/courses/vmware/vsft7){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[VMware - (VSD7) VMware vSphere: Design [V7]](https://trainocate.com/sg/courses/vmware/vsd7){:target="_blank" rel="noopener"} |Advanced|24 hrs |
+|[VMware - (VSAAW7) Vmware vSphere: Advanced Administration Workshop [V7]](https://trainocate.com/sg/courses/vmware/vsaaw7){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
