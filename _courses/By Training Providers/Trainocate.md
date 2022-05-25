@@ -125,10 +125,10 @@ third_nav_title: By Training Providers
 |[Microsoft - (SC-900)  Security, Compliance and Identity Fundamentals ](https://trainocate.com/sg/courses/microsoft/sc-900t00-a){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[Microsoft - (AZ-500) Azure Security Technologies](https://trainocate.com/sg/courses/microsoft/az-500){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
 |[Microsoft - (MS-500) Microsoft 365 Security Administration ](https://trainocate.com/sg/courses/microsoft/ms-500){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[Microsoft - (SC-200)  Security Operations Analyst ](https://trainocate.com/sg/courses/microsoft/sc-200t00-a){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[Microsoft - (SC-300) Identity and Access Administrator](https://trainocate.com/sg/courses/microsoft/sc-300t00-a){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[Microsoft - (SC-400) Microsoft Information Protection Administrator](https://trainocate.com/sg/courses/microsoft/sc-400t00-a){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
+|[Microsoft - (MS-900) Microsoft 365 Fundamentals](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
