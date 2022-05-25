@@ -145,7 +145,17 @@ third_nav_title: By Training Providers
 |[Microsoft - (PL-600) Microsoft Power Platform Solution Architect ](https://trainocate.com/sg/courses/microsoft/pl-600t00){:target="_blank" rel="noopener"} |Advanced|32 hrs |
 |[NetApp - (CDOTDP9) ONTAP Cluster Administration and Data Protection Bundle](https://trainocate.com/sg/courses/netapp/cdotdp9){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[NetApp -(AOCMCDOT) ONTAP Administration of Active IQ Unified Manager](https://trainocate.com/sg/courses/netapp/aocmcdot){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[NetApp - (SGWSADM) StorageGRID Administration 11.3](https://trainocate.com/sg/courses/netapp/sgwsadm){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[NetApp - (RSTAPI) Automate Storage Administration Using ONTAP REST API and Ansible](https://trainocate.com/sg/courses/netapp/rstapi){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[NetApp - (DATAPROT9) ONTAP 9.8 Data Protection Administration](https://trainocate.com/sg/courses/netapp/dataprot9){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
+|[Nutanix - (ECA)  Enterprise Cloud Administration 5.15](https://trainocate.com/sg/courses/nutanix/eca){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[Nutanix - (AAPM) Advanced Administration & Performance Management 5.15](https://trainocate.com/sg/courses/nutanix/aapm){:target="_blank" rel="noopener"} |Advanced|32 hrs |
+|[Nutanix - (NHCF) Hybrid Cloud Fundamentals 5.15](https://trainocate.com/sg/courses/nutanix/nhcf){:target="_blank" rel="noopener"} |Basic|16 hrs |
+|[Pulse Secure - (PCSAC) Pulse Connect Secure: Administration and Configuration](https://trainocate.com/sg/courses/pulse-secure/pcsac){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[Pulse Secure - (PPSDIC) Pulse Policy Secure: Deployment, Implementation and Configuration](https://trainocate.com/sg/courses/pulse-secure/ppsdic){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[Pulse Secure - (vADCF) Pulse Secure Virtual Application Delivery: Foundation](https://trainocate.com/sg/courses/pulse-secure/vadcf){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
+|[Pulse Secure - (vADCAC) Pulse Secure Virtual Application Delivery: Administration and Configuration](https://trainocate.com/sg/courses/pulse-secure/vadcac){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[Red Hat - (RH124) System Administration I](https://trainocate.com/sg/courses/red-hat/rh124){:target="_blank" rel="noopener"} |Basic|40 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
