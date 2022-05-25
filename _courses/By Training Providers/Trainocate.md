@@ -156,10 +156,10 @@ third_nav_title: By Training Providers
 |[Pulse Secure - (vADCF) Pulse Secure Virtual Application Delivery: Foundation](https://trainocate.com/sg/courses/pulse-secure/vadcf){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
 |[Pulse Secure - (vADCAC) Pulse Secure Virtual Application Delivery: Administration and Configuration](https://trainocate.com/sg/courses/pulse-secure/vadcac){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
 |[Red Hat - (RH124) System Administration I](https://trainocate.com/sg/courses/red-hat/rh124){:target="_blank" rel="noopener"} |Basic|40 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[Red Hat - (RH134) System Administration II](https://trainocate.com/sg/courses/red-hat/rh134){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[Red Hat - (RH135) System Administration II with RHCSA® Exam](https://trainocate.com/sg/courses/red-hat/rh135){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[Red Hat - (RH199) RHCSA Rapid Track course](https://trainocate.com/sg/courses/red-hat/rh199){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[Red Hat - (RH295) Enterprise Linux Automation with Ansible and Exam](https://trainocate.com/sg/courses/red-hat/rh295){:target="_blank" rel="noopener"} |Advanced|32 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
