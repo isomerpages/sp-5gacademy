@@ -15,4 +15,16 @@ third_nav_title: By Training Providers
 |[EC Counci - Certified Incident Handler (CIH)](https://www.eccouncil.org/programs/ec-council-certified-incident-handler-ecih/){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
 |[EC Council - Certified Ethical Hacker (CEH)](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[Google Cloud Ceritified - Professional Data Engineer](https://www.cloudassistsvcs.com/google-cloud-certified-professional-data-engineer-bundle/){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[Google Cloud Certified - Associate Cloud Engineer](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"} |Basic|8 hrs |
