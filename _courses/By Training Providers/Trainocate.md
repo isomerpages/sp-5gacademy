@@ -116,3 +116,77 @@ third_nav_title: By Training Providers
 |[Microsoft - (AZ-500) Azure Security Technologies (AZ-500)](https://trainocate.com/sg/courses/microsoft/az-500){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
 |[Microsoft -  (AZ-204) Developing Solutions for Microsoft Azure](https://trainocate.com/sg/courses/microsoft/az-204){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[Microsoft - (DP-300) Administering Relational Databases on Microsoft Azure](https://trainocate.com/sg/courses/microsoft/dp-300t00-a){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[Microsoft - (AZ-600)Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub](https://trainocate.com/sg/courses/microsoft/az-600t00){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[Microsoft - (AZ-700) Designing and Implementing Microsoft Azure Networking Solutions](https://trainocate.com/sg/courses/microsoft/az-700){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[Microsoft - (DP-100) Designing and Implementing a Data Science Solution on Azure ](https://trainocate.com/sg/courses/microsoft/dp-100){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[Microsoft - (DP-203) Data Engineering on Microsoft Azure ](https://trainocate.com/sg/courses/microsoft/dp-203t00-a){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[Microsoft - (AI-102) Designing and Implementing a Microsoft Azure AI Solution ](https://trainocate.com/sg/courses/microsoft/ai-102t00){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[Microsoft - (AZ-305) Designing Microsoft Azure Infrastructure Solutions ](https://trainocate.com/sg/courses/microsoft/az-305){:target="_blank" rel="noopener"} |Advanced|32 hrs |
+|[Microsoft - (SC-900)  Security, Compliance and Identity Fundamentals ](https://trainocate.com/sg/courses/microsoft/sc-900t00-a){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[Microsoft - (AZ-500) Azure Security Technologies](https://trainocate.com/sg/courses/microsoft/az-500){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[Microsoft - (MS-500) Microsoft 365 Security Administration ](https://trainocate.com/sg/courses/microsoft/ms-500){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[Microsoft - (SC-200)  Security Operations Analyst ](https://trainocate.com/sg/courses/microsoft/sc-200t00-a){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[Microsoft - (SC-300) Identity and Access Administrator](https://trainocate.com/sg/courses/microsoft/sc-300t00-a){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[Microsoft - (SC-400) Microsoft Information Protection Administrator](https://trainocate.com/sg/courses/microsoft/sc-400t00-a){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
+|[Microsoft - (MS-900) Microsoft 365 Fundamentals](https://trainocate.com/sg/courses/microsoft/ms-900t01-a){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[Microsoft - (MD-100) Windows 10](https://trainocate.com/sg/courses/microsoft/md-100t00-a){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[Microsoft - (MD-101) Managing Modern Desktops](https://trainocate.com/sg/courses/microsoft/md-101t00-a){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[Microsoft - (MS-203) Microsoft 365 Messaging](https://trainocate.com/sg/courses/microsoft/ms-203t00-a){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[Microsoft - (MS-500) Microsoft 365 Security Administration](https://trainocate.com/sg/courses/microsoft/ms-500){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[Microsoft - (MS-600) Building applications and solutions with Microsoft 365 core services](https://trainocate.com/sg/courses/microsoft/ms-600t00-a){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[Microsoft - (MS-700) Managing Microsoft Teams](https://trainocate.com/sg/courses/microsoft/ms-700t00-a){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[Microsoft - (MS-100) Microsoft 365 Identity and Services](https://trainocate.com/sg/courses/microsoft/ms-100t00-a){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[Microsoft - (MS-101) Microsoft 365 Mobility and Security](https://trainocate.com/sg/courses/microsoft/ms-101t00-a){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[Microsoft - (PL-900) Microsoft Power Platform Fundamentals](https://trainocate.com/sg/courses/microsoft/pl-900t00-a){:target="_blank" rel="noopener"} |Basic|16 hrs |
+|[Microsoft - (PL-100) Power Platform App Maker](https://trainocate.com/sg/courses/microsoft/pl-100t00-a){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[Microsoft - (PL-200) Power Platform Functional Consultant](https://trainocate.com/sg/courses/microsoft/pl-200t00-a){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[Microsoft - (PL-300) Power BI Analyst ](https://trainocate.com/sg/courses/microsoft/pl-300t00){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[Microsoft - (PL-400) Power Platform Developer ](https://trainocate.com/sg/courses/microsoft/pl-400t00-a){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[Microsoft - (PL-600) Microsoft Power Platform Solution Architect ](https://trainocate.com/sg/courses/microsoft/pl-600t00){:target="_blank" rel="noopener"} |Advanced|32 hrs |
+|[NetApp - (CDOTDP9) ONTAP Cluster Administration and Data Protection Bundle](https://trainocate.com/sg/courses/netapp/cdotdp9){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[NetApp -(AOCMCDOT) ONTAP Administration of Active IQ Unified Manager](https://trainocate.com/sg/courses/netapp/aocmcdot){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
+|[NetApp - (SGWSADM) StorageGRID Administration 11.3](https://trainocate.com/sg/courses/netapp/sgwsadm){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[NetApp - (RSTAPI) Automate Storage Administration Using ONTAP REST API and Ansible](https://trainocate.com/sg/courses/netapp/rstapi){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[NetApp - (DATAPROT9) ONTAP 9.8 Data Protection Administration](https://trainocate.com/sg/courses/netapp/dataprot9){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
+|[Nutanix - (ECA)  Enterprise Cloud Administration 5.15](https://trainocate.com/sg/courses/nutanix/eca){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[Nutanix - (AAPM) Advanced Administration & Performance Management 5.15](https://trainocate.com/sg/courses/nutanix/aapm){:target="_blank" rel="noopener"} |Advanced|32 hrs |
+|[Nutanix - (NHCF) Hybrid Cloud Fundamentals 5.15](https://trainocate.com/sg/courses/nutanix/nhcf){:target="_blank" rel="noopener"} |Basic|16 hrs |
+|[Pulse Secure - (PCSAC) Pulse Connect Secure: Administration and Configuration](https://trainocate.com/sg/courses/pulse-secure/pcsac){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[Pulse Secure - (PPSDIC) Pulse Policy Secure: Deployment, Implementation and Configuration](https://trainocate.com/sg/courses/pulse-secure/ppsdic){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[Pulse Secure - (vADCF) Pulse Secure Virtual Application Delivery: Foundation](https://trainocate.com/sg/courses/pulse-secure/vadcf){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
+|[Pulse Secure - (vADCAC) Pulse Secure Virtual Application Delivery: Administration and Configuration](https://trainocate.com/sg/courses/pulse-secure/vadcac){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[Red Hat - (RH124) System Administration I](https://trainocate.com/sg/courses/red-hat/rh124){:target="_blank" rel="noopener"} |Basic|40 hrs |
+|[Red Hat - (RH134) System Administration II](https://trainocate.com/sg/courses/red-hat/rh134){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[Red Hat - (RH135) System Administration II with RHCSA® Exam](https://trainocate.com/sg/courses/red-hat/rh135){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[Red Hat - (RH199) RHCSA Rapid Track course](https://trainocate.com/sg/courses/red-hat/rh199){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[Red Hat - (RH295) Enterprise Linux Automation with Ansible and Exam](https://trainocate.com/sg/courses/red-hat/rh295){:target="_blank" rel="noopener"} |Advanced|32 hrs |
+|[Red Hat - (DO457) Ansible for Network Automation](https://trainocate.com/sg/courses/red-hat/do457){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[Trend Micro - (TMCPDS) Deep Security 20 Training for Certified Professionals](https://trainocate.com/sg/courses/trend-micro/tmcpds){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[Trend Micro - (TRNN1040) Deep Discovery Advanced Threat Detection 3.0 Edition 3 Training For Certified Professionals](https://trainocate.com/sg/courses/trend-micro/trnn1040){:target="_blank" rel="noopener"} |Advanced|24 hrs |
+|[Trend Micro - (TRNM0003) Apex One Training for Certified Professionals](https://trainocate.com/sg/courses/trend-micro/trnm0003){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[Trend Micro - (TMTPSS) TippingPoint Security Solutions 1.0 Training for Certified Professionals](https://trainocate.com/sg/courses/trend-micro/tmtpss){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[VMware - (TKGIEICM110) VMware Tanzu Kubernetes Grid Integrated Edition: Install, Configure, Manage [V1.10]](https://trainocate.com/sg/courses/vmware/tkgieicm110){:target="_blank" rel="noopener"} |Advanced|32 hrs |
+|[VMware - (TKGICM1) VMware Tanzu Kubernetes Grid: Install, Configure, Manage [V1.0]](https://trainocate.com/sg/courses/vmware/tkgicm1){:target="_blank" rel="noopener"} |Advanced|16 hrs |
+|[VMware - (TRMQICM) VMware Tanzu RabbitMQ: Install, Configure, Manage](https://trainocate.com/sg/courses/vmware/trmqicm){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[VMware - (TASICM) Vmware Tanzu Application Service: Install, Configure, Manage](https://trainocate.com/sg/courses/vmware/tasicm){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
+|[VMware - (KF) Kubernetes Foundations](https://trainocate.com/sg/courses/vmware/kf){:target="_blank" rel="noopener"} |Basic|16 hrs |
+|[VMware - (KCO) Kubernetes Cluster Operations](https://trainocate.com/sg/courses/vmware/kco){:target="_blank" rel="noopener"} |Intermediate|8 hrs |
+|[VMware - (TMCMO2020) Tanzu Mission Control: Management and Operations 2020](https://trainocate.com/sg/courses/vmware/tmcmo2020){:target="_blank" rel="noopener"} |Advanced|8 hrs |
+|[VMware - (AWSDCM2021) VMware Cloud on AWS: Deploy, Configure, Manage 2021](https://trainocate.com/sg/courses/vmware/awsdcm2021){:target="_blank" rel="noopener"} |Advanced|32 hrs |
+|[VMware - (VSANT7) VMware vSAN: Troubleshooting [V7]](https://trainocate.com/sg/courses/vmware/vsant7){:target="_blank" rel="noopener"} |Advanced|16 hrs |
+|[VMware - (VSANDM67) VMware vSAN: Deploy and Manage v6.7](https://trainocate.com/sg/courses/vmware/vsandm67){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[Vmware - (VSANPD7) VMware vSAN: Plan and Deploy [V7]](https://trainocate.com/sg/courses/vmware/vsanpd7){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
+|[VMware - (VSKDM7) VMware vSphere with Tanzu: Deploy and Manage v7](https://trainocate.com/sg/courses/vmware/vskdm7){:target="_blank" rel="noopener"} |Advanced|24 hrs |
+|[VMware - (VSICM7) VMware vSphere: Install, Configure, Manage v7](https://trainocate.com/sg/courses/vmware/vsicm7){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[VMware - (VSOS7) VMware vSphere: Optimize and Scale [V7]](https://trainocate.com/sg/courses/vmware/vsos7){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[VMware - (VOSTFT7)VMware vSphere: Optimize and Scale plus Troubleshooting Fast Track [V7]](https://trainocate.com/sg/courses/vmware/vostft7){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[VMware - (VSTS7) VMware vSphere: Troubleshooting [V7]](https://trainocate.com/sg/courses/vmware/vsts7){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[VMware - (VSFT7) VMware vSphere: Fast Track [V7]](https://trainocate.com/sg/courses/vmware/vsft7){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[VMware - (VSD7) VMware vSphere: Design [V7]](https://trainocate.com/sg/courses/vmware/vsd7){:target="_blank" rel="noopener"} |Advanced|24 hrs |
+|[VMware - (VSAAW7) Vmware vSphere: Advanced Administration Workshop [V7]](https://trainocate.com/sg/courses/vmware/vsaaw7){:target="_blank" rel="noopener"} |Advanced|40 hrs |
+|[VMware - (VRAICM8) Vmware vRealize Automation: Install, Configure, Manage [V8]](https://trainocate.com/sg/courses/vmware/vraicm8){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[VMware - (VROPSICM8) Vmware vRealize Operations: Install, Configure, Manage [V8]](https://trainocate.com/sg/courses/vmware/vropsicm8){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[VMware - (SDWANDDMSP3) VMware SD-WAN by VeloCloud: Design and Deploy [V3.x]](https://trainocate.com/sg/courses/vmware/sdwanddmsp3){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
+|[VMware - (HDMAVFT8) Vmware Horizon 8: Deploy and Manage plus App Volumes Fast Track](https://trainocate.com/sg/courses/vmware/hdmavft8){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[VMware - (HCSMADM) Vmware Horizon Cloud Service: Deploy and Manage on Microsoft Azure](https://trainocate.com/sg/courses/vmware/hcsmadm){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
+|[VMware - (WS1DM21X) Vmware Workspace ONE: Deploy and Manage [V21.x]](https://trainocate.com/sg/courses/vmware/ws1dm21x){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
