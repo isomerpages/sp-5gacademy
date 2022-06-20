@@ -28,4 +28,4 @@ permalink: /about-us/aicac
 | Mr Toh Ser Khoon     | Singapore Polytechnic     |
 | Mr Wong Jian Chang   | Singapore Polytechnic   |
 | Dr Eng Pin Kwang   | Temasek Polytechnic     |
-| Mr John Leong Kit Hoong    | Temasek Polytechnic     |
+| Dr Kwan Kian Hoong  | Temasek Polytechnic     |
