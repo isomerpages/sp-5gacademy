@@ -3,7 +3,7 @@ title: Internet of Things (IoT)
 permalink: /courses/iot
 third_nav_title: By Areas
 ---
-<p style="line-height:1"><small>The courses in this area have been provided by members of the Academic Institution Curriculum Advisory Committee.</small></p>
+<p style="line-height:1"><small>The courses in this area have been provided by members of the Academic Institution Curriculum Advisory Committee (AICAC) and Training Providers Curriculum Advisory Committee (TPCAC).</small></p>
 
 |Course Title  | Institution | Level | Duration |
 | - | - | - | -|
