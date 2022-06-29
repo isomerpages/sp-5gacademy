@@ -3,7 +3,7 @@ title: Internet of Things (IoT)
 permalink: /courses/iot
 third_nav_title: By Areas
 ---
-<p style="line-height:1"><small>The courses in this area have been provided by members of the Academic Institution Curriculum Advisory Committee (AICAC) and Training Providers Curriculum Advisory Committee (TPCAC).</small></p>
+<p style="line-height:1"><small>The courses in this area have been provided by members of the Academic Institution Curriculum Advisory Committee (AICAC) and selected Training Providers.</small></p>
 
 |Course Title  | Institution | Level | Duration |
 | - | - | - | -|
@@ -86,3 +86,12 @@ third_nav_title: By Areas
 |[PTC Industrial IOT Platforms for Data Analytics and Connectivity in Advanced Manufacturing ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/ptc-industrial-iot-platforms-for-data-analytics-and-connectivity-in-advanced-manufacturing.html){:target="_blank" rel="noopener"}  | TP | Basic | 21 hrs |
 |[Python Programming for the Internet of Things (IoT)](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/python-programming-for-the-internet-of-things-(iot)){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
 |[Robotics Integration and Adaptation [Modular unit stackable to Specialist Diploma in Robotics & Automation]](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/skills-based-modular-courses/stackable-modular-courses/robotics-integration-and-adaptation.html){:target="_blank" rel="noopener"}  | TP | Basic | 60 hrs |
+|[Securing IoT](https://www.iss.nus.edu.sg/executive-education/course/detail/securing--iot/cybersecurity){:target="_blank" rel="noopener"}  | NUS | Basic | 13 hrs |
+|[SkillsFuture for Digital Workplace](https://webibmcourse.mybluemix.net/DigitalCourse){:target="_blank" rel="noopener"}  | IBM | Basic | 14 hrs |
+|[Smart Building Operations and the Internet of Things](https://www.cet.np.edu.sg/courses/smart-building-operations-and-the-internet-of-things/){:target="_blank" rel="noopener"}  | NP | Basic | 24 hrs |
+|[Smart IoT Basics](https://nypeservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=24885){:target="_blank" rel="noopener"}  | NYP | Basic | 7 hrs |
+|[Smart Sensors and Devices (Modular Unit stackable to Specialist Diploma in Industrial Internet of Things)](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/skills-based-modular-courses/stackable-modular-courses/smart-sensors-and-devices.html){:target="_blank" rel="noopener"}  | TP | Basic | 60 hrs |
+|[The Future of Work – Harnessing the Limitless Potential of AI and IOT](https://academy.smu.edu.sg/future-work-harnessing-limitless-potential-ai-and-iot-1011){:target="_blank" rel="noopener"}  | SMU | Basic | 7 hrs |
+|[The Knowledge and Innovation Economy 4.0 ](https://inetapps.nus.edu.sg/sacs/LifeLongLearning/CourseDetails/BMS5203/){:target="_blank" rel="noopener"}  | NUS | Intermediate | 39 hrs |
+|[TPOL - The Internet of Things and Everything - IoT/IoE ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/online-courses/the-internet-of-things-and-everything-iot-ioe.html){:target="_blank" rel="noopener"}  | TP | Basic | 20 hrs |
+|[Understanding of Internet of Things (IoT) ](https://nypeservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=21220){:target="_blank" rel="noopener"}  | NYP | Basic | 7 hrs |
