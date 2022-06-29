@@ -14,7 +14,7 @@ third_nav_title: By Areas
 	}
 </style>
 
-<p style="line-height:1"><small>The courses in this area have been provided by members of the Academic Institution Curriculum Advisory Committee (AICAC) and selected private training providers.</small></p>
+<p style="line-height:1"><small>The courses in this area have been provided by members of the Academic Institution Curriculum Advisory Committee (AICAC) and selected Training Providers.</small></p>
 
 |Course Title  | Institution | Level | Duration |
 | - | - | - | -|
