@@ -91,5 +91,6 @@ third_nav_title: By Areas
 |[Smart Building Operations and the Internet of Things](https://www.cet.np.edu.sg/courses/smart-building-operations-and-the-internet-of-things/){:target="_blank" rel="noopener"}  | NP | Basic | 24 hrs |
 |[Smart IoT Basics](https://nypeservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=24885){:target="_blank" rel="noopener"}  | NYP | Basic | 7 hrs |
 |[Smart Sensors and Devices (Modular Unit stackable to Specialist Diploma in Industrial Internet of Things)](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/skills-based-modular-courses/stackable-modular-courses/smart-sensors-and-devices.html){:target="_blank" rel="noopener"}  | TP | Basic | 60 hrs |
+|[The Future of Work – Harnessing the Limitless Potential of AI and IOT](https://academy.smu.edu.sg/future-work-harnessing-limitless-potential-ai-and-iot-1011){:target="_blank" rel="noopener"}  | SMU | Basic | 7 hrs |
 |[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"}  | ITE | Basic | 7 hrs |
 |[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"}  | ITE | Basic | 7 hrs |
