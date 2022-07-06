@@ -8,9 +8,6 @@ third_nav_title: By Areas
 |Course Title  | Institution | Level | Duration |
 | - | - | - | -|
 |[(ISC)2 CCSP CBK Training Seminar ](https://www.iss.nus.edu.sg/executive-education/course/detail/isc2-ccsp-cbk-training-seminar/cybersecurity){:target="_blank" rel="noopener"}  | NUS | Intermediate | 32.5 hrs |
-|[Cloud Architecting: Specialist Diploma in Cloud Architecting and Management Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/cloud-architecting){:target="_blank" rel="noopener"} | RP |Basic|45 hrs |
-|[Cloud Computing Fundamentals: Specialist Diploma in Cloud Architecting and Management Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/cloud-security-and-devops){:target="_blank" rel="noopener"} | RP |Basic|45 hrs |
-|[Cloud Implementation: Specialist Diploma in Cloud Architecting and Management Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/cloud-implementation){:target="_blank" rel="noopener"} | RP |Basic|45 hrs |
 |[5G Industry Practitioner (Cloud & Virtualization)](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/sp-ericsson-5g-industry-practitioner-certificate/5g-industry-practitioner-(cloud-virtualisation)){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
 |[Advanced Certificate in Applied Data Analytics Module 5: Understanding Big Data with Cloud Computing (Synchronous e-Learning) ](https://academy.smu.edu.sg/understanding-big-data-cloud-computing-4531){:target="_blank" rel="noopener"}  | SMU | Intermediate | 14 hrs |
 |[Advanced Certificate in Digital Business Module 3: Introduction to Robotic Process Automation ](https://academy.smu.edu.sg/graduate-certificate-digital-finance-module-3-ai-and-robotic-process-automation-1991){:target="_blank" rel="noopener"}  | SMU | Basic | 15 hrs |
@@ -34,6 +31,9 @@ third_nav_title: By Areas
 |[Certification Preparation for Service Cloud Consultant, Salesforce Service Cloud Consultant Certification ](){:target="_blank" rel="noopener"}  | TP | Basic | 180 hrs |
 |[Cloud Architecture Fundamentals (for Financial Sector) ](https://academy.smu.edu.sg/cloud-architecture-fundamentals-financial-sector-3216){:target="_blank" rel="noopener"}  | SMU | Basic | 23 hrs |
 |[Cloud Based Services for Internet of Things ](https://inetapps.nus.edu.sg/sacs/LifeLongLearning/CourseDetails/EE5021){:target="_blank" rel="noopener"}  | NUS | Basic | 3 days |
+|[Cloud Architecting: Specialist Diploma in Cloud Architecting and Management Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/cloud-architecting){:target="_blank" rel="noopener"} | RP |Basic|45 hrs |
+|[Cloud Computing Fundamentals: Specialist Diploma in Cloud Architecting and Management Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/cloud-security-and-devops){:target="_blank" rel="noopener"} | RP |Basic|45 hrs |
+|[Cloud Implementation: Specialist Diploma in Cloud Architecting and Management Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/cloud-implementation){:target="_blank" rel="noopener"} | RP |Basic|45 hrs |
 |[Cloud Computing and Security (Modular Unit stackable to Diploma in Infocomm & Digital Media (ICT Systems, Services & Support))](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/skills-based-modular-courses/stackable-modular-courses/cloud-computing-and-security.html){:target="_blank" rel="noopener"}  | TP | Basic | 8 hrs |
 |[Cloud Computing Awareness ](https://nypeservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=24893){:target="_blank" rel="noopener"}  | NYP | Basic | 7 hrs |
 |[Cloud Computing Essentials (for Financial Sector) ](https://academy.smu.edu.sg/cloud-computing-essentials-financial-sector-3191){:target="_blank" rel="noopener"}  | SMU | Basic | 15 hrs |
