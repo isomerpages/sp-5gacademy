@@ -8,7 +8,6 @@ third_nav_title: By Areas
 |Course Title  | Institution | Level | Duration |
 | - | - | - | -|
 |[(ISC)2 CCSP CBK Training Seminar ](https://www.iss.nus.edu.sg/executive-education/course/detail/isc2-ccsp-cbk-training-seminar/cybersecurity){:target="_blank" rel="noopener"}  | NUS | Intermediate | 32.5 hrs |
-|[(ISC)² CISSP CBK Training Seminar](https://www.iss.nus.edu.sg/executive-education/course/detail/isc2-cissp-cbk-training-seminar/cybersecurity){:target="_blank" rel="noopener"}  | NUS | Intermediate | 32.5 hrs |
 |[Cloud Architecting: Specialist Diploma in Cloud Architecting and Management Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/cloud-architecting){:target="_blank" rel="noopener"} | RP |Basic|45 hrs |
 |[Cloud Computing Fundamentals: Specialist Diploma in Cloud Architecting and Management Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/cloud-security-and-devops){:target="_blank" rel="noopener"} | RP |Basic|45 hrs |
 |[Cloud Implementation: Specialist Diploma in Cloud Architecting and Management Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/cloud-implementation){:target="_blank" rel="noopener"} | RP |Basic|45 hrs |
