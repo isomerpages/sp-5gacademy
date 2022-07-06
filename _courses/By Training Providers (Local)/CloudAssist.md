@@ -2,8 +2,9 @@
 title: CloudAssist
 permalink: /courses/By-private-training-providers/cloudassist
 description: ""
-third_nav_title: By Training Providers
+third_nav_title: By Training Providers (Local)
 ---
+
 |Course Title  | Level | Duration |
 | - | - | - |
 |[CNCF - Certified Kubernetes Administrator (CKA)](https://www.cloudassistsvcs.com/certified-kubernetes-administrator-cka/){:target="_blank" rel="noopener"} |Advanced|32 hrs |

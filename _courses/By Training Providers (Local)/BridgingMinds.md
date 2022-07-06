@@ -2,8 +2,9 @@
 title: BridgingMinds
 permalink: /courses/By-private-training-providers/bridgingminds
 description: ""
-third_nav_title: By Training Providers
+third_nav_title: By Training Providers (Local)
 ---
+
 |Course Title  | Level | Duration |
 | - | - | - | 
 |[Agile DSDM Project Management Foundation](https://www.bridgingminds.net/dsdm-agile-foundation){:target="_blank" rel="noopener"} |Basic|21 hrs |

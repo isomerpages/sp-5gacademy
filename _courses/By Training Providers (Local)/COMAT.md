@@ -2,8 +2,9 @@
 title: COMAT
 permalink: /courses/By-private-training-providers/comat
 description: ""
-third_nav_title: By Training Providers
+third_nav_title: By Training Providers (Local)
 ---
+
 |Course Title  | Level | Duration |
 | - | - | - | 
 |[AI Awareness Training (AI Track)](https://www.comat.com.sg/classroom-learning/training/ai/ai-awareness-training-ai-track/){:target=""_blank"" rel=""noopener""} |Intermediate|8 hrs |

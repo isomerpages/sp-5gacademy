@@ -2,8 +2,9 @@
 title: NTUC LearningHub
 permalink: /courses/By-private-training-providers/ntuc-learning-hub
 description: ""
-third_nav_title: By Training Providers
+third_nav_title: By Training Providers (Local)
 ---
+
 |Course Title  | Level | Duration |
 | - | - | - | 
 |(ISC)2 Certified Information Systems Security Professional (CISSP)|Advanced| |

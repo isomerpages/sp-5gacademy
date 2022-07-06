@@ -7,11 +7,9 @@ third_nav_title: By Areas
 
 |Course Title  | Institution | Level | Duration |
 | - | - | - | -|
+|[(EXAM ONLY) Certified Cloud Security Professional (CCSP)](https://www.iss.nus.edu.sg/executive-education/course/detail/certified-cloud-security-professional-(ccsp-exam-only)){:target="_blank" rel="noopener"}  | NUS | Intermediate | 4 hrs |
+|[(EXAM ONLY) Certified Information Systems Security Professional (CISSP)](https://www.iss.nus.edu.sg/executive-education/course/detail/certified-information-systems-security-professional--(cissp-exam-only)){:target="_blank" rel="noopener"}  | NUS | Basic | 3 hrs |
 |[(ISC)2 CCSP CBK Training Seminar ](https://www.iss.nus.edu.sg/executive-education/course/detail/isc2-ccsp-cbk-training-seminar/cybersecurity){:target="_blank" rel="noopener"}  | NUS | Intermediate | 32.5 hrs |
-|[(ISC)² CISSP CBK Training Seminar](https://www.iss.nus.edu.sg/executive-education/course/detail/isc2-cissp-cbk-training-seminar/cybersecurity){:target="_blank" rel="noopener"}  | NUS | Intermediate | 32.5 hrs |
-|[Cloud Architecting: Specialist Diploma in Cloud Architecting and Management Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/cloud-architecting){:target="_blank" rel="noopener"} | RP |Basic|45 hrs |
-|[Cloud Computing Fundamentals: Specialist Diploma in Cloud Architecting and Management Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/cloud-security-and-devops){:target="_blank" rel="noopener"} | RP |Basic|45 hrs |
-|[Cloud Implementation: Specialist Diploma in Cloud Architecting and Management Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/cloud-implementation){:target="_blank" rel="noopener"} | RP |Basic|45 hrs |
 |[5G Industry Practitioner (Cloud & Virtualization)](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/sp-ericsson-5g-industry-practitioner-certificate/5g-industry-practitioner-(cloud-virtualisation)){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
 |[Advanced Certificate in Applied Data Analytics Module 5: Understanding Big Data with Cloud Computing (Synchronous e-Learning) ](https://academy.smu.edu.sg/understanding-big-data-cloud-computing-4531){:target="_blank" rel="noopener"}  | SMU | Intermediate | 14 hrs |
 |[Advanced Certificate in Digital Business Module 3: Introduction to Robotic Process Automation ](https://academy.smu.edu.sg/graduate-certificate-digital-finance-module-3-ai-and-robotic-process-automation-1991){:target="_blank" rel="noopener"}  | SMU | Basic | 15 hrs |
@@ -33,6 +31,7 @@ third_nav_title: By Areas
 |[Certificate in Network & Systems Technologies (Modular Certificate 5 of Diploma in Infocomm and Digital Media (ICT Systems, Services & Support)) - Synchronous & Asynchronous elearning](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/part-time-diploma-post-diploma-courses/infocomm-and-digital-media-ict-systems-services-and-support.html){:target=""_blank"" rel=""noopener""}  | TP | Basic | 180 hrs |"
 |[Certificate in Smart Systems & Cloud Computing (part of Specialist Diploma in Digital Technologies for a Smart City) ](https://www.sp.edu.sg/pace/courses/course-type/part-time-and-post-diplomas/ofr_ap/specialist-diploma-in-digital-technologies-for-a-smart-city){:target="_blank" rel="noopener"}  | SP | Intermediate | 135 hrs |
 |[Certification Preparation for Service Cloud Consultant, Salesforce Service Cloud Consultant Certification ](){:target="_blank" rel="noopener"}  | TP | Basic | 180 hrs |
+|[Cloud Architecting: Specialist Diploma in Cloud Architecting and Management Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/cloud-architecting){:target="_blank" rel="noopener"} | RP |Basic|45 hrs |
 |[Cloud Architecture Fundamentals (for Financial Sector) ](https://academy.smu.edu.sg/cloud-architecture-fundamentals-financial-sector-3216){:target="_blank" rel="noopener"}  | SMU | Basic | 23 hrs |
 |[Cloud Based Services for Internet of Things ](https://inetapps.nus.edu.sg/sacs/LifeLongLearning/CourseDetails/EE5021){:target="_blank" rel="noopener"}  | NUS | Basic | 3 days |
 |[Cloud Computing and Security (Modular Unit stackable to Diploma in Infocomm & Digital Media (ICT Systems, Services & Support))](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/skills-based-modular-courses/stackable-modular-courses/cloud-computing-and-security.html){:target="_blank" rel="noopener"}  | TP | Basic | 8 hrs |
@@ -41,10 +40,12 @@ third_nav_title: By Areas
 |[Cloud Computing for All (Synchronous e-Learning)](https://www.suss.edu.sg/courses/short-course/detail/CET101){:target="_blank" rel="noopener"}  | SUSS | Basic | 7 hrs |
 |[Cloud Computing for Managers 1 ](https://www.suss.edu.sg/courses/short-course/detail/CET201){:target="_blank" rel="noopener"}  | SUSS | Basic | 7 hrs |
 |[Cloud Computing for Managers 2](https://www.suss.edu.sg/courses/short-course/detail/CET301){:target="_blank" rel="noopener"}  | SUSS | Advanced | 7 hrs |
+|[Cloud Computing Fundamentals: Specialist Diploma in Cloud Architecting and Management Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/cloud-security-and-devops){:target="_blank" rel="noopener"} | RP |Basic|45 hrs |
 |[Cloud Computing Security and Compliance 101 ](https://www.ntu.edu.sg/pace/programmes/detail/cloud-computing-security-and-compliance-101){:target="_blank" rel="noopener"}  | NTU | Basic | 16 hrs |
 |[Cloud Computing: Application and Solutions (Classroom & Asynchronous)](https://www.suss.edu.sg/courses/detail/cet250){:target="_blank" rel="noopener"}  | SUSS | Intermediate | 24 hrs |
 |[Cloud Computing: Business Case and Technical Models ](https://www.suss.edu.sg/courses/detail/ICT335){:target="_blank" rel="noopener"}  | SUSS | Basic | 36 hrs |
 |[Cloud DevOps Practice (for Financial Sector) ](https://academy.smu.edu.sg/cloud-devops-practice-financial-sector-3211){:target="_blank" rel="noopener"}  | SMU | Basic | 21 hrs |
+|[Cloud Implementation: Specialist Diploma in Cloud Architecting and Management Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/cloud-implementation){:target="_blank" rel="noopener"} | RP |Basic|45 hrs |
 |[Cloud Migration and Deployment Implementation (for Financial Sector) ](https://academy.smu.edu.sg/cloud-migration-and-deployment-implementation-financial-sector-5161){:target="_blank" rel="noopener"}  | SMU | Basic | 22 hrs |
 |[Cloud Native Solution Design ](https://www.iss.nus.edu.sg/executive-education/course/detail/cloud-native-solution--design/software-systems){:target="_blank" rel="noopener"}  | NUS | Intermediate | 23 hrs |
 |[Cloud Operations (for Financial Sector) ](https://academy.smu.edu.sg/cloud-operations-financial-sector-3206){:target="_blank" rel="noopener"}  | SMU | Basic | 21 hrs |
@@ -79,7 +80,6 @@ third_nav_title: By Areas
 |[IoT & VR Applications in Healthcare ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/iot-and-vr-applications-in-healthcare.html){:target="_blank" rel="noopener"}  | TP | Basic | 16 hrs |
 |[IoT for Engineers ](https://www.cet.np.edu.sg/courses/iot-for-engineers/){:target="_blank" rel="noopener"}  | NP | Basic | 24 hrs |
 |[IT Fundamentals (Synchronous E-Learning) ](https://academy.smu.edu.sg/it-fundamentals-3466){:target="_blank" rel="noopener"}  | SMU | Basic | 36 hrs |
-|[Machine Learning ](https://scale.nus.edu.sg/programmes/executive-courses/data-analytics/applied-machine-learning){:target="_blank" rel="noopener"}  | NUS | Basic | 30 hrs |
 |[MLC - Fundamentals of Cloud Architecture ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/micro-learning-courses/suite-courses/fundamentals-of-cloud-architecture.html){:target="_blank" rel="noopener"}  | TP | Basic | 3.5 hrs |
 |[MLC - Introduction to Cloud Architecture Suite Courses ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/micro-learning-courses/suite-courses/fundamentals-of-cloud-architecture.html){:target="_blank" rel="noopener"}  | TP | Basic | 6 hrs |
 |[MLC - Virtualisation Concepts & Techniques ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/micro-learning-courses/suite-courses/virtualisation-concepts-n-techniques.html){:target="_blank" rel="noopener"}  | TP | Basic | 3.5 hrs |

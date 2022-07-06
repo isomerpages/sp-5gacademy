@@ -2,8 +2,9 @@
 title: Trainocate
 permalink: /courses/By-private-training-providers/trainocate
 description: ""
-third_nav_title: By Training Providers
+third_nav_title: By Training Providers (Local)
 ---
+
 |Course Title  | Level | Duration |
 | - | - | - | 
 |[AWS - (CLDPE) Cloud Practitioner Essentials](https://trainocate.com/sg/courses/aws/aws-cldpe){:target="_blank" rel="noopener"} |Basic|8 hrs |
