@@ -20,6 +20,16 @@ third_nav_title: By Areas
 |[Architecting IOT Solutions ](https://www.iss.nus.edu.sg/executive-education/course/detail/architecting-iot--solutions/software-systems){:target="_blank" rel="noopener"}  | NUS | Intermediate | 26 hrs |
 |[Architecting Software Solutions ](https://www.iss.nus.edu.sg/executive-education/course/detail/architecting-software--solutions/software-systems){:target="_blank" rel="noopener"}  | NUS | Advanced | 32.5 hrs |
 |[Automation with Amazon Web Services ](){:target="_blank" rel="noopener"}  | TP | Basic | 78 hrs |
+|[AWS  - (TE)  Technical Essentials](https://trainocate.com/sg/courses/aws/aws-te){:target="_blank" rel="noopener"}  | Trainocate | Basic | 8 hrs |
+|[AWS - (ADVARC) Advanced Architecting on AWS](https://trainocate.com/sg/courses/aws/aws-advarc){:target="_blank" rel="noopener"}  | Trainocate | Advanced | 24 hrs |
+|[AWS - (ADVDEV) Advanced Developing on AWS   ](https://trainocate.com/sg/courses/aws/aws-adv-dev){:target="_blank" rel="noopener"}  | Trainocate | Advanced | 24 hrs |
+|[AWS - (ARC) Architecting on AWS](https://trainocate.com/sg/courses/aws/aws-arc){:target="_blank" rel="noopener"}  | Trainocate | Intermediate | 24 hrs |
+|[AWS - (BDATA) Big Data on AWS ](https://trainocate.com/sg/courses/aws/aws-bdata){:target="_blank" rel="noopener"}  | Trainocate | Advanced | 24 hrs |
+|[AWS - (CFMB) Cloud Financial Management for Builders ](https://trainocate.com/sg/courses/aws/aws-cfmb){:target="_blank" rel="noopener"}  | Trainocate | Intermediate | 24 hrs |
+|[AWS - (CLDPE) Cloud Practitioner Essentials ](https://trainocate.com/sg/courses/aws/aws-cldpe){:target="_blank" rel="noopener"}  | Trainocate | Basic | 8 hrs |
+|[AWS - (DATAWARE) Data Warehousing on AWS ](https://trainocate.com/sg/courses/aws/aws-dataware){:target="_blank" rel="noopener"}  | Trainocate | Advanced | 24 hrs |
+|[AWS - (DEV) Developing on AWS](https://trainocate.com/sg/courses/aws/aws-dev){:target="_blank" rel="noopener"}  | Trainocate | Intermediate | 24 hrs |
+|[AWS - (DEVOPS) DevOps Engineering on AWS](https://trainocate.com/sg/courses/aws/aws-devops){:target="_blank" rel="noopener"}  | Trainocate | Advanced | 24 hrs |
 |[AWS Academy Accreditation Preparation Course](https://www.sp.edu.sg/pace/courses/course-type/online/aws-academy-accreditation-preparation-course){:target="_blank" rel="noopener"}  | SP | Basic | 20 hrs |
 |[AWS Academy Cloud Architecting](https://www.rp.edu.sg/ace/short-course/Detail/aws-academy-cloud-architecting){:target="_blank" rel="noopener"}  | RP | Basic | 36 hrs |
 |[AWS Academy Cloud Foundations ](https://www.cet.np.edu.sg/courses/aws-academy-cloud-foundations/){:target=""_blank"" rel=""noopener""}  | NP | Basic | 16 hrs |"
