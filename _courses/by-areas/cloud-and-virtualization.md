@@ -32,18 +32,18 @@ third_nav_title: By Areas
 |[Cloud Architecting: Specialist Diploma in Cloud Architecting and Management Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/cloud-architecting){:target="_blank" rel="noopener"} | RP |Basic|45 hrs |
 |[Cloud Architecture Fundamentals (for Financial Sector) ](https://academy.smu.edu.sg/cloud-architecture-fundamentals-financial-sector-3216){:target="_blank" rel="noopener"}  | SMU | Basic | 23 hrs |
 |[Cloud Based Services for Internet of Things ](https://inetapps.nus.edu.sg/sacs/LifeLongLearning/CourseDetails/EE5021){:target="_blank" rel="noopener"}  | NUS | Basic | 3 days |
-|[Cloud Computing Fundamentals: Specialist Diploma in Cloud Architecting and Management Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/cloud-security-and-devops){:target="_blank" rel="noopener"} | RP |Basic|45 hrs |
-|[Cloud Implementation: Specialist Diploma in Cloud Architecting and Management Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/cloud-implementation){:target="_blank" rel="noopener"} | RP |Basic|45 hrs |
 |[Cloud Computing and Security (Modular Unit stackable to Diploma in Infocomm & Digital Media (ICT Systems, Services & Support))](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/skills-based-modular-courses/stackable-modular-courses/cloud-computing-and-security.html){:target="_blank" rel="noopener"}  | TP | Basic | 8 hrs |
 |[Cloud Computing Awareness ](https://nypeservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=24893){:target="_blank" rel="noopener"}  | NYP | Basic | 7 hrs |
 |[Cloud Computing Essentials (for Financial Sector) ](https://academy.smu.edu.sg/cloud-computing-essentials-financial-sector-3191){:target="_blank" rel="noopener"}  | SMU | Basic | 15 hrs |
 |[Cloud Computing for All (Synchronous e-Learning)](https://www.suss.edu.sg/courses/short-course/detail/CET101){:target="_blank" rel="noopener"}  | SUSS | Basic | 7 hrs |
 |[Cloud Computing for Managers 1 ](https://www.suss.edu.sg/courses/short-course/detail/CET201){:target="_blank" rel="noopener"}  | SUSS | Basic | 7 hrs |
 |[Cloud Computing for Managers 2](https://www.suss.edu.sg/courses/short-course/detail/CET301){:target="_blank" rel="noopener"}  | SUSS | Advanced | 7 hrs |
+|[Cloud Computing Fundamentals: Specialist Diploma in Cloud Architecting and Management Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/cloud-security-and-devops){:target="_blank" rel="noopener"} | RP |Basic|45 hrs |
 |[Cloud Computing Security and Compliance 101 ](https://www.ntu.edu.sg/pace/programmes/detail/cloud-computing-security-and-compliance-101){:target="_blank" rel="noopener"}  | NTU | Basic | 16 hrs |
 |[Cloud Computing: Application and Solutions (Classroom & Asynchronous)](https://www.suss.edu.sg/courses/detail/cet250){:target="_blank" rel="noopener"}  | SUSS | Intermediate | 24 hrs |
 |[Cloud Computing: Business Case and Technical Models ](https://www.suss.edu.sg/courses/detail/ICT335){:target="_blank" rel="noopener"}  | SUSS | Basic | 36 hrs |
 |[Cloud DevOps Practice (for Financial Sector) ](https://academy.smu.edu.sg/cloud-devops-practice-financial-sector-3211){:target="_blank" rel="noopener"}  | SMU | Basic | 21 hrs |
+|[Cloud Implementation: Specialist Diploma in Cloud Architecting and Management Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/cloud-implementation){:target="_blank" rel="noopener"} | RP |Basic|45 hrs |
 |[Cloud Migration and Deployment Implementation (for Financial Sector) ](https://academy.smu.edu.sg/cloud-migration-and-deployment-implementation-financial-sector-5161){:target="_blank" rel="noopener"}  | SMU | Basic | 22 hrs |
 |[Cloud Native Solution Design ](https://www.iss.nus.edu.sg/executive-education/course/detail/cloud-native-solution--design/software-systems){:target="_blank" rel="noopener"}  | NUS | Intermediate | 23 hrs |
 |[Cloud Operations (for Financial Sector) ](https://academy.smu.edu.sg/cloud-operations-financial-sector-3206){:target="_blank" rel="noopener"}  | SMU | Basic | 21 hrs |
