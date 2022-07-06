@@ -7,6 +7,8 @@ third_nav_title: By Areas
 
 |Course Title  | Institution | Level | Duration |
 | - | - | - | -|
+|[(EXAM ONLY) Certified Cloud Security Professional (CCSP)](https://www.iss.nus.edu.sg/executive-education/course/detail/certified-cloud-security-professional-(ccsp-exam-only)){:target="_blank" rel="noopener"}  | NUS | Intermediate | 4 hrs |
+|[(EXAM ONLY) Certified Information Systems Security Professional (CISSP)](https://www.iss.nus.edu.sg/executive-education/course/detail/certified-information-systems-security-professional--(cissp-exam-only)){:target="_blank" rel="noopener"}  | NUS | Basic | 3 hrs |
 |[(ISC)2 CCSP CBK Training Seminar ](https://www.iss.nus.edu.sg/executive-education/course/detail/isc2-ccsp-cbk-training-seminar/cybersecurity){:target="_blank" rel="noopener"}  | NUS | Intermediate | 32.5 hrs |
 |[5G Industry Practitioner (Cloud & Virtualization)](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/sp-ericsson-5g-industry-practitioner-certificate/5g-industry-practitioner-(cloud-virtualisation)){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
 |[Advanced Certificate in Applied Data Analytics Module 5: Understanding Big Data with Cloud Computing (Synchronous e-Learning) ](https://academy.smu.edu.sg/understanding-big-data-cloud-computing-4531){:target="_blank" rel="noopener"}  | SMU | Intermediate | 14 hrs |
@@ -78,7 +80,6 @@ third_nav_title: By Areas
 |[IoT & VR Applications in Healthcare ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/iot-and-vr-applications-in-healthcare.html){:target="_blank" rel="noopener"}  | TP | Basic | 16 hrs |
 |[IoT for Engineers ](https://www.cet.np.edu.sg/courses/iot-for-engineers/){:target="_blank" rel="noopener"}  | NP | Basic | 24 hrs |
 |[IT Fundamentals (Synchronous E-Learning) ](https://academy.smu.edu.sg/it-fundamentals-3466){:target="_blank" rel="noopener"}  | SMU | Basic | 36 hrs |
-|[Machine Learning ](https://scale.nus.edu.sg/programmes/executive-courses/data-analytics/applied-machine-learning){:target="_blank" rel="noopener"}  | NUS | Basic | 30 hrs |
 |[MLC - Fundamentals of Cloud Architecture ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/micro-learning-courses/suite-courses/fundamentals-of-cloud-architecture.html){:target="_blank" rel="noopener"}  | TP | Basic | 3.5 hrs |
 |[MLC - Introduction to Cloud Architecture Suite Courses ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/micro-learning-courses/suite-courses/fundamentals-of-cloud-architecture.html){:target="_blank" rel="noopener"}  | TP | Basic | 6 hrs |
 |[MLC - Virtualisation Concepts & Techniques ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/micro-learning-courses/suite-courses/virtualisation-concepts-n-techniques.html){:target="_blank" rel="noopener"}  | TP | Basic | 3.5 hrs |
