@@ -72,22 +72,34 @@ third_nav_title: By Areas
 |[Cloud Migration and Deployment Implementation (for Financial Sector) ](https://academy.smu.edu.sg/cloud-migration-and-deployment-implementation-financial-sector-5161){:target="_blank" rel="noopener"}  | SMU | Basic | 22 hrs |
 |[Cloud Native Solution Design ](https://www.iss.nus.edu.sg/executive-education/course/detail/cloud-native-solution--design/software-systems){:target="_blank" rel="noopener"}  | NUS | Intermediate | 23 hrs |
 |[Cloud Operations (for Financial Sector) ](https://academy.smu.edu.sg/cloud-operations-financial-sector-3206){:target="_blank" rel="noopener"}  | SMU | Basic | 21 hrs |
+|[Cloud Security and DevOps](https://www.rp.edu.sg/ace/short-course/Detail/cloud-security-and-devops){:target="_blank" rel="noopener"}  | RP | Basic | 45 hrs |
 |[Cloud Security Practice (for Financial Sector) ](https://academy.smu.edu.sg/cloud-security-practices-financial-sector-3201){:target="_blank" rel="noopener"}  | SMU | Basic | 21 hrs |
 |[Cloud Technology & Automation (for Financial Sector) ](https://academy.smu.edu.sg/cloud-technology-automation-financial-sector-3196){:target="_blank" rel="noopener"}  | SMU | Basic | 15 hrs |
 |[Cloud Technology (Modular Unit stackable to Specialist Diploma in Digital Service Automation) ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/skills-based-modular-courses/stackable-modular-courses/cloud-technology.html){:target="_blank" rel="noopener"}  | TP | Intermediate | 45 hrs |
 |[Cloud, 5G, IoT and Public Policy (Synchronous e-learning) ](https://lkyspp.nus.edu.sg/graduate-programmes/electives){:target="_blank" rel="noopener"}  | NUS | Basic | 9.75 hrs |
+|[CNCF - Certified Kubernetes Administrator (CKA)](https://www.cloudassistsvcs.com/certified-kubernetes-administrator-cka/){:target="_blank" rel="noopener"}  | CloudAssist | Advanced | 32 hrs |
+|[CNCF - Certified Kubernetes Application Developer (CKAD) ](https://www.cloudassistsvcs.com/certified-kubernetes-application-developer-ckad/){:target="_blank" rel="noopener"}  | CloudAssist | Advanced | 24 hrs |
+|[CNCF - Certified Kubernetes Security Specialist (CKS) ](https://training.linuxfoundation.org/training/kubernetes-security-essentials-lfs260/){:target="_blank" rel="noopener"}  | CloudAssist | Advanced | 24 hrs |
+|[CNCF - Kubernetes and Cloud Native Associate (KCNA)](https://training.linuxfoundation.org/training/kubernetes-and-cloud-native-essentials-lfs250-kubernetes-and-cloud-native-associate-kcna-exam-bundle/){:target="_blank" rel="noopener"}  | CloudAssist | Intermediate | 24 hrs |
 |[CoC in Cloud Practitioner Essentials ](https://www.ite.edu.sg/courses/course-finder/course/coc-in-cloud-practitioner-essentials){:target="_blank" rel="noopener"}  | ITE | Basic | 15 hrs |
 |[CoC in Cyber Security Fundamentals](https://www.ite.edu.sg/courses/course-finder/course/coc-in-cyber-security-fundamentals){:target="_blank" rel="noopener"}  | ITE | Basic | 21 hrs |
 |[CoC in Internet of Things (Smart Energy Management)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-internet-of-things-smart-energy-fundamentals){:target="_blank" rel="noopener"}  | ITE | Basic | 27 hrs |
 |[CoC in IoT Applications](https://www.ite.edu.sg/courses/course-finder/course/coc-in-iot-applications){:target="_blank" rel="noopener"}  | ITE | Basic | 7 hrs |
+|[CompTIA - (CTA+) A+ Training](https://trainocate.com/sg/courses/comptia/ct-a+){:target="_blank" rel="noopener"}  | Trainocate | Intermediate | 40 hrs |
+|[CompTIA - (CTCloud+) Cloud+ Training](https://trainocate.com/sg/courses/comptia/ct-cloud+){:target="_blank" rel="noopener"}  | Trainocate | Intermediate | 40 hrs |
+|[CompTIA Cloud+](https://www.comat.com.sg/classroom-learning/training/cloud/comptia-cloud/){:target="_blank" rel="noopener"}  | COMAT | Intermediate | 40 hrs |
+|[Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (AZ-600)](https://www.comat.com.sg/classroom-learning/training/cloud/configuring-and-operating-a-hybrid-cloud-with-microsoft-azure-stack-hub-az-600/){:target="_blank" rel="noopener"}  | COMAT | Intermediate | 28 hrs |
 |[Cyber Security Foundation Course](https://stmi.nus.edu.sg/event/cyber-security-foundation-course-skillsfuture-series/){:target="_blank" rel="noopener"}  | NUS | Basic | 2 days |
 |[Cybersecurity Fundamentals](https://academy.smu.edu.sg/cybersecurity-fundamentals-3526){:target="_blank" rel="noopener"}  | SMU | Intermediate | 22 hrs |
 |[Data Analytics for Managers (Synchronous e-learning) ](https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/SLE-DAM){:target="_blank" rel="noopener"}  | NUS | Basic | 1 days |
 |[Designing Intelligent Edge Computing ](https://www.iss.nus.edu.sg/executive-education/course/detail/designing-intelligent-edge--computing/software-systems){:target="_blank" rel="noopener"}  | NUS | Advanced | 26 hrs |
 |[Developing Cybersecurity Architecture ](https://www.iss.nus.edu.sg/executive-education/course/detail/developing--cybersecurity-architecture/cybersecurity){:target="_blank" rel="noopener"}  | NUS | Intermediate | 19.5 hrs |
+|[DevOps Foundation](https://www.bridgingminds.net/DevOps-Foundation){:target="_blank" rel="noopener"}  | BridgingMinds | Basic | 14 hrs |
 |[DevOps: Build, Deploy and Monitor (Synchronous e-learning) ](https://stmi.nus.edu.sg/event/devops-build-deploy-and-monitor-e-learning/){:target="_blank" rel="noopener"}  | NUS | Intermediate | 2 days |
+|[DevSecOps](https://www.bridgingminds.net/DevSecOps){:target="_blank" rel="noopener"}  | BridgingMinds | Basic | 14 hrs |
 |[Digital Business: Technologies and Transformation ](https://academy.smu.edu.sg/business-transformation-digital-age-2616){:target="_blank" rel="noopener"}  | SMU | Intermediate | 15.5 hrs |
 |[Driving Digital Transformation with Cloud ](https://academy.smu.edu.sg/driving-digital-transformation-cloud-5431){:target="_blank" rel="noopener"}  | SMU | Basic | 14 hrs |
+|[Enhance Customer Engagement with Your First AI Bot ](https://webibmcourse.mybluemix.net/AICourse){:target="_blank" rel="noopener"}  | IBM | Basic | 14 hrs |
 |[Envisioning 5G IoT Solutions](https://www.iss.nus.edu.sg/executive-education/course/detail/Envisioning-5G-IoT-Solutions/software-systems){:target="_blank" rel="noopener"}  | NUS | Basic | 19.5 hrs |
 |[Essentials of Cloud Computing ](https://academy.smu.edu.sg/essentials-cloud-computing-2451){:target="_blank" rel="noopener"}  | SMU | Intermediate | 15 hrs |
 |[Fundamentals of Cloud Computing & Migration ](https://www.cet.np.edu.sg/courses/fundamentals-of-cloud-computing-migration/){:target="_blank" rel="noopener"}  | NP | Basic | 16 hrs |
