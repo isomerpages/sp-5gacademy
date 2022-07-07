@@ -30,6 +30,13 @@ third_nav_title: By Areas
 |[AWS - (DATAWARE) Data Warehousing on AWS ](https://trainocate.com/sg/courses/aws/aws-dataware){:target="_blank" rel="noopener"}  | Trainocate | Advanced | 24 hrs |
 |[AWS - (DEV) Developing on AWS](https://trainocate.com/sg/courses/aws/aws-dev){:target="_blank" rel="noopener"}  | Trainocate | Intermediate | 24 hrs |
 |[AWS - (DEVOPS) DevOps Engineering on AWS](https://trainocate.com/sg/courses/aws/aws-devops){:target="_blank" rel="noopener"}  | Trainocate | Advanced | 24 hrs |
+|[AWS - (MGA) Migrating to AWS ](https://trainocate.com/sg/courses/aws/aws-mga){:target="_blank" rel="noopener"}  | Trainocate | Intermediate | 24 hrs |
+|[AWS - (ML) The Machine Learning Pipeline on AWS](https://trainocate.com/sg/courses/aws/aws-ml){:target="_blank" rel="noopener"}  | Trainocate | Advanced | 32 hrs |
+|[AWS - (PDDA) Planning and Designing Databases on AWS](https://trainocate.com/sg/courses/aws/aws-pdda){:target="_blank" rel="noopener"}  | Trainocate | Advanced | 24 hrs |
+|[AWS - (RCAEKS) Running Containers on Amazon Elastic Kubernetes Service (Amazon EKS)](https://trainocate.com/sg/courses/aws/aws-rcaeks){:target="_blank" rel="noopener"}  | Trainocate | Advanced | 24 hrs |
+|[AWS - (SE) Security Essentials](https://trainocate.com/sg/courses/aws/aws-se){:target="_blank" rel="noopener"}  | Trainocate | Basic | 8 hrs |
+|[AWS - (SECENG) Security Engineering on AWS ](https://trainocate.com/sg/courses/aws/aws-seceng){:target="_blank" rel="noopener"}  | Trainocate | Advanced | 24 hrs |
+|[AWS - (SYSOPS) Systems Operations on AWS ](https://trainocate.com/sg/courses/aws/aws-sysops){:target="_blank" rel="noopener"}  | Trainocate | Intermediate | 24 hrs |
 |[AWS Academy Accreditation Preparation Course](https://www.sp.edu.sg/pace/courses/course-type/online/aws-academy-accreditation-preparation-course){:target="_blank" rel="noopener"}  | SP | Basic | 20 hrs |
 |[AWS Academy Cloud Architecting](https://www.rp.edu.sg/ace/short-course/Detail/aws-academy-cloud-architecting){:target="_blank" rel="noopener"}  | RP | Basic | 36 hrs |
 |[AWS Academy Cloud Foundations ](https://www.cet.np.edu.sg/courses/aws-academy-cloud-foundations/){:target=""_blank"" rel=""noopener""}  | NP | Basic | 16 hrs |"
