@@ -159,6 +159,16 @@ third_nav_title: By Areas
 |[Microsoft - (MS-203) Microsoft 365 Messaging ](https://trainocate.com/sg/courses/microsoft/ms-203t00-a){:target="_blank" rel="noopener"}  | Trainocate | Intermediate | 40 hrs |
 |[Microsoft - (MS-600) Building applications and solutions with Microsoft 365 core services ](https://trainocate.com/sg/courses/microsoft/ms-600t00-a){:target="_blank" rel="noopener"}  | Trainocate | Intermediate | 40 hrs |
 |[Microsoft - (MS-700) Managing Microsoft Teams  ](https://trainocate.com/sg/courses/microsoft/ms-700t00-a){:target="_blank" rel="noopener"}  | Trainocate | Intermediate | 32 hrs |
+|[Microsoft Azure Administrator ](https://www.comat.com.sg/classroom-learning/training/cloud/microsoft-azure-administrator/){:target="_blank" rel="noopener"}  | COMAT | Intermediate | 32 hrs |
+|[Microsoft Azure Administrator - AZ104 ](https://www.bridgingminds.net/az103){:target="_blank" rel="noopener"}  | BridgingMinds | Intermediate | 35 hrs |
+|[Microsoft Azure Architect Technologies - AZ303](https://www.bridgingminds.net/az300){:target="_blank" rel="noopener"}  | BridgingMinds | Advanced | 35 hrs |
+|[Microsoft Azure Cloud Fundamentals  ](https://www.ntuclearninghub.com/en-gb/-/course/microsoft-azure-fundamentals){:target="_blank" rel="noopener"}  | LHub | Basic | 8 hrs |
+|[Microsoft Azure Fundamental - AZ900](https://www.bridgingminds.net/az900){:target="_blank" rel="noopener"}  | BridgingMinds | Basic | 14 hrs |
+|[Microsoft Certified: Azure Administrator Associate](https://docs.microsoft.com/en-gb/learn/certifications/courses/az-104t00){:target="_blank" rel="noopener"}  | CloudAssist | Intermediate | 32 hrs |
+|[Microsoft Certified: Azure Solutions Architect Expert ](https://docs.microsoft.com/en-us/learn/certifications/courses/az-305t00){:target="_blank" rel="noopener"}  | CloudAssist | Advanced | 32 hrs |
+|[Architecting IOT Solutions ](https://www.iss.nus.edu.sg/executive-education/course/detail/architecting-iot--solutions/software-systems){:target="_blank" rel="noopener"}  | NUS | Intermediate | 26 hrs |
+|[Architecting IOT Solutions ](https://www.iss.nus.edu.sg/executive-education/course/detail/architecting-iot--solutions/software-systems){:target="_blank" rel="noopener"}  | NUS | Intermediate | 26 hrs |
+|[Architecting IOT Solutions ](https://www.iss.nus.edu.sg/executive-education/course/detail/architecting-iot--solutions/software-systems){:target="_blank" rel="noopener"}  | NUS | Intermediate | 26 hrs |
 |[MLC - Fundamentals of Cloud Architecture ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/micro-learning-courses/suite-courses/fundamentals-of-cloud-architecture.html){:target="_blank" rel="noopener"}  | TP | Basic | 3.5 hrs |
 |[MLC - Introduction to Cloud Architecture Suite Courses ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/micro-learning-courses/suite-courses/fundamentals-of-cloud-architecture.html){:target="_blank" rel="noopener"}  | TP | Basic | 6 hrs |
 |[MLC - Virtualisation Concepts & Techniques ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/micro-learning-courses/suite-courses/virtualisation-concepts-n-techniques.html){:target="_blank" rel="noopener"}  | TP | Basic | 3.5 hrs |
