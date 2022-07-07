@@ -141,12 +141,14 @@ third_nav_title: By Areas
 |[IoT & VR Applications in Healthcare ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/iot-and-vr-applications-in-healthcare.html){:target="_blank" rel="noopener"}  | TP | Basic | 16 hrs |
 |[IoT for Engineers ](https://www.cet.np.edu.sg/courses/iot-for-engineers/){:target="_blank" rel="noopener"}  | NP | Basic | 24 hrs |
 |[IT Fundamentals (Synchronous E-Learning) ](https://academy.smu.edu.sg/it-fundamentals-3466){:target="_blank" rel="noopener"}  | SMU | Basic | 36 hrs |
-|[Architecting IOT Solutions ](https://www.iss.nus.edu.sg/executive-education/course/detail/architecting-iot--solutions/software-systems){:target="_blank" rel="noopener"}  | NUS | Intermediate | 26 hrs |
-|[Architecting IOT Solutions ](https://www.iss.nus.edu.sg/executive-education/course/detail/architecting-iot--solutions/software-systems){:target="_blank" rel="noopener"}  | NUS | Intermediate | 26 hrs |
-|[Architecting IOT Solutions ](https://www.iss.nus.edu.sg/executive-education/course/detail/architecting-iot--solutions/software-systems){:target="_blank" rel="noopener"}  | NUS | Intermediate | 26 hrs |
-|[Architecting IOT Solutions ](https://www.iss.nus.edu.sg/executive-education/course/detail/architecting-iot--solutions/software-systems){:target="_blank" rel="noopener"}  | NUS | Intermediate | 26 hrs |
-|[Architecting IOT Solutions ](https://www.iss.nus.edu.sg/executive-education/course/detail/architecting-iot--solutions/software-systems){:target="_blank" rel="noopener"}  | NUS | Intermediate | 26 hrs |
-
+|[Microsoft -  (AZ-204) Developing Solutions for Microsoft Azure](https://trainocate.com/sg/courses/microsoft/az-204){:target="_blank" rel="noopener"}  | Trainocate | Intermediate | 40 hrs |
+|[Microsoft - (AZ-104) Azure Administrator ](https://trainocate.com/sg/courses/microsoft/az-104){:target="_blank" rel="noopener"}  | Trainocate | Intermediate | 32 hrs |
+|[Microsoft - (AZ-120) Planning and Administering Microsoft Azure for SAP Workloads ](https://trainocate.com/sg/courses/microsoft/az-120t00-a){:target="_blank" rel="noopener"}  | Trainocate | Intermediate | 32 hrs |
+|[Microsoft - (AZ-140) Configuring and Operating Microsoft Azure Virtual Desktop ](https://trainocate.com/sg/courses/microsoft/az-140t00-a){:target="_blank" rel="noopener"}  | Trainocate | Intermediate | 32 hrs |
+|[Microsoft - (AZ-305) Designing Microsoft Azure Infrastructure Solutions ](https://trainocate.com/sg/courses/microsoft/az-305){:target="_blank" rel="noopener"}  | Trainocate | Advanced | 32 hrs |
+|[Microsoft - (AZ-600)Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub ](https://trainocate.com/sg/courses/microsoft/az-600t00){:target="_blank" rel="noopener"}  | Trainocate | Intermediate | 32 hrs |
+|[Microsoft - (AZ-900) Azure Fundamentals  ](https://trainocate.com/sg/courses/microsoft/az-900t00-a){:target="_blank" rel="noopener"}  | Trainocate | Basic | 16 hrs |
+|[Microsoft - (DP-100) Designing and Implementing a Data Science Solution on Azure ](https://trainocate.com/sg/courses/microsoft/dp-100){:target="_blank" rel="noopener"}  | Trainocate | Intermediate | 24 hrs |
 |[MLC - Fundamentals of Cloud Architecture ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/micro-learning-courses/suite-courses/fundamentals-of-cloud-architecture.html){:target="_blank" rel="noopener"}  | TP | Basic | 3.5 hrs |
 |[MLC - Introduction to Cloud Architecture Suite Courses ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/micro-learning-courses/suite-courses/fundamentals-of-cloud-architecture.html){:target="_blank" rel="noopener"}  | TP | Basic | 6 hrs |
 |[MLC - Virtualisation Concepts & Techniques ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/micro-learning-courses/suite-courses/virtualisation-concepts-n-techniques.html){:target="_blank" rel="noopener"}  | TP | Basic | 3.5 hrs |
