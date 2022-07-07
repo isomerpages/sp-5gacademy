@@ -3,7 +3,7 @@ title: Cloud & Virtualization
 permalink: /courses/cloud
 third_nav_title: By Areas
 ---
-<p style="line-height:1"><small>The courses in this area have been provided by members of the Academic Institution Curriculum Advisory Committee.</small></p>
+<p style="line-height:1"><small>The courses in this area have been provided by members of the Academic Institution Curriculum Advisory Committee (AICAC) and selected Training Providers.</small></p>
 
 |Course Title  | Institution | Level | Duration |
 | - | - | - | -|
@@ -195,5 +195,15 @@ third_nav_title: By Areas
 |[VMware - (TMCMO2020) Tanzu Mission Control: Management and Operations 2020](https://trainocate.com/sg/courses/vmware/tmcmo2020){:target="_blank" rel="noopener"}  | Trainocate | Advanced | 8 hrs |
 |[VMware - (TRMQICM) VMware Tanzu RabbitMQ: Install, Configure, Manage ](https://trainocate.com/sg/courses/vmware/trmqicm){:target="_blank" rel="noopener"}  | Trainocate | Intermediate | 24 hrs |
 |[VMware - (VOSTFT7)VMware vSphere: Optimize and Scale plus Troubleshooting Fast Track [V7]](https://trainocate.com/sg/courses/vmware/vostft7){:target="_blank" rel="noopener"}  | Trainocate | Intermediate | 40 hrs |
+|[VMware - (VRAICM8) Vmware vRealize Automation: Install, Configure, Manage [V8]](https://trainocate.com/sg/courses/vmware/vraicm8){:target="_blank" rel="noopener"}  | Trainocate | Intermediate | 40 hrs |
+|[VMware - (VROPSICM8) Vmware vRealize Operations: Install, Configure, Manage [V8] ](https://trainocate.com/sg/courses/vmware/vropsicm8){:target="_blank" rel="noopener"}  | Trainocate | Intermediate | 40 hrs |
+|[VMware - (VSAAW7) Vmware vSphere: Advanced Administration Workshop [V7]](https://trainocate.com/sg/courses/vmware/vsaaw7){:target="_blank" rel="noopener"}  | Trainocate | Advanced | 40 hrs |
+|[VMware - (VSANDM67) VMware vSAN: Deploy and Manage v6.7 ](https://trainocate.com/sg/courses/vmware/vsandm67){:target="_blank" rel="noopener"}  | Trainocate | Intermediate | 24 hrs |
+|[Vmware - (VSANPD7) VMware vSAN: Plan and Deploy [V7] ](https://trainocate.com/sg/courses/vmware/vsanpd7){:target="_blank" rel="noopener"}  | Trainocate | Intermediate | 16 hrs |
+|[VMware - (VSANT7) VMware vSAN: Troubleshooting [V7]](https://trainocate.com/sg/courses/vmware/vsant7){:target="_blank" rel="noopener"}  | Trainocate | Advanced | 16 hrs |
+|[VMware - (VSD7) VMware vSphere: Design [V7]](https://trainocate.com/sg/courses/vmware/vsd7){:target="_blank" rel="noopener"}  | Trainocate | Advanced | 24 hrs |
+|[VMware - (VSFT7) VMware vSphere: Fast Track [V7] ](https://trainocate.com/sg/courses/vmware/vsft7){:target="_blank" rel="noopener"}  | Trainocate | Intermediate | 40 hrs |
+|[VMware - (VSICM7) VMware vSphere: Install, Configure, Manage v7](https://trainocate.com/sg/courses/vmware/vsicm7){:target="_blank" rel="noopener"}  | Trainocate | Intermediate | 40 hrs |
+|[Architecting IOT Solutions ](https://www.iss.nus.edu.sg/executive-education/course/detail/architecting-iot--solutions/software-systems){:target="_blank" rel="noopener"}  | NUS | Intermediate | 26 hrs |
 |[WEB SECURITY ](https://www.comp.nus.edu.sg/~prateeks/teaching/sp16/cs5331-sp16.html){:target="_blank" rel="noopener"}  | NUS | Intermediate | 24 hrs |
 |[ZKB WSGECE SAP SuccessFactors Employee Central - Part Time ](https://sapforgrowth.com/skillsuniversity/){:target="_blank" rel="noopener"}  | TP | Basic | 78 hrs |
