@@ -40,7 +40,11 @@ third_nav_title: By Areas
 |[AWS Academy Accreditation Preparation Course](https://www.sp.edu.sg/pace/courses/course-type/online/aws-academy-accreditation-preparation-course){:target="_blank" rel="noopener"}  | SP | Basic | 20 hrs |
 |[AWS Academy Cloud Architecting](https://www.rp.edu.sg/ace/short-course/Detail/aws-academy-cloud-architecting){:target="_blank" rel="noopener"}  | RP | Basic | 36 hrs |
 |[AWS Academy Cloud Foundations ](https://www.cet.np.edu.sg/courses/aws-academy-cloud-foundations/){:target=""_blank"" rel=""noopener""}  | NP | Basic | 16 hrs |"
+|[AWS Certified Solutions Architect – Associate (Bundle)](https://www.comat.com.sg/classroom-learning/training/cloud/aws-certified-solutions-architect-associate-bundle/){:target="_blank" rel="noopener"}  | COMAT | Intermediate | 32 hrs |
 |[AWS Cloud Foundations](https://www.rp.edu.sg/ace/short-course/Detail/aws-academy-cloud-foundations){:target="_blank" rel="noopener"}  | RP | Basic | 18 hrs |
+|[AWS Cloud Practitoner Essentials ](https://www.ntuclearninghub.com/en-gb/-/course/aws-cloud-practitioner-essentials-2){:target="_blank" rel="noopener"}  | LHub | Basic | 8 hrs |
+|[AZ-305: Designing Microsoft Azure Infrastructure Solutions ](https://www.comat.com.sg/classroom-learning/training/cloud/az-305-designing-microsoft-azure-infrastructure-solutions/){:target="_blank" rel="noopener"}  | COMAT | Intermediate | 28 hrs |
+|[AZ-900 – Azure Fundamentals](https://www.comat.com.sg/classroom-learning/training/cloud/az-900-azure-fundamentals/){:target="_blank" rel="noopener"}  | COMAT | Basic | 8.5 hrs |
 |[Big Data Computing in the Cloud ](https://www.suss.edu.sg/courses/detail/ICT337){:target="_blank" rel="noopener"}  | SUSS | Basic | 36 hrs |
 |[Big Data, Cloud Computing and Machine Learning ](https://www.suss.edu.sg/courses/detail/FIN559){:target="_blank" rel="noopener"}  | SUSS | Basic | 36 hrs |
 |[Certificate in Application Development (Modular Certificate 1 of Diploma in Infocomm and Digital Media (Applied Artificial Intelligence) ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/part-time-diploma-post-diploma-courses/diploma-in-infocomm-digital-media-applied-artificial-intelligence.html){:target="_blank" rel="noopener"}  | TP | Basic | 180 hrs |
