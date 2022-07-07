@@ -204,6 +204,16 @@ third_nav_title: By Areas
 |[VMware - (VSD7) VMware vSphere: Design [V7]](https://trainocate.com/sg/courses/vmware/vsd7){:target="_blank" rel="noopener"}  | Trainocate | Advanced | 24 hrs |
 |[VMware - (VSFT7) VMware vSphere: Fast Track [V7] ](https://trainocate.com/sg/courses/vmware/vsft7){:target="_blank" rel="noopener"}  | Trainocate | Intermediate | 40 hrs |
 |[VMware - (VSICM7) VMware vSphere: Install, Configure, Manage v7](https://trainocate.com/sg/courses/vmware/vsicm7){:target="_blank" rel="noopener"}  | Trainocate | Intermediate | 40 hrs |
+|[VMware - (VSKDM7) VMware vSphere with Tanzu: Deploy and Manage v7](https://trainocate.com/sg/courses/vmware/vskdm7){:target="_blank" rel="noopener"}  | Trainocate | Advanced | 24 hrs |
+|[VMware - (VSOS7) VMware vSphere: Optimize and Scale [V7]](https://trainocate.com/sg/courses/vmware/vsos7){:target="_blank" rel="noopener"}  | Trainocate | Intermediate | 40 hrs |
+|[VMware - (VSTS7) VMware vSphere: Troubleshooting [V7] ](https://trainocate.com/sg/courses/vmware/vsts7){:target="_blank" rel="noopener"}  | Trainocate | Intermediate | 40 hrs |
+|[VMware Certified Professional - Data Center Virtualization (VCP-DCV)](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=93058&rcode=CourseCatalog){:target="_blank" rel="noopener"}  | CloudAssist | Basic | 40 hrs |
+|[VMware Certified Technical Associate - Data Center Virtualization (VCTA-DCV) ](https://www.cloudassistsvcs.com/vmware-data-center-virtualization-core-technical-skills/){:target="_blank" rel="noopener"}  | CloudAssist | Basic | 24 hrs |
+|[VMware Cloud Director: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=97100&rcode=CourseCatalog){:target="_blank" rel="noopener"}  | CloudAssist | Intermediate | 40 hrs |
+|[VMware Cloud Director: Install, Configure, Manage ](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=97100&rcode=CourseCatalog){:target="_blank" rel="noopener"}  | LHub | Intermediate | 35 hrs |
+|[VMware NSX-T Data Center: Install  Configure  Manage [V3.0]](https://mylearn.vmware.com/descriptions/EDU_DATASHEET%20VMware%20NSX-T%20Data%20Center%20Install%20Configure%20Manage%20V3.0.pdf){:target="_blank" rel="noopener"}  | LHub | Intermediate | 40 hrs |
+|[VMware Tanzu Kubernetes Grid: Install, Configure, Manage ](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=96343&rcode=CourseCatalog){:target="_blank" rel="noopener"}  | CloudAssist | Intermediate | 24 hrs |
+|[VMware Tanzu Kubernetes Grid: Install, Configure, Manage ](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=96343&rcode=CourseCatalog){:target="_blank" rel="noopener"}  | LHub | Intermediate | 21 hrs |
 |[Architecting IOT Solutions ](https://www.iss.nus.edu.sg/executive-education/course/detail/architecting-iot--solutions/software-systems){:target="_blank" rel="noopener"}  | NUS | Intermediate | 26 hrs |
 |[WEB SECURITY ](https://www.comp.nus.edu.sg/~prateeks/teaching/sp16/cs5331-sp16.html){:target="_blank" rel="noopener"}  | NUS | Intermediate | 24 hrs |
 |[ZKB WSGECE SAP SuccessFactors Employee Central - Part Time ](https://sapforgrowth.com/skillsuniversity/){:target="_blank" rel="noopener"}  | TP | Basic | 78 hrs |
