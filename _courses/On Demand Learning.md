@@ -22,3 +22,4 @@ description: ""
 |[5G Air Interface Training](https://www.qualcommwirelessacademy.com/product/3c438e0e){:target="_blank" rel="noopener"}  | Qualcomm | Intermediate | 8 hrs |
 |[5G Call Processing: Non-Standalone Mode](https://www.qualcommwirelessacademy.com/product/05e08732){:target="_blank" rel="noopener"}  | Qualcomm | Intermediate | 6-8 hrs |
 |[5G Core and 5G Slicing Training](https://www.5gworldpro.com/5g-core-and-5g-slicing-training){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Basic | 8 hrs |
+|[5G Indoor Planning Training](https://www.5gworldpro.com/5g-indoor-radio-planning-training){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Intermediate | 7 hrs |
