@@ -30,3 +30,5 @@ description: ""
 |[5G Primer](https://www.qualcommwirelessacademy.com/product/4cf92937){:target="_blank" rel="noopener"}  | Qualcomm | Basic | 2-3 hrs |
 |[5G Private Network Training](https://www.5gworldpro.com/5g-private-network-training/){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Basic | 7 hrs |
 |[5G RF Planning Training](https://www.5gworldpro.com/5g-new-radio-rf-planning-training){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Intermediate | 6 hrs |
+|[5G Training for Business](https://www.5gworldpro.com/5g-training-for-business){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Basic | 9 hrs |
+|[5G Training for Everyone](https://www.5gworldpro.com/5g-training-for-everyone){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Basic | 5 hrs |
