@@ -9,6 +9,7 @@ third_nav_title: By Areas
 | - | - | - | -|
 |[5G Industry Practitioner (Core Network)](https://www.sp.edu.sg/pace/){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
 |[5G Industry Practitioner (Radio Access Network)](https://www.sp.edu.sg/pace/){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
+|[5G NR Technical Training](https://www.qualcommwirelessacademy.com/product/4c7c7d74){:target="_blank" rel="noopener"}  | Qualcomm | Basic | 6-8 hrs |
 |[A Primer on Cybersecurity](https://www.sutd.edu.sg/Education/Academy/Our-Offerings/SkillsFuture-Series-Courses/Cybersecurity/A-Primer-on-Cybersecurity){:target="_blank" rel="noopener"}  | SUTD | Basic | 14 hrs |
 |[CCNA Cyber Security Operations](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/ccna-cyber-security-operations){:target="_blank" rel="noopener"}  | SP | Intermediate | 40 hrs |
 |[Certificate in Computer Networking (part of Diploma (Conversion) in Computer Networking) ](https://www.sp.edu.sg/pace/courses/course-type/part-time-and-post-diplomas/ofr_ap/diploma-(conversion)-in-computer-networking){:target="_blank" rel="noopener"}  | SP | Basic | 160 hrs |
