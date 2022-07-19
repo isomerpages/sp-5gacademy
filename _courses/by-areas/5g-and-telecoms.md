@@ -18,6 +18,7 @@ third_nav_title: By Areas
 
 |Course Title  | Institution | Level | Duration |
 | - | - | - | -|
+|[5G & Fundamentals of Cellular Communication](https://www.qualcommwirelessacademy.com/product/7573afdd){:target="_blank" rel="noopener"}  | Qualcomm Wireless Academy | Basic | 6-8 hrs |
 |[5G as a platform for Industry Transformation](https://scale.nus.edu.sg/programmes/executive-courses/tech-enabled-services/5g-as-a-platform-for-industry-transformation){:target="_blank" rel="noopener"}  | NUS | Intermediate | 12 hrs |
 |[5G Fundamentals and Applications](https://www.rp.edu.sg/ace/short-course/Detail/5g-fundamentals-and-applications){:target="_blank" rel="noopener"}  | RP | Basic | 8 hrs |
 |[5G Fundamentals for all](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/5g-fundamentals-for-all.html#course-overview){:target="_blank" rel="noopener"}  | TP | Basic | 14 hrs |
