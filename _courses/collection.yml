@@ -2,7 +2,6 @@ collections:
   courses:
     output: true
     order:
-      - On Demand Learning.md
       - by-areas/.keep
       - by-areas/5g-and-telecoms.md
       - by-areas/internet-of-things-iot.md
@@ -37,3 +36,4 @@ collections:
       - By Training Providers (Global)/Apis Training.md
       - By Training Providers (Global)/Mpirical.md
       - By Training Providers (Global)/Qualcomm Wireless Academy.md
+      - On Demand Learning.md
