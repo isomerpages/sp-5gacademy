@@ -29,3 +29,4 @@ permalink: /about-us/aicac
 | Mr Wong Jian Chang   | Singapore Polytechnic   |
 | Dr Eng Pin Kwang   | Temasek Polytechnic     |
 | Dr Kwan Kian Hoong  | Temasek Polytechnic     |
+| Ms Jacelyn Neo  | Temasek Polytechnic     |

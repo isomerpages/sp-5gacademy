@@ -53,6 +53,7 @@ third_nav_title: By Areas
 |[Certificate in Network & Systems Technologies (Modular Certificate 5 of Diploma in Infocomm and Digital Media (ICT Systems, Services & Support)) - Synchronous & Asynchronous elearning](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/part-time-diploma-post-diploma-courses/infocomm-and-digital-media-ict-systems-services-and-support.html){:target=""_blank"" rel=""noopener""}  | TP | Basic | 180 hrs |"
 |[Certificate in Smart Systems & Cloud Computing (part of Specialist Diploma in Digital Technologies for a Smart City) ](https://www.sp.edu.sg/pace/courses/course-type/part-time-and-post-diplomas/ofr_ap/specialist-diploma-in-digital-technologies-for-a-smart-city){:target="_blank" rel="noopener"}  | SP | Intermediate | 135 hrs |
 |[Certified Cloud Technology Professional](https://www.bridgingminds.net/cloud-technology){:target="_blank" rel="noopener"}  | BridgingMinds | Basic | 21 hrs |
+|[Certified Kubernetes Administrator - CKA](https://alta3.com/overview-cka-training){:target="_blank" rel="noopener"}  | Alta3 Research | Advanced | 30 hrs |
 |[CISCO - (CLCEI) Implementing Cisco Collaboration Cloud and Edge Solutions ](https://trainocate.com/sg/courses/cisco/clcei){:target="_blank" rel="noopener"}  | Trainocate | Advanced | 40 hrs |
 |[CISCO - (SECCLD) Securing Cloud Deployments with Cisco Technologies ](https://trainocate.com/sg/courses/cisco/seccld){:target="_blank" rel="noopener"}  | Trainocate | Advanced | 32 hrs |
 |[Cloud Architecting: Specialist Diploma in Cloud Architecting and Management Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/cloud-architecting){:target="_blank" rel="noopener"} | RP |Basic|45 hrs |
@@ -142,6 +143,7 @@ third_nav_title: By Areas
 |[IoT & VR Applications in Healthcare ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/iot-and-vr-applications-in-healthcare.html){:target="_blank" rel="noopener"}  | TP | Basic | 16 hrs |
 |[IoT for Engineers ](https://www.cet.np.edu.sg/courses/iot-for-engineers/){:target="_blank" rel="noopener"}  | NP | Basic | 24 hrs |
 |[IT Fundamentals (Synchronous E-Learning) ](https://academy.smu.edu.sg/it-fundamentals-3466){:target="_blank" rel="noopener"}  | SMU | Basic | 36 hrs |
+|[Kubernetes Bootcamp - CKAD](https://alta3.com/overview-kubernetes-ckad){:target="_blank" rel="noopener"}  | Alta3 Research | Intermediate | 30 hrs |
 |[Microsoft -  (AZ-204) Developing Solutions for Microsoft Azure](https://trainocate.com/sg/courses/microsoft/az-204){:target="_blank" rel="noopener"}  | Trainocate | Intermediate | 40 hrs |
 |[Microsoft - (AZ-104) Azure Administrator ](https://trainocate.com/sg/courses/microsoft/az-104){:target="_blank" rel="noopener"}  | Trainocate | Intermediate | 32 hrs |
 |[Microsoft - (AZ-120) Planning and Administering Microsoft Azure for SAP Workloads ](https://trainocate.com/sg/courses/microsoft/az-120t00-a){:target="_blank" rel="noopener"}  | Trainocate | Intermediate | 32 hrs |
@@ -182,6 +184,7 @@ third_nav_title: By Areas
 |[SAP S/4HANA Sales Upskilling for SAP ERP Experts ](https://sapforgrowth.com/skillsuniversity/){:target="_blank" rel="noopener"}  | TP | Basic | 43 hrs |
 |[SAP Sales Cloud - Implementation & Configuration ](https://sapforgrowth.com/skillsuniversity/){:target="_blank" rel="noopener"}  | TP | Basic | 33 hrs |
 |[SAP SuccessFactors Employee Central ](https://sapforgrowth.com/skillsuniversity/){:target="_blank" rel="noopener"}  | TP | Basic | 78 hrs |
+|[SDN/NFV/SD-WAN Training](https://alta3.com/overview-sdn-training){:target="_blank" rel="noopener"}  | Alta3 Research | Basic | 30 hrs |
 |[Smart Building Operations and the Internet of Things ](https://www.cet.np.edu.sg/courses/smart-building-operations-and-the-internet-of-things/){:target="_blank" rel="noopener"}  | NP | Basic | 24 hrs |
 |[Smart Sensors and Devices (Modular Unit stackable to Specialist Diploma in Industrial Internet of Things) - (Classroom, Synchronous & Asynchronous)](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/skills-based-modular-courses/stackable-modular-courses/smart-sensors-and-devices.html){:target=""_blank"" rel=""noopener""}  | TP | Basic | 60 hrs |"
 |[SMU Executive Certificate in China Business Module 2: Understanding the “ABCD” Drivers of the New Digital Economy in China ](https://academy.smu.edu.sg/smu-executive-certificate-china-business-module-2-understanding-abcd-drivers-new-digital-economy){:target="_blank" rel="noopener"}  | SMU | Basic | 7 hrs |
