@@ -42,6 +42,7 @@ third_nav_title: By Areas
 |[5G Training for Everyone](https://www.5gworldpro.com/5g-training-for-everyone){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Basic | 5 hrs |
 |[5G-Based Localization Methods](https://www.ntu.edu.sg/pace/programmes/detail/5g-based-localization-methods){:target="_blank" rel="noopener"}  | NTU | Intermediate | 7 hrs |
 |[Advanced Certificate in Technical Fundamentals of Cybersecurity Module 4: Introduction to 5G Networks](https://academy.smu.edu.sg/advanced-certificate-technical-fundamentals-cybersecurity-module-4-introduction-5g-networks-5231){:target="_blank" rel="noopener"}  | SMU | Basic | 31 hrs |
+|[Certified Kubernetes Administrator - CKA](https://alta3.com/overview-cka-training){:target="_blank" rel="noopener"}  | Alta3 Research | Intermediate | 30 hrs |
 |[Designing Intelligent Edge Computing ](https://www.iss.nus.edu.sg/executive-education/course/detail/designing-intelligent-edge--computing/software-systems){:target="_blank" rel="noopener"}  | NUS | Advanced | 26 hrs |
 |[Digital Workplace Transformation with 5G and Emerging Technologies](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-register/digital-workplace-transformation-with-5g-and-emerging-technologies){:target="_blank" rel="noopener"}  | SP | Basic | 14 hrs |
 |[Envisioning 5G IoT Solutions](https://www.iss.nus.edu.sg/executive-education/course/detail/Envisioning-5G-IoT-Solutions/software-systems){:target="_blank" rel="noopener"}  | NUS | Basic | 19.5 hrs |
@@ -49,9 +50,11 @@ third_nav_title: By Areas
 |[HCIA - 5G](https://www.suss.edu.sg/courses/detail/eng315?urlname=beng-electronics-behe){:target="_blank" rel="noopener"}  | SUSS | Advanced | 36 hrs |
 |[Introduction to 5G Technology and Applications](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-register/introduction-to-5g-technology-and-applications){:target="_blank" rel="noopener"}  | SP | Basic | 16 hrs |
 |[IoT & 5G Security](https://www.iss.nus.edu.sg/executive-education/course/detail/iot-5g-security/software-systems){:target="_blank" rel="noopener"}  | NUS | Intermediate | 19.5 hrs |
+|[Kubernetes Bootcamp - CKAD](https://alta3.com/overview-kubernetes-ckad){:target="_blank" rel="noopener"}  | Alta3 Research | Intermediate | 30 hrs |
 |[Leading 5G Industry Transformation (for Telecom and related Professionals)](https://scale.nus.edu.sg/programmes/executive-courses/tech-enabled-services/leading-5g-industry-transformation-(for-telecom-and-related-professionals)){:target="_blank" rel="noopener"}  | NUS | Intermediate | 6 hrs |
 |[MLC - Understanding 5G](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/micro-learning-courses/understanding-5g.html){:target="_blank" rel="noopener"}  | TP | Basic | 4 hrs |
 |[RF and Microwave Design of Wireless Systems](https://www.suss.edu.sg/courses/detail/eng333){:target="_blank" rel="noopener"}  | SUSS | Advanced | 18 hrs |
+|[SDN/NFV/SD-WAN Training](https://alta3.com/overview-sdn-training){:target="_blank" rel="noopener"}  | Alta3 Research | Basic | 30 hrs |
 |[SkillsFuture for Digital Workplace](https://webibmcourse.mybluemix.net/DigitalCourse){:target="_blank" rel="noopener"}  | IBM | Basic | 14 hrs |
 |[SMU Executive Certificate in China Business Module 5: Tapping into the Innovation and Entrepreneurship Ecosystem in China](https://academy.smu.edu.sg/smu-executive-certificate-china-business-module-5-tapping-innovation-and-entrepreneurship-ecosystem){:target="_blank" rel="noopener"}  | SMU | Basic | 7 hrs |
 |[Understanding 5G and Its Business Cases]([Understanding 5G and Its Business Cases (sp.edu.sg)](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/understanding-5g-and-its-business-cases)){:target="_blank" rel="noopener"}  | SP | Basic | 8 hrs |
