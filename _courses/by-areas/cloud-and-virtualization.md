@@ -184,6 +184,7 @@ third_nav_title: By Areas
 |[SAP S/4HANA Sales Upskilling for SAP ERP Experts ](https://sapforgrowth.com/skillsuniversity/){:target="_blank" rel="noopener"}  | TP | Basic | 43 hrs |
 |[SAP Sales Cloud - Implementation & Configuration ](https://sapforgrowth.com/skillsuniversity/){:target="_blank" rel="noopener"}  | TP | Basic | 33 hrs |
 |[SAP SuccessFactors Employee Central ](https://sapforgrowth.com/skillsuniversity/){:target="_blank" rel="noopener"}  | TP | Basic | 78 hrs |
+|[SDN/NFV/SD-WAN Training](https://alta3.com/overview-sdn-training){:target="_blank" rel="noopener"}  | Alta3 Research | Basic | 30 hrs |
 |[Smart Building Operations and the Internet of Things ](https://www.cet.np.edu.sg/courses/smart-building-operations-and-the-internet-of-things/){:target="_blank" rel="noopener"}  | NP | Basic | 24 hrs |
 |[Smart Sensors and Devices (Modular Unit stackable to Specialist Diploma in Industrial Internet of Things) - (Classroom, Synchronous & Asynchronous)](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/skills-based-modular-courses/stackable-modular-courses/smart-sensors-and-devices.html){:target=""_blank"" rel=""noopener""}  | TP | Basic | 60 hrs |"
 |[SMU Executive Certificate in China Business Module 2: Understanding the “ABCD” Drivers of the New Digital Economy in China ](https://academy.smu.edu.sg/smu-executive-certificate-china-business-module-2-understanding-abcd-drivers-new-digital-economy){:target="_blank" rel="noopener"}  | SMU | Basic | 7 hrs |
