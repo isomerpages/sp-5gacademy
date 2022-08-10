@@ -19,4 +19,6 @@ third_nav_title: By Training Providers (Global)
 |[(Intermediate) C-RAN for 5G](https://www.mpirical.com/courses/c-ran-for-5g){:target="_blank" rel="noopener"} |Intermediate|3 hrs |
 |[(Intermediate) Delivering 5G Voice](https://www.mpirical.com/courses/delivering-5g-voice){:target="_blank" rel="noopener"} |Intermediate|12 hrs |
 |[(Intermediate) Deploying Open RAN for 5G](https://www.mpirical.com/courses/deploying-open-ran-for-5g){:target="_blank" rel="noopener"} |Intermediate|3 hrs |
-|[5G Essentials](https://alta3.com/overview-5g){:target="_blank" rel="noopener"} |Basic|8 hrs |
+|[(Intermediate) MMTC and 5G](https://www.mpirical.com/courses/mmtc-and-5g){:target="_blank" rel="noopener"} |Intermediate|6 hrs |
+|[(Intermediate) Private 5G Networks](https://www.mpirical.com/courses/private-5g-networks){:target="_blank" rel="noopener"} |Intermediate|3 hrs |
+|[5G Security](https://www.mpirical.com/courses/5g-security){:target="_blank" rel="noopener"} |Intermediate|6 hrs |
