@@ -36,3 +36,19 @@ description: ""
 |[Certified Kubernetes Administrator - CKA](https://alta3.com/overview-cka-training){:target="_blank" rel="noopener"}  | Alta3 Research | Intermediate | 30 hrs |
 |[Kubernetes Bootcamp - CKAD](https://alta3.com/overview-kubernetes-ckad){:target="_blank" rel="noopener"}  | Alta3 Research | Basic | 30 hrs |
 |[SDN/NFV/SD-WAN Training](https://alta3.com/overview-sdn-training){:target="_blank" rel="noopener"}  | Alta3 Research | Basic | 30 hrs |
+|[5G Massive MIMO and Beamforming](https://www.mpirical.com/courses/5g-massive-mimo-and-beamforming){:target="_blank" rel="noopener"} |Mpirical | Advanced|3 hrs |
+|[Analyzing the 5G Core](https://www.mpirical.com/courses/analyzing-the-5g-core){:target="_blank" rel="noopener"} |Mpirical | Advanced|18 hrs |
+|[5G Use Cases ](https://www.mpirical.com/courses/5g-use-cases){:target="_blank" rel="noopener"} |Mpirical | Basic|3 hrs |
+|[Exploring 5G](https://www.mpirical.com/courses/exploring-5g){:target="_blank" rel="noopener"} |Mpirical | Basic|6 hrs |
+|[Introduction to 5G](https://www.mpirical.com/courses/introduction-to-5g){:target="_blank" rel="noopener"} |Mpirical | Basic|3 hrs |
+|[Introduction to 5G and Wi-Fi Interworking](https://www.mpirical.com/courses/introduction-to-5g-and-wi-fi-interworking){:target="_blank" rel="noopener"} |Mpirical | Basic|3 hrs |
+|[Introduction to 5G Radio Planning](https://www.mpirical.com/courses/introduction-to-5g-radio-planning){:target="_blank" rel="noopener"} |Mpirical | Basic|3 hrs |
+|[Introduction to New Radio](https://www.mpirical.com/courses/introduction-to-new-radio){:target="_blank" rel="noopener"} |Mpirical | Basic|4 hrs |
+|[5G Network Slicing](https://www.mpirical.com/courses/5g-network-slicing-updated-2022){:target="_blank" rel="noopener"} |Mpirical | Intermediate|4 hrs |
+|[5G System Engineering](https://www.mpirical.com/courses/5g-system-engineering-updated-live){:target="_blank" rel="noopener"} |Mpirical | Intermediate|12 hrs |
+|[C-RAN for 5G](https://www.mpirical.com/courses/c-ran-for-5g){:target="_blank" rel="noopener"} |Mpirical | Intermediate|3 hrs |
+|[Delivering 5G Voice](https://www.mpirical.com/courses/delivering-5g-voice){:target="_blank" rel="noopener"} | Mpirical | Intermediate|12 hrs |
+|[Deploying Open RAN for 5G](https://www.mpirical.com/courses/deploying-open-ran-for-5g){:target="_blank" rel="noopener"} | Mpirical | Intermediate|3 hrs |
+|[MMTC and 5G](https://www.mpirical.com/courses/mmtc-and-5g){:target="_blank" rel="noopener"} | Mpirical | Intermediate|6 hrs |
+|[Private 5G Networks](https://www.mpirical.com/courses/private-5g-networks){:target="_blank" rel="noopener"} | Mpirical | Intermediate|3 hrs |
+|[5G Security](https://www.mpirical.com/courses/5g-security){:target="_blank" rel="noopener"} | Mpirical | Intermediate|6 hrs |
