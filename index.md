@@ -59,14 +59,6 @@ sections:
       image: /images/events/5GLF/Singtel FIC SLF_CoverPage.png
       alt: Singtel FIC
   - infopic:
-      title: 5G Learning Journey
-      subtitle: Regular event
-      description: "By Appointment Only <br> VENUE: Singapore Polytechnic"
-      button: Find Out More
-      url: /resources/events/5G-learning-journey "target=_blank"
-      image: /images/events/Regular Programmes/5G Learning Journey Cover Image.png
-      alt: 5gandaiot-image
-  - infopic:
       title: Career Conversion Programme (CCP)
       subtitle: Manpower Solutions
       description: (Application is now open)
@@ -90,4 +82,12 @@ sections:
       url: /manpower-solutions/TNA
       image: /images/manpower-solutions/TNA-Cover%20Image-S.png
       alt: Image alt text
+  - infopic:
+      title: 5G Learning Journey
+      subtitle: Regular event
+      description: "By Appointment Only <br> VENUE: Singapore Polytechnic"
+      button: Find Out More
+      url: /resources/events/5G-learning-journey "target=_blank"
+      image: /images/events/Regular Programmes/5G Learning Journey Cover Image.png
+      alt: 5gandaiot-image
 ---
