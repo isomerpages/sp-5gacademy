@@ -18,13 +18,12 @@ As there is a cap to the number of visitors for each site, please select more th
 We will let you know the outcome of your registration and follow-up details by 30 Sep 2022.
 
 # Details
-DATE: 13 OCTOBER 2022 <br> 
-TIME: 2.00 pm - 4.00 pm <br> 
-VENUE: In-person at the selected site
+**DATE: 13 OCTOBER 2022** <br> 
+**TIME: 2.00 pm - 4.00 pm** <br> 
+**VENUE: In-person at the selected site**
 
 
-![Powering Brand Experiences with ARVR](/images/events/Powering%20Brand%20Experience%20with%20ARVR.png)
-
+![5G Learning Festival](/images/events/5GLF/5G%20Learning%20Festival%20Cover%20Image.png)
 
 <style>
 #register {
