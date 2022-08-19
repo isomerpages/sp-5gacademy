@@ -7,7 +7,7 @@ description: ""
 ---
 # 5GLF Learning Journey #7
 
-## Singtel FutureNow Innovation Centre: 5G Capabilities & Use Cases
+## Singtel FutureNow Innovation Centre: <br>5G Capabilities & Use Cases
 
 The FutureNow Innovation Centre is a world-class facility that brings together Singtel Group’s emerging technologies to help companies reimagine their future, explore innovative concepts and overcome business challenges to unlock new growth opportunities. We bring a blend of new ideas and technologies that excite enterprises to innovate, creating a space for ideation and co-creation opportunities while fostering a vibrant ecosystem to transform and accelerate in the digital economy.
 
