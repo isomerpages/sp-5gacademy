@@ -10,12 +10,7 @@ description: ""
 ## Centre for 5G Digital Building Technology 
 
 
-| Duration | Showcase | 
-| -------- | -------- | 
-| 5 min    | Show case 1 – 5G Concierge robot (LiNUS) (Appendix A) to receive Ministers and guests from lift lobby. LiNUS would usher Ministers and guests to C5GDBT.    |
-| 6 min  | Show case 2 – Digital Twin (DT) System for SMART FM using 5G.    |
-| 5 min   | Show case 3 – Targeted Disinfection UVC Robot (Appendix C)      |
-| 4 min    | Show case 4 – Targeted Cleaning Robot (Appendix D)   |
+
 
 # Details
 **DATE: 13 OCTOBER 2022** <br> 
