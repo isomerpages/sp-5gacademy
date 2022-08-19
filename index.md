@@ -35,6 +35,14 @@ sections:
       subtitle: Learn more
       button: View More
   - infopic:
+      title: "Learning Journey #1"
+      subtitle: 5G Learning Festival - 13 Oct
+      description: 5G Learning Journey - Augmenting Solution with 5G & AIoT Technology
+      button: Find Out More
+      url: /resources/events/5g-learning-journey
+      image: /images/events/Regular Programmes/5G Learning Journey Cover Image.png
+      alt: Image alt text
+  - infopic:
       title: "Learning Journey #2"
       subtitle: 5G Learning Festival - 13 Oct
       description: AMTC Facility Tour
@@ -81,13 +89,5 @@ sections:
       button: Find Out More
       url: /manpower-solutions/TNA
       image: /images/manpower-solutions/TNA-Cover%20Image-S.png
-      alt: Image alt text
-  - infopic:
-      title: "Learning Journey #1"
-      subtitle: 5G Learning Festival - 13 Oct
-      description: 5G Learning Journey - Augmenting Solution with 5G & AIoT Technology
-      button: Find Out More
-      url: /resources/events/5g-learning-journey
-      image: /images/events/Regular Programmes/5G Learning Journey Cover Image.png
       alt: Image alt text
 ---
