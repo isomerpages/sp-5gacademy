@@ -16,7 +16,7 @@ description: ""
 **TIME: 2.00 pm - 4.00 pm** <br> 
 **VENUE: 5G & AIoT Centre** 
 
-![AMTC](/images/events/5GLF/Siemens%20Site%20Picture.jpeg)
+![5G & AIoT Centre](/images/events/Regular%20Programmes/5G%20Learning%20Journey%20Cover%20Image.png)
 
 
 <style>
