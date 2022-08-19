@@ -18,9 +18,9 @@ As there is a cap to the number of visitors for each site, please select more th
 We will let you know the outcome of your registration and follow-up details by 30 Sep 2022.
 
 # Details
-**DATE: 13 OCTOBER 2022 <br> 
+DATE: 13 OCTOBER 2022 <br> 
 TIME: 2.00 pm - 4.00 pm <br> 
-VENUE: In-person at the selected site **
+VENUE: In-person at the selected site
 
 
 ![Powering Brand Experiences with ARVR](/images/events/Powering%20Brand%20Experience%20with%20ARVR.png)
