@@ -15,7 +15,7 @@ We are pleased to invite you to visit our Singapore Innovation Hub, located at o
 **TIME: 2.00 pm - 4.00 pm** <br> 
 **VENUE: Schneider Electric Innovation Hub** 
 
-![AMTC](/images/events/5GLF/Siemens%20Site%20Picture.jpeg)
+![Schneider Electric Innovation Centre](/images/events/5GLF/Schneider.jpg)
 
 
 <style>
