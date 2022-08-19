@@ -16,7 +16,7 @@ Discover some key value propositions of 5G, and how they transform the way we li
 5G’s deployment is on the horizon, and the next generation of telecommunications will fundamentally change Smart Cities, Enterprises, and Entertainment. Enabling complex functions on simple devices through the power of edge computing, high speed intelligent networks and Artificial Intelligence, we can perform complex actions on simple devices for mission-critical real time threat detection. FutureNow showcases the use cases that drive this change and our work in building up the 5G ecosystem across the group.
 
 # Details
-**DATE: 13 NOVEMBER 2022 <br> 
+**DATE: 13 OCTOBER 2022 <br> 
 TIME: 2.00 pm - 4.00 pm   (SGT)<br> 
 VENUE: Singtel Comcentre**
 
