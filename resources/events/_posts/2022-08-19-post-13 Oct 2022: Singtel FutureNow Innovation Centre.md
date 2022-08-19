@@ -7,14 +7,21 @@ description: ""
 ---
 # About the Event
 
-Communities can improve energy distribution, streamline trash collection, decrease traffic congestion, and improve air quality with help from the IoT. Citizens engage with smart city ecosystems in various ways using smartphones and mobile devices and connected cars and homes. City-wide security monitoring will be more efficient. Get the latest insights in 5G powered smart city in our next BYOND MOBILE #3: 5G in Smart City.
+# Singtel FutureNow Innovation Centre:
+# 5G Capabilities & Use Cases
+
+The FutureNow Innovation Centre is a world-class facility that brings together Singtel Group’s emerging technologies to help companies reimagine their future, explore innovative concepts and overcome business challenges to unlock new growth opportunities. We bring a blend of new ideas and technologies that excite enterprises to innovate, creating a space for ideation and co-creation opportunities while fostering a vibrant ecosystem to transform and accelerate in the digital economy.
+
+Discover some key value propositions of 5G, and how they transform the way we live, work, learn and play, with a focus on real-world applications. 
+
+5G’s deployment is on the horizon, and the next generation of telecommunications will fundamentally change Smart Cities, Enterprises, and Entertainment. Enabling complex functions on simple devices through the power of edge computing, high speed intelligent networks and Artificial Intelligence, we can perform complex actions on simple devices for mission-critical real time threat detection. FutureNow showcases the use cases that drive this change and our work in building up the 5G ecosystem across the group.
 
 # Details
-**DATE: 9 NOVEMBER 2021 <br> 
-TIME: 5.00 pm - 6.00 pm   (SGT)<br> 
-VENUE: via Zoom**
+**DATE: 13 NOVEMBER 2022 <br> 
+TIME: 2.00 pm - 4.00 pm   (SGT)<br> 
+VENUE: Singtel Comcentre**
 
-![Byond Mobile](/images/events/events/Byond_Mobile.jpg)
+![Singtel FIC ](/images/events/5GLF/Singtel%20FIC%20SLF_CoverPage.png)
 
 
 <style>
@@ -36,4 +43,3 @@ VENUE: via Zoom**
 
 <center><a href="https://bit.ly/3BFnW1E " target="_blank"><button id="register" class="btn">Register Now</button></a></center>
 
-Thank you for your interest. This webinar now is over.
