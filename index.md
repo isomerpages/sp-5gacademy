@@ -84,7 +84,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: "Learning Journey #1"
-      subtitle: 13 Oct Learning Journeys
+      subtitle: 5G Learning Festival - 13 Oct
       description: 5G Learning Journey - Augmenting Solution with 5G & AIoT Technology
       button: Find Out More
       url: /resources/events/5g-learning-journey
