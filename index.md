@@ -66,4 +66,12 @@ sections:
       url: /manpower-solutions/TNA
       image: /images/manpower-solutions/TNA-Cover%20Image-S.png
       alt: Image alt text
+  - infopic:
+      title: "Learning Journey Site Visit #7"
+      subtitle: 5G Learning Festival - 13 Oct
+      description: "Singtel FutureNow Innovation Centre: 5G Capabilities & Use Cases"
+      button: Find Out More
+      url: /resources/events/singtel-futurenow-innovation-centre
+      image: /images/events/5GLF/Singtel FIC SLF_CoverPage.png
+      alt: Singtel FIC
 ---
