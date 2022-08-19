@@ -15,17 +15,17 @@ description: ""
 1.	Innovation Highlights: Digitalization in Customer Service  (15 mins)
 2.	Innovation Highlights: Digitalization in Discrete Industries (15 mins)
 3.	Innovation Highlights: Digitalization in Process Industries (15 mins)
-4.	Innovation Highlights: Additive Manufacturing and #TeamInnovate (15 mins)
-•	Free & Easy: Talk to our Experts (15 mins) 
-•	Q&A and Survey (10 mins)
-•	End of Tour
+4.	Innovation Highlights: Additive Manufacturing and #TeamInnovate (15 mins)<br>
+•	Free & Easy: Talk to our Experts (15 mins) <br>
+•	Q&A and Survey (10 mins)<br>
+•	End of Tour<br>
 
 
 
 # Details
-**DATE: 13 OCTOBER 2022 <br> 
-TIME: 2.00 pm - 4.00 pm   (SGT)<br> 
-VENUE: Siemens Advance Manufacturing Transformation Center (AMTC) **
+**DATE: 13 OCTOBER 2022** <br> 
+**TIME: 2.00 pm - 4.00 pm** <br> 
+**VENUE: Siemens Advance Manufacturing Transformation Center (AMTC)** 
 
 ![AMTC](/images/events/5GLF/Siemens%20Site%20Picture.jpeg)
 
