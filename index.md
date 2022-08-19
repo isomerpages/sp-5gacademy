@@ -74,4 +74,12 @@ sections:
       url: /manpower-solutions/TNA
       image: /images/manpower-solutions/TNA-Cover%20Image-S.png
       alt: Image alt text
+  - infopic:
+      title: "Learning Journey #2"
+      subtitle: 5G Learning Festival - 13 Oct
+      description: AMTC Facility Tour
+      button: Find Out More
+      url: /resources/events/amtc-facility-tour
+      image: /images/events/5GLF/Siemens Site Picture.jpeg
+      alt: Siemens AMTC
 ---
