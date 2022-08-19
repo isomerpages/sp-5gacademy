@@ -82,4 +82,12 @@ sections:
       url: /manpower-solutions/TNA
       image: /images/manpower-solutions/TNA-Cover%20Image-S.png
       alt: Image alt text
+  - infopic:
+      title: "Learning Journey #1"
+      subtitle: 13 Oct Learning Journeys
+      description: 5G Learning Journey - Augmenting Solution with 5G & AIoT Technology
+      button: Find Out More
+      url: /resources/events/5g-learning-journey
+      image: /images/events/Regular Programmes/5G Learning Journey Cover Image.png
+      alt: Image alt text
 ---
