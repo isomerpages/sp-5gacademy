@@ -5,7 +5,7 @@ date: 2022-08-19
 layout: post
 description: ""
 ---
-# About the Event
+# 5GLF Learning Journey #7
 
 ## Singtel FutureNow Innovation Centre: 5G Capabilities & Use Cases
 
