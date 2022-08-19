@@ -7,8 +7,7 @@ description: ""
 ---
 # About the Event
 
-# Singtel FutureNow Innovation Centre:
-# 5G Capabilities & Use Cases
+## Singtel FutureNow Innovation Centre: 5G Capabilities & Use Cases
 
 The FutureNow Innovation Centre is a world-class facility that brings together Singtel Group’s emerging technologies to help companies reimagine their future, explore innovative concepts and overcome business challenges to unlock new growth opportunities. We bring a blend of new ideas and technologies that excite enterprises to innovate, creating a space for ideation and co-creation opportunities while fostering a vibrant ecosystem to transform and accelerate in the digital economy.
 
@@ -41,5 +40,4 @@ VENUE: Singtel Comcentre**
 }
 </style>
 
-<center><a href="https://bit.ly/3BFnW1E " target="_blank"><button id="register" class="btn">Register Now</button></a></center>
-
+<center><a href="https://form.gov.sg/628f22d33778d80011a07cc6 " target="_blank"><button id="register" class="btn">Register Now</button></a></center>
