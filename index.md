@@ -35,7 +35,7 @@ sections:
       subtitle: Learn more
       button: View More
   - infopic:
-      title: "Learning Journey Site Visit #7"
+      title: "Learning Journey #7"
       subtitle: 5G Learning Festival - 13 Oct
       description: "Singtel FutureNow Innovation Centre: 5G Capabilities & Use Cases"
       button: Find Out More
