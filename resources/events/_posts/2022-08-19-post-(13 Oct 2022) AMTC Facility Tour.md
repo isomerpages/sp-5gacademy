@@ -12,15 +12,15 @@ description: ""
 •	Check-in and Welcome Refreshments (5 mins)<br>
 •	AMTC Overview (30 mins)<br>
 •	Facility Tour (60 mins)<br>
-1.	Innovation Highlights: Digitalization in Customer Service  (15 mins)
-2.	Innovation Highlights: Digitalization in Discrete Industries (15 mins)
-3.	Innovation Highlights: Digitalization in Process Industries (15 mins)
-4.	Innovation Highlights: Additive Manufacturing and #TeamInnovate (15 mins)<br>
 •	Free & Easy: Talk to our Experts (15 mins) <br>
 •	Q&A and Survey (10 mins)<br>
 •	End of Tour<br>
 
-
+**60-min Facility Tour:**
+1.	Innovation Highlights: Digitalization in Customer Service  (15 mins)
+2.	Innovation Highlights: Digitalization in Discrete Industries (15 mins)
+3.	Innovation Highlights: Digitalization in Process Industries (15 mins)
+4.	Innovation Highlights: Additive Manufacturing and #TeamInnovate (15 mins)<br>
 
 # Details
 **DATE: 13 OCTOBER 2022** <br> 
