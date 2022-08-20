@@ -59,6 +59,14 @@ sections:
       image: /images/banners-and-logos/Website Event Placeholder.png
       alt: Image alt text
   - infopic:
+      title: "Learning Journey #4"
+      subtitle: 5GLF 2022 - Thu 13 Oct
+      description: 5G Empowered Unmanned Smart Facilities Management
+      button: Find Out More
+      url: /resources/events/nus-c5gdbt
+      alt: Image alt text
+      image: /images/events/5GLF/NUS C5GDBT.jpg
+  - infopic:
       title: "Learning Journey #5"
       subtitle: 5GLF 2022 - Thu 13 Oct
       description: 5G Industry 4.0 Studio Solutions Tour
@@ -122,12 +130,4 @@ sections:
       url: /resources/events/5G-learning-journey "target=_blank"
       image: /images/events/Regular Programmes/5G Learning Journey Cover Image.png
       alt: 5gandaiot-image
-  - infopic:
-      title: "Learning Journey #4"
-      subtitle: 5GLF 2022 - Thu 13 Oct
-      description: 5G Empowered Unmanned Smart Facilities Management
-      button: Find Out More
-      url: /resources/events/nus-c5gdbt
-      alt: Image alt text
-      image: /images/events/5GLF/NUS C5GDBT.jpg
 ---
