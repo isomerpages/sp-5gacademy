@@ -98,4 +98,12 @@ sections:
       url: /resources/events/artc-5g-smart-factory
       image: /images/banners-and-logos/Website Event Placeholder.png
       alt: Image alt text
+  - infopic:
+      title: "Learning Journey #5"
+      subtitle: 5GLF 2022 - Thu 13 Oct
+      description: 5G Industry 4.0 Studio Solutions Tour
+      button: Find Out More
+      url: /resources/events/industry-4-studio
+      image: /images/events/5GLF/IBM I4_Industry_studio.jpg
+      alt: IBM I4
 ---
