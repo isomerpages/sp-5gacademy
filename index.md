@@ -36,7 +36,7 @@ sections:
       button: View More
   - infopic:
       title: "Learning Journey #1"
-      subtitle: 5G Learning Festival - 13 Oct
+      subtitle: 5GLF 2022 - Thu 13 Oct
       description: 5G Learning Journey - Augmenting Solution with 5G & AIoT Technology
       button: Find Out More
       url: /resources/events/5g-learning-journey
