@@ -5,16 +5,18 @@ date: 2022-08-19
 layout: post
 description: ""
 ---
-
 # 5GLF Learning Journey #8
 
 ## Schneider Electric Innovation Hub
 We are pleased to invite you to visit our Singapore Innovation Hub, located at our Schneider Electric East Asia & Japan Headquarters, one of the best dynamic examples of a smart, efficient, resilient, and sustainable building. The hub is our first large-scale innovation hub in Asia with world-class facilities, enabling Schneider Electric to develop tailored solutions to optimize energy efficiencies for various segments. 
 
+![Schneider Programme](/images/events/5GLF/Schneider%20Programme.jpg)
+
 # Details
 **DATE: 13 OCTOBER 2022** <br> 
 **TIME: 2.00 pm - 4.00 pm** <br> 
 **VENUE: Schneider Electric Innovation Hub** 
+
 
 ![Schneider Electric Innovation Centre](/images/events/5GLF/Schneider.jpg)
 
