@@ -13,7 +13,7 @@ IBM 5G Industry 4.0 Studio is the latest platform to showcase new and exciting I
 
 The i4 Studio provides visitors with an immersive and holistic experience through its multiple technology showcases. These are set to grow as we explore new digital technologies and grow our partnership across IBM units to engage more clients and prospects.
 
-**IBM 5G Industry 4.0 Solutions Demo **<br>
+**IBM 5G Industry 4.0 Solutions Demo** <br>
 •	AI Visual Recognition & Video Analytics<br>
 •	Robotic & AGV Automated Guided Vehicles<br>
 •	Acoustic Analytics<br>
