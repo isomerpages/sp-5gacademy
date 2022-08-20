@@ -113,4 +113,5 @@ sections:
       button: Find Out More
       url: /resources/events/smart-urban-co-innovation-lab
       alt: Image alt text
+      image: /images/events/5GLF/SMARTLab.jpg
 ---
