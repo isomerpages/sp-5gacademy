@@ -106,4 +106,11 @@ sections:
       url: /resources/events/5G-learning-journey "target=_blank"
       image: /images/events/Regular Programmes/5G Learning Journey Cover Image.png
       alt: 5gandaiot-image
+  - infopic:
+      title: "Learning Journey #9 "
+      subtitle: 5GLF 2022 - Thu 13 Oct
+      description: "The Smart Urban Co-Innovation Lab @Singapore Science Park II "
+      button: Find Out More
+      url: /resources/events/smart-urban-co-innovation-lab
+      alt: Image alt text
 ---
