@@ -114,4 +114,12 @@ sections:
       url: /resources/events/5G-learning-journey "target=_blank"
       image: /images/events/Regular Programmes/5G Learning Journey Cover Image.png
       alt: 5gandaiot-image
+  - infopic:
+      title: "Learning Journey #8"
+      subtitle: 5GLF 2022 - Thu 13  Oct
+      description: Schneider Electric Innovation Hub
+      button: Find Out More
+      url: /resources/events/schneider-electric-innovation-hub
+      image: /images/events/5GLF/Schneider.jpg
+      alt: Schneider Electric
 ---
