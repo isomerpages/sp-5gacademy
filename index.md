@@ -129,4 +129,5 @@ sections:
       button: Find Out More
       url: /resources/events/nus-c5gdbt
       alt: Image alt text
+      image: /images/events/5GLF/NUS C5GDBT.jpg
 ---
