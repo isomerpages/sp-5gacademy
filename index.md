@@ -44,7 +44,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: "Learning Journey #2"
-      subtitle: 5G Learning Festival - 13 Oct
+      subtitle: 5GLF 2022 - Thu 13 Oct
       description: AMTC Facility Tour
       button: Find Out More
       url: /resources/events/amtc-facility-tour
