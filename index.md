@@ -90,4 +90,12 @@ sections:
       url: /resources/events/5G-learning-journey "target=_blank"
       image: /images/events/Regular Programmes/5G Learning Journey Cover Image.png
       alt: 5gandaiot-image
+  - infopic:
+      title: "Learning Journey #3"
+      subtitle: 5GLF 2022 - Thu 13 Oct
+      description: ARTC 5G Smart Factory
+      button: Find Out More
+      url: /resources/events/artc-5g-smart-factory
+      image: /images/banners-and-logos/Website Event Placeholder.png
+      alt: Image alt text
 ---
