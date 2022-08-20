@@ -15,7 +15,7 @@ As a resource integrator of various ecosystem players - local technology startup
 # Details
 **DATE: 13 OCTOBER 2022** <br> 
 **TIME: 2.00 pm - 4.00 pm** <br> 
-**VENUE: The Smart Urban Co-Innovation Lab **
+**VENUE: The Smart Urban Co-Innovation Lab **<br>
 
 ![SMARTLab](/images/events/5GLF/SMARTLab.jpg)
 
