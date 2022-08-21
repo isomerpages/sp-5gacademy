@@ -130,4 +130,12 @@ sections:
       url: /resources/events/5G-learning-journey "target=_blank"
       image: /images/events/Regular Programmes/5G Learning Journey Cover Image.png
       alt: 5gandaiot-image
+  - infopic:
+      title: "Learning Journey #6 "
+      subtitle: 5GLF 2022 - Thu 13  Oct
+      description: NYP - StarHub APEX 5G Centre
+      button: Find Out More
+      url: /resources/events/nyp-starhub-apex-5g-centre
+      image: /images/banners-and-logos/Website Event Placeholder.png
+      alt: Image alt text
 ---
