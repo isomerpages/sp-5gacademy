@@ -1,10 +1,12 @@
 ---
 title: 5G Learning Journey @ Singapore Polytechnic
-date: 2022-04-18
+date: 2021-07-18
 permalink: /resources/events/5G-learning-journey
 layout: post
 description: ""
 ---
+
+
 # About the Programme
 
 2-hour Programme to educate participants on 5G Technology Capabilities and its possibilities in areas of Smart Facilities, Advanced Manufacturing, Urban Solutions, and Sustainability.
