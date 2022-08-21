@@ -5,3 +5,4 @@ date: 2022-08-20
 layout: post
 description: ""
 ---
+![](/images/banners-and-logos/Website%20Event%20Placeholder.png)
