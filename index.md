@@ -40,8 +40,8 @@ sections:
       description: 5G Learning Journey - Augmenting Solution with 5G & AIoT Technology
       button: Find Out More
       url: /resources/events/5g-aiot-centre
-      image: /images/events/Regular Programmes/5G Learning Journey Cover Image.png
-      alt: Image alt text
+      image: /images/events/5GLF/5G Learning Journey Cover Pic.jpg
+      alt: 5G Learning Journey Cover Pic
   - infopic:
       title: "Learning Journey #2"
       subtitle: 5GLF 2022 - Thu 13 Oct
