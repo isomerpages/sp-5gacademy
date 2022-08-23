@@ -71,7 +71,8 @@ sections:
   - infopic:
       title: "Learning Journey #5"
       subtitle: 5GLF 2022 - Thu 13 Oct
-      description: 5G Industry 4.0 Studio Solutions Tour
+      description: "5G Industry 4.0 Studio Solutions Tour <br> Partner: IBM
+        Manufacturing Solutions Pte Ltd"
       button: Find Out More
       url: /resources/events/industry-4-studio
       image: /images/events/5GLF/IBM I4_Industry_studio.jpg
