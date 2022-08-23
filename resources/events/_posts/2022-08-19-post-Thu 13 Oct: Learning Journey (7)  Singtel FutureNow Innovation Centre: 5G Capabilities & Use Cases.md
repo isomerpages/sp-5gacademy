@@ -6,8 +6,6 @@ date: 2022-08-19
 layout: post
 description: ""
 ---
-
-
 # 5GLF Learning Journey #7
 
 ## Singtel FutureNow Innovation Centre: <br>5G Capabilities & Use Cases
@@ -18,10 +16,12 @@ Discover some key value propositions of 5G, and how they transform the way we li
 
 5G’s deployment is on the horizon, and the next generation of telecommunications will fundamentally change Smart Cities, Enterprises, and Entertainment. Enabling complex functions on simple devices through the power of edge computing, high speed intelligent networks and Artificial Intelligence, we can perform complex actions on simple devices for mission-critical real time threat detection. FutureNow showcases the use cases that drive this change and our work in building up the 5G ecosystem across the group.
 
+***Registration is compulsory for this event. We will let you know if your registration is successful by 30 Sep 2022.***
+
 # Details
 **DATE: 13 OCTOBER 2022 <br> 
 TIME: 2.00 pm - 4.00 pm   (SGT)<br> 
-VENUE: Singtel Comcentre**
+VENUE: Singtel FutureNow Innovation Centre, Singtel**
 
 ![Singtel FIC ](/images/events/5GLF/Singtel%20FIC%20SLF_CoverPage.png)
 
