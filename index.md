@@ -105,7 +105,8 @@ sections:
   - infopic:
       title: "Learning Journey #9 "
       subtitle: 5GLF 2022 - Thu 13 Oct
-      description: "The Smart Urban Co-Innovation Lab @Singapore Science Park II "
+      description: "The Smart Urban Co-Innovation Lab @Singapore Science Park II <br>
+        Partner: Capitaland"
       button: Find Out More
       url: /resources/events/smart-urban-co-innovation-lab
       alt: Image alt text
