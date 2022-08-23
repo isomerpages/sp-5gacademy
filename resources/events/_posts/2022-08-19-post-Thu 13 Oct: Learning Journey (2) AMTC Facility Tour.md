@@ -5,7 +5,6 @@ date: 2022-08-19
 layout: post
 description: ""
 ---
-
 # 5GLF Learning Journey #2
 
 ## AMTC Facility Tour
@@ -23,10 +22,12 @@ description: ""
 3.	Innovation Highlights: Digitalization in Process Industries (15 mins)
 4.	Innovation Highlights: Additive Manufacturing and #TeamInnovate (15 mins)<br>
 
+***Registration is compulsory for this event. We will let you know if your registration is successful by 30 Sep 2022.***
+
 # Details
 **DATE: 13 OCTOBER 2022** <br> 
 **TIME: 2.00 pm - 4.00 pm** <br> 
-**VENUE: Siemens Advance Manufacturing Transformation Center (AMTC)** 
+**VENUE: Siemens Advance Manufacturing Transformation Center (AMTC), Siemens Digital Industry** 
 
 ![AMTC](/images/events/5GLF/Siemens%20Site%20Picture.jpeg)
 
