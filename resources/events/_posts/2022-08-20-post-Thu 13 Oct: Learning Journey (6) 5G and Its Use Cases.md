@@ -18,7 +18,7 @@ This talk provides fundamentals of the 5G technology and its features such as En
 # Details
 **DATE: 13 OCTOBER 2022** <br> 
 **TIME: 2.00 pm - 4.00 pm** <br> 
-**VENUE: APEX5G centre** <br>
+**VENUE: NYP – Starhub APEX 5G Centre** <br>
 
 
 
