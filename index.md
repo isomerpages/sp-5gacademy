@@ -80,7 +80,7 @@ sections:
   - infopic:
       title: "Learning Journey #6 "
       subtitle: 5GLF 2022 - Thu 13  Oct
-      description: 5G and Its Use Cases
+      description: "5G and Its Use Cases <br> Partner: Nanyang Polytechnic"
       button: Find Out More
       url: /resources/events/nyp-starhub-apex-5g-centre
       image: /images/banners-and-logos/Website Event Placeholder.png
