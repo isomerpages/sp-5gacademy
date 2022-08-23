@@ -21,12 +21,12 @@ The i4 Studio provides visitors with an immersive and holistic experience throug
 •	AI Command Center<br>
 •	Leveraging 5G in Industry 4.0 <br>
 
-
+***Registration is compulsory for this event. We will let you know if your registration is successful by 30 Sep 2022.***
 
 # Details
 **DATE: 13 OCTOBER 2022** <br> 
 **TIME: 2.00 pm - 4.00 pm** <br> 
-**VENUE: IBM i4 Studio** 
+**VENUE: IBM 5G Industry 4.0 Studio, IBM Manufacturing Solutions Pte Ltd** 
 
 ![IBM i4 Studio](/images/events/5GLF/IBM%20I4_Industry_studio.jpg)
 

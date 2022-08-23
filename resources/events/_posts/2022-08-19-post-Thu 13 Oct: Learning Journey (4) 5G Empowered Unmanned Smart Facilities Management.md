@@ -6,4 +6,5 @@ date: 2022-08-19
 layout: post
 description: ""
 ---
-![We are coming soon](/images/banners-and-logos/Website%20Event%20Placeholder.png)
+
+![](/images/banners-and-logos/Website%20Event%20Placeholder.png)

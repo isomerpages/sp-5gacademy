@@ -1,10 +1,11 @@
 ---
 title: "Thu 13 Oct: 5G Learning Festival (5GLF) Learning Journeys at 10 sites"
 permalink: /resources/events/5glearningjourneys
-date: 2022-08-21
+date: 2022-08-23
 layout: post
 description: ""
 ---
+
 
 # About the Event
 

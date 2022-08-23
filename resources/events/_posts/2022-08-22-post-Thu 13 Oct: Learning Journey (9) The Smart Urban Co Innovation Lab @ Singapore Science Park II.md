@@ -2,20 +2,23 @@
 title: "Thu 13 Oct: Learning Journey (9) The Smart Urban Co Innovation Lab @
   Singapore Science Park II"
 permalink: /resources/events/smart-urban-co-innovation-lab
-date: 2022-08-20
+date: 2022-08-22
 layout: post
 description: ""
 ---
+
 # 5GLF Learning Journey #9
 
 ## The Smart Urban Co-Innovation Lab @Singapore Science Park II 
 
 As a resource integrator of various ecosystem players - local technology startups, system integrators and global corporate enterprises, The Lab aims to co-create solutions for smart cities, from ideation to testing to commercialisation.  This collaborative model provides a platform for local and overseas companies to exchange ideas, identify opportunities for new business models and innovations, as well as facilitate deployment of smart cities solutions. 
 
+***Registration is compulsory for this event. We will let you know if your registration is successful by 30 Sep 2022.***
+
 # Details
 **DATE: 13 OCTOBER 2022** <br> 
 **TIME: 2.00 pm - 4.00 pm** <br> 
-**VENUE: The Smart Urban Co-Innovation Lab** <br>
+**VENUE: Smart Urban Co-Innovation Lab at Science Park, Capitaland** <br>
 
 ![SMARTLab](/images/events/5GLF/SMARTLab.jpg)
 
