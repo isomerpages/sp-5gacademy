@@ -15,7 +15,7 @@ description: ""
 
 This learning journey will introduce participants the pervasive connectivity and technologies needed to deploy a large scale AIoT ecosystem sustainably with 5G Multi-Access Edge Cloud. Various 5G & AIoT applications and use cases in areas of Smart Facilities, Advanced Manufacturing, Urban Solutions and Sustainability are discussed too.
 
-***By Registration Only***
+***Registration is compulsory for entry***
 # Details
 **DATE: 13 OCTOBER 2022** <br> 
 **TIME: 2.00 pm - 4.00 pm** <br> 
