@@ -19,7 +19,7 @@ This learning journey will introduce participants the pervasive connectivity and
 # Details
 **DATE: 13 OCTOBER 2022** <br> 
 **TIME: 2.00 pm - 4.00 pm** <br> 
-**SITE: 5G & AIoT Centre, Singapore Polytechnic**<br>
+**VENUE: 5G & AIoT Centre, Singapore Polytechnic**<br>
 
 
 ![5G Learning Journey Cover Pic](/images/events/5GLF/5G%20Learning%20Journey%20Cover%20Pic.jpg)
