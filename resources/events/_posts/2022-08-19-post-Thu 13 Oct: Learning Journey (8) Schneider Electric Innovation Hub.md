@@ -12,10 +12,12 @@ We are pleased to invite you to visit our Singapore Innovation Hub, located at o
 
 ![Schneider Programme](/images/events/5GLF/Schneider%20Programme.jpg)
 
+***Registration is compulsory for this event. We will let you know if your registration is successful by 30 Sep 2022.***
+
 # Details
 **DATE: 13 OCTOBER 2022** <br> 
 **TIME: 2.00 pm - 4.00 pm** <br> 
-**VENUE: Schneider Electric Innovation Hub** 
+**VENUE: Schneider Electric Innovation Hub, Schneider Electric** 
 
 
 ![Schneider Electric Innovation Centre](/images/events/5GLF/Schneider.jpg)
