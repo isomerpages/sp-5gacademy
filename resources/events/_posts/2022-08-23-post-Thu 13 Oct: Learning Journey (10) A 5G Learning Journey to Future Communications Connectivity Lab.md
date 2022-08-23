@@ -6,3 +6,4 @@ date: 2022-08-23
 layout: post
 description: ""
 ---
+![We are coming soon](/images/banners-and-logos/Website%20Event%20Placeholder.png)
