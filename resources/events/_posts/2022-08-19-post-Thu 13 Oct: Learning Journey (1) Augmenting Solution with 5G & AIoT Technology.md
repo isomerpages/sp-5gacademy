@@ -11,9 +11,9 @@ description: ""
 ## **5G Learning Journey - Augmenting Solution with 5G & AIoT Technology**
 
 
-5G offers many more new possibilities due to its faster data rate and lower latency, boosting sensor responsiveness and real-time cloud monitoring. This learning journey will introduce participants the pervasive connectivity and technologies needed to deploy a large scale AIoT ecosystem sustainably with 5G Multi-Access Edge Cloud. 
+5G offers many more new possibilities due to its faster data rate and lower latency, boosting sensor responsiveness and real-time cloud monitoring. 
 
-Various 5G & AIoT applications and use cases in areas of Smart Facilities, Advanced Manufacturing, Urban Solutions and Sustainability are discussed too.
+This learning journey will introduce participants the pervasive connectivity and technologies needed to deploy a large scale AIoT ecosystem sustainably with 5G Multi-Access Edge Cloud. Various 5G & AIoT applications and use cases in areas of Smart Facilities, Advanced Manufacturing, Urban Solutions and Sustainability are discussed too.
 
 
 # Details
