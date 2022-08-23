@@ -88,7 +88,8 @@ sections:
   - infopic:
       title: "Learning Journey #7"
       subtitle: 5GLF 2022 - Thu 13 Oct
-      description: "Singtel FutureNow Innovation Centre: <br>5G Capabilities & Use Cases"
+      description: "Singtel FutureNow Innovation Centre: <br>5G Capabilities & Use
+        Cases <br> Partner: Singtel"
       button: Find Out More
       url: /resources/events/singtel-futurenow-innovation-centre
       image: /images/events/5GLF/Singtel FIC SLF_CoverPage.png
