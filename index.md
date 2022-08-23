@@ -54,7 +54,8 @@ sections:
   - infopic:
       title: "Learning Journey #3"
       subtitle: 5GLF 2022 - Thu 13 Oct
-      description: ARTC 5G Smart Factory
+      description: "ARTC 5G Smart Factory <br> Partner: Advanced Remanufacturing and
+        Technology Centre (ARTC)"
       button: Find Out More
       url: /resources/events/artc-5g-smart-factory
       image: /images/banners-and-logos/Website Event Placeholder.png
