@@ -46,7 +46,7 @@ sections:
   - infopic:
       title: "Learning Journey #2"
       subtitle: 5GLF 2022 - Thu 13 Oct
-      description: AMTC Facility Tour
+      description: "AMTC Facility Tour <br> Partner: Siemens Digital Industry"
       button: Find Out More
       url: /resources/events/amtc-facility-tour
       image: /images/events/5GLF/Siemens Site Picture.jpeg
