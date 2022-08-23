@@ -77,7 +77,7 @@ sections:
   - infopic:
       title: "Learning Journey #6 "
       subtitle: 5GLF 2022 - Thu 13  Oct
-      description: NYP - StarHub APEX 5G Centre
+      description: 5G and Its Use Cases
       button: Find Out More
       url: /resources/events/nyp-starhub-apex-5g-centre
       image: /images/banners-and-logos/Website Event Placeholder.png
