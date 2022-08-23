@@ -37,7 +37,8 @@ sections:
   - infopic:
       title: "Learning Journey #1"
       subtitle: 5GLF 2022 - Thu 13 Oct
-      description: 5G Learning Journey - Augmenting Solution with 5G & AIoT Technology
+      description: "5G Learning Journey - Augmenting Solution with 5G & AIoT
+        Technology<br> Partner: Singapore Polytechnic"
       button: Find Out More
       url: /resources/events/5g-aiot-centre
       image: /images/events/5GLF/5G Learning Journey Cover Pic.jpg
