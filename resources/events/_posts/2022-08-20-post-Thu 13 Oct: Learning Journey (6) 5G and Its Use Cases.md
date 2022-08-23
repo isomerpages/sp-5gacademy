@@ -14,11 +14,12 @@ description: ""
 
 This talk provides fundamentals of the 5G technology and its features such as Enhanced Mobile Broadband (eMBB) and Network Slicing. It is coupled with real-life case studies to illustrate its applications in different sectors from Healthcare to Advanced Manufacturing to Retail that is deployed at the APEX 5G Centre in Nanyang Polytechnic. It will also include MEC platform solutions. Participants will have a better understanding of 5G and the benefits it will bring to various industries.
 
+***Registration is compulsory for this event. We will let you know if your registration is successful by 30 Sep 2022.***
 
 # Details
 **DATE: 13 OCTOBER 2022** <br> 
 **TIME: 2.00 pm - 4.00 pm** <br> 
-**VENUE: NYP – Starhub APEX 5G Centre** <br>
+**VENUE: NYP – Starhub APEX 5G Centre, Nanyang Polytechnic** <br>
 
 
 
