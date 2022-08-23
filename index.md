@@ -112,6 +112,15 @@ sections:
       alt: Image alt text
       image: /images/events/5GLF/SMARTLab.jpg
   - infopic:
+      title: "Learning Journey #10"
+      subtitle: 5GLF 2022 - Thu 13 Oct
+      description: "A 5G Learning Journey to Future Communications Connectivity Lab
+        (FCCLab) <br> (Partner: SUTD)"
+      button: Find Out More
+      url: /resources/events/future-communications-connectivity-lab
+      image: /images/banners-and-logos/Website Event Placeholder.png
+      alt: Image alt text
+  - infopic:
       title: Career Conversion Programme (CCP)
       subtitle: Manpower Solutions
       description: (Application is now open)
