@@ -97,7 +97,7 @@ sections:
   - infopic:
       title: "Learning Journey #8"
       subtitle: 5GLF 2022 - Thu 13  Oct
-      description: Schneider Electric Innovation Hub
+      description: "Schneider Electric Innovation Hub <br> Partner: Schneider Electric"
       button: Find Out More
       url: /resources/events/schneider-electric-innovation-hub
       image: /images/events/5GLF/Schneider.jpg
