@@ -118,7 +118,7 @@ sections:
         (FCCLab) <br> (Partner: SUTD)"
       button: Find Out More
       url: /resources/events/future-communications-connectivity-lab
-      image: /images/banners-and-logos/Website Event Placeholder.png
+      image: /images/events/5GLF/FCP_SUTD_Drone_Arena.jpg
       alt: Image alt text
   - infopic:
       title: Career Conversion Programme (CCP)
