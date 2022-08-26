@@ -58,7 +58,7 @@ sections:
         Technology Centre)"
       button: Find Out More
       url: /resources/events/artc-5g-smart-factory
-      image: /images/banners-and-logos/Website Event Placeholder.png
+      image: /images/events/5GLF/5GLF 2022 Learning Journey Header.jpg
       alt: Image alt text
   - infopic:
       title: "Learning Journey #4"
@@ -83,7 +83,7 @@ sections:
       description: "5G and Its Use Cases <br> (Partner: Nanyang Polytechnic)"
       button: Find Out More
       url: /resources/events/nyp-starhub-apex-5g-centre
-      image: /images/banners-and-logos/Website Event Placeholder.png
+      image: /images/events/5GLF/5GLF 2022 Learning Journey Header.jpg
       alt: Image alt text
   - infopic:
       title: "Learning Journey #7"
@@ -118,7 +118,7 @@ sections:
         (FCCLab) <br> (Partner: SUTD)"
       button: Find Out More
       url: /resources/events/future-communications-connectivity-lab
-      image: /images/banners-and-logos/Website Event Placeholder.png
+      image: /images/events/5GLF/FCP_SUTD_Drone_Arena.jpg
       alt: Image alt text
   - infopic:
       title: Career Conversion Programme (CCP)

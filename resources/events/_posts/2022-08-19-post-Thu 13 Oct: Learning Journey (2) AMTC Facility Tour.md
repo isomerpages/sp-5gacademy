@@ -5,7 +5,7 @@ date: 2022-08-19
 layout: post
 description: ""
 ---
-# 5GLF Learning Journey #2
+# Learning Journey #2
 
 ## AMTC Facility Tour
 
@@ -22,7 +22,7 @@ description: ""
 3.	Innovation Highlights: Digitalization in Process Industries (15 mins)
 4.	Innovation Highlights: Additive Manufacturing and #TeamInnovate (15 mins)<br>
 
-***Registration is compulsory for this event. We will let you know if your registration is successful by 30 Sep 2022.***
+***Please register using the link below.***
 
 # Details
 **DATE: 13 OCTOBER 2022** <br> 

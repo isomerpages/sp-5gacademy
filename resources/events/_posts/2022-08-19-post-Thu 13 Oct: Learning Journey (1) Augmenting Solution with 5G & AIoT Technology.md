@@ -6,7 +6,7 @@ date: 2022-08-19
 layout: post
 description: ""
 ---
-# 5GLF Learning Journey #1
+# Learning Journey #1
 
 ## **5G Learning Journey - Augmenting Solution with 5G & AIoT Technology**
 
@@ -15,7 +15,7 @@ description: ""
 
 This learning journey will introduce participants the pervasive connectivity and technologies needed to deploy a large scale AIoT ecosystem sustainably with 5G Multi-Access Edge Cloud. Various 5G & AIoT applications and use cases in areas of Smart Facilities, Advanced Manufacturing, Urban Solutions and Sustainability are discussed too.
 
-***Registration is compulsory for this event. We will let you know if your registration is successful by 30 Sep 2022.***
+***Please register using the link below.***
 # Details
 **DATE: 13 OCTOBER 2022** <br> 
 **TIME: 2.00 pm - 4.00 pm** <br> 

@@ -5,7 +5,7 @@ date: 2022-08-20
 layout: post
 description: ""
 ---
-# 5GLF Learning Journey #3
+# Learning Journey #3
 
 ## ARTC 5G Smart Factory
 
@@ -16,7 +16,7 @@ Join us at the ARTC 5G Smart Factory and discover how 5G can support advanced ma
 2.	**Process Digital Twin for remote commissioning** where 5G is leveraged to power Digital Twin and intuitive tools with diverse real-time monitoring capabilities
 3.	**Proliferation of Augmented Reality with 5G** for guided workflow and traceable setup for inspection station, and AR-guided training for machine operation
 
-***Registration is compulsory for this event. We will let you know if your registration is successful by 30 Sep 2022.***
+***Please register using the link below.***
 
 # Details
 **DATE: 13 OCTOBER 2022** <br> 

@@ -5,7 +5,7 @@ date: 2022-08-20
 layout: post
 description: ""
 ---
-# 5GLF Learning Journey #5
+# Learning Journey #5
 
 ## 5G Industry 4.0 Studio Solutions Tour
 
@@ -21,7 +21,7 @@ The i4 Studio provides visitors with an immersive and holistic experience throug
 •	AI Command Center<br>
 •	Leveraging 5G in Industry 4.0 <br>
 
-***Registration is compulsory for this event. We will let you know if your registration is successful by 30 Sep 2022.***
+***Please register using the link below.***
 
 # Details
 **DATE: 13 OCTOBER 2022** <br> 

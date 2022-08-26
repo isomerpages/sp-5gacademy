@@ -1,7 +1,7 @@
 ---
-title: "Thu 13 Oct: 5G Learning Festival (5GLF) Learning Journeys at 10 sites"
+title: "Thu 13 Oct: 5G Learning Festival Site Visits (Total: 10)"
 permalink: /resources/events/5glearningjourneys
-date: 2022-08-23
+date: 2022-08-26
 layout: post
 description: ""
 ---
@@ -17,15 +17,14 @@ There are **10 Site Visits** in total, all happening concurrently on **13 Oct (T
 
 As there is a cap to the number of visitors for each site, please select more than 1 choice and rank them in order of your preference, in order to increase your chances of securing a Learning Journey. 
 
-***We will let you know the outcome of your registration and follow-up details by 30 Sep 2022.***
+***We will email you the detailed programme by 30 Sep 2022.***
 
 # Details
 **DATE: 13 OCTOBER 2022** <br> 
 **TIME: 2.00 pm - 4.00 pm** <br> 
 **VENUE: In-person at the selected site**
 
-
-![5G Learning Festival](/images/events/5GLF/5G%20Learning%20Festival%20Cover%20Image.png)
+![List of 10 Learning Journeys](/images/events/5GLF/Learning%20Journey%20Website-2s.png)
 
 <style>
 #register {
