@@ -5,8 +5,7 @@ date: 2022-08-21
 layout: post
 description: ""
 ---
-
-# 5GLF Learning Journey #6
+# Learning Journey #6
 
 ## 5G and its use cases
 
@@ -15,7 +14,7 @@ description: ""
 
 This talk provides fundamentals of the 5G technology and its features such as Enhanced Mobile Broadband (eMBB) and Network Slicing. It is coupled with real-life case studies to illustrate its applications in different sectors from Healthcare to Advanced Manufacturing to Retail that is deployed at the APEX 5G Centre in Nanyang Polytechnic. It will also include MEC platform solutions. Participants will have a better understanding of 5G and the benefits it will bring to various industries.
 
-***Registration is compulsory for this event. We will let you know if your registration is successful by 30 Sep 2022.***
+***Please register using the link below.***
 
 # Details
 **DATE: 13 OCTOBER 2022** <br> 
