@@ -10,7 +10,7 @@ description: ""
 
 ## 5G Empowered Unmanned Smart Facilities Management
 
-
+![NUS Learning Journey Write-Up](/images/events/5GLF/NUS%20Learning%20Journey%20Write%20Up.jpg)
 
 
 ***Please register using the link below.***
@@ -21,7 +21,7 @@ description: ""
 **VENUE: NUS** 
 
 
-
+![NUS C5GDBT](/images/events/5GLF/NUS%20C5GDBT.jpg)
 
 <style>
 #register {
