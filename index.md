@@ -83,7 +83,7 @@ sections:
       description: "5G and Its Use Cases <br> (Partner: Nanyang Polytechnic)"
       button: Find Out More
       url: /resources/events/nyp-starhub-apex-5g-centre
-      image: /images/banners-and-logos/Website Event Placeholder.png
+      image: /images/events/5GLF/5GLF 2022 Learning Journey Header.jpg
       alt: Image alt text
   - infopic:
       title: "Learning Journey #7"
