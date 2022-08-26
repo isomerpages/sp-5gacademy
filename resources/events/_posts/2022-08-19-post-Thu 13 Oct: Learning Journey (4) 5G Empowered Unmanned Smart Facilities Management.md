@@ -10,8 +10,9 @@ description: ""
 
 ## 5G Empowered Unmanned Smart Facilities Management
 
-![NUS Learning Journey Write-Up](/images/events/5GLF/NUS%20Learning%20Journey%20Write%20Up.jpg)
+The National University of Singapore (NUS) Centre for 5G Digital Building Technology aims to augment the digital capability of Singapore's construction industry, accelerate 5G training and promote the adoption of 5G technologies in Smart Facilities Management (FM).
 
+See how the Centre harnesses 5G connectivity, cloud-based digital twin and robotics for Smart FM and Build Environment industry applications and seek to transform the way people design, deliver and manage Singapore's built environment.
 
 ***Please register using the link below.***
 
