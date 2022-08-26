@@ -58,7 +58,7 @@ sections:
         Technology Centre)"
       button: Find Out More
       url: /resources/events/artc-5g-smart-factory
-      image: /images/banners-and-logos/Website Event Placeholder.png
+      image: /images/events/5GLF/5GLF 2022 Learning Journey Header.jpg
       alt: Image alt text
   - infopic:
       title: "Learning Journey #4"
