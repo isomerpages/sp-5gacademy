@@ -6,7 +6,7 @@ date: 2022-08-19
 layout: post
 description: ""
 ---
-# 5GLF Learning Journey #1
+# Learning Journey #1
 
 ## **5G Learning Journey - Augmenting Solution with 5G & AIoT Technology**
 
