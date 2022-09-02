@@ -1,6 +1,6 @@
 ---
 title: 5G & Telecoms
-permalink: /courses/5gtelecoms
+permalink: /courses/5gtelecoms/
 third_nav_title: By Areas
 ---
 <style>
@@ -32,14 +32,18 @@ third_nav_title: By Areas
 |[5G Industry Practitioner (Overview)](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/sp-ericsson-5g-industry-practitioner-certificate/5g-industry-practitioner-(overview)){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
 |[5G Industry Practitioner (Radio Access Network)](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/sp-ericsson-5g-industry-practitioner-certificate/5g-industry-practitioner-(radio-access-network)){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
 |[5G KPI, 5G Optimization and 5G Troubleshooting ](https://www.5gworldpro.com/5g-kpi-5g-optimization-and-5g-troubleshooting-training/){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Advanced | 9 hrs |
+|[5G Network Slicing](https://www.mpirical.com/courses/5g-network-slicing-updated-2022){:target="_blank" rel="noopener"} |Mpirical | Intermediate|4 hrs |
 |[5G NR Advanced Training](https://www.5gworldpro.com/5g-nr-advanced){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Intermediate | 8 hrs |
 |[5G NR Technical Training](https://www.qualcommwirelessacademy.com/product/4c7c7d74){:target="_blank" rel="noopener"}  | Qualcomm | Basic | 6-8 hrs |
 |[5G Open RAN Training](https://www.5gworldpro.com/5g-open-ran-training/){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Basic | 6 hrs |
 |[5G Primer](https://www.qualcommwirelessacademy.com/product/4cf92937){:target="_blank" rel="noopener"}  | Qualcomm | Basic | 2-3 hrs |
 |[5G Private Network Training](https://www.5gworldpro.com/5g-private-network-training/){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Basic | 7 hrs |
 |[5G RF Planning Training](https://www.5gworldpro.com/5g-new-radio-rf-planning-training){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Intermediate | 6 hrs |
+|[5G Security](https://www.mpirical.com/courses/5g-security){:target="_blank" rel="noopener"} | Mpirical | Intermediate|6 hrs |
+|[5G System Engineering](https://www.mpirical.com/courses/5g-system-engineering-updated-live){:target="_blank" rel="noopener"} |Mpirical | Intermediate|12 hrs |
 |[5G Training for Business](https://www.5gworldpro.com/5g-training-for-business){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Basic | 9 hrs |
 |[5G Training for Everyone](https://www.5gworldpro.com/5g-training-for-everyone){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Basic | 5 hrs |
+|[5G Use Cases ](https://www.mpirical.com/courses/5g-use-cases){:target="_blank" rel="noopener"} |Mpirical | Basic|3 hrs |
 |[5G-Based Localization Methods](https://www.ntu.edu.sg/pace/programmes/detail/5g-based-localization-methods){:target="_blank" rel="noopener"}  | NTU | Intermediate | 7 hrs |
 |[Advanced Certificate in Technical Fundamentals of Cybersecurity Module 4: Introduction to 5G Networks](https://academy.smu.edu.sg/advanced-certificate-technical-fundamentals-cybersecurity-module-4-introduction-5g-networks-5231){:target="_blank" rel="noopener"}  | SMU | Basic | 31 hrs |
 |[Certified Kubernetes Administrator - CKA](https://alta3.com/overview-cka-training){:target="_blank" rel="noopener"}  | Alta3 Research | Intermediate | 30 hrs |
@@ -66,17 +70,13 @@ third_nav_title: By Areas
 |[VMware Telco Cloud Platform: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=97105){:target="_blank" rel="noopener"}  | NTUC LHub | Advanced | 21 hrs |
 |[5G Massive MIMO and Beamforming](https://www.mpirical.com/courses/5g-massive-mimo-and-beamforming){:target="_blank" rel="noopener"} |Mpirical | Advanced|3 hrs |
 |[Analyzing the 5G Core](https://www.mpirical.com/courses/analyzing-the-5g-core){:target="_blank" rel="noopener"} |Mpirical | Advanced|18 hrs |
-|[5G Use Cases ](https://www.mpirical.com/courses/5g-use-cases){:target="_blank" rel="noopener"} |Mpirical | Basic|3 hrs |
 |[Exploring 5G](https://www.mpirical.com/courses/exploring-5g){:target="_blank" rel="noopener"} |Mpirical | Basic|6 hrs |
 |[Introduction to 5G](https://www.mpirical.com/courses/introduction-to-5g){:target="_blank" rel="noopener"} |Mpirical | Basic|3 hrs |
 |[Introduction to 5G and Wi-Fi Interworking](https://www.mpirical.com/courses/introduction-to-5g-and-wi-fi-interworking){:target="_blank" rel="noopener"} |Mpirical | Basic|3 hrs |
 |[Introduction to 5G Radio Planning](https://www.mpirical.com/courses/introduction-to-5g-radio-planning){:target="_blank" rel="noopener"} |Mpirical | Basic|3 hrs |
 |[Introduction to New Radio](https://www.mpirical.com/courses/introduction-to-new-radio){:target="_blank" rel="noopener"} |Mpirical | Basic|4 hrs |
-|[5G Network Slicing](https://www.mpirical.com/courses/5g-network-slicing-updated-2022){:target="_blank" rel="noopener"} |Mpirical | Intermediate|4 hrs |
-|[5G System Engineering](https://www.mpirical.com/courses/5g-system-engineering-updated-live){:target="_blank" rel="noopener"} |Mpirical | Intermediate|12 hrs |
 |[C-RAN for 5G](https://www.mpirical.com/courses/c-ran-for-5g){:target="_blank" rel="noopener"} |Mpirical | Intermediate|3 hrs |
 |[Delivering 5G Voice](https://www.mpirical.com/courses/delivering-5g-voice){:target="_blank" rel="noopener"} | Mpirical | Intermediate|12 hrs |
 |[Deploying Open RAN for 5G](https://www.mpirical.com/courses/deploying-open-ran-for-5g){:target="_blank" rel="noopener"} | Mpirical | Intermediate|3 hrs |
 |[MMTC and 5G](https://www.mpirical.com/courses/mmtc-and-5g){:target="_blank" rel="noopener"} | Mpirical | Intermediate|6 hrs |
 |[Private 5G Networks](https://www.mpirical.com/courses/private-5g-networks){:target="_blank" rel="noopener"} | Mpirical | Intermediate|3 hrs |
-|[5G Security](https://www.mpirical.com/courses/5g-security){:target="_blank" rel="noopener"} | Mpirical | Intermediate|6 hrs |
