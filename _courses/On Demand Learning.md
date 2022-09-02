@@ -33,6 +33,7 @@ description: ""
 |[5G Primer](https://www.qualcommwirelessacademy.com/product/4cf92937){:target="_blank" rel="noopener"}  | Qualcomm | Basic | 2-3 hrs |
 |[5G Private Network Training](https://www.5gworldpro.com/5g-private-network-training/){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Basic | 7 hrs |
 |[5G RF Planning Training](https://www.5gworldpro.com/5g-new-radio-rf-planning-training){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Intermediate | 6 hrs |
+|[5G Security](https://www.mpirical.com/courses/5g-security){:target="_blank" rel="noopener"} | Mpirical | Intermediate|6 hrs |
 |[5G System Engineering](https://www.mpirical.com/courses/5g-system-engineering-updated-live){:target="_blank" rel="noopener"} |Mpirical | Intermediate|12 hrs |
 |[5G Training for Business](https://www.5gworldpro.com/5g-training-for-business){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Basic | 9 hrs |
 |[5G Training for Everyone](https://www.5gworldpro.com/5g-training-for-everyone){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Basic | 5 hrs |
@@ -48,7 +49,6 @@ description: ""
 |[Introduction to 5G Radio Planning](https://www.mpirical.com/courses/introduction-to-5g-radio-planning){:target="_blank" rel="noopener"} |Mpirical | Basic|3 hrs |
 |[Introduction to New Radio](https://www.mpirical.com/courses/introduction-to-new-radio){:target="_blank" rel="noopener"} |Mpirical | Basic|4 hrs |
 |[Kubernetes Bootcamp - CKAD](https://alta3.com/overview-kubernetes-ckad){:target="_blank" rel="noopener"}  | Alta3 Research | Basic | 30 hrs |
-|[SDN/NFV/SD-WAN Training](https://alta3.com/overview-sdn-training){:target="_blank" rel="noopener"}  | Alta3 Research | Basic | 30 hrs |
 |[MMTC and 5G](https://www.mpirical.com/courses/mmtc-and-5g){:target="_blank" rel="noopener"} | Mpirical | Intermediate|6 hrs |
 |[Private 5G Networks](https://www.mpirical.com/courses/private-5g-networks){:target="_blank" rel="noopener"} | Mpirical | Intermediate|3 hrs |
-|[5G Security](https://www.mpirical.com/courses/5g-security){:target="_blank" rel="noopener"} | Mpirical | Intermediate|6 hrs |
+|[SDN/NFV/SD-WAN Training](https://alta3.com/overview-sdn-training){:target="_blank" rel="noopener"}  | Alta3 Research | Basic | 30 hrs |
