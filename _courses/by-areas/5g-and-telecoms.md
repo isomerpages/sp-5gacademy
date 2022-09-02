@@ -32,6 +32,7 @@ third_nav_title: By Areas
 |[5G Industry Practitioner (Overview)](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/sp-ericsson-5g-industry-practitioner-certificate/5g-industry-practitioner-(overview)){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
 |[5G Industry Practitioner (Radio Access Network)](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/sp-ericsson-5g-industry-practitioner-certificate/5g-industry-practitioner-(radio-access-network)){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
 |[5G KPI, 5G Optimization and 5G Troubleshooting ](https://www.5gworldpro.com/5g-kpi-5g-optimization-and-5g-troubleshooting-training/){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Advanced | 9 hrs |
+|[5G Massive MIMO and Beamforming](https://www.mpirical.com/courses/5g-massive-mimo-and-beamforming){:target="_blank" rel="noopener"} |Mpirical | Advanced|3 hrs |
 |[5G Network Slicing](https://www.mpirical.com/courses/5g-network-slicing-updated-2022){:target="_blank" rel="noopener"} |Mpirical | Intermediate|4 hrs |
 |[5G NR Advanced Training](https://www.5gworldpro.com/5g-nr-advanced){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Intermediate | 8 hrs |
 |[5G NR Technical Training](https://www.qualcommwirelessacademy.com/product/4c7c7d74){:target="_blank" rel="noopener"}  | Qualcomm | Basic | 6-8 hrs |
@@ -46,6 +47,7 @@ third_nav_title: By Areas
 |[5G Use Cases ](https://www.mpirical.com/courses/5g-use-cases){:target="_blank" rel="noopener"} |Mpirical | Basic|3 hrs |
 |[5G-Based Localization Methods](https://www.ntu.edu.sg/pace/programmes/detail/5g-based-localization-methods){:target="_blank" rel="noopener"}  | NTU | Intermediate | 7 hrs |
 |[Advanced Certificate in Technical Fundamentals of Cybersecurity Module 4: Introduction to 5G Networks](https://academy.smu.edu.sg/advanced-certificate-technical-fundamentals-cybersecurity-module-4-introduction-5g-networks-5231){:target="_blank" rel="noopener"}  | SMU | Basic | 31 hrs |
+|[Analyzing the 5G Core](https://www.mpirical.com/courses/analyzing-the-5g-core){:target="_blank" rel="noopener"} |Mpirical | Advanced|18 hrs |
 |[Certified Kubernetes Administrator - CKA](https://alta3.com/overview-cka-training){:target="_blank" rel="noopener"}  | Alta3 Research | Intermediate | 30 hrs |
 |[Designing Intelligent Edge Computing ](https://www.iss.nus.edu.sg/executive-education/course/detail/designing-intelligent-edge--computing/software-systems){:target="_blank" rel="noopener"}  | NUS | Advanced | 26 hrs |
 |[Digital Workplace Transformation with 5G and Emerging Technologies](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-register/digital-workplace-transformation-with-5g-and-emerging-technologies){:target="_blank" rel="noopener"}  | SP | Basic | 14 hrs |
@@ -68,8 +70,6 @@ third_nav_title: By Areas
 |[VMware Telco Cloud Infrastructure: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=97110){:target="_blank" rel="noopener"}  | NTUC LHub | Advanced | 35 hrs |
 |[VMware Telco Cloud Platform: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=97105){:target="_blank" rel="noopener"}  | CloudAssist | Advanced | 24 hrs |
 |[VMware Telco Cloud Platform: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=97105){:target="_blank" rel="noopener"}  | NTUC LHub | Advanced | 21 hrs |
-|[5G Massive MIMO and Beamforming](https://www.mpirical.com/courses/5g-massive-mimo-and-beamforming){:target="_blank" rel="noopener"} |Mpirical | Advanced|3 hrs |
-|[Analyzing the 5G Core](https://www.mpirical.com/courses/analyzing-the-5g-core){:target="_blank" rel="noopener"} |Mpirical | Advanced|18 hrs |
 |[Exploring 5G](https://www.mpirical.com/courses/exploring-5g){:target="_blank" rel="noopener"} |Mpirical | Basic|6 hrs |
 |[Introduction to 5G](https://www.mpirical.com/courses/introduction-to-5g){:target="_blank" rel="noopener"} |Mpirical | Basic|3 hrs |
 |[Introduction to 5G and Wi-Fi Interworking](https://www.mpirical.com/courses/introduction-to-5g-and-wi-fi-interworking){:target="_blank" rel="noopener"} |Mpirical | Basic|3 hrs |
