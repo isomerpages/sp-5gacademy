@@ -58,10 +58,10 @@ third_nav_title: By Areas
 |[Exploring 5G](https://www.mpirical.com/courses/exploring-5g){:target="_blank" rel="noopener"} |Mpirical | Basic|6 hrs |
 |[Fundamentals of Applied Electromagnetics](https://www.suss.edu.sg/courses/detail/eng205){:target="_blank" rel="noopener"}  | SUSS | Basic | 18 hrs |
 |[HCIA - 5G](https://www.suss.edu.sg/courses/detail/eng315?urlname=beng-electronics-behe){:target="_blank" rel="noopener"}  | SUSS | Advanced | 36 hrs |
-|[Introduction to 5G Technology and Applications](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-register/introduction-to-5g-technology-and-applications){:target="_blank" rel="noopener"}  | SP | Basic | 16 hrs |
 |[Introduction to 5G](https://www.mpirical.com/courses/introduction-to-5g){:target="_blank" rel="noopener"} |Mpirical | Basic|3 hrs |
 |[Introduction to 5G and Wi-Fi Interworking](https://www.mpirical.com/courses/introduction-to-5g-and-wi-fi-interworking){:target="_blank" rel="noopener"} |Mpirical | Basic|3 hrs |
 |[Introduction to 5G Radio Planning](https://www.mpirical.com/courses/introduction-to-5g-radio-planning){:target="_blank" rel="noopener"} |Mpirical | Basic|3 hrs |
+|[Introduction to 5G Technology and Applications](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-register/introduction-to-5g-technology-and-applications){:target="_blank" rel="noopener"}  | SP | Basic | 16 hrs |
 |[Introduction to New Radio](https://www.mpirical.com/courses/introduction-to-new-radio){:target="_blank" rel="noopener"} |Mpirical | Basic|4 hrs |
 |[IoT & 5G Security](https://www.iss.nus.edu.sg/executive-education/course/detail/iot-5g-security/software-systems){:target="_blank" rel="noopener"}  | NUS | Intermediate | 19.5 hrs |
 |[Kubernetes Bootcamp - CKAD](https://alta3.com/overview-kubernetes-ckad){:target="_blank" rel="noopener"}  | Alta3 Research | Intermediate | 30 hrs |
