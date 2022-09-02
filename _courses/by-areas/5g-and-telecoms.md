@@ -67,6 +67,8 @@ third_nav_title: By Areas
 |[Kubernetes Bootcamp - CKAD](https://alta3.com/overview-kubernetes-ckad){:target="_blank" rel="noopener"}  | Alta3 Research | Intermediate | 30 hrs |
 |[Leading 5G Industry Transformation (for Telecom and related Professionals)](https://scale.nus.edu.sg/programmes/executive-courses/tech-enabled-services/leading-5g-industry-transformation-(for-telecom-and-related-professionals)){:target="_blank" rel="noopener"}  | NUS | Intermediate | 6 hrs |
 |[MLC - Understanding 5G](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/micro-learning-courses/understanding-5g.html){:target="_blank" rel="noopener"}  | TP | Basic | 4 hrs |
+|[MMTC and 5G](https://www.mpirical.com/courses/mmtc-and-5g){:target="_blank" rel="noopener"} | Mpirical | Intermediate|6 hrs |
+|[Private 5G Networks](https://www.mpirical.com/courses/private-5g-networks){:target="_blank" rel="noopener"} | Mpirical | Intermediate|3 hrs |
 |[RF and Microwave Design of Wireless Systems](https://www.suss.edu.sg/courses/detail/eng333){:target="_blank" rel="noopener"}  | SUSS | Advanced | 18 hrs |
 |[SDN/NFV/SD-WAN Training](https://alta3.com/overview-sdn-training){:target="_blank" rel="noopener"}  | Alta3 Research | Basic | 30 hrs |
 |[SkillsFuture for Digital Workplace](https://webibmcourse.mybluemix.net/DigitalCourse){:target="_blank" rel="noopener"}  | IBM | Basic | 14 hrs |
@@ -78,5 +80,3 @@ third_nav_title: By Areas
 |[VMware Telco Cloud Infrastructure: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=97110){:target="_blank" rel="noopener"}  | NTUC LHub | Advanced | 35 hrs |
 |[VMware Telco Cloud Platform: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=97105){:target="_blank" rel="noopener"}  | CloudAssist | Advanced | 24 hrs |
 |[VMware Telco Cloud Platform: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=97105){:target="_blank" rel="noopener"}  | NTUC LHub | Advanced | 21 hrs |
-|[MMTC and 5G](https://www.mpirical.com/courses/mmtc-and-5g){:target="_blank" rel="noopener"} | Mpirical | Intermediate|6 hrs |
-|[Private 5G Networks](https://www.mpirical.com/courses/private-5g-networks){:target="_blank" rel="noopener"} | Mpirical | Intermediate|3 hrs |
