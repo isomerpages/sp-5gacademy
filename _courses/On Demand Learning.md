@@ -40,10 +40,10 @@ description: ""
 |[Exploring 5G](https://www.mpirical.com/courses/exploring-5g){:target="_blank" rel="noopener"} |Mpirical | Basic|6 hrs |
 |[Introduction to 5G](https://www.mpirical.com/courses/introduction-to-5g){:target="_blank" rel="noopener"} |Mpirical | Basic|3 hrs |
 |[Introduction to 5G and Wi-Fi Interworking](https://www.mpirical.com/courses/introduction-to-5g-and-wi-fi-interworking){:target="_blank" rel="noopener"} |Mpirical | Basic|3 hrs |
-|[Kubernetes Bootcamp - CKAD](https://alta3.com/overview-kubernetes-ckad){:target="_blank" rel="noopener"}  | Alta3 Research | Basic | 30 hrs |
-|[SDN/NFV/SD-WAN Training](https://alta3.com/overview-sdn-training){:target="_blank" rel="noopener"}  | Alta3 Research | Basic | 30 hrs |
 |[Introduction to 5G Radio Planning](https://www.mpirical.com/courses/introduction-to-5g-radio-planning){:target="_blank" rel="noopener"} |Mpirical | Basic|3 hrs |
 |[Introduction to New Radio](https://www.mpirical.com/courses/introduction-to-new-radio){:target="_blank" rel="noopener"} |Mpirical | Basic|4 hrs |
+|[Kubernetes Bootcamp - CKAD](https://alta3.com/overview-kubernetes-ckad){:target="_blank" rel="noopener"}  | Alta3 Research | Basic | 30 hrs |
+|[SDN/NFV/SD-WAN Training](https://alta3.com/overview-sdn-training){:target="_blank" rel="noopener"}  | Alta3 Research | Basic | 30 hrs |
 |[5G Network Slicing](https://www.mpirical.com/courses/5g-network-slicing-updated-2022){:target="_blank" rel="noopener"} |Mpirical | Intermediate|4 hrs |
 |[5G System Engineering](https://www.mpirical.com/courses/5g-system-engineering-updated-live){:target="_blank" rel="noopener"} |Mpirical | Intermediate|12 hrs |
 |[C-RAN for 5G](https://www.mpirical.com/courses/c-ran-for-5g){:target="_blank" rel="noopener"} |Mpirical | Intermediate|3 hrs |
