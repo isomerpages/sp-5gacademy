@@ -1,6 +1,6 @@
 ---
 title: On Demand Learning
-permalink: /courses/on-demand-learning
+permalink: /courses/on-demand-learning/
 description: ""
 ---
 <style>
@@ -25,6 +25,7 @@ description: ""
 |[5G Essentials](https://alta3.com/overview-5g){:target="_blank" rel="noopener"}  | Alta3 Research | Basic | 8 hrs |
 |[5G Indoor Planning Training](https://www.5gworldpro.com/5g-indoor-radio-planning-training){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Intermediate | 7 hrs |
 |[5G KPI, 5G Optimization and 5G Troubleshooting ](https://www.5gworldpro.com/5g-kpi-5g-optimization-and-5g-troubleshooting-training/){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Advanced | 9 hrs |
+|[5G Massive MIMO and Beamforming](https://www.mpirical.com/courses/5g-massive-mimo-and-beamforming){:target="_blank" rel="noopener"} |Mpirical | Advanced|3 hrs |
 |[5G NR Advanced Training](https://www.5gworldpro.com/5g-nr-advanced){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Intermediate | 8 hrs |
 |[5G NR Technical Training](https://www.qualcommwirelessacademy.com/product/4c7c7d74){:target="_blank" rel="noopener"}  | Qualcomm | Basic | 6-8 hrs |
 |[5G Open RAN Training](https://www.5gworldpro.com/5g-open-ran-training/){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Basic | 6 hrs |
@@ -33,11 +34,10 @@ description: ""
 |[5G RF Planning Training](https://www.5gworldpro.com/5g-new-radio-rf-planning-training){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Intermediate | 6 hrs |
 |[5G Training for Business](https://www.5gworldpro.com/5g-training-for-business){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Basic | 9 hrs |
 |[5G Training for Everyone](https://www.5gworldpro.com/5g-training-for-everyone){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Basic | 5 hrs |
+|[Analyzing the 5G Core](https://www.mpirical.com/courses/analyzing-the-5g-core){:target="_blank" rel="noopener"} |Mpirical | Advanced|18 hrs |
 |[Certified Kubernetes Administrator - CKA](https://alta3.com/overview-cka-training){:target="_blank" rel="noopener"}  | Alta3 Research | Intermediate | 30 hrs |
 |[Kubernetes Bootcamp - CKAD](https://alta3.com/overview-kubernetes-ckad){:target="_blank" rel="noopener"}  | Alta3 Research | Basic | 30 hrs |
 |[SDN/NFV/SD-WAN Training](https://alta3.com/overview-sdn-training){:target="_blank" rel="noopener"}  | Alta3 Research | Basic | 30 hrs |
-|[5G Massive MIMO and Beamforming](https://www.mpirical.com/courses/5g-massive-mimo-and-beamforming){:target="_blank" rel="noopener"} |Mpirical | Advanced|3 hrs |
-|[Analyzing the 5G Core](https://www.mpirical.com/courses/analyzing-the-5g-core){:target="_blank" rel="noopener"} |Mpirical | Advanced|18 hrs |
 |[5G Use Cases ](https://www.mpirical.com/courses/5g-use-cases){:target="_blank" rel="noopener"} |Mpirical | Basic|3 hrs |
 |[Exploring 5G](https://www.mpirical.com/courses/exploring-5g){:target="_blank" rel="noopener"} |Mpirical | Basic|6 hrs |
 |[Introduction to 5G](https://www.mpirical.com/courses/introduction-to-5g){:target="_blank" rel="noopener"} |Mpirical | Basic|3 hrs |
