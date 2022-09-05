@@ -53,14 +53,6 @@ sections:
       image: /images/events/5GLF/5GLF 2022 Learning Journey Header.jpg
       alt: Image alt text
   - infopic:
-      title: "Learning Journey #4"
-      subtitle: 5GLF 2022 - Thu 13 Oct
-      description: "5G Empowered Unmanned Smart Facilities Management <br> (Partner: NUS)"
-      button: Find Out More
-      url: /resources/events/nus-c5gdbt
-      alt: Image alt text
-      image: /images/events/5GLF/NUS C5GDBT.jpg
-  - infopic:
       title: "Learning Journey #3"
       subtitle: 5GLF 2022 - Thu 13 Oct
       description: "5G Industry 4.0 Studio Solutions Tour <br> (Partner: IBM
@@ -70,13 +62,21 @@ sections:
       image: /images/events/5GLF/IBM I4_Industry_studio.jpg
       alt: IBM I4
   - infopic:
-      title: "Learning Journey #6 "
+      title: "Learning Journey #4"
       subtitle: 5GLF 2022 - Thu 13  Oct
-      description: "5G and Its Use Cases <br> (Partner: Nanyang Polytechnic)"
+      description: "NYP-Starhub APEX 5G Tour <br> (Partner: Nanyang Polytechnic)"
       button: Find Out More
       url: /resources/events/nyp-starhub-apex-5g-centre
       image: /images/events/5GLF/5GLF 2022 Learning Journey Header.jpg
       alt: Image alt text
+  - infopic:
+      title: "Learning Journey #4"
+      subtitle: 5GLF 2022 - Thu 13 Oct
+      description: "5G Empowered Unmanned Smart Facilities Management <br> (Partner: NUS)"
+      button: Find Out More
+      url: /resources/events/nus-c5gdbt
+      alt: Image alt text
+      image: /images/events/5GLF/NUS C5GDBT.jpg
   - infopic:
       title: "Learning Journey #7"
       subtitle: 5GLF 2022 - Thu 13 Oct
