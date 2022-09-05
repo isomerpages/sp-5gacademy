@@ -70,7 +70,7 @@ sections:
       image: /images/events/5GLF/5GLF 2022 Learning Journey Header.jpg
       alt: Image alt text
   - infopic:
-      title: "Learning Journey #4"
+      title: "Learning Journey #5"
       subtitle: 5GLF 2022 - Thu 13 Oct
       description: "5G Empowered Unmanned Smart Facilities Management <br> (Partner: NUS)"
       button: Find Out More
