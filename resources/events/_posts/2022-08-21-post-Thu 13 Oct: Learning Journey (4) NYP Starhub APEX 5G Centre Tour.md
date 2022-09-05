@@ -5,10 +5,9 @@ date: 2022-08-21
 layout: post
 description: ""
 ---
-
 # Learning Journey #4
 
-## 5G and its use cases
+## NYP-Starhub APEX 5G Centre Tour
 
 
 5G is the latest generation of mobile technology, distinct from previous generations because it is not simply a step up from 4G in terms of speeds. It is software-based by nature and therefore more flexible than previous generations of cellular technology. Rather than one network that fits all, 5G will enable the use of different characteristics tailored to meet the requirements of specific applications. 5G is an enabling technology that is just on the cusp of reaching the mainstream. 
