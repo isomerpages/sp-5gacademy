@@ -5,8 +5,7 @@ date: 2022-08-21
 layout: post
 description: ""
 ---
-
-# Learning Journey #6
+# Learning Journey #4
 
 ## 5G and its use cases
 
