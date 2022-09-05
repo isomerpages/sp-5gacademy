@@ -95,7 +95,7 @@ sections:
       image: /images/events/5GLF/Siemens Site Picture.jpeg
       alt: Siemens AMTC
   - infopic:
-      title: "Learning Journey #8"
+      title: "Learning Journey #6"
       subtitle: 5GLF 2022 - Thu 13  Oct
       description: "Schneider Electric Innovation Hub <br> (Partner: Schneider Electric)"
       button: Find Out More
