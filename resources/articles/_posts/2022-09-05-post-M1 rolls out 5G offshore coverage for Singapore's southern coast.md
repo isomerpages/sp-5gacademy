@@ -5,7 +5,6 @@ date: 2022-09-05
 layout: post
 description: ""
 ---
-![M1 rolls out 5G offshore coverage]()
 
 Singapore Mobile Network Operator M1 Limited has announced that it will undertake an ambitious multi-year project that aims to provide ubiquitous 5G standalone offshore coverage for the southern coast of Singapore, including the surrounding waters of the southern islands.
 
@@ -24,4 +23,6 @@ According to M1, the potential 5G use cases are targeted at enhancing the effici
 M1, a subsidiary of Keppel Corporation, is Singapore's first digital network operator, providing a suite of communications services, including mobile, fixed line and fibre offerings, to more than two million customers.
 
 Since the launch of its commercial services in 1997, M1 has achieved many firsts becoming one of the first operators to be awarded one of Singapores two nationwide 5G standalone network licences, first operator to offer nationwide 4G service, as well as ultra high-speed fixed broadband, fixed voice and other services on the Next Generation Nationwide Broadband Network.
+
+
 *By NUS School of Continuing and Lifelong Education*
