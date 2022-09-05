@@ -94,7 +94,7 @@ sections:
       image: /images/events/5GLF/Siemens Site Picture.jpeg
       alt: Siemens AMTC
   - infopic:
-      title: "Learning Journey #7"
+      title: "Learning Journey #8"
       subtitle: 5GLF 2022 - Thu 13 Oct
       description: "Singtel FutureNow Innovation Centre: <br>5G Capabilities & Use
         Cases <br> (Partner: Singtel)"
