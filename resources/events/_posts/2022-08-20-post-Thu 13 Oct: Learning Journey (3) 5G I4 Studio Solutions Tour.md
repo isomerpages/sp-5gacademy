@@ -5,8 +5,7 @@ date: 2022-08-20
 layout: post
 description: ""
 ---
-
-# Learning Journey #5
+# Learning Journey #3
 
 ## 5G Industry 4.0 Studio Solutions Tour
 
