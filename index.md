@@ -88,20 +88,20 @@ sections:
   - infopic:
       title: "Learning Journey #7"
       subtitle: 5GLF 2022 - Thu 13 Oct
+      description: "AMTC Facility Tour <br> (Partner: Siemens Digital Industry)"
+      button: Find Out More
+      url: /resources/events/amtc-facility-tour
+      image: /images/events/5GLF/Siemens Site Picture.jpeg
+      alt: Siemens AMTC
+  - infopic:
+      title: "Learning Journey #7"
+      subtitle: 5GLF 2022 - Thu 13 Oct
       description: "Singtel FutureNow Innovation Centre: <br>5G Capabilities & Use
         Cases <br> (Partner: Singtel)"
       button: Find Out More
       url: /resources/events/singtel-futurenow-innovation-centre
       image: /images/events/5GLF/Singtel FIC SLF_CoverPage.png
       alt: Singtel FIC
-  - infopic:
-      title: "Learning Journey #7"
-      subtitle: 5GLF 2022 - Thu 13 Oct
-      description: "AMTC Facility Tour <br> (Partner: Siemens Digital Industry)"
-      button: Find Out More
-      url: /resources/events/amtc-facility-tour
-      image: /images/events/5GLF/Siemens Site Picture.jpeg
-      alt: Siemens AMTC
   - infopic:
       title: "Learning Journey #9 "
       subtitle: 5GLF 2022 - Thu 13 Oct
