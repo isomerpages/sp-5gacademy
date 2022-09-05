@@ -2,10 +2,11 @@
 title: "Thu 13 Oct: Learning Journey (8)  Singtel FutureNow Innovation Centre:
   5G Capabilities & Use Cases"
 permalink: /resources/events/singtel-futurenow-innovation-centre/
-date: 2022-08-21
+date: 2022-08-28
 layout: post
 description: ""
 ---
+
 # Learning Journey #8
 
 ## Singtel FutureNow Innovation Centre: <br>5G Capabilities & Use Cases

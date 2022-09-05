@@ -1,13 +1,15 @@
 ---
-title: "Thu 13 Oct: Learning Journey (6) Schneider Electric Innovation Hub"
+title: "Thu 13 Oct: Learning Journey (6) Schneider Electric 5G I4 Studio
+  Solutions Tour"
 permalink: /resources/events/schneider-electric-innovation-hub/
-date: 2022-08-22
+date: 2022-08-24
 layout: post
 description: ""
 ---
+
 # Learning Journey #6
 
-## Schneider Electric Innovation Hub
+## 5G Industry 4.0 Studio Solutions Tour, Schneider Electric
 We are pleased to invite you to visit our Singapore Innovation Hub, located at our Schneider Electric East Asia & Japan Headquarters, one of the best dynamic examples of a smart, efficient, resilient, and sustainable building. The hub is our first large-scale innovation hub in Asia with world-class facilities, enabling Schneider Electric to develop tailored solutions to optimize energy efficiencies for various segments. 
 
 ![Schneider Programme](/images/events/5GLF/Schneider%20Programme.jpg)

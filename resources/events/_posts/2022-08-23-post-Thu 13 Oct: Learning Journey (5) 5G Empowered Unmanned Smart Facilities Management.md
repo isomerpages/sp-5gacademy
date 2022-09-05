@@ -2,10 +2,11 @@
 title: "Thu 13 Oct: Learning Journey (5) 5G Empowered Unmanned Smart Facilities
   Management"
 permalink: /resources/events/nus-c5gdbt/
-date: 2022-08-19
+date: 2022-08-23
 layout: post
 description: ""
 ---
+
 
 # Learning Journey #5
 

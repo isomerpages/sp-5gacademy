@@ -1,11 +1,12 @@
 ---
 title: "Thu 13 Oct: Learning Journey (10) A 5G Learning Journey to Future
   Communications Connectivity Lab"
-permalink: /resources/events/future-communications-connectivity-lab
-date: 2022-08-23
+permalink: /resources/events/future-communications-connectivity-lab/
+date: 2022-08-30
 layout: post
 description: ""
 ---
+
 # Learning Journey #8
 
 ## Future Communications Connectivity Lab (FCCLab)

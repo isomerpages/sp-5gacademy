@@ -1,10 +1,11 @@
 ---
 title: "Thu 13 Oct: Learning Journey (7) AMTC Facility Tour"
 permalink: /resources/events/amtc-facility-tour/
-date: 2022-08-19
+date: 2022-08-27
 layout: post
 description: ""
 ---
+
 # Learning Journey #7
 
 ## AMTC Facility Tour

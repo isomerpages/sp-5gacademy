@@ -1,13 +1,14 @@
 ---
-title: "Thu 13 Oct: Learning Journey (3) 5G I4 Studio Solutions Tour"
+title: "Thu 13 Oct: Learning Journey (3) IBM 5G I4 Studio Solutions Tour"
 permalink: /resources/events/industry-4-studio/
-date: 2022-08-20
+date: 2022-08-21
 layout: post
 description: ""
 ---
+
 # Learning Journey #3
 
-## 5G Industry 4.0 Studio Solutions Tour
+## 5G Industry 4.0 Studio Solutions Tour, IBM
 
 IBM 5G Industry 4.0 Studio is the latest platform to showcase new and exciting IBM technologies to clients and prospects. Visitors can have a close-up look and hands-on experience of IBM's innovative solutions and capabilities for digitalized manufacturing.  The “i4” moniker depicts our focus to help our clients embrace and transform to Industry 4.0 through our unique fusion of inspiration, innovation, information and intelligence.
 

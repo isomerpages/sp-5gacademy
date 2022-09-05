@@ -35,6 +35,15 @@ sections:
       subtitle: Learn more
       button: View More
   - infopic:
+      title: 5GLF 2022 - 10 Learning Journeys
+      subtitle: 5GLF 2022 - Thu 13 Oct
+      description: "Note: You will be allocated to 1 of your choices only. <br> Dress
+        Code: Business Attire"
+      button: Register Now
+      url: /resources/events/5glearningjourneys/
+      image: /images/events/5GLF/5GLF 2022 Learning Journey Header with Date.jpg
+      alt: Ten 5G Learning Journeys
+  - infopic:
       title: "Learning Journey #1"
       subtitle: 5GLF 2022 - Thu 13 Oct
       description: "5G Learning Journey - Augmenting Solution with 5G & AIoT
@@ -64,7 +73,7 @@ sections:
   - infopic:
       title: "Learning Journey #4"
       subtitle: 5GLF 2022 - Thu 13  Oct
-      description: "NYP-Starhub APEX 5G Tour <br> (Partner: Nanyang Polytechnic)"
+      description: "NYP-Starhub APEX 5G  Centre Tour <br> (Partner: Nanyang Polytechnic)"
       button: Find Out More
       url: /resources/events/nyp-starhub-apex-5g-centre
       image: /images/events/5GLF/5GLF 2022 Learning Journey Header.jpg
@@ -80,7 +89,8 @@ sections:
   - infopic:
       title: "Learning Journey #6"
       subtitle: 5GLF 2022 - Thu 13  Oct
-      description: "Schneider Electric Innovation Hub <br> (Partner: Schneider Electric)"
+      description: "5G Industry 4.0 Studio Solutions Tour <br> (Partner: Schneider
+        Electric)"
       button: Find Out More
       url: /resources/events/schneider-electric-innovation-hub
       image: /images/events/5GLF/Schneider.jpg
