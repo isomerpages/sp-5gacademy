@@ -6,8 +6,7 @@ date: 2022-08-21
 layout: post
 description: ""
 ---
-
-# Learning Journey #7
+# Learning Journey #8
 
 ## Singtel FutureNow Innovation Centre: <br>5G Capabilities & Use Cases
 
