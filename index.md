@@ -52,7 +52,7 @@ sections:
       image: /images/events/5GLF/Siemens Site Picture.jpeg
       alt: Siemens AMTC
   - infopic:
-      title: "Learning Journey #3"
+      title: "Learning Journey #2"
       subtitle: 5GLF 2022 - Thu 13 Oct
       description: "ARTC 5G Smart Factory <br> (Partner: Advanced Remanufacturing and
         Technology Centre)"
