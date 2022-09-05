@@ -153,4 +153,13 @@ sections:
       url: /resources/events/5G-learning-journey "target=_blank"
       image: /images/events/Regular Programmes/5G Learning Journey Cover Image.png
       alt: 5gandaiot-image
+  - infopic:
+      title: 5GLF 2022 - 10 Learning Journeys
+      subtitle: 5GLF 2022 - Thu 13 Oct
+      description: "Note: You will be allocated to 1 of your choices only. <br> Dress
+        Code: Business Attire"
+      button: Register Now
+      url: /resources/events/5glearningjourneys/
+      image: /images/events/5GLF/5GLF 2022 Learning Journey Header with Date.jpg
+      alt: Ten 5G Learning Journeys
 ---
