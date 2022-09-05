@@ -5,6 +5,9 @@ date: 2022-09-05
 layout: post
 description: ""
 ---
+***By Shannon Williams, TelcoNews Asia
+1 Sep 2022***
+
 Singapore Mobile Network Operator M1 Limited has announced that it will undertake an ambitious multi-year project that aims to provide ubiquitous 5G standalone offshore coverage for the southern coast of Singapore, including the surrounding waters of the southern islands.
 
 Extending 5G offshore coverage enhances connectivity in the larger maritime ecosystem and unlocks new use cases and applications.
@@ -25,5 +28,3 @@ Since the launch of its commercial services in 1997, M1 has achieved many firsts
 
 ![m1 and 5G offshore coverage pic](/images/articles/M1%20rolls%20out%205G%20offshore%20coverage.jpg)
 
-*By Shannon Williams, TelcoNews Asia
-1 Sep 2022*
