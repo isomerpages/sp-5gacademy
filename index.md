@@ -64,7 +64,7 @@ sections:
   - infopic:
       title: "Learning Journey #4"
       subtitle: 5GLF 2022 - Thu 13  Oct
-      description: "NYP-Starhub APEX 5G Tour <br> (Partner: Nanyang Polytechnic)"
+      description: "NYP-Starhub APEX 5G  Centre Tour <br> (Partner: Nanyang Polytechnic)"
       button: Find Out More
       url: /resources/events/nyp-starhub-apex-5g-centre
       image: /images/events/5GLF/5GLF 2022 Learning Journey Header.jpg
