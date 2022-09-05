@@ -44,14 +44,6 @@ sections:
       image: /images/events/5GLF/5G Learning Journey Cover Pic.jpg
       alt: 5G Learning Journey Cover Pic
   - infopic:
-      title: "Learning Journey #7"
-      subtitle: 5GLF 2022 - Thu 13 Oct
-      description: "AMTC Facility Tour <br> (Partner: Siemens Digital Industry)"
-      button: Find Out More
-      url: /resources/events/amtc-facility-tour
-      image: /images/events/5GLF/Siemens Site Picture.jpeg
-      alt: Siemens AMTC
-  - infopic:
       title: "Learning Journey #2"
       subtitle: 5GLF 2022 - Thu 13 Oct
       description: "ARTC 5G Smart Factory <br> (Partner: Advanced Remanufacturing and
@@ -69,7 +61,7 @@ sections:
       alt: Image alt text
       image: /images/events/5GLF/NUS C5GDBT.jpg
   - infopic:
-      title: "Learning Journey #5"
+      title: "Learning Journey #3"
       subtitle: 5GLF 2022 - Thu 13 Oct
       description: "5G Industry 4.0 Studio Solutions Tour <br> (Partner: IBM
         Manufacturing Solutions Pte Ltd)"
@@ -94,6 +86,14 @@ sections:
       url: /resources/events/singtel-futurenow-innovation-centre
       image: /images/events/5GLF/Singtel FIC SLF_CoverPage.png
       alt: Singtel FIC
+  - infopic:
+      title: "Learning Journey #7"
+      subtitle: 5GLF 2022 - Thu 13 Oct
+      description: "AMTC Facility Tour <br> (Partner: Siemens Digital Industry)"
+      button: Find Out More
+      url: /resources/events/amtc-facility-tour
+      image: /images/events/5GLF/Siemens Site Picture.jpeg
+      alt: Siemens AMTC
   - infopic:
       title: "Learning Journey #8"
       subtitle: 5GLF 2022 - Thu 13  Oct
