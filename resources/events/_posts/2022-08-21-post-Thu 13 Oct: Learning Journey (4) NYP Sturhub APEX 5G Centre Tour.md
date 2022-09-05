@@ -1,11 +1,11 @@
 ---
-title: "Thu 13 Oct: Learning Journey (6) 5G and Its Use Cases"
-permalink: /resources/events/nyp-starhub-apex-5g-centre
+title: "Thu 13 Oct: Learning Journey (4) NYP Sturhub APEX 5G Centre Tour"
+permalink: /resources/events/nyp-starhub-apex-5g-centre/
 date: 2022-08-21
 layout: post
 description: ""
 ---
-# Learning Journey #6
+# Learning Journey #4
 
 ## 5G and its use cases
 

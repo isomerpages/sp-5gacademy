@@ -46,14 +46,6 @@ sections:
   - infopic:
       title: "Learning Journey #2"
       subtitle: 5GLF 2022 - Thu 13 Oct
-      description: "AMTC Facility Tour <br> (Partner: Siemens Digital Industry)"
-      button: Find Out More
-      url: /resources/events/amtc-facility-tour
-      image: /images/events/5GLF/Siemens Site Picture.jpeg
-      alt: Siemens AMTC
-  - infopic:
-      title: "Learning Journey #3"
-      subtitle: 5GLF 2022 - Thu 13 Oct
       description: "ARTC 5G Smart Factory <br> (Partner: Advanced Remanufacturing and
         Technology Centre)"
       button: Find Out More
@@ -61,15 +53,7 @@ sections:
       image: /images/events/5GLF/5GLF 2022 Learning Journey Header.jpg
       alt: Image alt text
   - infopic:
-      title: "Learning Journey #4"
-      subtitle: 5GLF 2022 - Thu 13 Oct
-      description: "5G Empowered Unmanned Smart Facilities Management <br> (Partner: NUS)"
-      button: Find Out More
-      url: /resources/events/nus-c5gdbt
-      alt: Image alt text
-      image: /images/events/5GLF/NUS C5GDBT.jpg
-  - infopic:
-      title: "Learning Journey #5"
+      title: "Learning Journey #3"
       subtitle: 5GLF 2022 - Thu 13 Oct
       description: "5G Industry 4.0 Studio Solutions Tour <br> (Partner: IBM
         Manufacturing Solutions Pte Ltd)"
@@ -78,15 +62,39 @@ sections:
       image: /images/events/5GLF/IBM I4_Industry_studio.jpg
       alt: IBM I4
   - infopic:
-      title: "Learning Journey #6 "
+      title: "Learning Journey #4"
       subtitle: 5GLF 2022 - Thu 13  Oct
-      description: "5G and Its Use Cases <br> (Partner: Nanyang Polytechnic)"
+      description: "NYP-Starhub APEX 5G Tour <br> (Partner: Nanyang Polytechnic)"
       button: Find Out More
       url: /resources/events/nyp-starhub-apex-5g-centre
       image: /images/events/5GLF/5GLF 2022 Learning Journey Header.jpg
       alt: Image alt text
   - infopic:
+      title: "Learning Journey #5"
+      subtitle: 5GLF 2022 - Thu 13 Oct
+      description: "5G Empowered Unmanned Smart Facilities Management <br> (Partner: NUS)"
+      button: Find Out More
+      url: /resources/events/nus-c5gdbt
+      alt: Image alt text
+      image: /images/events/5GLF/NUS C5GDBT.jpg
+  - infopic:
+      title: "Learning Journey #6"
+      subtitle: 5GLF 2022 - Thu 13  Oct
+      description: "Schneider Electric Innovation Hub <br> (Partner: Schneider Electric)"
+      button: Find Out More
+      url: /resources/events/schneider-electric-innovation-hub
+      image: /images/events/5GLF/Schneider.jpg
+      alt: Schneider Electric
+  - infopic:
       title: "Learning Journey #7"
+      subtitle: 5GLF 2022 - Thu 13 Oct
+      description: "AMTC Facility Tour <br> (Partner: Siemens Digital Industry)"
+      button: Find Out More
+      url: /resources/events/amtc-facility-tour
+      image: /images/events/5GLF/Siemens Site Picture.jpeg
+      alt: Siemens AMTC
+  - infopic:
+      title: "Learning Journey #8"
       subtitle: 5GLF 2022 - Thu 13 Oct
       description: "Singtel FutureNow Innovation Centre: <br>5G Capabilities & Use
         Cases <br> (Partner: Singtel)"
@@ -94,14 +102,6 @@ sections:
       url: /resources/events/singtel-futurenow-innovation-centre
       image: /images/events/5GLF/Singtel FIC SLF_CoverPage.png
       alt: Singtel FIC
-  - infopic:
-      title: "Learning Journey #8"
-      subtitle: 5GLF 2022 - Thu 13  Oct
-      description: "Schneider Electric Innovation Hub <br> (Partner: Schneider Electric)"
-      button: Find Out More
-      url: /resources/events/schneider-electric-innovation-hub
-      image: /images/events/5GLF/Schneider.jpg
-      alt: Schneider Electric
   - infopic:
       title: "Learning Journey #9 "
       subtitle: 5GLF 2022 - Thu 13 Oct

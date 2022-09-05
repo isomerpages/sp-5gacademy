@@ -1,11 +1,11 @@
 ---
-title: "Thu 13 Oct: Learning Journey (2) AMTC Facility Tour"
-permalink: /resources/events/amtc-facility-tour
+title: "Thu 13 Oct: Learning Journey (7) AMTC Facility Tour"
+permalink: /resources/events/amtc-facility-tour/
 date: 2022-08-19
 layout: post
 description: ""
 ---
-# Learning Journey #2
+# Learning Journey #7
 
 ## AMTC Facility Tour
 
