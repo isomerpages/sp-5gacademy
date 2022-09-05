@@ -1,12 +1,10 @@
 ---
 title: "Thu 13 Oct: 5G Learning Festival Site Visits (Total: 10)"
-permalink: /resources/events/5glearningjourneys
+permalink: /resources/events/5glearningjourneys/
 date: 2022-08-26
 layout: post
 description: ""
 ---
-
-
 # About the Event
 
 The 5G Learning Festival 2022 (5GLF 2022) is a ONE-DAY showcase on how 5G introduces new technological transformation and innovations that can shape industry paradigm. 
@@ -24,7 +22,7 @@ As there is a cap to the number of visitors for each site, please select more th
 **TIME: 2.00 pm - 4.00 pm** <br> 
 **VENUE: In-person at the selected site**
 
-![List of 10 Learning Journeys](/images/events/5GLF/Learning%20Journey%20Website-2s.png)
+![List of 10 Learning Journeys](/images/events/5GLF/Learning%20Journey%20Website-3s.png)
 
 <style>
 #register {
