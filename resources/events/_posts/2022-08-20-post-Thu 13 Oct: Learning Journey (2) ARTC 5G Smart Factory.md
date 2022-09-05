@@ -5,8 +5,7 @@ date: 2022-08-20
 layout: post
 description: ""
 ---
-
-# Learning Journey #3
+# Learning Journey #2
 
 ## ARTC 5G Smart Factory
 
