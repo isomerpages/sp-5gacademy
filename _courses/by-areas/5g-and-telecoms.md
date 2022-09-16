@@ -24,6 +24,7 @@ third_nav_title: By Areas
 |[5G as a platform for Industry Transformation](https://scale.nus.edu.sg/programmes/executive-courses/tech-enabled-services/5g-as-a-platform-for-industry-transformation){:target="_blank" rel="noopener"}  | NUS | Intermediate | 12 hrs |
 |[5G Call Processing: Non-Standalone Mode](https://www.qualcommwirelessacademy.com/product/05e08732){:target="_blank" rel="noopener"}  | Qualcomm | Intermediate | 6-8 hrs |
 |[5G Core and 5G Slicing Training](https://www.5gworldpro.com/5g-core-and-5g-slicing-training){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Basic | 8 hrs |
+|[5G Core Network Architecture](https://apistraining.com/portfolio/5g-core-network-architecture/){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Intermediate | 17 hrs |
 |[5G Essentials](https://alta3.com/overview-5g){:target="_blank" rel="noopener"}  | Alta3 Research | Intermediate | 8 hrs |
 |[5G Fundamentals and Applications](https://www.rp.edu.sg/ace/short-course/Detail/5g-fundamentals-and-applications){:target="_blank" rel="noopener"}  | RP | Basic | 8 hrs |
 |[5G Fundamentals for all](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/5g-fundamentals-for-all.html#course-overview){:target="_blank" rel="noopener"}  | TP | Basic | 14 hrs |
