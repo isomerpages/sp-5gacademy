@@ -28,7 +28,7 @@ permalink: /about-us/wdc/
 |Mr Phillip Taylor     | Siemens Singapore | 
 |Ms Vivian Yik     | Siemens Singapore | 
 |Mr Jenson Chong  |VMware Singapore Pte Ltd | 
-|Ms Lai Lock See| VMware Singapore Pte Ltd | 
+
 
 <br />
 <br />
