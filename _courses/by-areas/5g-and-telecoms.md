@@ -39,6 +39,7 @@ third_nav_title: By Areas
 |[5G NG-RAN Architecture](https://apistraining.com/portfolio/5g-ng-ran-architecture/){:target="_blank" rel="noopener"}  | Apis Training | Intermediate | 12 hrs |
 |[5G NG-RAN Signaling](https://courses.is-wireless.com/course/5g-ng-ran-signalling){:target="_blank" rel="noopener"}  | IS-Wireless Academy | Advanced | 20 hrs |
 |[5G NR Advanced Training](https://www.5gworldpro.com/5g-nr-advanced){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Intermediate | 8 hrs |
+|[5G NR Air Interface](https://courses.is-wireless.com/course/5g-nr-air-interface){:target="_blank" rel="noopener"}  | IS-Wireless Academy | Advanced | 16 hrs |
 |[5G NR Technical Training](https://www.qualcommwirelessacademy.com/product/4c7c7d74){:target="_blank" rel="noopener"}  | Qualcomm | Basic | 6-8 hrs |
 |[5G Open RAN Training](https://www.5gworldpro.com/5g-open-ran-training/){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Basic | 6 hrs |
 |[5G Primer](https://www.qualcommwirelessacademy.com/product/4cf92937){:target="_blank" rel="noopener"}  | Qualcomm | Basic | 2-3 hrs |
