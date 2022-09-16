@@ -29,6 +29,7 @@ description: ""
 |[5G KPI, 5G Optimization and 5G Troubleshooting ](https://www.5gworldpro.com/5g-kpi-5g-optimization-and-5g-troubleshooting-training/){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Advanced | 9 hrs |
 |[5G Massive MIMO and Beamforming](https://www.mpirical.com/courses/5g-massive-mimo-and-beamforming){:target="_blank" rel="noopener"} |Mpirical | Advanced|3 hrs |
 |[5G Network Slicing](https://www.mpirical.com/courses/5g-network-slicing-updated-2022){:target="_blank" rel="noopener"} |Mpirical | Intermediate|4 hrs |
+|[5G NG-RAN Architecture](https://apistraining.com/portfolio/5g-ng-ran-architecture/){:target="_blank" rel="noopener"}  | Apis Training | Intermediate | 12 hrs |
 |[5G NR Advanced Training](https://www.5gworldpro.com/5g-nr-advanced){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Intermediate | 8 hrs |
 |[5G NR Technical Training](https://www.qualcommwirelessacademy.com/product/4c7c7d74){:target="_blank" rel="noopener"}  | Qualcomm | Basic | 6-8 hrs |
 |[5G Open RAN Training](https://www.5gworldpro.com/5g-open-ran-training/){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Basic | 6 hrs |
