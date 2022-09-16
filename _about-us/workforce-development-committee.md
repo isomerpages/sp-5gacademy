@@ -1,6 +1,6 @@
 ---
 title: Workforce Development Committee
-permalink: /about-us/wdc
+permalink: /about-us/wdc/
 ---
 | Name | Organisation | 
 | -------- | -------- |  -------- | 
@@ -13,6 +13,8 @@ permalink: /about-us/wdc
 |Mr Raymond Soh     | Ericsson Telecommunications Pte Ltd | 
 |Ms Ong Tun Kim |IBM Singapore     |  
 |Ms Joan Yeo| IBM Singapore     |
+|Mr John Kong| Keysight Technologies Singapore (Sales) Pte Ltd |
+|Mr Aw Jun Xian| Keysight Technologies Singapore (Sales) Pte Ltd |
 |Mr Teddy Pramono     | Micron Semiconductor Asia Pte Ltd  | 
 |Mr Kevin Chan     | Micron Semiconductor Asia Pte Ltd  | 
 |Mr Henry Suseno Nilam     | Micron Semiconductor Asia Pte Ltd | 
@@ -26,7 +28,7 @@ permalink: /about-us/wdc
 |Mr Phillip Taylor     | Siemens Singapore | 
 |Ms Vivian Yik     | Siemens Singapore | 
 |Mr Jenson Chong  |VMware Singapore Pte Ltd | 
-|Ms Lai Lock See| VMware Singapore Pte Ltd | 
+
 
 <br />
 <br />
