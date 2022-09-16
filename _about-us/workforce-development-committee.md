@@ -14,7 +14,7 @@ permalink: /about-us/wdc/
 |Ms Ong Tun Kim |IBM Singapore     |  
 |Ms Joan Yeo| IBM Singapore     |
 |Mr John Kong| Keysight Technologies Singapore (Sales) Pte Ltd |
-|Mr AW Jun Xian| Keysight Technologies Singapore (Sales) Pte Ltd |
+|Mr Aw Jun Xian| Keysight Technologies Singapore (Sales) Pte Ltd |
 |Mr Teddy Pramono     | Micron Semiconductor Asia Pte Ltd  | 
 |Mr Kevin Chan     | Micron Semiconductor Asia Pte Ltd  | 
 |Mr Henry Suseno Nilam     | Micron Semiconductor Asia Pte Ltd | 
