@@ -18,6 +18,7 @@ description: ""
 
 |Course Title  | Institution | Level | Duration |
 | - | - | - | -|
+|[3GPP Mobile Systems Overview](https://apistraining.com/portfolio/3gpp-mobile-systems-overview-2-days/){:target="_blank" rel="noopener"}  | Apis Training | Basic | 11 hrs |
 |[5G & Fundamentals of Cellular Communication](https://www.qualcommwirelessacademy.com/product/7573afdd){:target="_blank" rel="noopener"}  | Qualcomm | Basic | 6-8 hrs |
 |[5G Air Interface Training](https://www.qualcommwirelessacademy.com/product/3c438e0e){:target="_blank" rel="noopener"}  | Qualcomm | Intermediate | 8 hrs |
 |[5G Call Processing: Non-Standalone Mode](https://www.qualcommwirelessacademy.com/product/05e08732){:target="_blank" rel="noopener"}  | Qualcomm | Intermediate | 6-8 hrs |
