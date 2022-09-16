@@ -45,6 +45,7 @@ third_nav_title: By Areas
 |[5G RF Planning Training](https://www.5gworldpro.com/5g-new-radio-rf-planning-training){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Intermediate | 6 hrs |
 |[5G Security](https://www.mpirical.com/courses/5g-security){:target="_blank" rel="noopener"} | Mpirical | Intermediate|6 hrs |
 |[5G System Engineering](https://www.mpirical.com/courses/5g-system-engineering-updated-live){:target="_blank" rel="noopener"} |Mpirical | Intermediate|12 hrs |
+|[5G System Overview](https://apistraining.com/portfolio/5g-system-overview/){:target="_blank" rel="noopener"} |Apis Training | Basic|14 hrs |
 |[5G Training for Business](https://www.5gworldpro.com/5g-training-for-business){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Basic | 9 hrs |
 |[5G Training for Everyone](https://www.5gworldpro.com/5g-training-for-everyone){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Basic | 5 hrs |
 |[5G Use Cases ](https://www.mpirical.com/courses/5g-use-cases){:target="_blank" rel="noopener"} |Mpirical | Basic|3 hrs |
