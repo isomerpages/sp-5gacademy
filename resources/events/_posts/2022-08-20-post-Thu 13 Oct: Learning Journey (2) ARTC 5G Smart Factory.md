@@ -23,7 +23,7 @@ Join us at the ARTC 5G Smart Factory and discover how 5G can support advanced ma
 **TIME: 2.00 pm - 4.00 pm** <br> 
 **VENUE: Advanced Remanufacturing and Technology Centre (ARTC)** <br>
 
-
+![ARTC Image](/images/events/5GLF/ARTC_Site_01.jpg)
 
 <style>
 #register {
