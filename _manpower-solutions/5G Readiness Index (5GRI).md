@@ -11,7 +11,7 @@ description: ""
 
 [REGISTER INTEREST HERE](https://form.gov.sg/6320381774cd730011feff02)
 
-![ARTC Image](/images/events/5GLF/ARTC_Site_01.jpg)
+
 
 <style>
 #register {
