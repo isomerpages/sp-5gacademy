@@ -23,7 +23,6 @@ sections:
         - title: Resources
           description: Events and Media Stories
           url: /resources
-      subtitle: Charting Singapore's 5G & Telecoms manpower development with you
   - infobar:
       title: Manpower Development in <br>5G & Related Technologies
       subtitle: What we offer
