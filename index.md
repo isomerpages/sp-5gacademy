@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banners-and-logos/Man_White_Orange_1.jpeg
+      background: /images/banners-and-logos/5G Website Header-S.png
       button: click here to enquire
       url: https://form.gov.sg/#!/60fc3172d0fde7001257e316" target="_blank
       key_highlights:
@@ -23,8 +23,6 @@ sections:
         - title: Resources
           description: Events and Media Stories
           url: /resources
-      title: Singapore 5G & Telecoms <br> Academy
-      subtitle: Charting Singapore's 5G & Telecoms manpower development with you
   - infobar:
       title: Manpower Development in <br>5G & Related Technologies
       subtitle: What we offer

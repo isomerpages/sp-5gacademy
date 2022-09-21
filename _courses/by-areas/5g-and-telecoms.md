@@ -66,6 +66,7 @@ third_nav_title: By Areas
 |[HCIA - 5G](https://www.suss.edu.sg/courses/detail/eng315?urlname=beng-electronics-behe){:target="_blank" rel="noopener"}  | SUSS | Advanced | 36 hrs |
 |[Introduction to 5G](https://www.mpirical.com/courses/introduction-to-5g){:target="_blank" rel="noopener"} |Mpirical | Basic|3 hrs |
 |[Introduction to 5G and Wi-Fi Interworking](https://www.mpirical.com/courses/introduction-to-5g-and-wi-fi-interworking){:target="_blank" rel="noopener"} |Mpirical | Basic|3 hrs |
+|[Introduction to 5G Networks and its Application in Advanced Manufacturing](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/introduction-to-5g-networks-and-its-application-in-advanced-manufacturing){:target="_blank" rel="noopener"}  | SP | Basic | 16 hrs |
 |[Introduction to 5G Radio Planning](https://www.mpirical.com/courses/introduction-to-5g-radio-planning){:target="_blank" rel="noopener"} |Mpirical | Basic|3 hrs |
 |[Introduction to 5G Technology and Applications](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-register/introduction-to-5g-technology-and-applications){:target="_blank" rel="noopener"}  | SP | Basic | 16 hrs |
 |[Introduction to New Radio](https://www.mpirical.com/courses/introduction-to-new-radio){:target="_blank" rel="noopener"} |Mpirical | Basic|4 hrs |
