@@ -6,8 +6,6 @@ date: 2022-08-23
 layout: post
 description: ""
 ---
-
-
 # Learning Journey #5
 
 ## 5G Empowered Unmanned Smart Facilities Management
@@ -15,6 +13,30 @@ description: ""
 The National University of Singapore (NUS) Centre for 5G Digital Building Technology aims to augment the digital capability of Singapore's construction industry, accelerate 5G training and promote the adoption of 5G technologies in Smart Facilities Management (FM).
 
 See how the Centre harnesses 5G connectivity, cloud-based digital twin and robotics for Smart FM and Build Environment industry applications and seek to transform the way people design, deliver and manage Singapore's built environment.
+
+**Programme**
+
+| Duration | Showcase | 
+| -------- | -------- | 
+| 2 mins     | 5G Concierge robot (LiNUS) to greet guests from industry. LiNUS would interact and chat actively with guests arriving at C5GDBT.    |
+| 5 mins    | “5G Centre Robotics and Tech Overview” video displayed on large video wall and presented by LiNUS, our 5G Concierge robot.    |
+| 10 mins   | Introduction to 5G Centre, 4G vs 5G Connectivity and 5G Hardware Infrastructure
+(5G Antennas, 5G Handphones, 5G Coverage, 5G Speed and Latency, Cloud-based Digital Twin, Robotics, IoT, AR, VR, CCTVs, Holographic TVs, Drones & many more)
+   |
+| 5 mins   | Interactive Exchange & Questions from Guests   |
+| 13 mins     | How to digitalise your physical assets and real estate using Digital Twins to integrate emerging Digital technologies with Facilities Management so as to reduce operation and manpower costs.
+•	3 min Digital Twin DT Video 
+•	Live Demo on Digital Twin Platform (Functionalities & Dashboards)
+    |
+| 5 mins   | How to use Smart CCTV Video Analytics & Digital Twin for People Counting & Human Tracking to enhance Energy Efficiency
+•	Demo on Human Tracking via DT
+   |
+| 10 mins   | How to adopt Targeted Disinfection using 5G-enabled UVC Robot to efficiently & effectively decontaminate indoor spaces" 
+•	Demo on Targeted 5G UVC Disinfection 
+     |
+| 10 mins     | Interactive session between Humans & Robots 
++ LiNUS Phototaking
+     |
 
 ***Please register using the link below.***
 
