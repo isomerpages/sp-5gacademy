@@ -8,3 +8,4 @@ description: ""
 ![5GRI Part 2](/images/manpower-solutions/5GRI_Part%202.jpg)
 ![5GRI Part 3](/images/manpower-solutions/5GRI_Part%203.jpg)
 ![5GRI Part 4](/images/manpower-solutions/5GRI_Part%204.jpg)
+
