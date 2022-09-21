@@ -9,7 +9,6 @@ description: ""
 ![5GRI Part 3](/images/manpower-solutions/5GRI_Part%203.jpg)
 ![5GRI Part 4](/images/manpower-solutions/5GRI_Part%204.jpg)
 
-[REGISTER INTEREST HERE](https://form.gov.sg/6320381774cd730011feff02)
 
 
 
