@@ -78,6 +78,7 @@ third_nav_title: By Acad Institutions
 |[Intermediate Robotic Process Automation](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/intermediate-robotic-process-automation){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Intermediate Visual Analytics Using Power BI](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/intermediate-visual-analytics-using-power-bi){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
 |[Internet of Things(IoT) Systems and Applications](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/internet-of-things(iot)-systems-and-applications){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
+|[Introduction to 5G Networks and its Application in Advanced Manufacturing](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/introduction-to-5g-networks-and-its-application-in-advanced-manufacturing){:target="_blank" rel="noopener"} |Basic|16 hrs |
 |[Introduction to 5G Technology and Applications](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-register/introduction-to-5g-technology-and-applications){:target="_blank" rel="noopener"} |Basic|16 hrs |
 |[Introduction to Advanced Manufacturing](https://www.sp.edu.sg/pace/courses/course-type/online/introduction-to-advanced-manufacturing){:target="_blank" rel="noopener"} |Basic|7.5 hrs |
 |[Introduction to AI and Machine Learning](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/introduction-to-ai-and-machine-learning){:target="_blank" rel="noopener"} |Basic|7 hrs |
@@ -112,4 +113,3 @@ third_nav_title: By Acad Institutions
 |[Visual Analytics using Power BI](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/visual-analytics-using-power-bi){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[VR 360 Filmmaking](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/vr-360-filmmaking){:target="_blank" rel="noopener"} |Basic|16 hrs |
 |[Vulnerability Assessment](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/vulnerability-assessment){:target="_blank" rel="noopener"} |Basic|15 hrs |
-|[5G Networks and its Application in Advanced Manufacturing](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/introduction-to-5g-networks-and-its-application-in-advanced-manufacturing){:target="_blank" rel="noopener"} |Basic|16 hrs |
