@@ -23,7 +23,7 @@ This will be followed by two discussion panels, “Accelerating 5G economy with 
 **DATE: 13 OCTOBER 2022** <br> 
 **TIME: 9.00 pm - 12.00 pm** <br> 
 
-You may find a details agenda on the website: www.5glearningfestival.com 
+You may find a details agenda on the website: [www.5glearningfestival.com](https://www.5glearningfestival.com/)
 
 <style>
 #register {
@@ -42,4 +42,4 @@ You may find a details agenda on the website: www.5glearningfestival.com
 }
 </style>
 
-<center><a href="https://nus.syd1.qualtrics.com/jfe/form/SV_2m1frTchjMCUTmC)" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
+<center><a href="(https://nus.syd1.qualtrics.com/jfe/form/SV_2m1frTchjMCUTmC)" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
