@@ -76,7 +76,7 @@ sections:
       description: "NYP-Starhub APEX 5G  Centre Tour <br> (Partner: Nanyang Polytechnic)"
       button: Find Out More
       url: /resources/events/nyp-starhub-apex-5g-centre
-      image: /images/events/5GLF/5GLF 2022 Learning Journey Header.jpg
+      image: /images/events/5GLF/Apex5G.png
       alt: Image alt text
   - infopic:
       title: "Learning Journey #5"
