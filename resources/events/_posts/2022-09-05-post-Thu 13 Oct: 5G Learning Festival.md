@@ -8,22 +8,22 @@ image: ""
 ---
 # About the Event
 
-The 5G Learning Festival 2022 (5GLF 2022) is a ONE-DAY showcase on how 5G introduces new technological transformation and innovations that can shape industry paradigm. 
+The theme of 2022’s Festival is 5G : **Empowering a Connected  Workforce.** This Festival is a one-day showcase on how 5G introduces new technological transformation and innovations that can shape industry paradigm. 
 
-The Afternoon Programme consists of Onsite Learning Journeys to selected 5G and related technologies sites, where 5G innovations and use cases will be on showcase as to how 5G can be adopted and deployed. 
+There are two parts to the Festival: The first half of the day will focus on panel discussions with key speakers, industry leaders and guests of honour. The second half of the day will be dedicated to Learning Journeys at selected 5G and related technologies partner sites.
 
-There are **10 Site Visits** in total, all happening concurrently on **13 Oct (Thu) at 2pm - 4pm**. 
+The Minister of Communication and Information, **Mrs Josephine Teo** will be joining us, along with IMDA’s Deputy Chief Executive (Development), **Mr Kiren Kumar**, NTUC’s Assistant Director-General, **Mr Gilbert Tan** and Ericsson’s Vice President of Network Solutions, **Mr Raymond Soh**. 
 
-As there is a cap to the number of visitors for each site, please select more than 1 choice and rank them in order of your preference, in order to increase your chances of securing a Learning Journey. 
+The event will see key presentations from PSA Singapore’s Assistant Vice President (Network Infrastructure), **Mr Klenn Chong** and BHG Singapore’s Head of Finance, **Mr Wilson Cheng**. 
 
-***We will email you the detailed programme by 7 Oct 2022.***
+This will be followed by two discussion panels, “Accelerating 5G economy with 5G Workforce” and “How Emerging Technologies Change The Future of Work Panel Discussion”. These discussion panels will be moderated by Dell Technologies’  Vice President & Managing Director Singapore, **Mr Andy Sim** and Microsoft’s Chief Technology & Security Officer Singapore, **Mr Richard Koh**.
+
 
 # Details
 **DATE: 13 OCTOBER 2022** <br> 
-**TIME: 2.00 pm - 4.00 pm** <br> 
-**VENUE: In-person at the selected site**
+**TIME: 9.00 pm - 12.00 pm** <br> 
 
-![List of 10 Learning Journeys](/images/events/5GLF/Learning%20Journey%20Website-3s.png)
+You may find a details agenda on the website: www.5glearningfestival.com 
 
 <style>
 #register {
@@ -42,4 +42,4 @@ As there is a cap to the number of visitors for each site, please select more th
 }
 </style>
 
-<center><a href="[5G Learning Festival 2022 Online Registration (qualtrics.com)](https://nus.syd1.qualtrics.com/jfe/form/SV_2m1frTchjMCUTmC)" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
+<center><a href="https://nus.syd1.qualtrics.com/jfe/form/SV_2m1frTchjMCUTmC)" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
