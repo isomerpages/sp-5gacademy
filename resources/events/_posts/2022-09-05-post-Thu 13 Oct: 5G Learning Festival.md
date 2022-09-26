@@ -18,11 +18,10 @@ The event will see key presentations from PSA Singapore’s Assistant Vice Presi
 
 This will be followed by two discussion panels, “Accelerating 5G economy with 5G Workforce” and “How Emerging Technologies Change The Future of Work Panel Discussion”. These discussion panels will be moderated by Dell Technologies’  Vice President & Managing Director Singapore, **Mr Andy Sim** and Microsoft’s Chief Technology & Security Officer Singapore, **Mr Richard Koh**.
 
-
+![5GLF 2022 image](/images/events/5GLF/5G%20Website%20Header-S.png)
 # Details
 **DATE: 13 OCTOBER 2022** <br> 
 **TIME: 9.00 am - 4.00 pm** <br> 
 
 You may find a detailed agenda on the website: [www.5glearningfestival.com](https://www.5glearningfestival.com/)
 
-![5GLF 2022 image](/images/events/5GLF/5G%20Website%20Header-S.png)
