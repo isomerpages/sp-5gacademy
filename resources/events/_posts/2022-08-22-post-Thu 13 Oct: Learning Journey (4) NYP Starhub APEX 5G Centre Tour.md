@@ -5,7 +5,6 @@ date: 2022-08-22
 layout: post
 description: ""
 ---
-
 # Learning Journey #4
 
 ## NYP-Starhub APEX 5G Centre Tour
@@ -22,7 +21,7 @@ This talk provides fundamentals of the 5G technology and its features such as En
 **TIME: 2.00 pm - 4.00 pm** <br> 
 **VENUE: NYP – Starhub APEX 5G Centre, Nanyang Polytechnic** <br>
 
-
+![Apex5G picture](/images/events/5GLF/Apex5G.png)
 
 
 <style>
