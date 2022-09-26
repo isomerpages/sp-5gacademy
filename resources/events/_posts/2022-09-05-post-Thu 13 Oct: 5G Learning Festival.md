@@ -21,7 +21,7 @@ This will be followed by two discussion panels, “Accelerating 5G economy with 
 
 # Details
 **DATE: 13 OCTOBER 2022** <br> 
-**TIME: 9.00 pm - 12.00 pm** <br> 
+**TIME: 9.00 am - 4.00 pm** <br> 
 
 You may find a detailed agenda on the website: [www.5glearningfestival.com](https://www.5glearningfestival.com/)
 
