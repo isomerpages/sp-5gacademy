@@ -6,8 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-# About the Event
 ![5GLF 2022 image](/images/events/5GLF/5G%20Website%20Header-S.png)
+# About the Event
+
 The theme of 2022’s Festival is **5G : Empowering a Connected  Workforce**. This Festival is a one-day showcase on how 5G introduces new technological transformation and innovations that can shape industry paradigm. 
 
 There are two parts to the Festival: The first half of the day will focus on panel discussions with key speakers, industry leaders and guests of honour. The second half of the day will be dedicated to Learning Journeys at selected 5G and related technologies partner sites.
