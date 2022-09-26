@@ -24,3 +24,5 @@ This will be followed by two discussion panels, “Accelerating 5G economy with 
 **TIME: 9.00 pm - 12.00 pm** <br> 
 
 You may find a detailed agenda on the website: [www.5glearningfestival.com](https://www.5glearningfestival.com/)
+
+![5GLF 2022 image](/images/events/5GLF/5G%20Website%20Header-S.png)
