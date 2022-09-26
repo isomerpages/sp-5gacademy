@@ -162,4 +162,12 @@ sections:
       url: /resources/events/5G-learning-journey "target=_blank"
       image: /images/events/Regular Programmes/5G Learning Journey Cover Image.png
       alt: 5gandaiot-image
+  - infopic:
+      title: 5G Readiness Index (5GRI)
+      subtitle: Manpower Solutions
+      description: (Register your interest now)
+      button: Find Out More
+      url: /manpower-solutions/5gri/
+      image: /images/manpower-solutions/5GRI Cover.jpg
+      alt: 5GRI picture
 ---
