@@ -15,7 +15,7 @@ There are **10 Site Visits** in total, all happening concurrently on **13 Oct (T
 
 As there is a cap to the number of visitors for each site, please select more than 1 choice and rank them in order of your preference, in order to increase your chances of securing a Learning Journey. 
 
-***We will email you the detailed programme by 7 Oct 2022.***
+***We will email you the detailed programme by 11 Oct 2022.***
 
 # Details
 **DATE: 13 OCTOBER 2022** <br> 
