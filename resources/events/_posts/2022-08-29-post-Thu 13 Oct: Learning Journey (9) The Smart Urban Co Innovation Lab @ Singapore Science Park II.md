@@ -6,7 +6,6 @@ date: 2022-08-29
 layout: post
 description: ""
 ---
-
 # Learning Journey #9
 
 ## The Smart Urban Co-Innovation Lab @Singapore Science Park II 
@@ -41,3 +40,5 @@ As a resource integrator of various ecosystem players - local technology startup
 </style>
 
 <center><a href="https://form.gov.sg/628f22d33778d80011a07cc6 " target="_blank"><button id="register" class="btn">Register Now</button></a></center>
+
+***(Thank you for your interest. This event now is over.)***

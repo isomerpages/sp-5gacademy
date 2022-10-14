@@ -42,3 +42,5 @@ As there is a cap to the number of visitors for each site, please select more th
 </style>
 
 <center><a href="https://form.gov.sg/628f22d33778d80011a07cc6" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
+
+***(Thank you for your interest. This event now is over.)***

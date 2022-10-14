@@ -25,3 +25,5 @@ This will be followed by two discussion panels, “Accelerating 5G economy with 
 **TIME: 9.00 am - 4.00 pm** <br> 
 
 You may find a detailed agenda on the website: [www.5glearningfestival.com](https://www.5glearningfestival.com/)
+
+***(Thank you for your interest. This event now is over.)***
