@@ -5,7 +5,6 @@ date: 2022-08-21
 layout: post
 description: ""
 ---
-
 # Learning Journey #3
 
 ## 5G Industry 4.0 Studio Solutions Tour, IBM
@@ -50,3 +49,5 @@ The i4 Studio provides visitors with an immersive and holistic experience throug
 </style>
 
 <center><a href="https://form.gov.sg/628f22d33778d80011a07cc6 " target="_blank"><button id="register" class="btn">Register Now</button></a></center>
+
+***(Thank you for your interest. This event now is over.)***
