@@ -26,4 +26,4 @@ This will be followed by two discussion panels, “Accelerating 5G economy with 
 
 You may find a detailed agenda on the website: [www.5glearningfestival.com](https://www.5glearningfestival.com/)
 
-Thank you for your interest. This webinar now is over.
+***(Thank you for your interest. This webinar now is over.)***
