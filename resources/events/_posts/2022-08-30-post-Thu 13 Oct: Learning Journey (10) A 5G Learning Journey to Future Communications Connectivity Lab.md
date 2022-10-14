@@ -6,7 +6,6 @@ date: 2022-08-30
 layout: post
 description: ""
 ---
-
 # Learning Journey #8
 
 ## Future Communications Connectivity Lab (FCCLab)
@@ -42,3 +41,5 @@ Visitors can look forward to an introduction to the Future Comm. R&D Programme (
 </style>
 
 <center><a href="https://form.gov.sg/628f22d33778d80011a07cc6 " target="_blank"><button id="register" class="btn">Register Now</button></a></center>
+
+***(Thank you for your interest. This event now is over.)***
