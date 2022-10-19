@@ -12,7 +12,7 @@ sections:
       url: https://form.gov.sg/#!/60fc3172d0fde7001257e316" target="_blank
       key_highlights:
         - title: Manpower Solutions
-          description: 3 programmes to choose from
+          description: 4 programmes to choose from
           url: /manpower-solutions/ccp
         - title: Courses
           description: "> 800 courses to choose from"
