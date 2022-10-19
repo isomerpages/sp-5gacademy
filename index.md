@@ -12,7 +12,7 @@ sections:
       url: https://form.gov.sg/#!/60fc3172d0fde7001257e316" target="_blank
       key_highlights:
         - title: Manpower Solutions
-          description: 3 programmes to choose from
+          description: 4 programmes to choose from
           url: /manpower-solutions/ccp
         - title: Courses
           description: "> 800 courses to choose from"
@@ -34,6 +34,46 @@ sections:
       title: Resources
       subtitle: Learn more
       button: View More
+  - infopic:
+      title: 5G Readiness Index (5GRI)
+      subtitle: Manpower Solutions
+      description: (Register your interest now)
+      button: Find Out More
+      url: /manpower-solutions/5gri/
+      image: /images/manpower-solutions/5GRI Cover.jpg
+      alt: 5GRI picture
+  - infopic:
+      title: Operation & Technology Roadmapping (OTR)
+      subtitle: Manpower Solutions
+      description: (Application is now open)
+      button: Find Out More
+      url: /manpower-solutions/OTR
+      image: /images/manpower-solutions/OTR-Cover%20Image-S.png
+      alt: Image alt text
+  - infopic:
+      title: Training Needs Analysis (TNA)
+      subtitle: Manpower Solutions
+      description: (Application is now open)
+      button: Find Out More
+      url: /manpower-solutions/TNA
+      image: /images/manpower-solutions/TNA-Cover%20Image-S.png
+      alt: Image alt text
+  - infopic:
+      title: Career Conversion Programme (CCP)
+      subtitle: Manpower Solutions
+      description: (Application is now open)
+      button: Find Out More
+      url: /manpower-solutions/CCP
+      image: /images/manpower-solutions/5G%20CCP%20Cover%20Image-S.png
+      alt: Image alt text
+  - infopic:
+      title: 5G Learning Journey
+      subtitle: Regular event
+      description: "By Appointment Only <br> VENUE: Singapore Polytechnic"
+      button: Find Out More
+      url: /resources/events/5G-learning-journey "target=_blank"
+      image: /images/events/Regular Programmes/5G Learning Journey Cover Image.png
+      alt: 5gandaiot-image
   - infopic:
       title: 5GLF 2022 - 10 Learning Journeys
       subtitle: 5GLF 2022 - Thu 13 Oct
@@ -130,44 +170,4 @@ sections:
       url: /resources/events/future-communications-connectivity-lab
       image: /images/events/5GLF/FCP_SUTD_Drone_Arena.jpg
       alt: Image alt text
-  - infopic:
-      title: Career Conversion Programme (CCP)
-      subtitle: Manpower Solutions
-      description: (Application is now open)
-      button: Find Out More
-      url: /manpower-solutions/CCP
-      image: /images/manpower-solutions/5G%20CCP%20Cover%20Image-S.png
-      alt: Image alt text
-  - infopic:
-      title: Operation & Technology Roadmapping (OTR)
-      subtitle: Manpower Solutions
-      description: (Application is now open)
-      button: Find Out More
-      url: /manpower-solutions/OTR
-      image: /images/manpower-solutions/OTR-Cover%20Image-S.png
-      alt: Image alt text
-  - infopic:
-      title: Training Needs Analysis (TNA)
-      subtitle: Manpower Solutions
-      description: (Application is now open)
-      button: Find Out More
-      url: /manpower-solutions/TNA
-      image: /images/manpower-solutions/TNA-Cover%20Image-S.png
-      alt: Image alt text
-  - infopic:
-      title: 5G Learning Journey
-      subtitle: Regular event
-      description: "By Appointment Only <br> VENUE: Singapore Polytechnic"
-      button: Find Out More
-      url: /resources/events/5G-learning-journey "target=_blank"
-      image: /images/events/Regular Programmes/5G Learning Journey Cover Image.png
-      alt: 5gandaiot-image
-  - infopic:
-      title: 5G Readiness Index (5GRI)
-      subtitle: Manpower Solutions
-      description: (Register your interest now)
-      button: Find Out More
-      url: /manpower-solutions/5gri/
-      image: /images/manpower-solutions/5GRI Cover.jpg
-      alt: 5GRI picture
 ---
