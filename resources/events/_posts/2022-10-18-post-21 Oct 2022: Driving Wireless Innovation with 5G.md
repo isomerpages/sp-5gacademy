@@ -6,3 +6,5 @@ layout: post
 description: ""
 image: ""
 ---
+![NEC Webinar](/images/events/events/NEC%20Webinar%20eDM.jpg)
+
