@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ![NEC Webinar](/images/events/events/NEC%20Webinar%20eDM.jpg)
 
 <style>
@@ -27,4 +26,4 @@ image: ""
 </style>
 
 
-<center><a  href="[NEC Continental Webinar Registration - 21 Oct 2022 (qualtrics.com)](https://nus.syd1.qualtrics.com/jfe/form/SV_bJlaaZPOZFOfgKa)" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
+<center><a  href="https://nus.syd1.qualtrics.com/jfe/form/SV_bJlaaZPOZFOfgKa" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
