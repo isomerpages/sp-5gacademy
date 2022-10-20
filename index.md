@@ -35,6 +35,14 @@ sections:
       subtitle: Learn more
       button: View More
   - infopic:
+      title: Driving Wireless Innovation with 5G
+      subtitle: Webinar - 21 Oct 2022
+      description: "DATE: 21 OCT 2022 (FRI) <br> TIME: 4:00 pm"
+      button: FIND OUT MORE
+      url: /resources/events/driving-wireless-innovation-with-5g
+      image: /images/events/events/NEC Webinar Cover.jpg
+      alt: NEC Webinar
+  - infopic:
       title: 5G Readiness Index (5GRI)
       subtitle: Manpower Solutions
       description: (Register your interest now)
@@ -176,12 +184,4 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
-  - infopic:
-      title: Driving Wireless Innovation with 5G
-      subtitle: Webinar - 21 Oct 2022
-      description: "DATE: 21 OCT 2022 (FRI) <br> TIME: 4:00 pm"
-      button: FIND OUT MORE
-      url: /resources/events/driving-wireless-innovation-with-5g
-      image: /images/events/events/NEC Webinar Cover.jpg
-      alt: NEC Webinar
 ---
