@@ -8,3 +8,4 @@ image: ""
 ---
 ![NEC Webinar](/images/events/events/NEC%20Webinar%20eDM.jpg)
 
+***(Thank you for your interest. This event  is now over.)***
