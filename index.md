@@ -35,13 +35,13 @@ sections:
       subtitle: Learn more
       button: View More
   - infopic:
-      title: Driving Wireless Innovation with 5G
-      subtitle: Webinar - 21 Oct 2022
-      description: "DATE: 21 OCT 2022 (FRI) <br> TIME: 4:00 pm"
-      button: FIND OUT MORE
-      url: /resources/events/driving-wireless-innovation-with-5g
-      image: /images/events/events/NEC Webinar Cover.jpg
-      alt: NEC Webinar
+      title: First Look at 5G
+      subtitle: Qualcomm Webinar - Wed 30 Nov
+      description: An Introduction to the Technology that is Changing the World
+      button: Find out more
+      alt: Image alt text
+      url: /resources/events/qualcomm
+      image: /images/banners-and-logos/Website Event Placeholder.png
   - infopic:
       title: 5G Readiness Index (5GRI)
       subtitle: Manpower Solutions
@@ -179,11 +179,11 @@ sections:
       image: /images/events/5GLF/FCP_SUTD_Drone_Arena.jpg
       alt: Image alt text
   - infopic:
-      title: First Look at 5G
-      subtitle: Qualcomm Webinar - Wed 30 Nov
-      description: An Introduction to the Technology that is Changing the World
-      button: Find out more
-      alt: Image alt text
-      url: /resources/events/qualcomm
-      image: /images/banners-and-logos/Website Event Placeholder.png
+      title: Driving Wireless Innovation with 5G
+      subtitle: Webinar - 21 Oct 2022
+      description: "DATE: 21 OCT 2022 (FRI) <br> TIME: 4:00 pm"
+      button: FIND OUT MORE
+      url: /resources/events/driving-wireless-innovation-with-5g
+      image: /images/events/events/NEC Webinar Cover.jpg
+      alt: NEC Webinar
 ---
