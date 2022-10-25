@@ -44,4 +44,4 @@ See how the Centre harnesses 5G connectivity, cloud-based digital twin and robot
 
 <center><a href="https://form.gov.sg/628f22d33778d80011a07cc6 " target="_blank"><button id="register" class="btn">Register Now</button></a></center>
 
-***(Thank you for your interest. This event now is over.)***
+***(Thank you for your interest. This event  is now over.)***
