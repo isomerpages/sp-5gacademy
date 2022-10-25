@@ -179,9 +179,11 @@ sections:
       image: /images/events/5GLF/FCP_SUTD_Drone_Arena.jpg
       alt: Image alt text
   - infopic:
-      title: Infopic Title
-      subtitle: NEC Webinar - Fri 21 Oct
-      description: Infopic description
-      button: Button Text
+      title: First Look at 5G
+      subtitle: Qualcomm Webinar - Wed 30 Nov
+      description: An Introduction to the Technology that is Changing the World
+      button: Find out more
       alt: Image alt text
+      url: /resources/events/qualcomm
+      image: /images/banners-and-logos/Website Event Placeholder.png
 ---
