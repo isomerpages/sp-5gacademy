@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Pathway Programmes/.keep
-      - SP Ericsson 5G Certification.md
       - by-areas/.keep
       - by-areas/5g-and-telecoms.md
       - by-areas/internet-of-things-iot.md
