@@ -2,6 +2,8 @@ collections:
   courses:
     output: true
     order:
+      - Pathway Programmes/NUS Professional Certificate in 5G for
+        Telecommunication Technical Professionals.md
       - Pathway Programmes/SP Minor Certification in 5G & AIoT.md
       - Pathway Programmes/SP Ericsson 5G Certification.md
       - Pathway Programmes/.keep
