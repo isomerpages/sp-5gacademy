@@ -2,6 +2,7 @@ collections:
   courses:
     output: true
     order:
+      - Pathway Programmes.md
       - by-areas/.keep
       - by-areas/5g-and-telecoms.md
       - by-areas/internet-of-things-iot.md
