@@ -35,9 +35,9 @@ sections:
       subtitle: Learn more
       button: View More
   - infopic:
-      title: First Look at 5G
+      title: "First Look at 5G: the Technology that is Changing the World"
       subtitle: Qualcomm Webinar - Wed 30 Nov
-      description: An Introduction to the Technology that is Changing the World
+      description: "DATE: 30 NOV 2022 (WED) <br> TIME: 9:30 am"
       button: Find out more
       alt: Image alt text
       url: /resources/events/qualcomm
