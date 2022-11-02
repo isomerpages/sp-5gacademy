@@ -1,6 +1,6 @@
 ---
 title: Training Partners Curriculum Advisory Committee
-permalink: /about-us/tpcac
+permalink: /about-us/tpcac/
 description: ""
 ---
 | Name | Training Partner |
@@ -19,3 +19,6 @@ description: ""
 | Ms Ong Tun Kim      | IBM Singapore  |
 | Ms Joan Yeo    | IBM Singapore   |
 | Ms Cheryl Gan   | IBM Singapore    |
+| Mr Mohamed Idrissi   | 5GWorldPro    |
+| Mr Rafal Sanecki   | IS Wireless Academy    |
+| Mr Gavin Mitchell  | Mpirical   |
