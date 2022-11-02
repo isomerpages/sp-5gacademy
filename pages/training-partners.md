@@ -7,4 +7,4 @@ permalink: /training-partners/
 
 **Training Providers**
 ![](/images/banners-and-logos/Tpcac%20Members%20Logos/TPCAC%204-S.png)
-
+![Overseas TP Members Logos](/images/banners-and-logos/Tpcac%20Members%20Logos/Overseas%20TP%20Members%20Logos.jpg)
