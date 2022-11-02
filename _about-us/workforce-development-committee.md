@@ -37,4 +37,4 @@ permalink: /about-us/wdc/
 ```
 
 ```
-![WDC Group Partners](/images/wdc-members-logos/WDC%20Group%20Logo-14Mar2022.png)
+![WDC Members Logos](/images/wdc-members-logos/WDC%20Members%20Logos.jpg)
