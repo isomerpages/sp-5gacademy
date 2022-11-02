@@ -33,8 +33,5 @@ permalink: /about-us/wdc/
 <br />
 <br />
 
- 
-```
 
-```
 ![WDC Members Logos](/images/wdc-members-logos/WDC%20Members%20Logos.jpg)
