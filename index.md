@@ -41,7 +41,7 @@ sections:
       button: Find out more
       alt: Image alt text
       url: /resources/events/first-look-at-5g/
-      image: /images/banners-and-logos/Website Event Placeholder.png
+      image: /images/events/events/Qualcomm Webinar.jpg
   - infopic:
       title: 5G Readiness Index (5GRI)
       subtitle: Manpower Solutions
