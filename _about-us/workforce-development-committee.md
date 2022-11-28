@@ -7,7 +7,7 @@ permalink: /about-us/wdc/
 |Mr Suresh H Punjabi     |National University of Singapore     | 
 |Mr Loh Yew Chiong     |Singapore Polytechnic     | 
 |Mr Jeremy Lim     |Cisco Systems  |  
-|Mr Reuben Yap     | Cisco Systems |  
+|Mr Alan Kwan     | Cisco Systems |  
 |Mr Andy Sim     |Dell Technologies     | 
 |Mr Eric Seow     |Dell Technologies     | 
 |Mr Raymond Soh     | Ericsson Telecommunications Pte Ltd | 
@@ -28,6 +28,7 @@ permalink: /about-us/wdc/
 |Mr Phillip Taylor     | Siemens Singapore | 
 |Ms Vivian Yik     | Siemens Singapore | 
 |Mr Jenson Chong  |VMware Singapore Pte Ltd | 
+|Mr Rodney Kee  |VMware Singapore Pte Ltd | 
 
 
 <br />
