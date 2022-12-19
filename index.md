@@ -23,8 +23,7 @@ sections:
         - title: Resources
           description: Events and Media Stories
           url: /resources
-      title: Singapore 5G & <br>Telecoms Academy
-      subtitle: Charting Singapore's 5G & Telecoms manpower development with you
+      title: Singapore <br> 5G & Telecoms <br> Academy
   - infobar:
       title: Manpower Development in <br>5G & Related Technologies
       subtitle: What we offer
