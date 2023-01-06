@@ -5,6 +5,10 @@ date: 2022-08-27
 layout: post
 description: ""
 ---
+***(Thank you for your interest. This event  is now over.)***
+
+![5GLF Group Photo_AMTC](/images/events/5GLF/5GLF%20Group%20Photo_AMTC%20Siemens.jpg)
+
 # Learning Journey #7
 
 ## AMTC Facility Tour
