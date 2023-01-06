@@ -5,6 +5,19 @@ date: 2022-08-31
 layout: post
 description: ""
 ---
+***(Thank you for your interest. This event  is now over.)***
+
+![5GLF Group Photo_SP](/images/events/5GLF/5GLF%20Group%20Photo_5G%20AIoT%20Centre,%20SP.jpg)
+![5GLF Group Photo_ARTC](/images/events/5GLF/5GLF%20Group%20Photo_ARTC.jpg)
+![5GLF Group Photo_IBM](/images/events/5GLF/5GLF%20Group%20Photo_i4%20Studio,%20IBM.jpg)
+![5GLF Group Photo_NYP](/images/events/5GLF/5GLF%20Group%20Photo_APEX%205G,%20NYP.jpg)
+![5GLF Group Photo_NUS](/images/events/5GLF/5GLF%20Group%20Photo_Unmanned%20Smart%20Facilities%20Management,%20NUS.jpg)
+![5GLF Group Photo_Schneider](/images/events/5GLF/5GLF%20Group%20Photo_Schneider%20Electric%20Innovation%20Hub%20.jpg)
+![5GLF Group Photo_Siemens](/images/events/5GLF/5GLF%20Group%20Photo_AMTC%20Siemens.jpg)
+![5GLF Group Photo_Singtel](/images/events/5GLF/5GLF%20Group%20Photo_FutureNow%20Innovation%20Centre,%20Singtel.jpg)
+![5GLF Group Photo_Capitaland](/images/events/5GLF/5GLF%20Group%20Photo_Smart%20Urban%20Co-Innovation%20Lab,%20Capitaland.jpg)
+![5GLF Group Photo_SUTD](/images/events/5GLF/5GLF_Group%20Photo_Future%20Communications%20Connectivity%20Lab,%20SUTD.jpg)
+
 # About the Event
 
 The 5G Learning Festival 2022 (5GLF 2022) is a ONE-DAY showcase on how 5G introduces new technological transformation and innovations that can shape industry paradigm. 
