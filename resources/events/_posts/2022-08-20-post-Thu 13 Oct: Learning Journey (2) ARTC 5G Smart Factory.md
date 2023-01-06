@@ -5,6 +5,10 @@ date: 2022-08-20
 layout: post
 description: ""
 ---
+***(Thank you for your interest. This event  is now over.)***
+
+![5GLF Group Photo_ARTC](/images/events/5GLF/5GLF%20Group%20Photo_ARTC.jpg)
+
 # Learning Journey #2
 
 ## ARTC 5G Smart Factory
