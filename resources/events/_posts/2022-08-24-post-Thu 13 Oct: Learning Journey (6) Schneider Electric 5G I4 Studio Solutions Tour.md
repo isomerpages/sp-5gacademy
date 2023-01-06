@@ -6,6 +6,10 @@ date: 2022-08-24
 layout: post
 description: ""
 ---
+***(Thank you for your interest. This event  is now over.)***
+
+![5GLF Group Photo_Schneider](/images/events/5GLF/5GLF%20Group%20Photo_Schneider%20Electric%20Innovation%20Hub%20.jpg)
+
 # Learning Journey #6
 
 ## 5G Industry 4.0 Studio Solutions Tour, Schneider Electric
