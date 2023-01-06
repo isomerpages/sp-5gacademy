@@ -6,6 +6,10 @@ date: 2022-08-30
 layout: post
 description: ""
 ---
+***(Thank you for your interest. This event  is now over.)***
+
+![5GLF Group Photo_SUTD](/images/events/5GLF/5GLF_Group%20Photo_Future%20Communications%20Connectivity%20Lab,%20SUTD.jpg)
+
 # Learning Journey #8
 
 ## Future Communications Connectivity Lab (FCCLab)
