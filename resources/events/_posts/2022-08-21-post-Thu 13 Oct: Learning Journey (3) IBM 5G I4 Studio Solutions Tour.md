@@ -5,6 +5,10 @@ date: 2022-08-21
 layout: post
 description: ""
 ---
+***(Thank you for your interest. This event  is now over.)***
+
+![5GLF Group Photo_IBM](/images/events/5GLF/5GLF%20Group%20Photo_i4%20Studio,%20IBM.jpg)
+
 # Learning Journey #3
 
 ## 5G Industry 4.0 Studio Solutions Tour, IBM
