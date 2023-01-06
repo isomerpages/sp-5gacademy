@@ -26,3 +26,5 @@ image: ""
 </style>
 
 <center><a href="https://nus.syd1.qualtrics.com/jfe/form/SV_6u0U86FOyoACqOi?Q_CHL=rq " target="_blank"><button id="register" class="btn">Register Now</button></a></center>
+
+Thank you for your interest. This webinar now is over.
