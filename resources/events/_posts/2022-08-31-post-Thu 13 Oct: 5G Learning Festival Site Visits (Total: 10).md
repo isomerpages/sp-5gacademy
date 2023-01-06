@@ -20,9 +20,7 @@ description: ""
 
 # About the Event
 
-The 5G Learning Festival 2022 (5GLF 2022) is a ONE-DAY showcase on how 5G introduces new technological transformation and innovations that can shape industry paradigm. 
-
-The Afternoon Programme consists of Onsite Learning Journeys to selected 5G and related technologies sites, where 5G innovations and use cases will be on showcase as to how 5G can be adopted and deployed. 
+This Programme consists of 10 Onsite Learning Journeys to selected 5G and related technologies sites, where 5G innovations and use cases will be on showcase as to how 5G can be adopted and deployed. 
 
 There are **10 Site Visits** in total, all happening concurrently on **13 Oct (Thu) at 2pm - 4pm**. 
 
