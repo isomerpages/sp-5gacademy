@@ -10,6 +10,8 @@ description: ""
 
 ## **5G Learning Journey - Augmenting Solution with 5G & AIoT Technology**
 
+***(Thank you for your interest. This event  is now over.)***
+![5GLF Group Photo_5G AIoT Centre](/images/events/5GLF/5GLF%20Group%20Photo_5G%20AIoT%20Centre,%20SP.jpg)
 
 5G offers many more new possibilities due to its faster data rate and lower latency, boosting sensor responsiveness and real-time cloud monitoring. 
 
