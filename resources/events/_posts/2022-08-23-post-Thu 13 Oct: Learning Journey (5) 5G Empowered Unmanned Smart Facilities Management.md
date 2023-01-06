@@ -6,6 +6,10 @@ date: 2022-08-23
 layout: post
 description: ""
 ---
+***(Thank you for your interest. This event  is now over.)***
+
+![5GLF Group Photo_NUS](/images/events/5GLF/5GLF%20Group%20Photo_Unmanned%20Smart%20Facilities%20Management,%20NUS.jpg)
+
 # Learning Journey #5
 
 ## 5G Empowered Unmanned Smart Facilities Management
