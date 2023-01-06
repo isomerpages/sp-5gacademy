@@ -6,6 +6,10 @@ date: 2022-08-29
 layout: post
 description: ""
 ---
+***(Thank you for your interest. This event  is now over.)***
+
+![5GLF Group Photo_Capitaland](/images/events/5GLF/5GLF%20Group%20Photo_Smart%20Urban%20Co-Innovation%20Lab,%20Capitaland.jpg)
+
 # Learning Journey #9
 
 ## The Smart Urban Co-Innovation Lab @Singapore Science Park II 
@@ -41,4 +45,3 @@ As a resource integrator of various ecosystem players - local technology startup
 
 <center><a href="https://form.gov.sg/628f22d33778d80011a07cc6 " target="_blank"><button id="register" class="btn">Register Now</button></a></center>
 
-***(Thank you for your interest. This event  is now over.)***

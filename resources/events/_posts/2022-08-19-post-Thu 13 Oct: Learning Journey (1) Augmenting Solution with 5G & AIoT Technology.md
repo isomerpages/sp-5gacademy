@@ -6,6 +6,9 @@ date: 2022-08-19
 layout: post
 description: ""
 ---
+***(Thank you for your interest. This event  is now over.)***
+![5GLF Group Photo_5G AIoT Centre](/images/events/5GLF/5GLF%20Group%20Photo_5G%20AIoT%20Centre,%20SP.jpg)
+
 # Learning Journey #1
 
 ## **5G Learning Journey - Augmenting Solution with 5G & AIoT Technology**
@@ -43,4 +46,3 @@ This learning journey will introduce participants the pervasive connectivity and
 
 <center><a href="https://form.gov.sg/628f22d33778d80011a07cc6 " target="_blank"><button id="register" class="btn">Register Now</button></a></center>
 
-***(Thank you for your interest. This event  is now over.)***

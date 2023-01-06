@@ -6,6 +6,10 @@ date: 2022-08-28
 layout: post
 description: ""
 ---
+***(Thank you for your interest. This event  is now over.)***
+
+![5GLF Group Photo_ SIngtel](/images/events/5GLF/5GLF%20Group%20Photo_FutureNow%20Innovation%20Centre,%20Singtel.jpg)
+
 # Learning Journey #8
 
 ## Singtel FutureNow Innovation Centre: <br>5G Capabilities & Use Cases
@@ -45,4 +49,3 @@ VENUE: Singtel FutureNow Innovation Centre, Singtel**
 
 <center><a href="https://form.gov.sg/628f22d33778d80011a07cc6 " target="_blank"><button id="register" class="btn">Register Now</button></a></center>
 
-***(Thank you for your interest. This event  is now over.)***

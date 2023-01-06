@@ -6,6 +6,10 @@ date: 2022-08-23
 layout: post
 description: ""
 ---
+***(Thank you for your interest. This event  is now over.)***
+
+![5GLF Group Photo_NUS](/images/events/5GLF/5GLF%20Group%20Photo_Unmanned%20Smart%20Facilities%20Management,%20NUS.jpg)
+
 # Learning Journey #5
 
 ## 5G Empowered Unmanned Smart Facilities Management
@@ -44,4 +48,3 @@ See how the Centre harnesses 5G connectivity, cloud-based digital twin and robot
 
 <center><a href="https://form.gov.sg/628f22d33778d80011a07cc6 " target="_blank"><button id="register" class="btn">Register Now</button></a></center>
 
-***(Thank you for your interest. This event  is now over.)***
