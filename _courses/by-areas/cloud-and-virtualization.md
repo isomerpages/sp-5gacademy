@@ -1,6 +1,6 @@
 ---
 title: Cloud & Virtualization
-permalink: /courses/cloud
+permalink: /courses/cloud/
 third_nav_title: By Areas
 ---
 <p style="line-height:1"><small>The courses in this area have been provided by members of the Academic Institution Curriculum Advisory Committee (AICAC) and selected Training Providers.</small></p>
@@ -138,7 +138,6 @@ third_nav_title: By Areas
 |[ICDL Cloud computing](https://www.comat.com.sg/classroom-learning/training/cloud/icdl-insights-cloud-computing/){:target="_blank" rel="noopener"}  | COMAT | Basic | 8 hrs |
 |[IIOT Data Management (Modular Unit stackable to Specialist Diploma in Industrial Internet of Things) - (Classroom, Synchronous & Asynchronous) ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/skills-based-modular-courses/stackable-modular-courses/iiot-data-management.html){:target="_blank" rel="noopener"}  | TP | Basic | 60 hrs |
 |[Intelligent Process Automation ](https://www.iss.nus.edu.sg/executive-education/course/detail/intelligent-process--automation/artificial-intelligence){:target="_blank" rel="noopener"}  | NUS | Intermediate | 19.5 hrs |
-|[Internet of Things - Connect Devices Using Thingbox](https://www.ite.edu.sg/courses/course-finder/course/short-course-internet-of-things-connect-devices-using-thingbox){:target="_blank" rel="noopener"}  | ITE | Basic | 12 hrs |
 |[Internet of Things(IoT) Systems and Applications](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/internet-of-things(iot)-systems-and-applications){:target="_blank" rel="noopener"}  | SP | Basic | 16 hrs |
 |[IoT & VR Applications in Healthcare ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/iot-and-vr-applications-in-healthcare.html){:target="_blank" rel="noopener"}  | TP | Basic | 16 hrs |
 |[IoT for Engineers ](https://www.cet.np.edu.sg/courses/iot-for-engineers/){:target="_blank" rel="noopener"}  | NP | Basic | 24 hrs |
