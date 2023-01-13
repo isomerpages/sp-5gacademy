@@ -37,3 +37,5 @@ third_nav_title: By Areas
 |[Cyber Range Workshop for Business Leaders](https://www.ite.edu.sg/courses/course-finder/course/cyber-range-workshop-for-business-leaders){:target="_blank" rel="noopener"}  | ITE | Basic | 3 hrs |
 |[Cyber Risk and Control – Ransomware](https://www.ite.edu.sg/courses/course-finder/course/cyber-risk-and-control-ransomware){:target="_blank" rel="noopener"}  | ITE | Basic | 14 hrs |
 |[Cyber Risk and Control – Social Engineering](https://www.ite.edu.sg/courses/course-finder/course/cyber-risk-and-control-social-engineering){:target="_blank" rel="noopener"}  | ITE | Basic | 14 hrs |
+|[Data Breach Management Plan for PDPA Compliance](https://www.ite.edu.sg/courses/course-finder/course/data-breach-management-plan-for-pdpa-compliance){:target="_blank" rel="noopener"}  | ITE | Basic | 15 hrs |
+|[Cyber Risk and Control – Social Engineering](https://www.ite.edu.sg/courses/course-finder/course/cyber-risk-and-control-social-engineering){:target="_blank" rel="noopener"}  | ITE | Basic | 14 hrs |
