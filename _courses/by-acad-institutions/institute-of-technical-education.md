@@ -46,5 +46,10 @@ third_nav_title: By Acad Institutions
 |[IT Network − Set-up Home & Small Business (Wireless)](https://www.ite.edu.sg/courses/course-finder/course/short-course-it-network-set-up-home-small-business-(wireless)){:target="_blank" rel="noopener"} |Basic|12 hrs |
 |[Micro:bit − Build an Auto-Watering Plant System](https://www.ite.edu.sg/courses/course-finder/course/short-course-micro-bit-build-an-auto-watering-plant-system){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in Coding Foundation for Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-coding-foundation-for-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|21 hrs |
+|[CoC in Micro:bit Applications](https://www.ite.edu.sg/courses/course-finder/course/coc-in-micro-bit-applications){:target="_blank" rel="noopener"} |Basic|7 hrs |
+|[CoC in Introduction to Drone Programming](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-drone-programming){:target="_blank" rel="noopener"} |Basic|7 hrs |
+|[CoC in Introduction to High Performance Computing (HPC)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-high-performance-computing-(hpc)){:target="_blank" rel="noopener"} |Basic|7 hrs |
+|[CoC in Introduction to WiFi 6 & 5G Wireless Technology](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-wifi-6-5g-wireless-technology){:target="_blank" rel="noopener"} |Basic|14 hrs |
+|[CoC in AI for Non-Engineering Learners (Fundamentals of AI with Microsoft Azure)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-ai-for-non-engineering-learners-(fundamentals-of-ai-with-microsoft-azure)){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
