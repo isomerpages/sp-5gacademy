@@ -36,7 +36,7 @@ third_nav_title: By Acad Institutions
 |[Create Your Own Augmented Reality (AR) Applications](https://www.ite.edu.sg/courses/course-finder/course/short-course-create-your-own-augmented-reality-(ar)-applications){:target="_blank" rel="noopener"} |Basic|9 hrs |
 |[Cyber Range Training on Incident Response](https://www.ite.edu.sg/courses/course-finder/course/cyber-range-training-on-incident-response){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[Cyber Range Workshop for Business Leaders](https://www.ite.edu.sg/courses/course-finder/course/cyber-range-workshop-for-business-leaders){:target="_blank" rel="noopener"} |Basic|3 hrs |
-|[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
+|[Cyber Risk and Control – Ransomware](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
