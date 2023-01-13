@@ -38,8 +38,8 @@ third_nav_title: By Acad Institutions
 |[Cyber Range Workshop for Business Leaders](https://www.ite.edu.sg/courses/course-finder/course/cyber-range-workshop-for-business-leaders){:target="_blank" rel="noopener"} |Basic|3 hrs |
 |[Cyber Risk and Control – Ransomware](https://www.ite.edu.sg/courses/course-finder/course/cyber-risk-and-control-ransomware){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[Cyber Risk and Control – Social Engineering](https://www.ite.edu.sg/courses/course-finder/course/cyber-risk-and-control-social-engineering){:target="_blank" rel="noopener"} |Basic|14 hrs |
-|[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
-|[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
+|[Data Analytics using IoT Cloud Platform](https://www.ite.edu.sg/courses/course-finder/course/data-analytics-using-iot-cloud-platform-(online)){:target="_blank" rel="noopener"} |Basic|7 hrs |
+|[Data Breach Management Plan for PDPA Compliance](https://www.ite.edu.sg/courses/course-finder/course/data-breach-management-plan-for-pdpa-compliance){:target="_blank" rel="noopener"} |Basic|15 hrs |
 |[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
