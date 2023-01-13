@@ -53,6 +53,6 @@ third_nav_title: By Acad Institutions
 |[CoC in AI for Non-Engineering Learners (Fundamentals of AI with Microsoft Azure)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-ai-for-non-engineering-learners-(fundamentals-of-ai-with-microsoft-azure)){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in AI for Non-Engineering Learners (Computer Vision with Microsoft Azure)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-ai-for-non-engineering-learners-(computer-vision-with-microsoft-azure)){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[AI For Citizens: A Global AI Public Awareness Program](https://form.gov.sg/62d013f7747cd60012b69f41){:target="_blank" rel="noopener"} |Basic|MLC |
-|[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
-|[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
-|[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
+|[Develop AI Chatbot with Realwork Application](https://form.gov.sg/633e9ddb71c61100125ccbb4){:target="_blank" rel="noopener"} |Basic|MLC |
+|[Power BI Desktop Introductory Course](https://form.gov.sg/#!/62d01a6c68d83900110c7419){:target="_blank" rel="noopener"} |Basic|MLC |
+|[Introduction to Robotic Process Automation (RPA) using UiPath](https://form.gov.sg/#!/62d01a9968d83900110c77a7){:target="_blank" rel="noopener"} |Basic|MLC|
