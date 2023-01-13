@@ -33,9 +33,9 @@ third_nav_title: By Acad Institutions
 |[CoC in Surveillance Technology (Workplace Protection)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-surveillance-technology-workplace-protection){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
 |[CoC in Windows OS Hardening](https://www.ite.edu.sg/courses/course-finder/course/coc-in-windows-os-hardening){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[Home Security - Video Surveillance Made Easy](https://www.ite.edu.sg/courses/course-finder/course/short-course-home-security-video-surveillance-made-easy){:target="_blank" rel="noopener"} |Basic|12 hrs |
-|[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
-|[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
-|[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
+|[Create Your Own Augmented Reality (AR) Applications](https://www.ite.edu.sg/courses/course-finder/course/short-course-create-your-own-augmented-reality-(ar)-applications){:target="_blank" rel="noopener"} |Basic|9 hrs |
+|[Cyber Range Training on Incident Response](https://www.ite.edu.sg/courses/course-finder/course/cyber-range-training-on-incident-response){:target="_blank" rel="noopener"} |Basic|14 hrs |
+|[Cyber Range Workshop for Business Leaders](https://www.ite.edu.sg/courses/course-finder/course/cyber-range-workshop-for-business-leaders){:target="_blank" rel="noopener"} |Basic|3 hrs |
 |[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
