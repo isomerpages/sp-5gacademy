@@ -1,6 +1,6 @@
 ---
 title: Networking
-permalink: /courses/networking
+permalink: /courses/networking/
 third_nav_title: By Areas
 ---
 <p style="line-height:1"><small>The courses in this area have been provided by members of the Academic Institution Curriculum Advisory Committee.</small></p>
@@ -49,7 +49,6 @@ third_nav_title: By Areas
 |[Implementing Industrial Internet of Things for Shop Floor](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/implementing-industrial-internet-of-things-for-shop-floor){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
 |[IT Infrastructure Management (Modular Unit stackable to Diploma in Infocomm & Digital Media (ICT Systems, Services & Support) ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/part-time-diploma-post-diploma-courses/infocomm-and-digital-media-ict-systems-services-and-support.html){:target="_blank" rel="noopener"}  | TP | Basic | 60 hrs |
 |[Network security](https://www.sutd.edu.sg/Education/Academy/Our-Offerings/SkillsFuture-Series-Courses/Cybersecurity/Network-Security){:target="_blank" rel="noopener"}  | SUTD | Basic | 17.5 hrs |
-|[Networking Technology ](https://www.ite.edu.sg/courses/course-finder/course/SGUS-be-an-it-professional-(network-technology)){:target="_blank" rel="noopener"}  | ITE | Basic | 120 hrs |
 |[Post-Diploma Certificate in Computer Networking (part of Diploma (Conversion) in Computer Networking) ](https://www.sp.edu.sg/pace/courses/course-type/part-time-and-post-diplomas/ofr_ap/diploma-(conversion)-in-computer-networking){:target="_blank" rel="noopener"}  | SP | Basic | 114 hrs |
 |[Post-Diploma Certificate in Industrial Networks and Cybersecurity & Process Control (part of Advanced Diploma in Process Control & Instrumentation)](https://www.sp.edu.sg/pace/courses/course-type/part-time-and-post-diplomas/ofr_ap/advanced-diploma-in-process-control-instrumentation){:target="_blank" rel="noopener"}  | SP | Basic | 85 hrs |
 |[Post-Diploma Certificate in Network Administration (part of Diploma (Conversion) in Computer Networking) ](https://www.sp.edu.sg/pace/courses/course-type/part-time-and-post-diplomas/ofr_ap/diploma-(conversion)-in-computer-networking){:target="_blank" rel="noopener"}  | SP | Basic | 88 hrs |
