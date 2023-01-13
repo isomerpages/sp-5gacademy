@@ -1,6 +1,6 @@
 ---
 title: Cybersecurity
-permalink: /courses/cybersecurity
+permalink: /courses/cybersecurity/
 third_nav_title: By Areas
 ---
 <p style="line-height:1"><small>The courses in this area have been provided by members of the Academic Institution Curriculum Advisory Committee.</small></p>
@@ -33,3 +33,7 @@ third_nav_title: By Areas
 |[Certified Information Privacy Professional / Europe (Includes Certification Exam Fee)](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/sii-courses/certified-information-privacy-professional.html){:target="_blank" rel="noopener"}  | TP | Basic | 23 hrs |
 |[Certified Information Privacy Technologist (includes Certification exam fee)](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/sii-courses/certified-information-privacy-technologist.html){:target="_blank" rel="noopener"}  | TP | Basic | 23 hrs |
 |[Certified Information Privacy Technologist (includes Certification exam fee) - Synchronous e-learning)](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/sii-courses/certified-information-privacy-technologist.html){:target="_blank" rel="noopener"}  | TP | Basic | 23 hrs |
+|[Cyber Range Training on Incident Response](https://www.ite.edu.sg/courses/course-finder/course/cyber-range-training-on-incident-response){:target="_blank" rel="noopener"}  | ITE | Basic | 14 hrs |
+|[Cyber Range Workshop for Business Leaders](https://www.ite.edu.sg/courses/course-finder/course/cyber-range-workshop-for-business-leaders){:target="_blank" rel="noopener"}  | ITE | Basic | 3 hrs |
+|[Cyber Risk and Control – Ransomware](https://www.ite.edu.sg/courses/course-finder/course/cyber-risk-and-control-ransomware){:target="_blank" rel="noopener"}  | ITE | Basic | 14 hrs |
+|[Cyber Risk and Control – Social Engineering](https://www.ite.edu.sg/courses/course-finder/course/cyber-risk-and-control-social-engineering){:target="_blank" rel="noopener"}  | ITE | Basic | 14 hrs |
