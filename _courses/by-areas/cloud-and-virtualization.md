@@ -93,7 +93,8 @@ third_nav_title: By Areas
 |[Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (AZ-600)](https://www.comat.com.sg/classroom-learning/training/cloud/configuring-and-operating-a-hybrid-cloud-with-microsoft-azure-stack-hub-az-600/){:target="_blank" rel="noopener"}  | COMAT | Intermediate | 28 hrs |
 |[Cyber Security Foundation Course](https://stmi.nus.edu.sg/event/cyber-security-foundation-course-skillsfuture-series/){:target="_blank" rel="noopener"}  | NUS | Basic | 2 days |
 |[Cybersecurity Fundamentals](https://academy.smu.edu.sg/cybersecurity-fundamentals-3526){:target="_blank" rel="noopener"}  | SMU | Intermediate | 22 hrs |
-|[Data Analytics for Managers (Synchronous e-learning) ](https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/SLE-DAM){:target="_blank" rel="noopener"}  | NUS | Basic | 1 days |
+|[Data Analytics for Managers (Synchronous e-learning) ](https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/SLE-DAM){:target="_blank" rel="noopener"}  | NUS | Basic | 1 day |
+|[Data Analytics using IoT Cloud Platform ](https://www.ite.edu.sg/courses/course-finder/course/data-analytics-using-iot-cloud-platform-(online)){:target="_blank" rel="noopener"}  | ITE | Basic | 7 days |
 |[Designing Intelligent Edge Computing ](https://www.iss.nus.edu.sg/executive-education/course/detail/designing-intelligent-edge--computing/software-systems){:target="_blank" rel="noopener"}  | NUS | Advanced | 26 hrs |
 |[Developing Cybersecurity Architecture ](https://www.iss.nus.edu.sg/executive-education/course/detail/developing--cybersecurity-architecture/cybersecurity){:target="_blank" rel="noopener"}  | NUS | Intermediate | 19.5 hrs |
 |[DevOps Foundation](https://www.bridgingminds.net/DevOps-Foundation){:target="_blank" rel="noopener"}  | BridgingMinds | Basic | 14 hrs |
