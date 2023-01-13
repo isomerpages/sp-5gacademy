@@ -1,6 +1,6 @@
 ---
 title: Institute of Technical Education
-permalink: /courses/by-acad-institutions/ite
+permalink: /courses/by-acad-institutions/ite/
 third_nav_title: By Acad Institutions
 ---
 |Course Title  | Level | Duration |
@@ -32,7 +32,14 @@ third_nav_title: By Acad Institutions
 |[CoC in Smart Living Solutions (e-Home)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-smart-living-solutions-e-home){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in Surveillance Technology (Workplace Protection)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-surveillance-technology-workplace-protection){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
 |[CoC in Windows OS Hardening](https://www.ite.edu.sg/courses/course-finder/course/coc-in-windows-os-hardening){:target="_blank" rel="noopener"} |Basic|14 hrs |
-|[Fiber Broadband Service Commissioning ](https://www.ite.edu.sg/courses/course-finder/course/fiber-broadband-service-commissioning){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Home Security - Video Surveillance Made Easy](https://www.ite.edu.sg/courses/course-finder/course/short-course-home-security-video-surveillance-made-easy){:target="_blank" rel="noopener"} |Basic|12 hrs |
-|[Internet of Things - Connect Devices Using Thingbox](https://www.ite.edu.sg/courses/course-finder/course/short-course-internet-of-things-connect-devices-using-thingbox){:target="_blank" rel="noopener"} |Basic|12 hrs |
-|[Networking Technology ](https://www.ite.edu.sg/courses/course-finder/course/SGUS-be-an-it-professional-(network-technology)){:target="_blank" rel="noopener"} |Basic|120 hrs |
+|[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
+|[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
+|[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
+|[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
+|[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
+|[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
+|[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
+|[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
+|[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
+|[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
