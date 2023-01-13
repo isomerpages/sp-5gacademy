@@ -40,6 +40,11 @@ third_nav_title: By Acad Institutions
 |[Cyber Risk and Control – Social Engineering](https://www.ite.edu.sg/courses/course-finder/course/cyber-risk-and-control-social-engineering){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[Data Analytics using IoT Cloud Platform](https://www.ite.edu.sg/courses/course-finder/course/data-analytics-using-iot-cloud-platform-(online)){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Data Breach Management Plan for PDPA Compliance](https://www.ite.edu.sg/courses/course-finder/course/data-breach-management-plan-for-pdpa-compliance){:target="_blank" rel="noopener"} |Basic|15 hrs |
+|[Fiber Testing in 5G Deployment](https://www.ite.edu.sg/courses/course-finder/course/fiber-testing-in-5g-deployment){:target="_blank" rel="noopener"} |Basic|7 hrs |
+|[Internet of Things - DIY for Smart Home](https://www.ite.edu.sg/courses/course-finder/course/short-course-internet-of-things-diy-for-smart-home){:target="_blank" rel="noopener"} |Basic|7 hrs |
+|[Introduction to 5G Technology](https://www.ite.edu.sg/courses/course-finder/course/introduction-to-5g-technology){:target="_blank" rel="noopener"} |Basic|4 hrs |
+|[IT Network − Set-up Home & Small Business (Wireless)](https://www.ite.edu.sg/courses/course-finder/course/short-course-it-network-set-up-home-small-business-(wireless)){:target="_blank" rel="noopener"} |Basic|12 hrs |
+|[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
