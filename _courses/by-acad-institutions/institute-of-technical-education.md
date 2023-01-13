@@ -48,11 +48,11 @@ third_nav_title: By Acad Institutions
 |[Data Analytics using IoT Cloud Platform](https://www.ite.edu.sg/courses/course-finder/course/data-analytics-using-iot-cloud-platform-(online)){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Data Breach Management Plan for PDPA Compliance](https://www.ite.edu.sg/courses/course-finder/course/data-breach-management-plan-for-pdpa-compliance){:target="_blank" rel="noopener"} |Basic|15 hrs |
 |[Develop AI Chatbot with Realwork Application](https://form.gov.sg/633e9ddb71c61100125ccbb4){:target="_blank" rel="noopener"} |Basic|MLC |
-|[Introduction to Robotic Process Automation (RPA) using UiPath](https://form.gov.sg/#!/62d01a9968d83900110c77a7){:target="_blank" rel="noopener"} |Basic|MLC|
-|[Home Security - Video Surveillance Made Easy](https://www.ite.edu.sg/courses/course-finder/course/short-course-home-security-video-surveillance-made-easy){:target="_blank" rel="noopener"} |Basic|12 hrs |
 |[Fiber Testing in 5G Deployment](https://www.ite.edu.sg/courses/course-finder/course/fiber-testing-in-5g-deployment){:target="_blank" rel="noopener"} |Basic|7 hrs |
+|[Home Security - Video Surveillance Made Easy](https://www.ite.edu.sg/courses/course-finder/course/short-course-home-security-video-surveillance-made-easy){:target="_blank" rel="noopener"} |Basic|12 hrs |
 |[Internet of Things - DIY for Smart Home](https://www.ite.edu.sg/courses/course-finder/course/short-course-internet-of-things-diy-for-smart-home){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Introduction to 5G Technology](https://www.ite.edu.sg/courses/course-finder/course/introduction-to-5g-technology){:target="_blank" rel="noopener"} |Basic|4 hrs |
+|[Introduction to Robotic Process Automation (RPA) using UiPath](https://form.gov.sg/#!/62d01a9968d83900110c77a7){:target="_blank" rel="noopener"} |Basic|MLC|
 |[IT Network − Set-up Home & Small Business (Wireless)](https://www.ite.edu.sg/courses/course-finder/course/short-course-it-network-set-up-home-small-business-(wireless)){:target="_blank" rel="noopener"} |Basic|12 hrs |
 |[Micro:bit − Build an Auto-Watering Plant System](https://www.ite.edu.sg/courses/course-finder/course/short-course-micro-bit-build-an-auto-watering-plant-system){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Power BI Desktop Introductory Course](https://form.gov.sg/#!/62d01a6c68d83900110c7419){:target="_blank" rel="noopener"} |Basic|MLC |
