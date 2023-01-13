@@ -65,9 +65,7 @@ third_nav_title: By Areas
 |[IoT and Hybrid Mobile App Development](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/iot-and-hybrid-mobile-app-development){:target="_blank" rel="noopener"}  | SP | Intermediate | 12 hrs |
 |[IoT Applications in Supply Chain Management ](https://nypeservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=22574){:target="_blank" rel="noopener"}  | NYP | Basic | 7 hrs |
 |[IOT for Electronics Industry_M2](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-register/iot-for-electronics-industry){:target="_blank" rel="noopener"}  | SP | Intermediate | 8 hrs |
-|[IoT for Engineers ](https://www.cet.np.edu.sg/courses/iot-for-engineers/){:target="_blank" rel="noopener"}  | NP | Basic | 24 hrs |
 |[IoT Sensor Networks ](https://nusmods.com/modules/EE5024/io-t-sensor-networks){:target="_blank" rel="noopener"}  | NUS | Basic | 3 days |
-|[IoT with MQTT and NodeMCUArduino ](https://www.np.edu.sg/lifelonglearning/Pages/IoT-with-MQTT-and-NodeMCU-Arduino.aspx){:target="_blank" rel="noopener"}  | NP | Basic | 8 hrs |
 |[Internet of Things - DIY for Smart Home](https://www.ite.edu.sg/courses/course-finder/course/short-course-internet-of-things-diy-for-smart-home){:target="_blank" rel="noopener"}  | ITE | Basic | 7 hrs |
 |[Leading And Developing Staff Capability In F&B Through Change Management](https://www.rp.edu.sg/ace/short-course/Detail/leading-and-developing-staff-capability-in-f-b-through-change-management){:target="_blank" rel="noopener"}  | RP | Basic | 8 hrs |
 |[Learn how to implement Internet of Things (IoT) Solution in a 2-day BootCamp](https://sitlearn.singaporetech.edu.sg/individualcourse/?id=d5e3ae8e-ca59-e911-a992-000d3a8288ff){:target="_blank" rel="noopener"}  | SIT | Basic | 16 hrs |
@@ -89,7 +87,6 @@ third_nav_title: By Areas
 |[Robotics Integration and Adaptation [Modular unit stackable to Specialist Diploma in Robotics & Automation]](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/skills-based-modular-courses/stackable-modular-courses/robotics-integration-and-adaptation.html){:target="_blank" rel="noopener"}  | TP | Basic | 60 hrs |
 |[Securing IoT](https://www.iss.nus.edu.sg/executive-education/course/detail/securing--iot/cybersecurity){:target="_blank" rel="noopener"}  | NUS | Basic | 13 hrs |
 |[SkillsFuture for Digital Workplace](https://webibmcourse.mybluemix.net/DigitalCourse){:target="_blank" rel="noopener"}  | IBM | Basic | 14 hrs |
-|[Smart Building Operations and the Internet of Things](https://www.cet.np.edu.sg/courses/smart-building-operations-and-the-internet-of-things/){:target="_blank" rel="noopener"}  | NP | Basic | 24 hrs |
 |[Smart IoT Basics](https://nypeservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=24885){:target="_blank" rel="noopener"}  | NYP | Basic | 7 hrs |
 |[Smart Sensors and Devices (Modular Unit stackable to Specialist Diploma in Industrial Internet of Things)](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/skills-based-modular-courses/stackable-modular-courses/smart-sensors-and-devices.html){:target="_blank" rel="noopener"}  | TP | Basic | 60 hrs |
 |[The Future of Work – Harnessing the Limitless Potential of AI and IOT](https://academy.smu.edu.sg/future-work-harnessing-limitless-potential-ai-and-iot-1011){:target="_blank" rel="noopener"}  | SMU | Basic | 7 hrs |
