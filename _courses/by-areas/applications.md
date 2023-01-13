@@ -88,7 +88,6 @@ third_nav_title: By Areas
 |[Robotics and Automation Application](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/robotics-and-automation-application){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
 |[RPA and IPA - Strategy and Management ](https://www.iss.nus.edu.sg/executive-education/course/detail/rpa-and-ipa-strategy-and-management/digital-strategy-leadership){:target="_blank" rel="noopener"}  | NUS | Advanced | 13 hrs |
 |[Secure Software Development Lifecycle for Agile](https://www.iss.nus.edu.sg/executive-education/course/detail/secure-software-development-lifecycle-for--agile/software-systems){:target="_blank" rel="noopener"}  | NUS | Intermediate | 19.5 hrs |
-|[Smart Building Operations and the Internet of Things ](https://www.cet.np.edu.sg/courses/smart-building-operations-and-the-internet-of-things/){:target="_blank" rel="noopener"}  | NP | Basic | 24 hrs |
 |[Software Robots - Best Practices](https://www.iss.nus.edu.sg/executive-education/course/detail/software-robots--best-practices){:target="_blank" rel="noopener"}  | NUS | Intermediate | 13 hrs |
 |[Spatial Reasoning from Sensor Data](https://www.iss.nus.edu.sg/executive-education/course/detail/spatial-reasoning-from-sensor--data){:target="_blank" rel="noopener"}  | NUS | Advanced | 19.5 hrs |
 |[Systems Thinking](https://www.sutd.edu.sg/Education/Academy/Our-Offerings/SkillsFuture-Series-Courses/Design,-Innovation-and-Sustainability/Systems-Thinking){:target="_blank" rel="noopener"}  | SUTD | Basic | 14 hrs |
