@@ -44,7 +44,7 @@ third_nav_title: By Acad Institutions
 |[Internet of Things - DIY for Smart Home](https://www.ite.edu.sg/courses/course-finder/course/short-course-internet-of-things-diy-for-smart-home){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Introduction to 5G Technology](https://www.ite.edu.sg/courses/course-finder/course/introduction-to-5g-technology){:target="_blank" rel="noopener"} |Basic|4 hrs |
 |[IT Network − Set-up Home & Small Business (Wireless)](https://www.ite.edu.sg/courses/course-finder/course/short-course-it-network-set-up-home-small-business-(wireless)){:target="_blank" rel="noopener"} |Basic|12 hrs |
-|[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
-|[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
+|[Micro:bit − Build an Auto-Watering Plant System](https://www.ite.edu.sg/courses/course-finder/course/short-course-micro-bit-build-an-auto-watering-plant-system){:target="_blank" rel="noopener"} |Basic|7 hrs |
+|[CoC in Coding Foundation for Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-coding-foundation-for-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|21 hrs |
 |[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
