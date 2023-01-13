@@ -68,6 +68,7 @@ third_nav_title: By Areas
 |[IoT for Engineers ](https://www.cet.np.edu.sg/courses/iot-for-engineers/){:target="_blank" rel="noopener"}  | NP | Basic | 24 hrs |
 |[IoT Sensor Networks ](https://nusmods.com/modules/EE5024/io-t-sensor-networks){:target="_blank" rel="noopener"}  | NUS | Basic | 3 days |
 |[IoT with MQTT and NodeMCUArduino ](https://www.np.edu.sg/lifelonglearning/Pages/IoT-with-MQTT-and-NodeMCU-Arduino.aspx){:target="_blank" rel="noopener"}  | NP | Basic | 8 hrs |
+|[Internet of Things - DIY for Smart Home](https://www.ite.edu.sg/courses/course-finder/course/short-course-internet-of-things-diy-for-smart-home){:target="_blank" rel="noopener"}  | ITE | Basic | 7 hrs |
 |[Leading And Developing Staff Capability In F&B Through Change Management](https://www.rp.edu.sg/ace/short-course/Detail/leading-and-developing-staff-capability-in-f-b-through-change-management){:target="_blank" rel="noopener"}  | RP | Basic | 8 hrs |
 |[Learn how to implement Internet of Things (IoT) Solution in a 2-day BootCamp](https://sitlearn.singaporetech.edu.sg/individualcourse/?id=d5e3ae8e-ca59-e911-a992-000d3a8288ff){:target="_blank" rel="noopener"}  | SIT | Basic | 16 hrs |
 |[Maximising Business Value through Understanding Digital Transformation ](https://www.ntu.edu.sg/pace/programmes/detail/maximising-business-value-through-understanding-digital-transformation){:target="_blank" rel="noopener"}  | NTU | Basic | 7 hrs |
