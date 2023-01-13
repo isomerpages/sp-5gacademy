@@ -1,6 +1,6 @@
 ---
 title: Internet of Things (IoT)
-permalink: /courses/iot
+permalink: /courses/iot/
 third_nav_title: By Areas
 ---
 <p style="line-height:1"><small>The courses in this area have been provided by members of the Academic Institution Curriculum Advisory Committee (AICAC) and selected Training Providers.</small></p>
@@ -44,7 +44,6 @@ third_nav_title: By Areas
 |[Digital Leadership in Advanced Manufacturing ](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/digital-leadership-in-advanced-manufacturing){:target="_blank" rel="noopener"}  | SP | Basic | 38 hrs |
 |[Envisioning 5G IoT Solutions](https://www.iss.nus.edu.sg/executive-education/course/detail/Envisioning-5G-IoT-Solutions/software-systems){:target="_blank" rel="noopener"}  | NUS | Intermediate | 19.5 hrs |
 |[Feature Engineering & Analytics using IOT Data ](https://www.iss.nus.edu.sg/executive-education/course/detail/feature-engineering-and-analytics-using-iot--data/data-science){:target="_blank" rel="noopener"}  | NUS | Intermediate | 19.5 hrs |
-|[Fiber Broadband Service Commissioning ](https://www.ite.edu.sg/courses/course-finder/course/fiber-broadband-service-commissioning){:target="_blank" rel="noopener"}  | ITE | Basic | 7 hrs |
 |[Getting Started with AI](https://webibmcourse.mybluemix.net/AICourse){:target="_blank" rel="noopener"}  | IBM | Basic | 14 hrs |
 |[Graduate Certificate in Digital Finance Module 4: IOT and Cloud](https://academy.smu.edu.sg/graduate-certificate-digital-finance-module-4-iot-and-cloud-1971){:target="_blank" rel="noopener"}  | SMU | Basic | 16 hrs |
 |[Graduate Certificate in Digital Finance Module 4: IOT and Cloud (Synchronous e-learning)](https://academy.smu.edu.sg/graduate-certificate-digital-finance-module-4-iot-and-cloud-1971){:target=""_blank"" rel=""noopener""}  | SMU | Basic | 16 hrs |"
@@ -57,7 +56,6 @@ third_nav_title: By Areas
 |[Implementing Industrial Internet of Things for Shop Floor](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/implementing-industrial-internet-of-things-for-shop-floor){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
 |[Industry 4.0 & Supply Chain Transformation: Developing a Digital Supply Chain Strategic Mindset](https://academy.smu.edu.sg/industry-40-supply-chain-transformation-developing-digital-supply-chain-strategic-mindset-1941){:target=""_blank"" rel=""noopener""}  | SMU | Basic | 21 hrs |"
 |[Industry 4.0 & Supply Chain Transformation: Developing a Digital Supply Chain Strategic Mindset (Synchronous E-learning)](https://academy.smu.edu.sg/industry-40-supply-chain-transformation-developing-digital-supply-chain-strategic-mindset-1941){:target=""_blank"" rel=""noopener""}  | SMU | Basic | 23 hrs |"
-|[Internet of Things - Connect Devices Using Thingbox](https://www.ite.edu.sg/courses/course-finder/course/short-course-internet-of-things-connect-devices-using-thingbox){:target="_blank" rel="noopener"}  | ITE | Basic | 12 hrs |
 |[Internet of Things (IoT)](https://www.suss.edu.sg/courses/detail/eng233?urlname=beng-electronics-behe){:target="_blank" rel="noopener"}  | SUSS | Intermediate | 36 hrs |
 |[Internet of Things(IoT) Systems and Applications](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/internet-of-things(iot)-systems-and-applications){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
 |[Internet of Things: Technology & Applications ](https://academy.smu.edu.sg/internet-things-technology-applications-1396){:target="_blank" rel="noopener"}  | SMU | Basic | 15 hrs |
