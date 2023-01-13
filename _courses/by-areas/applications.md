@@ -1,6 +1,6 @@
 ---
 title: Applications
-permalink: /courses/applications
+permalink: /courses/applications/
 third_nav_title: By Areas
 ---
 <p style="line-height:1"><small>The courses in this area have been provided by members of the Academic Institution Curriculum Advisory Committee.</small></p>
@@ -32,6 +32,7 @@ third_nav_title: By Areas
 |[Collaborative Robot Cell Integrated with Vision for Shop Floor Applications](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/collaborative-robot-cell-integrated-with-vision-for-shop-floor-applications){:target="_blank" rel="noopener"}  | SP | Intermediate | 24 hrs |
 |[Collaborative Robots Programming and Applications](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-register/collaborative-robots-programming-and-applications){:target="_blank" rel="noopener"}  | SP | Intermediate | 40 hrs |
 |[Conversational UIs](https://www.iss.nus.edu.sg/executive-education/course/detail/conversational--interfaces/data-science){:target="_blank" rel="noopener"}  | NUS | Advanced | 26 hrs |
+|[Create Your Own Augmented Reality (AR) Applications](https://www.ite.edu.sg/courses/course-finder/course/short-course-create-your-own-augmented-reality-(ar)-applications){:target="_blank" rel="noopener"}  | ITE | Basic | 9 hrs |
 |[Data Analytics for Industrial Applications](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-register/data-analytics-for-industrial-applications){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
 |[Design Secure Mobile Architecture](https://www.iss.nus.edu.sg/executive-education/course/detail/design-secure-mobile--architecture/software-systems){:target="_blank" rel="noopener"}  | NUS | Intermediate | 19.5 hrs |
 |[DevOps Engineering and Automation](https://www.iss.nus.edu.sg/executive-education/course/detail/devops-engineering-and--automation/software-systems){:target="_blank" rel="noopener"}  | NUS | Intermediate | 26 hrs |
