@@ -1,6 +1,6 @@
 ---
 title: Networking
-permalink: /courses/networking
+permalink: /courses/networking/
 third_nav_title: By Areas
 ---
 <p style="line-height:1"><small>The courses in this area have been provided by members of the Academic Institution Curriculum Advisory Committee.</small></p>
@@ -48,13 +48,12 @@ third_nav_title: By Areas
 |[Home Security - Video Surveillance Made Easy](https://www.ite.edu.sg/courses/course-finder/course/short-course-home-security-video-surveillance-made-easy){:target="_blank" rel="noopener"}  | ITE | Basic | 12 hrs |
 |[Implementing Industrial Internet of Things for Shop Floor](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/implementing-industrial-internet-of-things-for-shop-floor){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
 |[IT Infrastructure Management (Modular Unit stackable to Diploma in Infocomm & Digital Media (ICT Systems, Services & Support) ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/part-time-diploma-post-diploma-courses/infocomm-and-digital-media-ict-systems-services-and-support.html){:target="_blank" rel="noopener"}  | TP | Basic | 60 hrs |
+|[IT Network − Set-up Home & Small Business (Wireless)](https://www.ite.edu.sg/courses/course-finder/course/short-course-it-network-set-up-home-small-business-(wireless)){:target="_blank" rel="noopener"}  | ITE | Basic | 12 hrs |
 |[Network security](https://www.sutd.edu.sg/Education/Academy/Our-Offerings/SkillsFuture-Series-Courses/Cybersecurity/Network-Security){:target="_blank" rel="noopener"}  | SUTD | Basic | 17.5 hrs |
-|[Networking Technology ](https://www.ite.edu.sg/courses/course-finder/course/SGUS-be-an-it-professional-(network-technology)){:target="_blank" rel="noopener"}  | ITE | Basic | 120 hrs |
 |[Post-Diploma Certificate in Computer Networking (part of Diploma (Conversion) in Computer Networking) ](https://www.sp.edu.sg/pace/courses/course-type/part-time-and-post-diplomas/ofr_ap/diploma-(conversion)-in-computer-networking){:target="_blank" rel="noopener"}  | SP | Basic | 114 hrs |
 |[Post-Diploma Certificate in Industrial Networks and Cybersecurity & Process Control (part of Advanced Diploma in Process Control & Instrumentation)](https://www.sp.edu.sg/pace/courses/course-type/part-time-and-post-diplomas/ofr_ap/advanced-diploma-in-process-control-instrumentation){:target="_blank" rel="noopener"}  | SP | Basic | 85 hrs |
 |[Post-Diploma Certificate in Network Administration (part of Diploma (Conversion) in Computer Networking) ](https://www.sp.edu.sg/pace/courses/course-type/part-time-and-post-diplomas/ofr_ap/diploma-(conversion)-in-computer-networking){:target="_blank" rel="noopener"}  | SP | Basic | 88 hrs |
 |[Post-Diploma Certificate in Robotics & Automation Systems (Part of Specialist Diploma in Robotics & Automation Systems Design) ](https://www.nyp.edu.sg/schools/seg/lifelong-learning/elp-specialist-diploma-in-robotics-and-automation-systems-design.html){:target="_blank" rel="noopener"}  | NYP | Basic | 142 hrs |
 |[Practical Approach to Wireless and Computer Networks ](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/practical-approach-to-wireless-and-computer-networks){:target="_blank" rel="noopener"}  | SP | Basic | 14.5 hrs |
 |[Servers Administration and Security (Modular Unit stackable to Diploma in Infocomm & Digital Media (ICT Systems, Services & Support)) ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/part-time-diploma-post-diploma-courses/infocomm-and-digital-media-ict-systems-services-and-support.html){:target="_blank" rel="noopener"}  | TP | Basic | 60 hrs |
-|[Smart Building Operations and the Internet of Things ](https://www.cet.np.edu.sg/courses/smart-building-operations-and-the-internet-of-things/){:target="_blank" rel="noopener"}  | NP | Basic | 24 hrs |
 |[TPOL - The Internet of Things and Everything - IoT/IoE ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/online-courses/the-internet-of-things-and-everything-iot-ioe.html){:target="_blank" rel="noopener"}  | TP | Basic | 20 hrs |

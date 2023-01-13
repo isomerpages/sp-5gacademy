@@ -1,6 +1,6 @@
 ---
 title: Applications
-permalink: /courses/applications
+permalink: /courses/applications/
 third_nav_title: By Areas
 ---
 <p style="line-height:1"><small>The courses in this area have been provided by members of the Academic Institution Curriculum Advisory Committee.</small></p>
@@ -29,9 +29,13 @@ third_nav_title: By Areas
 |[Certificate in Internet of Things (IoT) Technologies (part of Diploma in Engineering (Computer Network & Systems)) ](https://www.sp.edu.sg/pace/courses/course-type/part-time-and-post-diplomas/ofr_ap/diploma-in-engineering-(computer-network-systems)){:target="_blank" rel="noopener"}  | SP | Intermediate | 147 hrs |
 |[Certificate in IoT in Manufacturing (IMF) (part of Diploma in Engineering (Advanced Manufacturing)) ](https://www.sp.edu.sg/pace/courses/course-type/part-time-and-post-diplomas/ofr_ap/diploma-in-engineering-(advanced-manufacturing)){:target="_blank" rel="noopener"}  | SP | Intermediate | 180 hrs |
 |[Certificate in Smart Systems & Cloud Computing (part of Specialist Diploma in Digital Technologies for a Smart City) ](https://www.sp.edu.sg/pace/courses/course-type/part-time-and-post-diplomas/ofr_ap/specialist-diploma-in-digital-technologies-for-a-smart-city){:target="_blank" rel="noopener"}  | SP | Intermediate | 135 hrs |
+|[CoC in Micro:bit Applications](https://www.ite.edu.sg/courses/course-finder/course/coc-in-micro-bit-applications){:target="_blank" rel="noopener"}  | ITE | Basic | 7 hrs |
+|[CoC in Introduction to Drone Programming](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-drone-programming){:target="_blank" rel="noopener"}  | ITE | Basic | 7 hrs |
+|[CoC in Introduction to High Performance Computing (HPC)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-high-performance-computing-(hpc)){:target="_blank" rel="noopener"}  | ITE | Basic | 7 hrs |
 |[Collaborative Robot Cell Integrated with Vision for Shop Floor Applications](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/collaborative-robot-cell-integrated-with-vision-for-shop-floor-applications){:target="_blank" rel="noopener"}  | SP | Intermediate | 24 hrs |
 |[Collaborative Robots Programming and Applications](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-register/collaborative-robots-programming-and-applications){:target="_blank" rel="noopener"}  | SP | Intermediate | 40 hrs |
 |[Conversational UIs](https://www.iss.nus.edu.sg/executive-education/course/detail/conversational--interfaces/data-science){:target="_blank" rel="noopener"}  | NUS | Advanced | 26 hrs |
+|[Create Your Own Augmented Reality (AR) Applications](https://www.ite.edu.sg/courses/course-finder/course/short-course-create-your-own-augmented-reality-(ar)-applications){:target="_blank" rel="noopener"}  | ITE | Basic | 9 hrs |
 |[Data Analytics for Industrial Applications](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-register/data-analytics-for-industrial-applications){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
 |[Design Secure Mobile Architecture](https://www.iss.nus.edu.sg/executive-education/course/detail/design-secure-mobile--architecture/software-systems){:target="_blank" rel="noopener"}  | NUS | Intermediate | 19.5 hrs |
 |[DevOps Engineering and Automation](https://www.iss.nus.edu.sg/executive-education/course/detail/devops-engineering-and--automation/software-systems){:target="_blank" rel="noopener"}  | NUS | Intermediate | 26 hrs |
@@ -69,6 +73,7 @@ third_nav_title: By Areas
 |[IoT and Hybrid Mobile App Development](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/iot-and-hybrid-mobile-app-development){:target="_blank" rel="noopener"}  | SP | Intermediate | 12 hrs |
 |[Machine Learning, Deep Learning and Applications in Finance](https://www.suss.edu.sg/courses/detail/fin525){:target="_blank" rel="noopener"}  | SUSS | Intermediate | 36 hrs |
 |[Machine Reasoning ](https://www.iss.nus.edu.sg/executive-education/course/detail/machine--reasoning){:target="_blank" rel="noopener"}  | NUS | Intermediate | 26 hrs |
+|[Micro:bit − Build an Auto-Watering Plant System ](https://www.ite.edu.sg/courses/course-finder/course/short-course-micro-bit-build-an-auto-watering-plant-system){:target="_blank" rel="noopener"}  | ITE | Basic | 7 hrs |
 |[Open Platform Communications Unified Architecture (OPC UA) for Advanced Manufacturing](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/open-platform-communications-unified-architecture-(opc-ua)-for-advanced-manufacturing){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
 |[Platform Security](https://www.iss.nus.edu.sg/executive-education/course/detail/platform--security/software-systems){:target="_blank" rel="noopener"}  | NUS | Advanced | 26 hrs |
 |[Post-Diploma Certificate in Industrial Networks and Cybersecurity & Process Control (part of Advanced Diploma in Process Control & Instrumentation)](https://www.sp.edu.sg/pace/courses/course-type/part-time-and-post-diplomas/ofr_ap/advanced-diploma-in-process-control-instrumentation){:target="_blank" rel="noopener"}  | SP | Basic | 85 hrs |
@@ -83,7 +88,6 @@ third_nav_title: By Areas
 |[Robotics and Automation Application](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/robotics-and-automation-application){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
 |[RPA and IPA - Strategy and Management ](https://www.iss.nus.edu.sg/executive-education/course/detail/rpa-and-ipa-strategy-and-management/digital-strategy-leadership){:target="_blank" rel="noopener"}  | NUS | Advanced | 13 hrs |
 |[Secure Software Development Lifecycle for Agile](https://www.iss.nus.edu.sg/executive-education/course/detail/secure-software-development-lifecycle-for--agile/software-systems){:target="_blank" rel="noopener"}  | NUS | Intermediate | 19.5 hrs |
-|[Smart Building Operations and the Internet of Things ](https://www.cet.np.edu.sg/courses/smart-building-operations-and-the-internet-of-things/){:target="_blank" rel="noopener"}  | NP | Basic | 24 hrs |
 |[Software Robots - Best Practices](https://www.iss.nus.edu.sg/executive-education/course/detail/software-robots--best-practices){:target="_blank" rel="noopener"}  | NUS | Intermediate | 13 hrs |
 |[Spatial Reasoning from Sensor Data](https://www.iss.nus.edu.sg/executive-education/course/detail/spatial-reasoning-from-sensor--data){:target="_blank" rel="noopener"}  | NUS | Advanced | 19.5 hrs |
 |[Systems Thinking](https://www.sutd.edu.sg/Education/Academy/Our-Offerings/SkillsFuture-Series-Courses/Design,-Innovation-and-Sustainability/Systems-Thinking){:target="_blank" rel="noopener"}  | SUTD | Basic | 14 hrs |

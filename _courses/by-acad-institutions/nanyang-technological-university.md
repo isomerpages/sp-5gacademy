@@ -1,6 +1,6 @@
 ---
 title: Nanyang Technological University
-permalink: /courses/by-acad-institutions/ntu
+permalink: /courses/by-acad-institutions/ntu/
 third_nav_title: By Acad Institutions
 ---
 |Course Title  | Level | Duration |
@@ -42,8 +42,6 @@ third_nav_title: By Acad Institutions
 |[CS105A: Cyber Crime and Governance: Fundamentals of Security Management, Digital Forensics and Audit (synchronous e-learning)](http://www.ntc.ntu.edu.sg/Programmes/EntrepreneurshipDevelopmentProgrammes/Entrepreneurship%20Development%20Programmes%20(English)/Pages/Cyber%20Security%20(Additional%20Pages)/CS105A-Fundamentals-of-Security-Management,-Digital-Forensics-and-Audit.aspx){:target="_blank" rel="noopener"} |Basic|6 hrs |
 |[CS105B: Cyber Crime and Governance: Cyber Crime landscape of Singapore and Security Regulations in Singapore](http://www.ntc.ntu.edu.sg/Programmes/EntrepreneurshipDevelopmentProgrammes/Entrepreneurship%20Development%20Programmes%20(English)/Pages/Management-Track-CS105.aspx){:target="_blank" rel="noopener"} |Intermediate|7 hrs |
 |[CS105B: Cyber Crime and Governance: Cyber Crime landscape of Singapore and Security Regulations in Singapore (synchronous e-learning)](http://www.ntc.ntu.edu.sg/Programmes/EntrepreneurshipDevelopmentProgrammes/Entrepreneurship%20Development%20Programmes%20(English)/Pages/Management-Track-CS105.aspx){:target="_blank" rel="noopener"} |Basic|6 hrs |
-|[CZ3005 Artificial Intelligence](https://www.ntu.edu.sg/pace/programmes/detail/cz3005-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|39 hrs |
-|[CZ4024 Cryptography and Network Security](https://www.ntu.edu.sg/pace/programmes/detail/cz4024-cryptography-and-network-security){:target="_blank" rel="noopener"} |Basic|39 hrs |
 |[Data Analytics and Market Sensing (Synchronous e-learning) ](https://www.ntu.edu.sg/pace/programmes/detail/data-analytics-and-market-sensing){:target="_blank" rel="noopener"} |Basic|16 hrs |
 |[Entrepreneurship & Innovation in a Digital Future ](https://www.ntu.edu.sg/pace/programmes/detail/entrepreneurship-innovation-in-a-digital-future){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Fintech Disruption for the Future of Finance (Synchronous E-learning)](http://www.ntc.ntu.edu.sg/Programmes/EntrepreneurshipDevelopmentProgrammes/Entrepreneurship%20Development%20Programmes%20(English)/Pages/Fintech%20Disruption%20for%20the%20Future%20of%20Finance.aspx){:target="_blank" rel="noopener"} |Basic|39 hrs |

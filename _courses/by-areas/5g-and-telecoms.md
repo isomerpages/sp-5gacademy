@@ -55,6 +55,7 @@ third_nav_title: By Areas
 |[Advanced Certificate in Technical Fundamentals of Cybersecurity Module 4: Introduction to 5G Networks](https://academy.smu.edu.sg/advanced-certificate-technical-fundamentals-cybersecurity-module-4-introduction-5g-networks-5231){:target="_blank" rel="noopener"}  | SMU | Basic | 31 hrs |
 |[Analyzing the 5G Core](https://www.mpirical.com/courses/analyzing-the-5g-core){:target="_blank" rel="noopener"} |Mpirical | Advanced|18 hrs |
 |[Certified Kubernetes Administrator - CKA](https://alta3.com/overview-cka-training){:target="_blank" rel="noopener"}  | Alta3 Research | Intermediate | 30 hrs |
+|[CoC in Introduction to WiFi 6 & 5G Wireless Technology](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-wifi-6-5g-wireless-technology){:target="_blank" rel="noopener"}  | ITE | Basic | 14 hrs |
 |[C-RAN for 5G](https://www.mpirical.com/courses/c-ran-for-5g){:target="_blank" rel="noopener"} |Mpirical | Intermediate|3 hrs |
 |[Delivering 5G Voice](https://www.mpirical.com/courses/delivering-5g-voice){:target="_blank" rel="noopener"} | Mpirical | Intermediate|12 hrs |
 |[Deploying Open RAN for 5G](https://www.mpirical.com/courses/deploying-open-ran-for-5g){:target="_blank" rel="noopener"} | Mpirical | Intermediate|3 hrs |
@@ -62,9 +63,11 @@ third_nav_title: By Areas
 |[Digital Workplace Transformation with 5G and Emerging Technologies](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-register/digital-workplace-transformation-with-5g-and-emerging-technologies){:target="_blank" rel="noopener"}  | SP | Basic | 14 hrs |
 |[Envisioning 5G IoT Solutions](https://www.iss.nus.edu.sg/executive-education/course/detail/Envisioning-5G-IoT-Solutions/software-systems){:target="_blank" rel="noopener"}  | NUS | Basic | 19.5 hrs |
 |[Exploring 5G](https://www.mpirical.com/courses/exploring-5g){:target="_blank" rel="noopener"} |Mpirical | Basic|6 hrs |
+|[Fiber Testing in 5G Deployment](https://www.ite.edu.sg/courses/course-finder/course/fiber-testing-in-5g-deployment){:target="_blank" rel="noopener"} |ITE | Basic|7 hrs |
 |[Fundamentals of Applied Electromagnetics](https://www.suss.edu.sg/courses/detail/eng205){:target="_blank" rel="noopener"}  | SUSS | Basic | 18 hrs |
 |[HCIA - 5G](https://www.suss.edu.sg/courses/detail/eng315?urlname=beng-electronics-behe){:target="_blank" rel="noopener"}  | SUSS | Advanced | 36 hrs |
 |[Introduction to 5G](https://www.mpirical.com/courses/introduction-to-5g){:target="_blank" rel="noopener"} |Mpirical | Basic|3 hrs |
+|[Introduction to 5G Technology](https://www.ite.edu.sg/courses/course-finder/course/introduction-to-5g-technology){:target="_blank" rel="noopener"} |ITE | Basic|4 hrs |
 |[Introduction to 5G and Wi-Fi Interworking](https://www.mpirical.com/courses/introduction-to-5g-and-wi-fi-interworking){:target="_blank" rel="noopener"} |Mpirical | Basic|3 hrs |
 |[Introduction to 5G Networks and its Application in Advanced Manufacturing](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/introduction-to-5g-networks-and-its-application-in-advanced-manufacturing){:target="_blank" rel="noopener"}  | SP | Basic | 16 hrs |
 |[Introduction to 5G Radio Planning](https://www.mpirical.com/courses/introduction-to-5g-radio-planning){:target="_blank" rel="noopener"} |Mpirical | Basic|3 hrs |

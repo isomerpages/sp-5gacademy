@@ -1,6 +1,6 @@
 ---
 title: Cloud & Virtualization
-permalink: /courses/cloud
+permalink: /courses/cloud/
 third_nav_title: By Areas
 ---
 <p style="line-height:1"><small>The courses in this area have been provided by members of the Academic Institution Curriculum Advisory Committee (AICAC) and selected Training Providers.</small></p>
@@ -40,7 +40,6 @@ third_nav_title: By Areas
 |[AWS - (SYSOPS) Systems Operations on AWS ](https://trainocate.com/sg/courses/aws/aws-sysops){:target="_blank" rel="noopener"}  | Trainocate | Intermediate | 24 hrs |
 |[AWS Academy Accreditation Preparation Course](https://www.sp.edu.sg/pace/courses/course-type/online/aws-academy-accreditation-preparation-course){:target="_blank" rel="noopener"}  | SP | Basic | 20 hrs |
 |[AWS Academy Cloud Architecting](https://www.rp.edu.sg/ace/short-course/Detail/aws-academy-cloud-architecting){:target="_blank" rel="noopener"}  | RP | Basic | 36 hrs |
-|[AWS Academy Cloud Foundations ](https://www.cet.np.edu.sg/courses/aws-academy-cloud-foundations/){:target=""_blank"" rel=""noopener""}  | NP | Basic | 16 hrs |"
 |[AWS Certified Solutions Architect – Associate (Bundle)](https://www.comat.com.sg/classroom-learning/training/cloud/aws-certified-solutions-architect-associate-bundle/){:target="_blank" rel="noopener"}  | COMAT | Intermediate | 32 hrs |
 |[AWS Cloud Foundations](https://www.rp.edu.sg/ace/short-course/Detail/aws-academy-cloud-foundations){:target="_blank" rel="noopener"}  | RP | Basic | 18 hrs |
 |[AWS Cloud Practitoner Essentials ](https://www.ntuclearninghub.com/en-gb/-/course/aws-cloud-practitioner-essentials-2){:target="_blank" rel="noopener"}  | LHub | Basic | 8 hrs |
@@ -93,7 +92,8 @@ third_nav_title: By Areas
 |[Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (AZ-600)](https://www.comat.com.sg/classroom-learning/training/cloud/configuring-and-operating-a-hybrid-cloud-with-microsoft-azure-stack-hub-az-600/){:target="_blank" rel="noopener"}  | COMAT | Intermediate | 28 hrs |
 |[Cyber Security Foundation Course](https://stmi.nus.edu.sg/event/cyber-security-foundation-course-skillsfuture-series/){:target="_blank" rel="noopener"}  | NUS | Basic | 2 days |
 |[Cybersecurity Fundamentals](https://academy.smu.edu.sg/cybersecurity-fundamentals-3526){:target="_blank" rel="noopener"}  | SMU | Intermediate | 22 hrs |
-|[Data Analytics for Managers (Synchronous e-learning) ](https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/SLE-DAM){:target="_blank" rel="noopener"}  | NUS | Basic | 1 days |
+|[Data Analytics for Managers (Synchronous e-learning) ](https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/SLE-DAM){:target="_blank" rel="noopener"}  | NUS | Basic | 1 day |
+|[Data Analytics using IoT Cloud Platform ](https://www.ite.edu.sg/courses/course-finder/course/data-analytics-using-iot-cloud-platform-(online)){:target="_blank" rel="noopener"}  | ITE | Basic | 7 days |
 |[Designing Intelligent Edge Computing ](https://www.iss.nus.edu.sg/executive-education/course/detail/designing-intelligent-edge--computing/software-systems){:target="_blank" rel="noopener"}  | NUS | Advanced | 26 hrs |
 |[Developing Cybersecurity Architecture ](https://www.iss.nus.edu.sg/executive-education/course/detail/developing--cybersecurity-architecture/cybersecurity){:target="_blank" rel="noopener"}  | NUS | Intermediate | 19.5 hrs |
 |[DevOps Foundation](https://www.bridgingminds.net/DevOps-Foundation){:target="_blank" rel="noopener"}  | BridgingMinds | Basic | 14 hrs |
@@ -104,7 +104,6 @@ third_nav_title: By Areas
 |[Enhance Customer Engagement with Your First AI Bot ](https://webibmcourse.mybluemix.net/AICourse){:target="_blank" rel="noopener"}  | IBM | Basic | 14 hrs |
 |[Envisioning 5G IoT Solutions](https://www.iss.nus.edu.sg/executive-education/course/detail/Envisioning-5G-IoT-Solutions/software-systems){:target="_blank" rel="noopener"}  | NUS | Basic | 19.5 hrs |
 |[Essentials of Cloud Computing ](https://academy.smu.edu.sg/essentials-cloud-computing-2451){:target="_blank" rel="noopener"}  | SMU | Intermediate | 15 hrs |
-|[Fundamentals of Cloud Computing & Migration ](https://www.cet.np.edu.sg/courses/fundamentals-of-cloud-computing-migration/){:target="_blank" rel="noopener"}  | NP | Basic | 16 hrs |
 |[Fundamentals of Cybersecurity ](https://www.iss.nus.edu.sg/executive-education/course/detail/fundamentals_of_cybersecurity/cybersecurity){:target="_blank" rel="noopener"}  | NUS | Basic | 13 hrs |
 |[Google Cloud Ceritified - Professional Data Engineer](https://www.cloudassistsvcs.com/google-cloud-certified-professional-data-engineer-bundle/){:target="_blank" rel="noopener"}  | CloudAssist | Advanced | 40 hrs |
 |[Google Cloud Certified - Associate Cloud Engineer ](https://www.cloudassistsvcs.com/google-cloud-certified-associate-cloud-engineer/){:target="_blank" rel="noopener"}  | CloudAssist | Intermediate | 32 hrs |
@@ -138,10 +137,8 @@ third_nav_title: By Areas
 |[ICDL Cloud computing](https://www.comat.com.sg/classroom-learning/training/cloud/icdl-insights-cloud-computing/){:target="_blank" rel="noopener"}  | COMAT | Basic | 8 hrs |
 |[IIOT Data Management (Modular Unit stackable to Specialist Diploma in Industrial Internet of Things) - (Classroom, Synchronous & Asynchronous) ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/skills-based-modular-courses/stackable-modular-courses/iiot-data-management.html){:target="_blank" rel="noopener"}  | TP | Basic | 60 hrs |
 |[Intelligent Process Automation ](https://www.iss.nus.edu.sg/executive-education/course/detail/intelligent-process--automation/artificial-intelligence){:target="_blank" rel="noopener"}  | NUS | Intermediate | 19.5 hrs |
-|[Internet of Things - Connect Devices Using Thingbox](https://www.ite.edu.sg/courses/course-finder/course/short-course-internet-of-things-connect-devices-using-thingbox){:target="_blank" rel="noopener"}  | ITE | Basic | 12 hrs |
 |[Internet of Things(IoT) Systems and Applications](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/internet-of-things(iot)-systems-and-applications){:target="_blank" rel="noopener"}  | SP | Basic | 16 hrs |
 |[IoT & VR Applications in Healthcare ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/iot-and-vr-applications-in-healthcare.html){:target="_blank" rel="noopener"}  | TP | Basic | 16 hrs |
-|[IoT for Engineers ](https://www.cet.np.edu.sg/courses/iot-for-engineers/){:target="_blank" rel="noopener"}  | NP | Basic | 24 hrs |
 |[IT Fundamentals (Synchronous E-Learning) ](https://academy.smu.edu.sg/it-fundamentals-3466){:target="_blank" rel="noopener"}  | SMU | Basic | 36 hrs |
 |[Kubernetes Bootcamp - CKAD](https://alta3.com/overview-kubernetes-ckad){:target="_blank" rel="noopener"}  | Alta3 Research | Intermediate | 30 hrs |
 |[Microsoft -  (AZ-204) Developing Solutions for Microsoft Azure](https://trainocate.com/sg/courses/microsoft/az-204){:target="_blank" rel="noopener"}  | Trainocate | Intermediate | 40 hrs |
@@ -185,7 +182,6 @@ third_nav_title: By Areas
 |[SAP Sales Cloud - Implementation & Configuration ](https://sapforgrowth.com/skillsuniversity/){:target="_blank" rel="noopener"}  | TP | Basic | 33 hrs |
 |[SAP SuccessFactors Employee Central ](https://sapforgrowth.com/skillsuniversity/){:target="_blank" rel="noopener"}  | TP | Basic | 78 hrs |
 |[SDN/NFV/SD-WAN Training](https://alta3.com/overview-sdn-training){:target="_blank" rel="noopener"}  | Alta3 Research | Basic | 30 hrs |
-|[Smart Building Operations and the Internet of Things ](https://www.cet.np.edu.sg/courses/smart-building-operations-and-the-internet-of-things/){:target="_blank" rel="noopener"}  | NP | Basic | 24 hrs |
 |[Smart Sensors and Devices (Modular Unit stackable to Specialist Diploma in Industrial Internet of Things) - (Classroom, Synchronous & Asynchronous)](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/skills-based-modular-courses/stackable-modular-courses/smart-sensors-and-devices.html){:target=""_blank"" rel=""noopener""}  | TP | Basic | 60 hrs |"
 |[SMU Executive Certificate in China Business Module 2: Understanding the “ABCD” Drivers of the New Digital Economy in China ](https://academy.smu.edu.sg/smu-executive-certificate-china-business-module-2-understanding-abcd-drivers-new-digital-economy){:target="_blank" rel="noopener"}  | SMU | Basic | 7 hrs |
 |[Stakeholder and IT Outsourcing Contract Management ](https://academy.smu.edu.sg/stakeholder-and-it-outsourcing-contract-management-3491){:target="_blank" rel="noopener"}  | SMU | Basic | 22 hrs |
