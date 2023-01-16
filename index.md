@@ -33,14 +33,6 @@ sections:
       subtitle: Learn more
       button: View More
   - infopic:
-      title: "First Look at 5G: the Technology that is Changing the World"
-      subtitle: Qualcomm Webinar - Wed 30 Nov
-      description: "DATE: 30 NOV 2022 (WED) <br> TIME: 9:30 am"
-      button: Find out more
-      alt: Image alt text
-      url: /resources/events/first-look-at-5g/
-      image: /images/events/events/Qualcomm Webinar.jpg
-  - infopic:
       title: 5G Readiness Index (5GRI)
       subtitle: Manpower Solutions
       description: (Register your interest now)
@@ -184,4 +176,12 @@ sections:
       url: /resources/events/driving-wireless-innovation-with-5g
       image: /images/events/events/NEC Webinar Cover.jpg
       alt: NEC Webinar
+  - infopic:
+      title: "First Look at 5G: the Technology that is Changing the World"
+      subtitle: Qualcomm Webinar - Wed 30 Nov
+      description: "DATE: 30 NOV 2022 (WED) <br> TIME: 9:30 am"
+      button: Find out more
+      alt: Image alt text
+      url: /resources/events/first-look-at-5g/
+      image: /images/events/events/Qualcomm Webinar.jpg
 ---
