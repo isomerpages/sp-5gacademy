@@ -1,12 +1,21 @@
 ---
 title: Singapore Management University
-permalink: /courses/by-acad-institutions/smu
+permalink: /courses/by-acad-institutions/smu/
 third_nav_title: By Acad Institutions
 ---
 |Course Title  | Level | Duration |
 | - | - | - | 
 |[5-Day AI Bootcamp](https://academy.smu.edu.sg/5-day-ai-bootcamp-4241){:target="_blank" rel="noopener"} |Intermediate|39 hrs |
 |[5-Day AI Bootcamp (Synchronous E-learning)](https://academy.smu.edu.sg/5-day-ai-bootcamp-4241){:target="_blank" rel="noopener"} |Intermediate|39 hrs |
+|[Advanced Certificate in AWS Cloud Services and Technicals Module 1: Web Programming with AWS Cloud9](https://academy.smu.edu.sg/advanced-certificate-aws-cloud-services-and-technicals-module-1-web-programming-aws-cloud9-7076){:target="_blank" rel="noopener"} |Basic|15 hrs |
+|[Advanced Certificate in AWS Cloud Services and Technicals Module 2: Smart Apps and APIs with AWS AI Services](https://academy.smu.edu.sg/advanced-certificate-aws-cloud-services-and-technicals-module-2-smart-apps-and-apis-aws-ai-services){:target="_blank" rel="noopener"} |Basic|15 hrs |
+|[5-Day AI Bootcamp](https://academy.smu.edu.sg/5-day-ai-bootcamp-4241){:target="_blank" rel="noopener"} |Intermediate|39 hrs |
+|[5-Day AI Bootcamp](https://academy.smu.edu.sg/5-day-ai-bootcamp-4241){:target="_blank" rel="noopener"} |Intermediate|39 hrs |
+|[5-Day AI Bootcamp](https://academy.smu.edu.sg/5-day-ai-bootcamp-4241){:target="_blank" rel="noopener"} |Intermediate|39 hrs |
+|[5-Day AI Bootcamp](https://academy.smu.edu.sg/5-day-ai-bootcamp-4241){:target="_blank" rel="noopener"} |Intermediate|39 hrs |
+|[5-Day AI Bootcamp](https://academy.smu.edu.sg/5-day-ai-bootcamp-4241){:target="_blank" rel="noopener"} |Intermediate|39 hrs |
+|[5-Day AI Bootcamp](https://academy.smu.edu.sg/5-day-ai-bootcamp-4241){:target="_blank" rel="noopener"} |Intermediate|39 hrs |
+|[5-Day AI Bootcamp](https://academy.smu.edu.sg/5-day-ai-bootcamp-4241){:target="_blank" rel="noopener"} |Intermediate|39 hrs |
 |[Advanced Certificate in Applied Data Analytics Module 5: Understanding Big Data with Cloud Computing (Synchronous e-Learning) ](https://academy.smu.edu.sg/understanding-big-data-cloud-computing-4531){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Advanced Certificate in Cyber Risk Management in the Digital Age Module 1: A Holistic Approach to Managing Enterprise Security Programmes (Synchronous e-learning)](https://academy.smu.edu.sg/advanced-certificate-cyber-risk-management-digital-age-module-1-holistic-approach-managing-5196){:target="_blank" rel="noopener"} |Basic|39 hrs |
 |[Advanced Certificate in Cyber Risk Management in the Digital Age Module 4: Boosting Cybersecurity with Data Governance and Security Management](https://academy.smu.edu.sg/advanced-certificate-cyber-risk-management-digital-age-module-4-boosting-cybersecurity-data-5211){:target="_blank" rel="noopener"} |Basic|15 hrs |
