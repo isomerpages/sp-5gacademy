@@ -9,7 +9,7 @@ third_nav_title: By Acad Institutions
 |[5-Day AI Bootcamp (Synchronous E-learning)](https://academy.smu.edu.sg/5-day-ai-bootcamp-4241){:target="_blank" rel="noopener"} |Intermediate|39 hrs |
 |[Advanced Certificate in AWS Cloud Services and Technicals Module 1: Web Programming with AWS Cloud9](https://academy.smu.edu.sg/advanced-certificate-aws-cloud-services-and-technicals-module-1-web-programming-aws-cloud9-7076){:target="_blank" rel="noopener"} |Basic|15 hrs |
 |[Advanced Certificate in AWS Cloud Services and Technicals Module 2: Smart Apps and APIs with AWS AI Services](https://academy.smu.edu.sg/advanced-certificate-aws-cloud-services-and-technicals-module-2-smart-apps-and-apis-aws-ai-services){:target="_blank" rel="noopener"} |Basic|15 hrs |
-|[5-Day AI Bootcamp](https://academy.smu.edu.sg/5-day-ai-bootcamp-4241){:target="_blank" rel="noopener"} |Intermediate|39 hrs |
+|[Advanced Certificate in AWS Cloud Services and Technicals Module 3: Databases and Data Infrastructure on AWS](https://academy.smu.edu.sg/advanced-certificate-aws-cloud-services-and-technicals-module-3-databases-and-data-infrastructure){:target="_blank" rel="noopener"} |Basic|15 hrs |
 |[5-Day AI Bootcamp](https://academy.smu.edu.sg/5-day-ai-bootcamp-4241){:target="_blank" rel="noopener"} |Intermediate|39 hrs |
 |[5-Day AI Bootcamp](https://academy.smu.edu.sg/5-day-ai-bootcamp-4241){:target="_blank" rel="noopener"} |Intermediate|39 hrs |
 |[5-Day AI Bootcamp](https://academy.smu.edu.sg/5-day-ai-bootcamp-4241){:target="_blank" rel="noopener"} |Intermediate|39 hrs |
