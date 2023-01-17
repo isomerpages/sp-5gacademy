@@ -169,13 +169,12 @@ sections:
       image: /images/events/5GLF/FCP_SUTD_Drone_Arena.jpg
       alt: Image alt text
   - infopic:
-      title: Driving Wireless Innovation with 5G
-      subtitle: Webinar - 21 Oct 2022
-      description: "DATE: 21 OCT 2022 (FRI) <br> TIME: 4:00 pm"
+      title: New 5G Courses - Mpirical
+      subtitle: Regular Updates
+      description: 2023 courses
       button: FIND OUT MORE
-      url: /resources/events/driving-wireless-innovation-with-5g
+      url: /resources/events/new-5g-courses-from-mpirical/
       image: /images/events/events/NEC Webinar Cover.jpg
-      alt: NEC Webinar
   - infopic:
       title: "First Look at 5G: the Technology that is Changing the World"
       subtitle: Qualcomm Webinar - Wed 30 Nov
