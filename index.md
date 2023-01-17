@@ -169,9 +169,9 @@ sections:
       image: /images/events/5GLF/FCP_SUTD_Drone_Arena.jpg
       alt: Image alt text
   - infopic:
-      title: New 5G Courses - Mpirical
-      subtitle: Regular Updates
-      description: 2023 courses
+      title: "Mpirical - New 5G Courses "
+      subtitle: Jan 2023
+      description: Updated on a regular basis
       button: FIND OUT MORE
       url: /resources/events/new-5g-courses-from-mpirical/
       image: /images/events/events/NEC Webinar Cover.jpg
