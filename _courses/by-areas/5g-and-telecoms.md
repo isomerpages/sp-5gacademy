@@ -84,7 +84,7 @@ third_nav_title: By Areas
 |[SDN/NFV/SD-WAN Training](https://alta3.com/overview-sdn-training){:target="_blank" rel="noopener"}  | Alta3 Research | Basic | 30 hrs |
 |[SkillsFuture for Digital Workplace](https://webibmcourse.mybluemix.net/DigitalCourse){:target="_blank" rel="noopener"}  | IBM | Basic | 14 hrs |
 |[SMU Executive Certificate in China Business Module 5: Tapping into the Innovation and Entrepreneurship Ecosystem in China](https://academy.smu.edu.sg/smu-executive-certificate-china-business-module-5-tapping-innovation-and-entrepreneurship-ecosystem){:target="_blank" rel="noopener"}  | SMU | Basic | 7 hrs |
-|[Understanding 5G ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/micro-learning-courses/understanding-5g.html){:target="_blank" rel="noopener"}  | SP | Basic | 4 hrs |
+|[Understanding 5G ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/micro-learning-courses/understanding-5g.html){:target="_blank" rel="noopener"}  | TP | Basic | 4 hrs |
 |[Understanding 5G and Its Business Cases]([Understanding 5G and Its Business Cases (sp.edu.sg)](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/understanding-5g-and-its-business-cases)){:target="_blank" rel="noopener"}  | SP | Basic | 8 hrs |
 |[VMware Telco Cloud Automation: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=95957){:target="_blank" rel="noopener"}  | CloudAssist | Advanced | 40 hrs |
 |[VMware Telco Cloud Automation: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=95957){:target="_blank" rel="noopener"}  | NTUC LHub | Advanced | 35 hrs |
