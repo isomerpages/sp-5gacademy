@@ -33,13 +33,13 @@ sections:
       subtitle: Learn more
       button: View More
   - infopic:
-      title: "First Look at 5G: the Technology that is Changing the World"
-      subtitle: Qualcomm Webinar - Wed 30 Nov
-      description: "DATE: 30 NOV 2022 (WED) <br> TIME: 9:30 am"
-      button: Find out more
-      alt: Image alt text
-      url: /resources/events/first-look-at-5g/
-      image: /images/events/events/Qualcomm Webinar.jpg
+      title: "Mpirical - New 5G Courses "
+      subtitle: Jan 2023
+      description: Updated on a regular basis
+      button: FIND OUT MORE
+      url: /resources/events/new-5g-courses-from-mpirical/
+      image: /images/events/Regular Programmes/LTE-M.jpg
+      alt: Introducing LTE-M
   - infopic:
       title: 5G Readiness Index (5GRI)
       subtitle: Manpower Solutions
@@ -177,11 +177,11 @@ sections:
       image: /images/events/5GLF/FCP_SUTD_Drone_Arena.jpg
       alt: Image alt text
   - infopic:
-      title: Driving Wireless Innovation with 5G
-      subtitle: Webinar - 21 Oct 2022
-      description: "DATE: 21 OCT 2022 (FRI) <br> TIME: 4:00 pm"
-      button: FIND OUT MORE
-      url: /resources/events/driving-wireless-innovation-with-5g
-      image: /images/events/events/NEC Webinar Cover.jpg
-      alt: NEC Webinar
+      title: "First Look at 5G: the Technology that is Changing the World"
+      subtitle: Qualcomm Webinar - Wed 30 Nov
+      description: "DATE: 30 NOV 2022 (WED) <br> TIME: 9:30 am"
+      button: Find out more
+      alt: Image alt text
+      url: /resources/events/first-look-at-5g/
+      image: /images/events/events/Qualcomm Webinar.jpg
 ---

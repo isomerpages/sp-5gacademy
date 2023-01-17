@@ -1,12 +1,24 @@
 ---
 title: Singapore Management University
-permalink: /courses/by-acad-institutions/smu
+permalink: /courses/by-acad-institutions/smu/
 third_nav_title: By Acad Institutions
 ---
 |Course Title  | Level | Duration |
 | - | - | - | 
 |[5-Day AI Bootcamp](https://academy.smu.edu.sg/5-day-ai-bootcamp-4241){:target="_blank" rel="noopener"} |Intermediate|39 hrs |
 |[5-Day AI Bootcamp (Synchronous E-learning)](https://academy.smu.edu.sg/5-day-ai-bootcamp-4241){:target="_blank" rel="noopener"} |Intermediate|39 hrs |
+|[Advanced Certificate in AWS Cloud Services and Technicals Module 1: Web Programming with AWS Cloud9](https://academy.smu.edu.sg/advanced-certificate-aws-cloud-services-and-technicals-module-1-web-programming-aws-cloud9-7076){:target="_blank" rel="noopener"} |Basic|15 hrs |
+|[Advanced Certificate in AWS Cloud Services and Technicals Module 2: Smart Apps and APIs with AWS AI Services](https://academy.smu.edu.sg/advanced-certificate-aws-cloud-services-and-technicals-module-2-smart-apps-and-apis-aws-ai-services){:target="_blank" rel="noopener"} |Basic|15 hrs |
+|[Advanced Certificate in AWS Cloud Services and Technicals Module 3: Databases and Data Infrastructure on AWS](https://academy.smu.edu.sg/advanced-certificate-aws-cloud-services-and-technicals-module-3-databases-and-data-infrastructure){:target="_blank" rel="noopener"} |Basic|15 hrs |
+|[Advanced Certificate in AWS Cloud Services and Technicals Module 4: Modern Web UIs with React and AWS Amplify](https://academy.smu.edu.sg/advanced-certificate-aws-cloud-services-and-technicals-module-4-modern-web-uis-react-and-aws){:target="_blank" rel="noopener"} |Basic|15 hrs |
+|[Advanced Certificate in AWS Cloud Services and Technicals Module 5: Building Web APIs with AWS Elastic Beanstalk](https://academy.smu.edu.sg/advanced-certificate-aws-cloud-services-and-technicals-module-5-building-web-apis-aws-elastic-7096){:target="_blank" rel="noopener"} |Basic|15 hrs |
+|[Advanced Certificate in AWS Cloud Services and Technicals Module 6: AWS Cloud Services and Applications](https://academy.smu.edu.sg/advanced-certificate-aws-cloud-services-and-technicals-module-6-aws-cloud-services-and-applications){:target="_blank" rel="noopener"} |Basic|15 hrs |
+|[Advanced Certificate in AWS Cloud Architecting and DevOps Module 1: Designing and Prototyping Clouds Apps](https://academy.smu.edu.sg/advanced-certificate-aws-cloud-architecting-and-devops-module-1-designing-and-prototyping-cloud){:target="_blank" rel="noopener"} |Basic|15 hrs |
+|[Advanced Certificate in AWS Cloud Architecting and DevOps Module 2: Architecting the AWS Cloud](https://academy.smu.edu.sg/advanced-certificate-aws-cloud-architecting-and-devops-module-2-architecting-aws-cloud-7251){:target="_blank" rel="noopener"} |Basic|15 hrs |
+|[Advanced Certificate in AWS Cloud Architecting and DevOps Module 3: Test Driven Development](https://academy.smu.edu.sg/advanced-certificate-aws-cloud-architecting-and-devops-module-3-test-driven-development-7256){:target="_blank" rel="noopener"} |Basic|15 hrs |
+|[Advanced Certificate in AWS Cloud Architecting and DevOps Module 4: Continuous Integration, Delivery and Deployment (CI/CD) on AWS](https://academy.smu.edu.sg/advanced-certificate-aws-cloud-architecting-and-devops-module-4-continuous-integration-delivery-and){:target="_blank" rel="noopener"} |Basic|15 hrs |
+|[Advanced Certificate in AWS Cloud Architecting and DevOps Module 5: DevOps on AWS](https://academy.smu.edu.sg/advanced-certificate-aws-cloud-architecting-and-devops-module-5-devops-aws-7266){:target="_blank" rel="noopener"} |Basic|15 hrs |
+|[Advanced Certificate in AWS Cloud Architecting and DevOps Module 6: Practical Lab in Developing Applications on AWS](https://academy.smu.edu.sg/advanced-certificate-aws-cloud-architecting-and-devops-module-6-practical-lab-developing-7271){:target="_blank" rel="noopener"} |Basic|15 hrs |
 |[Advanced Certificate in Applied Data Analytics Module 5: Understanding Big Data with Cloud Computing (Synchronous e-Learning) ](https://academy.smu.edu.sg/understanding-big-data-cloud-computing-4531){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Advanced Certificate in Cyber Risk Management in the Digital Age Module 1: A Holistic Approach to Managing Enterprise Security Programmes (Synchronous e-learning)](https://academy.smu.edu.sg/advanced-certificate-cyber-risk-management-digital-age-module-1-holistic-approach-managing-5196){:target="_blank" rel="noopener"} |Basic|39 hrs |
 |[Advanced Certificate in Cyber Risk Management in the Digital Age Module 4: Boosting Cybersecurity with Data Governance and Security Management](https://academy.smu.edu.sg/advanced-certificate-cyber-risk-management-digital-age-module-4-boosting-cybersecurity-data-5211){:target="_blank" rel="noopener"} |Basic|15 hrs |

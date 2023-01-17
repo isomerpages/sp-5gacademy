@@ -1,12 +1,12 @@
 ---
 title: Republic Polytechnic
-permalink: /courses/by-acad-institutions/rp
+permalink: /courses/by-acad-institutions/rp/
 third_nav_title: By Acad Institutions
 ---
 |Course Title  | Level | Duration |
 | - | - | - | 
 |[5G Fundamentals and Applications](https://www.rp.edu.sg/ace/short-course/Detail/5g-fundamentals-and-applications){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[Adopting Digital Technologies into Operations ](https://www.rp.edu.sg/ace/short-course/Detail/adopting-digital-technologies-into-operations){:target="_blank" rel="noopener"} |Basic|7.5 hrs |
+|[Adopting Internet of Things into Operations ](https://www.rp.edu.sg/ace/short-course/Detail/adopting-internet-of-things-into-operations){:target="_blank" rel="noopener"} |Basic|7.5 hrs |
 |[Applied Artificial Intelligence with Python](https://www.rp.edu.sg/ace/short-course/Detail/applied-artificial-intelligence-with-python){:target="_blank" rel="noopener"} |Basic|16 hrs |
 |[Artificial Intelligence for Techies - A Hands-On Approach](https://www.rp.edu.sg/ace/short-course/Detail/artificial-intelligence-for-techies-a-hands-on-approach){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[AWS Academy Cloud Architecting](https://www.rp.edu.sg/ace/short-course/Detail/aws-academy-cloud-architecting){:target="_blank" rel="noopener"} |Basic|32 hrs |
