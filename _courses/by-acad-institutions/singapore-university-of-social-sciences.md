@@ -1,6 +1,6 @@
 ---
 title: Singapore University of Social Sciences
-permalink: /courses/by-acad-institutions/suss
+permalink: /courses/by-acad-institutions/suss/
 third_nav_title: By Acad Institutions
 ---
 |Course Title  | Level | Duration |
@@ -11,6 +11,7 @@ third_nav_title: By Acad Institutions
 |[Applied Regression Analysis I](https://www.suss.edu.sg/courses/detail/mth357){:target="_blank" rel="noopener"} |Advanced|18 hrs |
 |[Applied Regression Analysis II](https://www.suss.edu.sg/courses/detail/mth358?urlname=bsc-mathematics-bsma){:target="_blank" rel="noopener"} |Advanced|18 hrs |
 |[Artificial Intelligence: NLP and the Future (Classroom & Asynchronous)](https://www.suss.edu.sg/courses/detail/cet252){:target="_blank" rel="noopener"} |Basic|18 hrs |
+|[AWS Certified Cloud Practitioner ](https://www.suss.edu.sg/courses/detail/ict263){:target="_blank" rel="noopener"} |Intermediate|36 hrs |
 |[Big Data Computing in the Cloud ](https://www.suss.edu.sg/courses/detail/ICT337){:target="_blank" rel="noopener"} |Basic|36 hrs |
 |[Big Data, Cloud Computing and Machine Learning ](https://www.suss.edu.sg/courses/detail/FIN559){:target="_blank" rel="noopener"} |Basic|36 hrs |
 |[Blockchain & AI in FinTech & Insurtech: A Practical Guide to Navigating the Landscape](https://www.suss.edu.sg/courses/short-course/detail/CET309){:target="_blank" rel="noopener"} |Advanced|14 hrs |
