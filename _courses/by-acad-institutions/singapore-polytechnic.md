@@ -101,7 +101,6 @@ third_nav_title: By Acad Institutions
 |[Practical Approach to Cloud Computing](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/practical-approach-to-cloud-computing){:target="_blank" rel="noopener"} |Intermediate|15 hrs |
 |[Practical Approach to Wireless and Computer Networks ](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/practical-approach-to-wireless-and-computer-networks){:target="_blank" rel="noopener"} |Basic|14.5 hrs |
 |[Predictive Analytics](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/predictive-analytics){:target="_blank" rel="noopener"} |Basic|16 hrs |
-|[Product Design using AR and Lattice Optimization Techniques](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/product-design-using-ar-and-lattice-optimization-techniques){:target="_blank" rel="noopener"} |Basic|9 hrs |
 |[Python Programming for the Internet of Things (IoT)](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/python-programming-for-the-internet-of-things-(iot)){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
 |[Robot Operating System Industrial (ROS-I)](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-register/robot-operating-system-industrial-(ros-i)){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
 |[Robotic Process Automation](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-register/robotic-process-automation){:target="_blank" rel="noopener"} |Basic|12 hrs |
