@@ -5,6 +5,7 @@ third_nav_title: By Acad Institutions
 ---
 |Course Title  | Level | Duration |
 | - | - | - | 
+|[5G for Digital Transformation](https://sitlearn.singaporetech.edu.sg/individualcourse/?title=FTI6002-Internet-of-Things-for-a-Connected-World&id=29bc6b5d-6c40-ec11-8c62-000d3a82a2a4&FD=true){:target="_blank" rel="noopener"} |Intermediate|48 hrs |
 |[Application of Data Engineering](https://sitlearn.singaporetech.edu.sg/individualcourse/?title=DSF6010-Application-of-Data-Engineering&id=1db7f530-14c8-eb11-bacc-000d3a8073ce&FD=true){:target="_blank" rel="noopener"} |Intermediate|48 hrs |
 |[Application of Robotics & Automation for Smart Factory](https://sitlearn.singaporetech.edu.sg/individualcourse/?title=DSF-6040-Application-of-Robotics-and-Automation-for-Smart-Factory&id=81e36756-b7db-ea11-a813-000d3a85436c&FD=true){:target="_blank" rel="noopener"}  |  Intermediate | 48 hrs |
 |[Artificial Intelligence in Broad Strokes (Synchronous e-Learning)](https://sitlearn.singaporetech.edu.sg/individualcourse/?title=Artificial-Intelligence-in-Broad-Strokes&id=e5488b06-27a7-eb11-9442-00224816cf16&FD=true){:target="_blank" rel="noopener"} |Basic|16 hrs |
@@ -16,7 +17,6 @@ third_nav_title: By Acad Institutions
 |[Machine Learning II: ML Fundamentals and Supervised Learning](https://sitlearn.singaporetech.edu.sg/individualcourse/?title=machine-learning-fundamentals-and-supervised-learning&id=61709103-53a1-ea11-a812-000d3a8101d0&FD=true){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
 |[Managing and Leading Artificial Intelligence Projects for Smart Factory (Classroom, Synchronous & Asynchronous)](https://sitlearn.singaporetech.edu.sg/individualcourse/?title=DSF6010-Application-of-Data-Engineering&id=1db7f530-14c8-eb11-bacc-000d3a8073ce&FD=true){:target="_blank" rel="noopener"} |Advanced|48 hrs |
 |[Managing and Leading Enterprise Artificial Intelligence Projects](https://sitlearn.singaporetech.edu.sg/individualcourse/?title=DSF6030-Managing-and-Leading-Artificial-Intelligence-Projects-for-Smart-Factory&id=fdffd5c1-3836-ec11-8c64-002248162783&FD=true){:target="_blank" rel="noopener"} |Intermediate|48 hrs |
-|[Application of Data Engineering](https://sitlearn.singaporetech.edu.sg/individualcourse/?title=DSF6010-Application-of-Data-Engineering&id=1db7f530-14c8-eb11-bacc-000d3a8073ce&FD=true){:target="_blank" rel="noopener"} |Intermediate|48 hrs |
 |[Application of Data Engineering](https://sitlearn.singaporetech.edu.sg/individualcourse/?title=DSF6010-Application-of-Data-Engineering&id=1db7f530-14c8-eb11-bacc-000d3a8073ce&FD=true){:target="_blank" rel="noopener"} |Intermediate|48 hrs |
 |[Application of Data Engineering](https://sitlearn.singaporetech.edu.sg/individualcourse/?title=DSF6010-Application-of-Data-Engineering&id=1db7f530-14c8-eb11-bacc-000d3a8073ce&FD=true){:target="_blank" rel="noopener"} |Intermediate|48 hrs |
 |[Application of Data Engineering](https://sitlearn.singaporetech.edu.sg/individualcourse/?title=DSF6010-Application-of-Data-Engineering&id=1db7f530-14c8-eb11-bacc-000d3a8073ce&FD=true){:target="_blank" rel="noopener"} |Intermediate|48 hrs |
