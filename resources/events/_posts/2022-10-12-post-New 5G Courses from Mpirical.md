@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-
-# New course: LTE-M Air Interface
+### LTE-M Air Interface (Jan 2023)
 
 LTE-M is one of the main 3GPP enhancements for MMTC deployment. This course focuses on the air interface aspects of the technology, detailing the structure and operation
   
