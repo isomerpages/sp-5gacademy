@@ -174,7 +174,7 @@ sections:
       description: Updated on a regular basis
       button: FIND OUT MORE
       url: /resources/events/new-5g-courses-from-mpirical/
-      image: /images/banners-and-logos/Tpcac Members Logos/MPIRICAL_LOGO.jpg
+      image: /images/events/Regular Programmes/LTE-M.jpg
   - infopic:
       title: "First Look at 5G: the Technology that is Changing the World"
       subtitle: Qualcomm Webinar - Wed 30 Nov
