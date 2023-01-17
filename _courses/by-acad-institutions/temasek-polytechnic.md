@@ -1,6 +1,6 @@
 ---
 title: Temasek Polytechnic
-permalink: /courses/by-acad-institutions/tp
+permalink: /courses/by-acad-institutions/tp/
 third_nav_title: By Acad Institutions
 ---
 |Course Title  | Level | Duration |
@@ -63,5 +63,6 @@ third_nav_title: By Acad Institutions
 |[TPOL - The Internet of Things and Everything - IoT/IoE ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/online-courses/the-internet-of-things-and-everything-iot-ioe.html){:target="_blank" rel="noopener"} |Basic|20 hrs |
 |[TPUD - AI Programming with Python](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/nanodegree-programme/ai-programming-with-python.html){:target="_blank" rel="noopener"} |Basic|144 hrs |
 |[TPUD - Introduction to Machine Learning with TensorFlow](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/nanodegree-programme/introduction-to-machine-learning-with-tensorflow.html){:target="_blank" rel="noopener"} |Basic|144 hrs |
+|[Understanding 5G](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/micro-learning-courses/understanding-5g.html){:target="_blank" rel="noopener"} |Basic|4 hrs |
 |[Understanding Cyber Risk Assessment and Management](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/understanding-cyber-risk-assessment-and-management.html){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[ZKB WSGECE SAP SuccessFactors Employee Central - Part Time ](https://sapforgrowth.com/skillsuniversity/){:target="_blank" rel="noopener"} |Basic|78 hrs |
