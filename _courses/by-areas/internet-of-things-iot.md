@@ -8,7 +8,7 @@ third_nav_title: By Areas
 |Course Title  | Institution | Level | Duration |
 | - | - | - | -|
 |[5G NR Technical Training](https://www.qualcommwirelessacademy.com/product/4c7c7d74){:target="_blank" rel="noopener"}  | Qualcomm | Basic | 6-8 hrs |
-|[Adopting Digital Technologies into Operations ](https://www.rp.edu.sg/ace/short-course/Detail/adopting-digital-technologies-into-operations){:target="_blank" rel="noopener"}  | RP | Basic | 7.5 hrs |
+|[Adopting Internet of Things into Operations ](https://www.rp.edu.sg/ace/short-course/Detail/adopting-internet-of-things-into-operations){:target="_blank" rel="noopener"}  | RP | Basic | 7.5 hrs |
 |[Advanced Certificate in Digital Business Module 11: Smart Logistics ](https://academy.smu.edu.sg/advanced-certificate-business-digitalisation-and-transformation-module-11-smart-logistics-and){:target="_blank" rel="noopener"}  | SMU | Intermediate | 15 hrs |
 |[Advanced Certificate in Digital Health Module 4: Legal Issues and Risk Management ](https://academy.smu.edu.sg/advanced-certificate-digital-health-module-4-legal-issues-risk-management-4786){:target="_blank" rel="noopener"}  | SMU | Intermediate | 22 hrs |
 |[Advanced Certificate in Digital Health Module 4: Legal Issues and Risk Management (Synchronous E-Learning) ](https://academy.smu.edu.sg/advanced-certificate-digital-health-module-4-legal-issues-risk-management-4786){:target="_blank" rel="noopener"}  | SMU | Intermediate | 22 hrs |
