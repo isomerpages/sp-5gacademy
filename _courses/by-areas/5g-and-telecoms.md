@@ -61,6 +61,7 @@ third_nav_title: By Areas
 |[Deploying Open RAN for 5G](https://www.mpirical.com/courses/deploying-open-ran-for-5g){:target="_blank" rel="noopener"} | Mpirical | Intermediate|3 hrs |
 |[Designing Intelligent Edge Computing ](https://www.iss.nus.edu.sg/executive-education/course/detail/designing-intelligent-edge--computing/software-systems){:target="_blank" rel="noopener"}  | NUS | Advanced | 26 hrs |
 |[Digital Workplace Transformation with 5G and Emerging Technologies](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-register/digital-workplace-transformation-with-5g-and-emerging-technologies){:target="_blank" rel="noopener"}  | SP | Basic | 14 hrs |
+|[Diploma in Engineering (Electrical and Electronics) ](https://www.rp.edu.sg/ace/course-summary/Detail/diploma-in-engineering-(electrical-and-electronics)){:target="_blank" rel="noopener"}  | RP | Basic | 174 hrs |
 |[Envisioning 5G IoT Solutions](https://www.iss.nus.edu.sg/executive-education/course/detail/Envisioning-5G-IoT-Solutions/software-systems){:target="_blank" rel="noopener"}  | NUS | Basic | 19.5 hrs |
 |[Exploring 5G](https://www.mpirical.com/courses/exploring-5g){:target="_blank" rel="noopener"} |Mpirical | Basic|6 hrs |
 |[Fiber Testing in 5G Deployment](https://www.ite.edu.sg/courses/course-finder/course/fiber-testing-in-5g-deployment){:target="_blank" rel="noopener"} |ITE | Basic|7 hrs |
