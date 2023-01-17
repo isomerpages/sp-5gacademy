@@ -14,4 +14,6 @@ Available on demand and live.
   
 Also included with all [5G and Essential Technologies Package](https://mpirical.us18.list-manage.com/track/click?u=26e40e7f389dd271e8fbc3ac0&id=3f4b1c00a8&e=e3c50d0079) subscriptions.  
   
-Click [LTE-M Air Interface](https://www.youtube.com/watch?v=XOPhzqTPt_I) to watch a sample video:
+Click [LTE-M Air Interface](https://www.youtube.com/watch?v=XOPhzqTPt_I) to watch a sample video.
+
+![LTE-M Course Content](/images/events/Regular%20Programmes/2023-01%20LTE-M%20Air%20Interface.jpg)
