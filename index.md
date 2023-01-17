@@ -33,6 +33,14 @@ sections:
       subtitle: Learn more
       button: View More
   - infopic:
+      title: "Mpirical - New 5G Courses "
+      subtitle: Jan 2023
+      description: Updated on a regular basis
+      button: FIND OUT MORE
+      url: /resources/events/new-5g-courses-from-mpirical/
+      image: /images/events/Regular Programmes/LTE-M.jpg
+      alt: Introducing LTE-M
+  - infopic:
       title: 5G Readiness Index (5GRI)
       subtitle: Manpower Solutions
       description: (Register your interest now)
@@ -168,13 +176,6 @@ sections:
       url: /resources/events/future-communications-connectivity-lab
       image: /images/events/5GLF/FCP_SUTD_Drone_Arena.jpg
       alt: Image alt text
-  - infopic:
-      title: "Mpirical - New 5G Courses "
-      subtitle: Jan 2023
-      description: Updated on a regular basis
-      button: FIND OUT MORE
-      url: /resources/events/new-5g-courses-from-mpirical/
-      image: /images/events/Regular Programmes/LTE-M.jpg
   - infopic:
       title: "First Look at 5G: the Technology that is Changing the World"
       subtitle: Qualcomm Webinar - Wed 30 Nov
