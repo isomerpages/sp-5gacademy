@@ -13,7 +13,7 @@ third_nav_title: By Training Providers (Local)
 |[Certified Cloud Technology Professional](https://www.bridgingminds.net/cloud-technology){:target="_blank" rel="noopener"} |Basic|21 hrs |
 |[Cobit 2019 Foundation](https://www.bridgingminds.net/cobit2019-foundation-course){:target="_blank" rel="noopener"} |Basic|21 hrs |
 |[CompTIA A+](https://www.bridgingminds.net/comptia-a){:target="_blank" rel="noopener"} |Basic|35 hrs |
-|[CompTIA Data+](https://www.bridgingminds.net/comptia-data/){:target="_blank" rel="noopener"} |Basic|35 hrs |
+|[CompTIA Data+](https://www.bridgingminds.net/comptia-data/){:target="_blank" rel="noopener"} |Basic|tbc |
 |[CompTIA Linux+](https://www.bridgingminds.net/comptia-linux){:target="_blank" rel="noopener"} |Basic|35 hrs |
 |[Certified Information Systems Security Professional (CISSP)](https://www.bridgingminds.net/certified-information-systems-security-professional/){:target="_blank" rel="noopener"} |Intermediate|35 hrs |
 |[Certified Information Systems Auditor (CISA)](https://www.bridgingminds.net/certified-information-systems-auditor/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
@@ -24,6 +24,7 @@ third_nav_title: By Training Providers (Local)
 |[DevSecOps](https://www.bridgingminds.net/DevSecOps){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[DevOps Foundation](https://www.bridgingminds.net/DevOps-Foundation){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[EC Council Certified Ethical Hacker (CEH)](https://www.bridgingminds.net/certified-ethical-hacker-ceh){:target="_blank" rel="noopener"} |Intermediate|35 hrs |
+|[EC Council Certified Penetration Testing Professional (CPENT)](https://www.bridgingminds.net/security-analyst-ecsa/){:target="_blank" rel="noopener"} |Advanced|35 hrs |
 |[EC Council Incident Handler (ECIH)](https://www.bridgingminds.net/incident-handler-ecih){:target="_blank" rel="noopener"} |Basic|21 hrs |
 |[Fortigate Infrastructure](https://www.bridgingminds.net/Fortigate-infrastructure){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Fortigate Security](https://www.bridgingminds.net/Fortigate-Security){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
