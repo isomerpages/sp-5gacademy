@@ -12,8 +12,9 @@ third_nav_title: By Training Providers (Local)
 |[Certified Cloud Security Professional (CCSP)]|Intermediate|35 hrs |
 |[Certified Cloud Technology Professional](https://www.bridgingminds.net/cloud-technology){:target="_blank" rel="noopener"} |Basic|21 hrs |
 |[Cobit 2019 Foundation](https://www.bridgingminds.net/cobit2019-foundation-course){:target="_blank" rel="noopener"} |Basic|21 hrs |
-|[CompTIA Linux+](https://www.bridgingminds.net/comptia-linux){:target="_blank" rel="noopener"} |Basic|35 hrs |
 |[CompTIA A+](https://www.bridgingminds.net/comptia-a){:target="_blank" rel="noopener"} |Basic|35 hrs |
+|[CompTIA Data+](https://www.bridgingminds.net/comptia-data/){:target="_blank" rel="noopener"} |Basic|35 hrs |
+|[CompTIA Linux+](https://www.bridgingminds.net/comptia-linux){:target="_blank" rel="noopener"} |Basic|35 hrs |
 |[Certified Information Systems Security Professional (CISSP)](https://www.bridgingminds.net/certified-information-systems-security-professional/){:target="_blank" rel="noopener"} |Intermediate|35 hrs |
 |[Certified Information Systems Auditor (CISA)](https://www.bridgingminds.net/certified-information-systems-auditor/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
 |[Certified Information Security Manager (CISM)](https://www.bridgingminds.net/certified-information-security-manager/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
