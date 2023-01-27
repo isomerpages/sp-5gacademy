@@ -9,6 +9,7 @@ third_nav_title: By Training Providers (Local)
 |[Agile DSDM Project Management Foundation](https://www.bridgingminds.net/dsdm-agile-foundation){:target="_blank" rel="noopener"} |Basic|21 hrs |
 |[Agile DSDM Project Management Practitioner](https://www.bridgingminds.net/dsdm-agile-practitioner){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Certified Cloud Security Engineer (CCSE)](https://www.bridgingminds.net/k_course/certified-cloud-security-engineer-ec-councilccse/){:target="_blank" rel="noopener"} |Intermediate|35 hrs |
+|[Certified Cloud Security Professional (CCSP)]|Intermediate|35 hrs |
 |[Certified Cloud Technology Professional](https://www.bridgingminds.net/cloud-technology){:target="_blank" rel="noopener"} |Basic|21 hrs |
 |[Cobit 2019 Foundation](https://www.bridgingminds.net/cobit2019-foundation-course){:target="_blank" rel="noopener"} |Basic|21 hrs |
 |[CompTIA Linux+](https://www.bridgingminds.net/comptia-linux){:target="_blank" rel="noopener"} |Basic|35 hrs |
