@@ -1,14 +1,15 @@
 ---
 title: BridgingMinds
-permalink: /courses/By-private-training-providers/bridgingminds
+permalink: /courses/By-private-training-providers/bridgingminds/
 description: ""
 third_nav_title: By Training Providers (Local)
 ---
-
 |Course Title  | Level | Duration |
 | - | - | - | 
 |[Agile DSDM Project Management Foundation](https://www.bridgingminds.net/dsdm-agile-foundation){:target="_blank" rel="noopener"} |Basic|21 hrs |
 |[Agile DSDM Project Management Practitioner](https://www.bridgingminds.net/dsdm-agile-practitioner){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
+|[Certified Cloud Security Engineer (CCSE)](https://www.bridgingminds.net/k_course/certified-cloud-security-engineer-ec-councilccse/){:target="_blank" rel="noopener"} |Intermediate|35 hrs |
+|[Certified Cloud Technology Professional](https://www.bridgingminds.net/cloud-technology){:target="_blank" rel="noopener"} |Basic|21 hrs |
 |[Cobit 2019 Foundation](https://www.bridgingminds.net/cobit2019-foundation-course){:target="_blank" rel="noopener"} |Basic|21 hrs |
 |[CompTIA Linux+](https://www.bridgingminds.net/comptia-linux){:target="_blank" rel="noopener"} |Basic|35 hrs |
 |[CompTIA A+](https://www.bridgingminds.net/comptia-a){:target="_blank" rel="noopener"} |Basic|35 hrs |
@@ -16,8 +17,6 @@ third_nav_title: By Training Providers (Local)
 |[Certified Information Systems Auditor (CISA)](https://www.bridgingminds.net/certified-information-systems-auditor/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
 |[Certified Information Security Manager (CISM)](https://www.bridgingminds.net/certified-information-security-manager/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
 |[Certified in Risk and Information Systems Control (CRISC)](https://www.bridgingminds.net/certified-in-risk-and-information-system-control){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
-|[Certified Cloud Security Engineer (CCSE)](https://www.bridgingminds.net/k_course/certified-cloud-security-engineer-ec-councilccse/){:target="_blank" rel="noopener"} |Intermediate|35 hrs |
-|[Certified Cloud Technology Professional](https://www.bridgingminds.net/cloud-technology){:target="_blank" rel="noopener"} |Basic|21 hrs |
 |[Cisco Certified Network Associate CCNA](https://www.bridgingminds.net/cisco-certified-network-associate-accelerated-ccnax){:target="_blank" rel="noopener"} |Basic|35 hrs |
 |[CompTIA Security+ (IT Security for ICT Professionals)](https://www.bridgingminds.net/comptia-security){:target="_blank" rel="noopener"} |Basic|35 hrs |
 |[DevSecOps](https://www.bridgingminds.net/DevSecOps){:target="_blank" rel="noopener"} |Basic|14 hrs |
@@ -40,5 +39,3 @@ third_nav_title: By Training Providers (Local)
 |[PRINCE2 Practitoner](https://www.bridgingminds.net/bm-prince2-practitioner-outline/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Professional Scrum Master1](https://www.bridgingminds.net/professional-scrum-master-psm){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[Traps 4.2: Install, Configure and Manage (EDU-281)](https://www.bridgingminds.net/edu-281/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
-
-
