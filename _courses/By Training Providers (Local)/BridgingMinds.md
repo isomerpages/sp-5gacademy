@@ -29,6 +29,7 @@ third_nav_title: By Training Providers (Local)
 |[Fortigate Infrastructure](https://www.bridgingminds.net/Fortigate-infrastructure){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Fortigate Security](https://www.bridgingminds.net/Fortigate-Security){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
 |[ITIL 4 Foundation](https://www.bridgingminds.net/itil-4-foundation#1512458782902-095d8540-4705){:target="_blank" rel="noopener"} |Basic|21 hrs |
+|[ITIL 4 Leader: Digital & IT Strategy] |Intermediate|32 hrs |
 |[ITIL 4 Managing Professional Transition](https://www.bridgingminds.net/iitl-mamaging-professional-transition#1512458782867-caab09fb-03b1){:target="_blank" rel="noopener"} |Advanced|35 hr
 |[Microsoft Azure Fundamental - AZ900](https://www.bridgingminds.net/az900){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[Microsoft Azure Administrator - AZ104](https://www.bridgingminds.net/az103){:target="_blank" rel="noopener"} |Intermediate|35 hrs |
