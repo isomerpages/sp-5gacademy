@@ -35,6 +35,15 @@ sections:
       subtitle: Learn more
       button: View More
   - infopic:
+      title: Career Disruption Webinar
+      subtitle: Upcoming event - Tue 14 Mar
+      description: Discover IT Value stream and Learn more on Digital Products,
+        Digital Transformation and Customer Journey.
+      button: Find Out More
+      url: /resources/events/itil4-career-disruption-webinar
+      image: /images/events/events/ITIL4 Webinar 2023 (5G) Banner.jpg
+      alt: Image alt text
+  - infopic:
       title: "Mpirical - New 5G Courses "
       subtitle: Jan 2023
       description: Updated on a regular basis
@@ -169,15 +178,6 @@ sections:
       url: /resources/events/smart-urban-co-innovation-lab
       alt: Image alt text
       image: /images/events/5GLF/SMARTLab.jpg
-  - infopic:
-      title: "Learning Journey #10"
-      subtitle: 5GLF 2022 - Thu 13 Oct
-      description: "A 5G Learning Journey to Future Communications Connectivity Lab
-        (FCCLab) <br> (Partner: SUTD)"
-      button: Find Out More
-      url: /resources/events/future-communications-connectivity-lab
-      image: /images/events/5GLF/FCP_SUTD_Drone_Arena.jpg
-      alt: Image alt text
   - infopic:
       title: "First Look at 5G: the Technology that is Changing the World"
       subtitle: Qualcomm Webinar - Wed 30 Nov
