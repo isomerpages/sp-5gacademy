@@ -7,7 +7,6 @@ description: ""
 image: ""
 ---
 # About the Event
-# Details
 **DATE: 14 MARCH 2023**<br>
 **TIME: 2pm - 4pm**
 
