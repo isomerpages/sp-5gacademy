@@ -24,9 +24,9 @@ third_nav_title: By Training Providers (Global)
 |[Certificate and Diploma in Telecoms (Cellular Radio Engineer)](https://wraycastle.com/collections/certificate-and-diploma-programmes/products/certificate-and-diploma-in-telecoms-cellular-radio-engineer){:target="_blank" rel="noopener"} |Intermediate|10-14 mths|
 |[Certificate and Diploma in Telecoms (Core Network Engineer)](https://wraycastle.com/collections/certificate-and-diploma-programmes/products/certificate-and-diploma-in-telecoms-core-network-engineer){:target="_blank" rel="noopener"} |Intermediate|10-14 mths |
 |[Certificate and Diploma in Telecoms (LTE Engineer)](https://wraycastle.com/collections/certificate-and-diploma-programmes/products/certificate-and-diploma-in-telecoms-lte-engineer){:target="_blank" rel="noopener"} |Intermediate|10-14 mths |
-|[5G Training for Everyone](https://www.5gworldpro.com/5g-training-for-everyone){:target="_blank" rel="noopener"} |Basic|5 hrs |
-|[5G Training for Everyone](https://www.5gworldpro.com/5g-training-for-everyone){:target="_blank" rel="noopener"} |Basic|5 hrs |
-|[5G Training for Everyone](https://www.5gworldpro.com/5g-training-for-everyone){:target="_blank" rel="noopener"} |Basic|5 hrs |
+|[Cloud Computing](https://wraycastle.com/products/cloud-computing-on-demand-training-course){:target="_blank" rel="noopener"} |Basic|11 hrs |
+|[Multi-Access Edge Computing (MEC)](https://wraycastle.com/collections/5g-technology-training-courses/products/5g-a-business-perspective-training-course){:target="_blank" rel="noopener"} |Basic|14 hrs |
+|[Network Functions Virtualisation (NFV)](https://wraycastle.com/collections/network-virtualisation-training-courses/products/network-functions-virtualisation-nfv-on-demand){:target="_blank" rel="noopener"} |Intermediate|22 hrs |
 |[5G Training for Everyone](https://www.5gworldpro.com/5g-training-for-everyone){:target="_blank" rel="noopener"} |Basic|5 hrs |
 |[5G Training for Everyone](https://www.5gworldpro.com/5g-training-for-everyone){:target="_blank" rel="noopener"} |Basic|5 hrs |
 |[5G Training for Everyone](https://www.5gworldpro.com/5g-training-for-everyone){:target="_blank" rel="noopener"} |Basic|5 hrs |
