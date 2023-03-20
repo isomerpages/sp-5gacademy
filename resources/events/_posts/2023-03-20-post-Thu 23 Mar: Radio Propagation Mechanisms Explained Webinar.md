@@ -16,8 +16,8 @@ The session commences with a look at how variations in atmospheric conditions wi
 
 The session ends with an examination of the challenges and opportunities that millimetre wave spectrum offers for 5G system coverage and capabilities.
 
-**Topics to be discussed include:
-**
+**Topics to be discussed include:**
+
 * Space Wave Propagation
 * Relationship between Distance and Frequency
 * Effects of Tropospheric Refraction
