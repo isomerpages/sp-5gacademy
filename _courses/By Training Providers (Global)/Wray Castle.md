@@ -14,4 +14,11 @@ third_nav_title: By Training Providers (Global)
 |[5G Cell Planning ](https://wraycastle.com/collections/5g-technology-training-courses/products/5g-cell-planning-on-demand){:target="_blank" rel="noopener"} |Advanced|22 hrs |
 |[5G Engineering ](https://wraycastle.com/collections/5g-technology-training-courses/products/5g-engineering-on-demand-training-course){:target="_blank" rel="noopener"} |Intermediate|22 hrs |
 |[5G Engineering Overview ](https://wraycastle.com/collections/5g-technology-training-courses/products/5g-engineering-overview-on-demand-training-course){:target="_blank" rel="noopener"} |Intermediate|11 hrs |
+|[5G Infrastructure & Operation ](https://wraycastle.com/collections/5g-technology-training-courses/products/5g-infrastructure-and-operation-training-course){:target="_blank" rel="noopener"} |Advanced|21 hrs |
+|[5G Training for Everyone](https://www.5gworldpro.com/5g-training-for-everyone){:target="_blank" rel="noopener"} |Basic|5 hrs |
+|[5G Training for Everyone](https://www.5gworldpro.com/5g-training-for-everyone){:target="_blank" rel="noopener"} |Basic|5 hrs |
+|[5G Training for Everyone](https://www.5gworldpro.com/5g-training-for-everyone){:target="_blank" rel="noopener"} |Basic|5 hrs |
+|[5G Training for Everyone](https://www.5gworldpro.com/5g-training-for-everyone){:target="_blank" rel="noopener"} |Basic|5 hrs |
+|[5G Training for Everyone](https://www.5gworldpro.com/5g-training-for-everyone){:target="_blank" rel="noopener"} |Basic|5 hrs |
+|[5G Training for Everyone](https://www.5gworldpro.com/5g-training-for-everyone){:target="_blank" rel="noopener"} |Basic|5 hrs |
 |[5G Training for Everyone](https://www.5gworldpro.com/5g-training-for-everyone){:target="_blank" rel="noopener"} |Basic|5 hrs |
