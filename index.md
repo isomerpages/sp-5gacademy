@@ -170,14 +170,14 @@ sections:
       image: /images/events/5GLF/Singtel FIC SLF_CoverPage.png
       alt: Singtel FIC
   - infopic:
-      title: "Learning Journey #9 "
-      subtitle: 5GLF 2022 - Thu 13 Oct
-      description: "The Smart Urban Co-Innovation Lab @Singapore Science Park II <br>
-        (Partner: Capitaland)"
+      title: Radio Propagation Mechanisms Explained
+      subtitle: Webinar - Thu 23 Mar
+      description: "DATE: 23 MAR 2023 (THU) <br> TIME: 6.00 PM SINGAPORE TIME (10.00
+        AM UK TIME)"
       button: Find Out More
-      url: /resources/events/smart-urban-co-innovation-lab
-      alt: Image alt text
-      image: /images/events/5GLF/SMARTLab.jpg
+      url: /resources/events/radio-propagation-mechanisms-explained
+      alt: Wray Castle Webinar Mar 2023
+      image: /images/events/Wray Casrle Webinar Mar 2023 COVER.jpg
   - infopic:
       title: "First Look at 5G: the Technology that is Changing the World"
       subtitle: Qualcomm Webinar - Wed 30 Nov
