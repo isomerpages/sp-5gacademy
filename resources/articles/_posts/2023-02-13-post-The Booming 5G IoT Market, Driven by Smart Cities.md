@@ -6,8 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-###### (By Joe McKendrick, RTInsights.com, February 13, 2023)
-###### 
+#### (By Joe McKendrick, RTInsights.com, February 13, 2023)
+
 IoT’s unlimited potential and 5G’s fast speeds and low latency provide the critical infrastructure for the connected smart cities of the future.
 
 Networks boosted with 5G, connected across Internet of Things-enabled devices and sensors, are transforming the livability and safety of many of our largest cities. In turn, smart cities are the fuel behind the fast-growing 5G IoT market.
