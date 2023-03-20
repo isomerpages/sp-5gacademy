@@ -6,10 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-
-
 ![Wray Castle Webinar Mar 2023](/images/events/Wray%20Castle%20Webinar%20Mar%202023.jpg)
-### 23rd March 2023 (10am UK Time)
+### 23rd March 2023 (10am UK Time)/ (6pm Singapore Time)
 **Join us on 23rd March at 10am UK Time for this live webinar Radio Propagation Mechanisms Explained**
 
 The aim of this Webinar is to explain the range of factors that impact the way radio waves propagate and therefore impact radio connectivity and coverage in fixed and mobile radio systems.
