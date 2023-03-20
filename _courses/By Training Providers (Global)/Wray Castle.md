@@ -20,5 +20,3 @@ third_nav_title: By Training Providers (Global)
 |[5G Security ](https://wraycastle.com/collections/5g-technology-training-courses/products/5g-security-on-demand-training-course){:target="_blank" rel="noopener"} |Advanced|11 hrs |
 |[5G Service Based Architecture & Core Network ](https://wraycastle.com/collections/5g-technology-training-courses/products/5g-service-based-architecture-and-core-network-on-demand-training-course){:target="_blank" rel="noopener"} |Advanced|22 hrs |
 |[5G Training for Everyone](https://www.5gworldpro.com/5g-training-for-everyone){:target="_blank" rel="noopener"} |Basic|5 hrs |
-|[5G Training for Everyone](https://www.5gworldpro.com/5g-training-for-everyone){:target="_blank" rel="noopener"} |Basic|5 hrs |
-|[5G Training for Everyone](https://www.5gworldpro.com/5g-training-for-everyone){:target="_blank" rel="noopener"} |Basic|5 hrs |
