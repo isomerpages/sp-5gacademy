@@ -23,3 +23,14 @@ All Wray Castle Connect members benefit from:
 * Exclusive offers on our training programmes
 
 **Private Wray Castle Alumni Group** - Past and current students of Wray Castle are invited to join the private Alumni Group, where they'll benefit from exclusive training materials and the opportunity to review and clarify material covered during their studies.
+
+### Our Expertise
+### 
+Covering all major communications technologies, our team of highly experienced specialist course developers and instructors come with decades of experience from within the industry and as specialist technical trainers.
+
+We support learners at all stages of their career, from new entrants looking for a thorough grounding in industry to experienced engineers needing to get up to speed on the latest network technologies (inc. 5G, LTE, IP, Radio Engineering, Network Virtualisation and PMR).
+
+**Innovative, flexible learning solutions**
+
+Our learning programmes deliver knowledge in an engaging and enjoyable way that inspires, reinforces knowledge and promotes life-long learning.
+
