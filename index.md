@@ -45,7 +45,7 @@ sections:
       image: /images/events/Wray Casrle Webinar Mar 2023 COVER.jpg
   - infopic:
       title: Career Disruption Webinar
-      subtitle: Upcoming event - Tue 14 Mar
+      subtitle: Webinar - Tue 14 Mar
       description: Discover IT Value stream and Learn more on Digital Products,
         Digital Transformation and Customer Journey.
       button: Find Out More
