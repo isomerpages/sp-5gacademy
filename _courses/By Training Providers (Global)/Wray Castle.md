@@ -22,5 +22,12 @@ third_nav_title: By Training Providers (Global)
 |[5G Technology, Services and Markets ](https://wraycastle.com/collections/5g-technology-training-courses/products/5g-technologies-services-and-markets-on-demand-training-course){:target="_blank" rel="noopener"} |Basic|11 hrs |
 |[Certificate and Diploma in Telecoms (5G Engineer)](https://wraycastle.com/collections/certificate-and-diploma-programmes/products/certificate-and-diploma-in-telecoms-5g-engineer){:target="_blank" rel="noopener"} |Intermediate|10-14 mths |
 |[Certificate and Diploma in Telecoms (Cellular Radio Engineer)](https://wraycastle.com/collections/certificate-and-diploma-programmes/products/certificate-and-diploma-in-telecoms-cellular-radio-engineer){:target="_blank" rel="noopener"} |Intermediate|10-14 mths|
+|[Certificate and Diploma in Telecoms (Core Network Engineer)](https://wraycastle.com/collections/certificate-and-diploma-programmes/products/certificate-and-diploma-in-telecoms-core-network-engineer){:target="_blank" rel="noopener"} |Intermediate|10-14 mths |
+|[5G Training for Everyone](https://www.5gworldpro.com/5g-training-for-everyone){:target="_blank" rel="noopener"} |Basic|5 hrs |
+|[5G Training for Everyone](https://www.5gworldpro.com/5g-training-for-everyone){:target="_blank" rel="noopener"} |Basic|5 hrs |
+|[5G Training for Everyone](https://www.5gworldpro.com/5g-training-for-everyone){:target="_blank" rel="noopener"} |Basic|5 hrs |
+|[5G Training for Everyone](https://www.5gworldpro.com/5g-training-for-everyone){:target="_blank" rel="noopener"} |Basic|5 hrs |
+|[5G Training for Everyone](https://www.5gworldpro.com/5g-training-for-everyone){:target="_blank" rel="noopener"} |Basic|5 hrs |
+|[5G Training for Everyone](https://www.5gworldpro.com/5g-training-for-everyone){:target="_blank" rel="noopener"} |Basic|5 hrs |
 |[5G Training for Everyone](https://www.5gworldpro.com/5g-training-for-everyone){:target="_blank" rel="noopener"} |Basic|5 hrs |
 |[5G Training for Everyone](https://www.5gworldpro.com/5g-training-for-everyone){:target="_blank" rel="noopener"} |Basic|5 hrs |
