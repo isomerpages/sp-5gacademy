@@ -34,3 +34,21 @@ We support learners at all stages of their career, from new entrants looking for
 
 Our learning programmes deliver knowledge in an engaging and enjoyable way that inspires, reinforces knowledge and promotes life-long learning.
 
+<style>
+#register {
+  background-color: #0000ff;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+</style>
+
+<center><a href="https://wray-castle-alumni.mn.co/ " target="_blank"><button id="register" class="btn">Register Now</button></a></center>
