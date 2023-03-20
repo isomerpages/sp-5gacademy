@@ -170,13 +170,14 @@ sections:
       image: /images/events/5GLF/Siemens Site Picture.jpeg
       alt: Siemens AMTC
   - infopic:
-      title: "Learning Journey #8"
-      subtitle: 5GLF 2022 - Thu 13 Oct
-      description: "Singtel FutureNow Innovation Centre: <br>5G Capabilities & Use
-        Cases <br> (Partner: Singtel)"
+      title: Wray Castle Connect
+      subtitle: Regular Event
+      description: Wray Castle Connect has been launched to allow you to network with
+        both Wray Castle's specialist training team and your peers across the
+        industry.
       button: Find Out More
-      url: /resources/events/singtel-futurenow-innovation-centre
-      image: /images/events/5GLF/Singtel FIC SLF_CoverPage.png
+      url: /resources/events/wray-castle-connect
+      image: /images/events/Wray Castle Connect.jpg
       alt: Singtel FIC
   - infopic:
       title: "First Look at 5G: the Technology that is Changing the World"
