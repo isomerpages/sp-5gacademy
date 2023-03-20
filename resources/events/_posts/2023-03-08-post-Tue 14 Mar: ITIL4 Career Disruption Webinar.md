@@ -1,11 +1,12 @@
 ---
-title: ITIL4 Career Disruption Webinar
+title: "Tue 14 Mar: ITIL4 Career Disruption Webinar"
 permalink: /resources/events/itil4-career-disruption-webinar/
 date: 2023-03-08
 layout: post
 description: ""
 image: ""
 ---
+
 # About the Event
 **DATE: 14 MARCH 2023**<br>
 **TIME: 2pm - 4pm**
