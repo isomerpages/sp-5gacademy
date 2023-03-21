@@ -20,6 +20,7 @@ third_nav_title: By Areas
 | - | - | - | -|
 |[3GPP Mobile Systems Overview](https://apistraining.com/portfolio/3gpp-mobile-systems-overview-2-days/){:target="_blank" rel="noopener"}  | Apis Training | Basic | 11 hrs |
 |[5G & Fundamentals of Cellular Communication](https://www.qualcommwirelessacademy.com/product/7573afdd){:target="_blank" rel="noopener"}  | Qualcomm | Basic | 6-8 hrs |
+|[5G - A Business Perspective](https://wraycastle.com/collections/5g-technology-training-courses/products/5g-a-business-perspective-training-course){:target="_blank" rel="noopener"}  | Wray Castle | Basic | 14 hrs |
 |[5G Air Interface Training](https://www.qualcommwirelessacademy.com/product/3c438e0e){:target="_blank" rel="noopener"}  | Qualcomm | Intermediate | 8 hrs |
 |[5G as a platform for Industry Transformation](https://scale.nus.edu.sg/programmes/executive-courses/tech-enabled-services/5g-as-a-platform-for-industry-transformation){:target="_blank" rel="noopener"}  | NUS | Intermediate | 12 hrs |
 |[5G Call Processing: Non-Standalone Mode](https://www.qualcommwirelessacademy.com/product/05e08732){:target="_blank" rel="noopener"}  | Qualcomm | Intermediate | 6-8 hrs |
