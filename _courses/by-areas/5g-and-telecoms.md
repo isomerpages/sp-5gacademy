@@ -54,8 +54,10 @@ third_nav_title: By Areas
 |[5G Open RAN Training](https://www.5gworldpro.com/5g-open-ran-training/){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Basic | 6 hrs |
 |[5G Primer](https://www.qualcommwirelessacademy.com/product/4cf92937){:target="_blank" rel="noopener"}  | Qualcomm | Basic | 2-3 hrs |
 |[5G Private Network Training](https://www.5gworldpro.com/5g-private-network-training/){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Basic | 7 hrs |
+|[5G Radio Access Network ](https://wraycastle.com/collections/5g-technology-training-courses/products/5g-radio-access-network-on-demand-training-course){:target="_blank" rel="noopener"}  | Wray Castle | Advanced | 22 hrs |
 |[5G RF Planning Training](https://www.5gworldpro.com/5g-new-radio-rf-planning-training){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Intermediate | 6 hrs |
 |[5G Security](https://www.mpirical.com/courses/5g-security){:target="_blank" rel="noopener"} | Mpirical | Intermediate|6 hrs |
+|[5G Security](https://wraycastle.com/collections/5g-technology-training-courses/products/5g-security-on-demand-training-course){:target="_blank" rel="noopener"} | Wray Castle | Advanced|11 hrs |
 |[5G System Engineering](https://www.mpirical.com/courses/5g-system-engineering-updated-live){:target="_blank" rel="noopener"} |Mpirical | Intermediate|12 hrs |
 |[5G System Overview](https://apistraining.com/portfolio/5g-system-overview/){:target="_blank" rel="noopener"} |Apis Training | Basic|14 hrs |
 |[5G Training for Business](https://www.5gworldpro.com/5g-training-for-business){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Basic | 9 hrs |
