@@ -1,11 +1,12 @@
 ---
 title: The Booming 5G IoT Market, Driven by Smart Cities
 permalink: /resources/articles/booming-5g-iot-market/
-date: 2023-02-13
+date: 2023-03-13
 layout: post
 description: ""
 image: ""
 ---
+
 #### (By Joe McKendrick, RTInsights.com, February 13, 2023)
 
 IoT’s unlimited potential and 5G’s fast speeds and low latency provide the critical infrastructure for the connected smart cities of the future.

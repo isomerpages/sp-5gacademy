@@ -45,7 +45,7 @@ sections:
       image: /images/events/Wray Casrle Webinar Mar 2023 COVER.jpg
   - infopic:
       title: Career Disruption Webinar
-      subtitle: Upcoming event - Tue 14 Mar
+      subtitle: Webinar - Tue 14 Mar
       description: Discover IT Value stream and Learn more on Digital Products,
         Digital Transformation and Customer Journey.
       button: Find Out More
@@ -98,8 +98,18 @@ sections:
       description: "By Appointment Only <br> VENUE: Singapore Polytechnic"
       button: Find Out More
       url: /resources/events/5G-learning-journey "target=_blank"
-      image: /images/events/Regular Programmes/5G Learning Journey Cover Image.png
+      image: /images/events/5GLF/5G Learning Journey Cover Pic.jpg
       alt: 5gandaiot-image
+  - infopic:
+      title: Wray Castle Connect
+      subtitle: Regular Event
+      description: Wray Castle Connect has been launched to allow you to network with
+        both Wray Castle's specialist training team and your peers across the
+        industry.
+      button: Find Out More
+      url: /resources/events/wray-castle-connect
+      image: /images/events/Wray Castle Connect.jpg
+      alt: Singtel FIC
   - infopic:
       title: 5GLF 2022 - 10 Learning Journeys
       subtitle: 5GLF 2022 - Thu 13 Oct
@@ -169,15 +179,6 @@ sections:
       url: /resources/events/amtc-facility-tour
       image: /images/events/5GLF/Siemens Site Picture.jpeg
       alt: Siemens AMTC
-  - infopic:
-      title: "Learning Journey #8"
-      subtitle: 5GLF 2022 - Thu 13 Oct
-      description: "Singtel FutureNow Innovation Centre: <br>5G Capabilities & Use
-        Cases <br> (Partner: Singtel)"
-      button: Find Out More
-      url: /resources/events/singtel-futurenow-innovation-centre
-      image: /images/events/5GLF/Singtel FIC SLF_CoverPage.png
-      alt: Singtel FIC
   - infopic:
       title: "First Look at 5G: the Technology that is Changing the World"
       subtitle: Qualcomm Webinar - Wed 30 Nov

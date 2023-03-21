@@ -20,11 +20,19 @@ third_nav_title: By Areas
 | - | - | - | -|
 |[3GPP Mobile Systems Overview](https://apistraining.com/portfolio/3gpp-mobile-systems-overview-2-days/){:target="_blank" rel="noopener"}  | Apis Training | Basic | 11 hrs |
 |[5G & Fundamentals of Cellular Communication](https://www.qualcommwirelessacademy.com/product/7573afdd){:target="_blank" rel="noopener"}  | Qualcomm | Basic | 6-8 hrs |
+|[5G - A Business Perspective](https://wraycastle.com/collections/5g-technology-training-courses/products/5g-a-business-perspective-training-course){:target="_blank" rel="noopener"}  | Wray Castle | Basic | 14 hrs |
+|[5G Air Interface](https://wraycastle.com/collections/5g-technology-training-courses/products/5g-air-interface-on-demand-training-course){:target="_blank" rel="noopener"}  | Wray Castle | Advanced | 22 hrs |
+|[5G Air Interface Overview](https://wraycastle.com/collections/5g-technology-training-courses/products/5g-air-interface-overview-on-demand-training-course){:target="_blank" rel="noopener"}  | Wray Castle | Intermediate | 11 hrs |
 |[5G Air Interface Training](https://www.qualcommwirelessacademy.com/product/3c438e0e){:target="_blank" rel="noopener"}  | Qualcomm | Intermediate | 8 hrs |
+|[5G Architecture and Protocols ](https://wraycastle.com/collections/5g-technology-training-courses/products/5g-architecture-and-protocols-on-demand-training-course){:target="_blank" rel="noopener"}  | Wray Castle | Advanced | 22 hrs |
+|[5G Architecture and Protocols Overview](https://wraycastle.com/collections/5g-technology-training-courses/products/5g-architecture-and-protocols-overview-on-demand-training-course){:target="_blank" rel="noopener"}  | Wray Castle | Intermediate | 11 hrs |
 |[5G as a platform for Industry Transformation](https://scale.nus.edu.sg/programmes/executive-courses/tech-enabled-services/5g-as-a-platform-for-industry-transformation){:target="_blank" rel="noopener"}  | NUS | Intermediate | 12 hrs |
 |[5G Call Processing: Non-Standalone Mode](https://www.qualcommwirelessacademy.com/product/05e08732){:target="_blank" rel="noopener"}  | Qualcomm | Intermediate | 6-8 hrs |
+|[5G Cell Planning ](https://wraycastle.com/collections/5g-technology-training-courses/products/5g-cell-planning-on-demand){:target="_blank" rel="noopener"}  | Wray Castle | Advanced | 22 hrs |
 |[5G Core and 5G Slicing Training](https://www.5gworldpro.com/5g-core-and-5g-slicing-training){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Basic | 8 hrs |
 |[5G Core Network Architecture](https://apistraining.com/portfolio/5g-core-network-architecture/){:target="_blank" rel="noopener"}  | Apis Training | Intermediate | 17 hrs |
+|[5G Engineering ](https://wraycastle.com/collections/5g-technology-training-courses/products/5g-engineering-on-demand-training-course){:target="_blank" rel="noopener"}  | Wray Castle | Intermediate | 22 hrs |
+|[5G Engineering Overview ](https://wraycastle.com/collections/5g-technology-training-courses/products/5g-engineering-overview-on-demand-training-course){:target="_blank" rel="noopener"}  | Wray Castle | Intermediate | 11 hrs |
 |[5G Essentials](https://alta3.com/overview-5g){:target="_blank" rel="noopener"}  | Alta3 Research | Intermediate | 8 hrs |
 |[5G Fundamentals and Applications](https://www.rp.edu.sg/ace/short-course/Detail/5g-fundamentals-and-applications){:target="_blank" rel="noopener"}  | RP | Basic | 8 hrs |
 |[5G Fundamentals for all](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/5g-fundamentals-for-all.html#course-overview){:target="_blank" rel="noopener"}  | TP | Basic | 14 hrs |
@@ -33,9 +41,11 @@ third_nav_title: By Areas
 |[5G Industry Practitioner (Core Network)](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/sp-ericsson-5g-industry-practitioner-certificate/5g-industry-practitioner-(core-network)){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
 |[5G Industry Practitioner (Overview)](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/sp-ericsson-5g-industry-practitioner-certificate/5g-industry-practitioner-(overview)){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
 |[5G Industry Practitioner (Radio Access Network)](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/sp-ericsson-5g-industry-practitioner-certificate/5g-industry-practitioner-(radio-access-network)){:target="_blank" rel="noopener"}  | SP | Intermediate | 16 hrs |
+|[5G Infrastructure & Operation  ](https://wraycastle.com/collections/5g-technology-training-courses/products/5g-infrastructure-and-operation-training-course){:target="_blank" rel="noopener"}  | Wray Castle | Advanced | 21 hrs |
 |[5G KPI, 5G Optimization and 5G Troubleshooting ](https://www.5gworldpro.com/5g-kpi-5g-optimization-and-5g-troubleshooting-training/){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Advanced | 9 hrs |
 |[5G Massive MIMO and Beamforming](https://www.mpirical.com/courses/5g-massive-mimo-and-beamforming){:target="_blank" rel="noopener"} |Mpirical | Advanced|3 hrs |
 |[5G Network Slicing](https://www.mpirical.com/courses/5g-network-slicing-updated-2022){:target="_blank" rel="noopener"} |Mpirical | Intermediate|4 hrs |
+|[5G Network Slicing](https://wraycastle.com/collections/5g-technology-training-courses/products/5g-network-slicing-training-course){:target="_blank" rel="noopener"} |Wray Castle | Advanced|7 hrs |
 |[5G NG-RAN Architecture](https://apistraining.com/portfolio/5g-ng-ran-architecture/){:target="_blank" rel="noopener"}  | Apis Training | Intermediate | 12 hrs |
 |[5G NG-RAN Signaling](https://courses.is-wireless.com/course/5g-ng-ran-signalling){:target="_blank" rel="noopener"}  | IS-Wireless Academy | Advanced | 20 hrs |
 |[5G NR Advanced Training](https://www.5gworldpro.com/5g-nr-advanced){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Intermediate | 8 hrs |
@@ -44,16 +54,24 @@ third_nav_title: By Areas
 |[5G Open RAN Training](https://www.5gworldpro.com/5g-open-ran-training/){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Basic | 6 hrs |
 |[5G Primer](https://www.qualcommwirelessacademy.com/product/4cf92937){:target="_blank" rel="noopener"}  | Qualcomm | Basic | 2-3 hrs |
 |[5G Private Network Training](https://www.5gworldpro.com/5g-private-network-training/){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Basic | 7 hrs |
+|[5G Radio Access Network ](https://wraycastle.com/collections/5g-technology-training-courses/products/5g-radio-access-network-on-demand-training-course){:target="_blank" rel="noopener"}  | Wray Castle | Advanced | 22 hrs |
 |[5G RF Planning Training](https://www.5gworldpro.com/5g-new-radio-rf-planning-training){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Intermediate | 6 hrs |
 |[5G Security](https://www.mpirical.com/courses/5g-security){:target="_blank" rel="noopener"} | Mpirical | Intermediate|6 hrs |
+|[5G Security](https://wraycastle.com/collections/5g-technology-training-courses/products/5g-security-on-demand-training-course){:target="_blank" rel="noopener"} | Wray Castle | Advanced|11 hrs |
+|[5G Service Based Architecture & Core Network ](https://wraycastle.com/collections/5g-technology-training-courses/products/5g-service-based-architecture-and-core-network-on-demand-training-course){:target="_blank" rel="noopener"} |Wray Castle | Advanced|22 hrs |
 |[5G System Engineering](https://www.mpirical.com/courses/5g-system-engineering-updated-live){:target="_blank" rel="noopener"} |Mpirical | Intermediate|12 hrs |
 |[5G System Overview](https://apistraining.com/portfolio/5g-system-overview/){:target="_blank" rel="noopener"} |Apis Training | Basic|14 hrs |
+|[5G Technology, Services and Markets ](https://wraycastle.com/collections/5g-technology-training-courses/products/5g-technologies-services-and-markets-on-demand-training-course){:target="_blank" rel="noopener"}  | Wray Castle | Basic | 11 hrs |
 |[5G Training for Business](https://www.5gworldpro.com/5g-training-for-business){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Basic | 9 hrs |
 |[5G Training for Everyone](https://www.5gworldpro.com/5g-training-for-everyone){:target="_blank" rel="noopener"}  | 5GWORLDPRO | Basic | 5 hrs |
 |[5G Use Cases ](https://www.mpirical.com/courses/5g-use-cases){:target="_blank" rel="noopener"} |Mpirical | Basic|3 hrs |
 |[5G-Based Localization Methods](https://www.ntu.edu.sg/pace/programmes/detail/5g-based-localization-methods){:target="_blank" rel="noopener"}  | NTU | Intermediate | 7 hrs |
 |[Advanced Certificate in Technical Fundamentals of Cybersecurity Module 4: Introduction to 5G Networks](https://academy.smu.edu.sg/advanced-certificate-technical-fundamentals-cybersecurity-module-4-introduction-5g-networks-5231){:target="_blank" rel="noopener"}  | SMU | Basic | 31 hrs |
 |[Analyzing the 5G Core](https://www.mpirical.com/courses/analyzing-the-5g-core){:target="_blank" rel="noopener"} |Mpirical | Advanced|18 hrs |
+|[Certificate and Diploma in Telecoms (5G Engineer)](https://wraycastle.com/collections/certificate-and-diploma-programmes/products/certificate-and-diploma-in-telecoms-5g-engineer){:target="_blank" rel="noopener"} |Wray Castle | Intermediate|10-14 mths |
+|[Certificate and Diploma in Telecoms (Cellular Radio Engineer)](https://wraycastle.com/collections/certificate-and-diploma-programmes/products/certificate-and-diploma-in-telecoms-cellular-radio-engineer){:target="_blank" rel="noopener"} |Wray Castle | Intermediate|10-14 mths |
+|[Certificate and Diploma in Telecoms (Core Network Engineer)](https://wraycastle.com/collections/certificate-and-diploma-programmes/products/certificate-and-diploma-in-telecoms-core-network-engineer){:target="_blank" rel="noopener"} |Wray Castle | Intermediate|10-14 mths |
+|[Certificate and Diploma in Telecoms (LTE Engineer)](https://wraycastle.com/collections/certificate-and-diploma-programmes/products/certificate-and-diploma-in-telecoms-lte-engineer){:target="_blank" rel="noopener"} |Wray Castle | Intermediate|10-14 mths |
 |[Certified Kubernetes Administrator - CKA](https://alta3.com/overview-cka-training){:target="_blank" rel="noopener"}  | Alta3 Research | Intermediate | 30 hrs |
 |[CoC in Introduction to WiFi 6 & 5G Wireless Technology](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-wifi-6-5g-wireless-technology){:target="_blank" rel="noopener"}  | ITE | Basic | 14 hrs |
 |[C-RAN for 5G](https://www.mpirical.com/courses/c-ran-for-5g){:target="_blank" rel="noopener"} |Mpirical | Intermediate|3 hrs |
