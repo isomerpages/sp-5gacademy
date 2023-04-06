@@ -35,6 +35,14 @@ sections:
       subtitle: Learn more
       button: View More
   - infopic:
+      title: Beamforming and Massive MIMO - Enabling 5G
+      subtitle: Live Webinar - Tue 25 Apr
+      description: "DATE: 25 APR 2023 (TUE) <br> TIME: 6 - 7 pm (SINGAPORE Time)"
+      button: Find Out More
+      url: /resources/events/beamforming-and-massive-mimo
+      image: /images/events/cover pic_wray castle webinar on 25 apr.jpg
+      alt: Wray Castle Webinar Apr 2023
+  - infopic:
       title: Radio Propagation Mechanisms Explained
       subtitle: Webinar - Thu 23 Mar
       description: "DATE: 23 MAR 2023 (THU) <br> TIME: 6.00 PM SINGAPORE TIME (10.00
@@ -162,14 +170,6 @@ sections:
       url: /resources/events/nus-c5gdbt
       alt: Image alt text
       image: /images/events/5GLF/NUS C5GDBT.jpg
-  - infopic:
-      title: Beamforming and Massive MIMO - Enabling 5G
-      subtitle: Live Webinar - Tue 25 Apr
-      description: "DATE: 25 APR 2023 (TUE) <br> TIME: 6 - 7 pm (SINGAPORE Time)"
-      button: Find Out More
-      url: /resources/events/beamforming-and-massive-mimo
-      image: /images/events/cover pic_wray castle webinar on 25 apr.jpg
-      alt: Wray Castle Webinar Apr 2023
   - infopic:
       title: "First Look at 5G: the Technology that is Changing the World"
       subtitle: Qualcomm Webinar - Wed 30 Nov
