@@ -8,19 +8,29 @@ image: ""
 ---
 # About the Event
 
-Cities around the world are increasingly integrating socio-technical data to transform their urban systems toward digital city systems. As the world continues to urbanise, convergent science, engineering and policy for urban systems are needed to ensure such transformative developments are, in fact, creating sustainable urban systems that benefit the citizens and societies at large.
+5G enables access to higher frequency spectrum than previous generations. In order to efficiently use that high frequency spectrum [and put very simply], antenna size needs to be smaller, and we need to use more of them. This in turn means that massive antenna arrays are a key component of 5G deployment - where lots of antennas are used in a very organised way to focus energy and drive spectral efficiency. The ways in which 5G data streams are mapped to those antenna arrays is highly flexible, offering the operator a range of beamforming and massive MIMO (Multiple-In, Multiple-Out) options. 
 
-Different personas such as city planners, architects, engineers, developers, building owners, researchers, property owners, facility managers, can make use of Urban Digital Twin to support a wide variety of use cases.
+This talk explores the options and techniques available, as well as setting out the most appropriate deployment scenarios. We aim to make sense of this highly complex subject – looking at the impact of advanced antenna systems without getting stuck into the mathematics!
 
-Join our webinar as our panel of industry leaders will share: <br>
-•	Benefits of adopting Urban Digital Twin in city life cycle management <br>
-•	What is urban data and how to manage it <br>
-•	Domain specific use cases in urban mobility, in campus and building Digital Twin <br>
-•	What is Urban Digital Twin technology and how does it work
+**Topics to be discussed include:**
+
+* Frequency Bands for 5G
+* Propagation Characteristics - UHF to mmWave
+* Frequency and Typical Cell Ranges
+* Dual Connectivity
+* Antenna Arrays
+* MIMO Explained
+* SU-MIMO
+* MU-MIMO
+* Massive MIMO Techniques
+* Beamforming in 5G
+* Advanced Antenna Techniques
+* Use of Reference Signals and Feedback for Beam Management
+* Advanced Antenna Use Cases
 
 # Details
-**DATE: 30 NOVEMBER 2021 <br> 
-TIME: 11.00 am - 12.00 pm <br> 
+**DATE: 25 APRIL 2023 <br> 
+TIME: 6.00 pm - 7.00 pm (SINGAPORE TIME) <br> 
 VENUE: via Zoom**
 
 ![Urban Digital Twin](/images/events/events/Urban%20Digital%20Twin.png)
