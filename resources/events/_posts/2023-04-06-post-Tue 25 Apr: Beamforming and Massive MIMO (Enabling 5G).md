@@ -29,11 +29,11 @@ This talk explores the options and techniques available, as well as setting out 
 * Advanced Antenna Use Cases
 
 # Details
-**DATE: 25 APRIL 2023 <br> 
+**DATE: 25 APRIL 2023 (TUESDAY) <br> 
 TIME: 6.00 pm - 7.00 pm (SINGAPORE TIME) <br> 
 VENUE: via Zoom**
 
-![Urban Digital Twin](/images/events/events/Urban%20Digital%20Twin.png)
+![Cover Pic_Wray Castle Webinar on 25 Apr](/images/events/cover%20pic_wray%20castle%20webinar%20on%2025%20apr.jpg)
 
 
 <style>
