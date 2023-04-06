@@ -1,7 +1,7 @@
 ---
 title: Wray Castle Connect
 permalink: /resources/events/wray-castle-connect/
-date: 2023-03-20
+date: 2023-03-12
 layout: post
 description: ""
 image: ""
@@ -53,4 +53,4 @@ Our learning programmes deliver knowledge in an engaging and enjoyable way that 
 }
 </style>
 
-<center><a href="https://wray-castle-alumni.mn.co/ " target="_blank"><button id="register" class="btn">Register Now</button></a></center>
+<center><a href="https://wray-castle-alumni.mn.co/" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
