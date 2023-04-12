@@ -5,8 +5,6 @@ third_nav_title: By Acad Institutions
 ---
 |Course Title  | Level | Duration |
 | - | - | - | 
-|[Certificate in Internetworking - Part of Diploma in Engineering (Electronics) ](https://www.cet.np.edu.sg/courses/diploma-in-engineering-electronics/){:target="_blank" rel="noopener"} |Basic|180 hrs |
-|[Cyber Security Essentials (Synchronous e-learning)](https://www.cet.np.edu.sg/courses/cyber-security-essentials/){:target="_blank" rel="noopener"} |Basic|36 hrs |
 |[Ethical Hacking & Penetration Testing](https://www.cet.np.edu.sg/courses/ethical-hacking-penetration-testing/){:target="_blank" rel="noopener"} |Basic|40 hrs |
 |[Hands On with Robotic Process Automation (Synchronous e-learning)](https://www.cet.np.edu.sg/courses/hands-on-with-robotic-process-automation/){:target="_blank" rel="noopener"} |Basic|16 hrs |
 |[Introduction to Deep Learning](https://www.cet.np.edu.sg/courses/introduction-to-machine-learning/){:target="_blank" rel="noopener"} |Advanced|32 hrs |
