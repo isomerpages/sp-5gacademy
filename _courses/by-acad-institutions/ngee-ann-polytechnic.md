@@ -6,7 +6,6 @@ third_nav_title: By Acad Institutions
 |Course Title  | Level | Duration |
 | - | - | - | 
 |[Ethical Hacking & Penetration Testing](https://www.cet.np.edu.sg/courses/ethical-hacking-penetration-testing/){:target="_blank" rel="noopener"} |Basic|40 hrs |
-|[Hands On with Robotic Process Automation (Synchronous e-learning)](https://www.cet.np.edu.sg/courses/hands-on-with-robotic-process-automation/){:target="_blank" rel="noopener"} |Basic|16 hrs |
 |[Introduction to Deep Learning](https://www.cet.np.edu.sg/courses/introduction-to-machine-learning/){:target="_blank" rel="noopener"} |Advanced|32 hrs |
 |[Introduction to Machine Learning ](https://www.cet.np.edu.sg/courses/introduction-to-machine-learning/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
 |[Machine Learning with Azure ](https://www.cet.np.edu.sg/courses/machine-learning-with-azure/){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
