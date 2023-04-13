@@ -6,7 +6,6 @@ third_nav_title: By Acad Institutions
 |Course Title  | Level | Duration |
 | - | - | - | 
 |[Advanced Mathematical Optimization](https://www.suss.edu.sg/courses/detail/mth356){:target="_blank" rel="noopener"} |Advanced|18 hrs |
-|[AI, Blockchain, Quantum Computing and Cloud in Banking and Insurance](https://sussblockchain.com/wp-content/uploads/2019/06/Workshop-AI-Blockchain-Quantum-Cloud.pdf){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[Applications of Artificial Intelligence in Healthcare](https://www.suss.edu.sg/courses/detail/bme363){:target="_blank" rel="noopener"} |Basic|36 hrs |
 |[Applied Regression Analysis I](https://www.suss.edu.sg/courses/detail/mth357){:target="_blank" rel="noopener"} |Advanced|18 hrs |
 |[Applied Regression Analysis II](https://www.suss.edu.sg/courses/detail/mth358?urlname=bsc-mathematics-bsma){:target="_blank" rel="noopener"} |Advanced|18 hrs |
