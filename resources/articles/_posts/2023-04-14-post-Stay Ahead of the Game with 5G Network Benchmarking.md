@@ -6,8 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-**30 Mar 2023**
-By Keysight Nemo Wireless Network Solutions
+
+By **Keysight Nemo Wireless Network Solutions**
 
 The importance of performing 5G network benchmarking in today's highly competitive telecommunications industry cannot be emphasized enough. Benchmarking is the game changer that allows you to stay ahead of the curve and provide unparalleled service to your customers. By testing and measuring network performance against your competitors, you gain a competitive edge that cannot be matched. 
 
@@ -19,7 +19,8 @@ Benchmarking data can also be used for marketing – find out the strengths of y
 
 However, to achieve the highest quality data and a comprehensive understanding of your network's competitive landscape, benchmarking campaigns must be carefully planned. This includes drive and walk tests that cover all necessary locations and collect all important KPIs while using the same mobile devices as your customers are using. The data collection process is further complicated by the need to collect data from multiple competitive networks, making planning and execution even more crucial.
 
-Scalability and Flexibility at the Core of Nemo Benchmarking Solutions
+**Scalability and Flexibility at the Core of Nemo Benchmarking Solutions**
+
 Data collection equipment are typically long-term investments. To back up your investment, Keysight’s Nemo benchmarking tools have been designed to adapt to different network measurement needs mobile operators might have today and in the future. 
 
 A modular, scalable, and comprehensive benchmarking system may sound complex, but it does not have to be so. At the core of Keysight’s laptop-based Nemo benchmarking systems is the powerful Nemo Outdoor engine that has an established position both as a pioneer and leader in drive test measurement solutions for over 25 years. Nemo Outdoor is not only widely used, but also known for its ease of use and flexible user interface. A short learning curve and a single, easy-to-use platform for all network measurement needs contribute to lower operating costs and lower initial investment as it can be taken into use effectively with less training. 
@@ -33,4 +34,3 @@ In the past few years, Keysight has introduced two Nemo Outdoor based benchmarki
 One Nemo Backpack Pro connects up to 18 smartphones and 1-2 scanning receivers, and several backpacks with up to 60 devices can be connected to one laptop.
 
 ![Nemo Backpack](/images/articles/keysight%20-%20nemo%20backpack%20pro.jpg)
-
