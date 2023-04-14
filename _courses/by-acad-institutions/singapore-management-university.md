@@ -24,7 +24,6 @@ third_nav_title: By Acad Institutions
 |[Cloud Technology & Automation (for Financial Sector) ](https://academy.smu.edu.sg/cloud-technology-automation-financial-sector-3196){:target="_blank" rel="noopener"} |Basic|15 hrs |
 |[Cyber Forensics](https://academy.smu.edu.sg/cyber-forensics-3681){:target="_blank" rel="noopener"} |Intermediate|15 hrs |
 |[Cyber Security Risk Management for Finance Professionals](https://academy.smu.edu.sg/cyber-security-risk-management-finance-professionals-1161){:target="_blank" rel="noopener"} |Basic|14.5 hrs |
-|[Cyber Security Risk Management for Finance Professionals](https://academy.smu.edu.sg/cyber-security-risk-management-finance-professionals-1161){:target="_blank" rel="noopener"} |Basic|14.5 hrs |
 |[Cybersecurity Fundamentals](https://academy.smu.edu.sg/cybersecurity-fundamentals-3526){:target="_blank" rel="noopener"} |Basic|22 hrs |
 |[Cybersecurity Landscape & Adoption of Emerging Technologies in Cybersecurity](https://academy.smu.edu.sg/cybersecurity-landscape-adoption-emerging-technologies-cybersecurity-3521){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Cybersecurity Operations and Maintenance](https://academy.smu.edu.sg/cybersecurity-operations-and-maintenance-3666){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
