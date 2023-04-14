@@ -6,7 +6,7 @@ third_nav_title: By Acad Institutions
 |Course Title  | Level | Duration |
 | - | - | - | 
 |[5G for Digital Transformation](https://sitlearn.singaporetech.edu.sg/individualcourse/?title=FTI6002-Internet-of-Things-for-a-Connected-World&id=29bc6b5d-6c40-ec11-8c62-000d3a82a2a4&FD=true){:target="_blank" rel="noopener"} |Intermediate|48 hrs |
-|[Application of Data Engineering](https://sitlearn.singaporetech.edu.sg/individualcourse/?title=DSF6010-Application-of-Data-Engineering&id=1db7f530-14c8-eb11-bacc-000d3a8073ce&FD=true){:target="_blank" rel="noopener"} |Intermediate|48 hrs |
+|[Application of Data Engineering](https://sitlearn.singaporetech.edu.sg/individualcourse/?title=DSF6010-Application-of-Data-Engineering&id=6585ca2f-f1ed-eb11-94ef-000d3a81f762&FD=true){:target="_blank" rel="noopener"} |Intermediate|48 hrs |
 |[Application of Robotics & Automation for Smart Factory](https://sitlearn.singaporetech.edu.sg/individualcourse/?title=DSF-6040-Application-of-Robotics-and-Automation-for-Smart-Factory&id=81e36756-b7db-ea11-a813-000d3a85436c&FD=true){:target="_blank" rel="noopener"}  |  Intermediate | 48 hrs |
 |[Artificial Intelligence in Broad Strokes (Synchronous e-Learning)](https://sitlearn.singaporetech.edu.sg/individualcourse/?title=Artificial-Intelligence-in-Broad-Strokes&id=e5488b06-27a7-eb11-9442-00224816cf16&FD=true){:target="_blank" rel="noopener"} |Basic|16 hrs |
 |[Cybersecurity for Management](https://sitlearn.singaporetech.edu.sg/individualcourse/?title=Cybersecurity-for-Management&id=dd31699d-035a-eb11-a812-0022481632d0&FD=true){:target="_blank" rel="noopener"} |Advanced|24 hrs |
