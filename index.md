@@ -119,6 +119,14 @@ sections:
       image: /images/events/Wray Castle Connect.jpg
       alt: Singtel FIC
   - infopic:
+      title: "First Look at 5G: the Technology that is Changing the World"
+      subtitle: Qualcomm Webinar - Wed 30 Nov
+      description: "DATE: 30 NOV 2022 (WED) <br> TIME: 9:30 am"
+      button: Find out more
+      alt: Image alt text
+      url: /resources/events/first-look-at-5g/
+      image: /images/events/events/Qualcomm Webinar.jpg
+  - infopic:
       title: 5GLF 2022 - 10 Learning Journeys
       subtitle: 5GLF 2022 - Thu 13 Oct
       description: "Note: You will be allocated to 1 of your choices only. <br> Dress
@@ -170,12 +178,4 @@ sections:
       url: /resources/events/nus-c5gdbt
       alt: Image alt text
       image: /images/events/5GLF/NUS C5GDBT.jpg
-  - infopic:
-      title: "First Look at 5G: the Technology that is Changing the World"
-      subtitle: Qualcomm Webinar - Wed 30 Nov
-      description: "DATE: 30 NOV 2022 (WED) <br> TIME: 9:30 am"
-      button: Find out more
-      alt: Image alt text
-      url: /resources/events/first-look-at-5g/
-      image: /images/events/events/Qualcomm Webinar.jpg
 ---
