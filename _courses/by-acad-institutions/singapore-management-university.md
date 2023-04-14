@@ -7,7 +7,6 @@ third_nav_title: By Acad Institutions
 | - | - | - | 
 |[5-Day AI Bootcamp](https://academy.smu.edu.sg/5-day-ai-bootcamp-4241){:target="_blank" rel="noopener"} |Intermediate|39 hrs |
 |[5-Day AI Bootcamp (Synchronous E-learning)](https://academy.smu.edu.sg/5-day-ai-bootcamp-4241){:target="_blank" rel="noopener"} |Intermediate|39 hrs |
-|[Advanced Technology Stack Series: Establishing Foundation in Cloud Services and Applications](https://academy.smu.edu.sg/establishing-foundation-cloud-services-and-applications-4551){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[Advanced Technology Stack Series: Establishing Foundation in Cloud Services and Applications ](https://academy.smu.edu.sg/establishing-foundation-cloud-services-and-applications-4551){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[Advanced Technology Stack Series: Jump Start in Artificial Intelligence, Machine Learning and Deep Learning](https://academy.smu.edu.sg/jump-start-artificial-intelligence-machine-learning-and-deep-learning-4546){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[AI and Machine Learning in FinTech](https://academy.smu.edu.sg/ai-and-machine-learning-fintech-4856){:target="_blank" rel="noopener"} |Basic|15 hrs |
