@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-
-By **Keysight Nemo Wireless Network Solutions**
+*By **Keysight Nemo Wireless Network Solutions***
 
 The importance of performing 5G network benchmarking in today's highly competitive telecommunications industry cannot be emphasized enough. Benchmarking is the game changer that allows you to stay ahead of the curve and provide unparalleled service to your customers. By testing and measuring network performance against your competitors, you gain a competitive edge that cannot be matched. 
 
