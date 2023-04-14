@@ -26,8 +26,9 @@ A modular, scalable, and comprehensive benchmarking system may sound complex, bu
 
 In the past few years, Keysight has introduced two Nemo Outdoor based benchmarking solutions, both designed while keeping the requirements of 5G network testing in mind. Now that they have been on the market for a while, they have been thoroughly tested, verified, and well received by our customers.  Nemo Network Benchmarking Solution (NBM) is a scalable measurement solution for network benchmarking, optimization, and verification for field and lab environments. Nemo Backpack Pro is a lightweight benchmarking solution suitable for both walk testing and drive testing. 
 
-***Nemo Network Benchmarking Solution (NBM)
-	![Nemo Network Benchmarking Solution](/i*mages/articles/keysight%20-%20nemo%20network%20benchmarking%20solution%20(nbm).jpg)
+![Nemo Network Benchmarking Solution](/images/articles/keysight%20-%20nemo%20network%20benchmarking%20solution%20(nbm).jpg)
+
+***Nemo Network Benchmarking Solution (NBM)***
 
 Keysight’s Nemo benchmarking systems have been designed to cover all your benchmarking needs and help to capture all the necessary KPIs in one go. NBM can be used with up to 60 test devices and two scanning receivers, all connected to one laptop running Nemo Outdoor.
 
@@ -51,4 +52,4 @@ With Keysight's unique, automated AI-driven Application Testing Automation metho
 
 When all the required benchmarking data has been collected, it is time to put the data to use to help you make informed decisions and to keep you ahead of the competition. Get an overview of measurement results from the easy-to-use Nemo Outdoor user interface or get the most out of your data by combining NBM or Nemo Backpack Pro with [Nemo Cloud](https://www.keysight.com/us/en/product/NTC00000A/nemo-cloud-remote-monitoring-solution.html) and [Nemo Analyze](https://www.keysight.com/us/en/product/NTN00000B/nemo-analyze-drive-test-post-processing-solution.html) and create an end-to-end automated data processing environment from the collection of measurement data to analytics and reporting. View the results as an NPS 3.0 score in a report or real-time dashboard that compares the quality of mobile networks and visualizes the QoE that the end users perceive with real use cases in different environments.
 
-Interested to learn more? Contact us at: nemo.info@keysight.com
+Interested to learn more? Contact us at: **nemo.info@keysight.com**
