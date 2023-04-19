@@ -43,6 +43,15 @@ sections:
       image: /images/events/cover pic_wray castle webinar on 25 apr.jpg
       alt: Wray Castle Webinar Apr 2023
   - infopic:
+      title: Learn NIST Cybersecurity Framework in 60 Min
+      subtitle: Live Webinar - Fri 28 Apr
+      description: Learn how NIST CSF can benefit working professionals by enhancing
+        your knowledge of cybersecurity.
+      button: Find Out More
+      url: /resources/events/nist-cybersecurity-framework-in-60mins
+      alt: Image alt text
+      image: /images/events/(5g) bm nist cybersecurity webinar - website cover pic.jpg
+  - infopic:
       title: Radio Propagation Mechanisms Explained
       subtitle: Webinar - Thu 23 Mar
       description: "DATE: 23 MAR 2023 (THU) <br> TIME: 6.00 PM SINGAPORE TIME (10.00
@@ -170,12 +179,4 @@ sections:
       url: /resources/events/nyp-starhub-apex-5g-centre
       image: /images/events/5GLF/Apex5G.png
       alt: Image alt text
-  - infopic:
-      title: "Learning Journey #5"
-      subtitle: 5GLF 2022 - Thu 13 Oct
-      description: "5G Empowered Unmanned Smart Facilities Management <br> (Partner: NUS)"
-      button: Find Out More
-      url: /resources/events/nus-c5gdbt
-      alt: Image alt text
-      image: /images/events/5GLF/NUS C5GDBT.jpg
 ---
