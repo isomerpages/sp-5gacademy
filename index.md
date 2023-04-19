@@ -173,7 +173,8 @@ sections:
   - infopic:
       title: Learn NIST Cybersecurity Framework in 60 Min
       subtitle: Live Webinar - Fri 28 Apr
-      description: "DATE: 28 APR 2023 *FRI) <br> TIME "
+      description: Learn how NIST CSF can benefit working professionals by enhancing
+        your knowledge of cybersecurity.
       button: Find Out More
       url: /resources/events/nist-cybersecurity-framework-in-60mins
       alt: Image alt text
