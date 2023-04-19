@@ -8,18 +8,15 @@ image: ""
 ---
 # About the Event
 
-IMDA PIXEL is bringing you a session on Powering Brand Experiences with ARVR, featuring speakers from Meta (formerly Facebook), Unreal Engine (Epic Games), Trinax, NexTech AR and local telco Starhub! 
-
-In this third edition of a 3-part ARVR webinar series, hear how ARVR projects with organisations such as Coca-Cola, Osim and Kia Motors are making real business impact.
+Learn how NIST CSF can benefit working professionals by enhancing your knowledge of cybersecurity, helping to prioritise cybersecurity activities, facilitating collaboration, providing a common language and demonstrating compliance.
 
 
 # Details
-**DATE: 9 FEBRUARY 2022 <br> 
-TIME: 2.30 pm - 4.30 pm <br> 
+**DATE: 28 APRIL 2023 <br> 
+TIME: 2.00 pm - 300 pm <br> 
 VENUE: via Zoom**
 
-
-![Powering Brand Experiences with ARVR](/images/events/Powering%20Brand%20Experience%20with%20ARVR.png)
+![5G BM NIST Cybersecurity Webinar - eDM](/images/events/(5g)%20bm%20nist%20cybersecurity%20webinar%20-%20pic%20edm.jpg)
 
 
 <style>
