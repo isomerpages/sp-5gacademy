@@ -171,11 +171,11 @@ sections:
       image: /images/events/5GLF/Apex5G.png
       alt: Image alt text
   - infopic:
-      title: "Learning Journey #5"
-      subtitle: 5GLF 2022 - Thu 13 Oct
-      description: "5G Empowered Unmanned Smart Facilities Management <br> (Partner: NUS)"
+      title: Learn NIST Cybersecurity Framework in 60 Min
+      subtitle: Live Webinar - Fri 28 Apr
+      description: "DATE: 28 APR 2023 *FRI) <br> TIME "
       button: Find Out More
-      url: /resources/events/nus-c5gdbt
+      url: /resources/events/nist-cybersecurity-framework-in-60mins
       alt: Image alt text
-      image: /images/events/5GLF/NUS C5GDBT.jpg
+      image: /images/events/(5g) bm nist cybersecurity webinar - website cover pic.jpg
 ---
