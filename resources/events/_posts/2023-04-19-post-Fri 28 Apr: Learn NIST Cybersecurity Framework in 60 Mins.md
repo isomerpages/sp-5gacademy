@@ -10,7 +10,6 @@ image: ""
 
 Learn how NIST CSF can benefit working professionals by enhancing your knowledge of cybersecurity, helping to prioritise cybersecurity activities, facilitating collaboration, providing a common language and demonstrating compliance.
 
-
 # Details
 **DATE: 28 APRIL 2023 <br> 
 TIME: 2.00 pm - 300 pm <br> 
