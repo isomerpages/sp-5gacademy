@@ -16,8 +16,10 @@ third_nav_title: By Training Providers (Local)
 |[Data Engineering](https://education.dellemc.com/content/emc/en-us/home/store/valuepak.html?code=MR-7MM-DATAENG){:target="_blank" rel="noopener"} |Intermediate|80 hrs |
 |[Data Science and Big Data Analytics v2](https://education.dellemc.com/content/emc/en-us/home/store/search/course-details.html?courseID=ES732OCMDSBDA&l=United%20States&mod=On%20Demand%20Class&cat=Big%20Data){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[Implementing the NIST Cybersecurity Framework](https://education.dellemc.com/content/emc/en-us/home/store/search/course-details.html?courseID=ES132DSY00786&l=United%20States&mod=On%20Demand%20Class&cat=Security&utm_source=NIST-Cybersecurity-Framework&utm_medium=Networking-){:target="_blank" rel="noopener"} |Basic|5 hrs |
-|[SkillsFuture for Digital Workplace](https://webibmcourse.mybluemix.net/DigitalCourse){:target="_blank" rel="noopener"} |Basic|14 hrs |
-|[SkillsFuture for Digital Workplace](https://webibmcourse.mybluemix.net/DigitalCourse){:target="_blank" rel="noopener"} |Basic|14 hrs |
+|[Introducing Data Science and Big Data Analytics for Business Transformation](https://education.dellemc.com/content/emc/en-us/home/store/search/course-details.html?courseID=MR-1TN-NDSFBLIN&l=United%20States&mod=On%20Demand%20Class&cat=Big%20Data){:target="_blank" rel="noopener"} |Basic|1.25 hrs |
+|[Introduction to Data Engineering](https://education.dellemc.com/content/emc/en-us/home/store/search/course-details.html?courseID=ES731OCMIDENG&l=United%20States&mod=On%20Demand%20Class&cat=Big%20Data){:target="_blank" rel="noopener"} |Basic|0.5 hrs |
+|[IP and TCP/UDP Protocols](https://education.dellemc.com/content/emc/en-us/home/store/search/course-details.html?courseID=MR-1WP-IPTCPUDP&l=United%20States&mod=On%20Demand%20Class&cat=Storage){:target="_blank" rel="noopener"} |Basic|1 hrs |
+|[Networked File Sharing Models](https://education.dellemc.com/content/emc/en-us/home/store/search/course-details.html?courseID=ES131STG00373&l=United%20States&mod=On%20Demand%20Class&cat=Storage){:target="_blank" rel="noopener"} |Basic|1.5 hrs |
 |[SkillsFuture for Digital Workplace](https://webibmcourse.mybluemix.net/DigitalCourse){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[SkillsFuture for Digital Workplace](https://webibmcourse.mybluemix.net/DigitalCourse){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[SkillsFuture for Digital Workplace](https://webibmcourse.mybluemix.net/DigitalCourse){:target="_blank" rel="noopener"} |Basic|14 hrs |
