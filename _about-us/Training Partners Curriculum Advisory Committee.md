@@ -23,3 +23,4 @@ description: ""
 | Mr Rafal Sanecki   | IS Wireless Academy    |
 | Mr Gavin Mitchell  | Mpirical   |
 | Mr Vikram Malhotra  | Qualcomm Wireless Academy   |
+| Mr Patrick Hastings  | Wray Castle Limited   |

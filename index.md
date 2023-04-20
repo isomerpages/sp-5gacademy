@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banners-and-logos/Man_White_Orange_1.jpeg
+      background: /images/banners-and-logos/banner-hari raya 2023.png
       button: click here to enquire
       url: https://form.gov.sg/#!/60fc3172d0fde7001257e316" target="_blank
       key_highlights:
@@ -23,8 +23,6 @@ sections:
         - title: Resources
           description: Events and Media Stories
           url: /resources
-      title: Singapore 5G & Telecoms <br> Academy
-      subtitle: Charting Singapore's 5G & Telecoms manpower development with you
   - infobar:
       title: Manpower Development in <br>5G & Related Technologies
       subtitle: What we offer
@@ -35,14 +33,6 @@ sections:
       subtitle: Learn more
       button: View More
   - infopic:
-      title: Beamforming and Massive MIMO - Enabling 5G
-      subtitle: Live Webinar - Tue 25 Apr
-      description: "DATE: 25 APR 2023 (TUE) <br> TIME: 6 - 7 pm (SINGAPORE Time)"
-      button: Find Out More
-      url: /resources/events/beamforming-and-massive-mimo
-      image: /images/events/cover pic_wray castle webinar on 25 apr.jpg
-      alt: Wray Castle Webinar Apr 2023
-  - infopic:
       title: Learn NIST Cybersecurity Framework in 60 Min
       subtitle: Live Webinar - Fri 28 Apr
       description: Learn how NIST CSF can benefit working professionals by enhancing
@@ -51,6 +41,23 @@ sections:
       url: /resources/events/nist-cybersecurity-framework-in-60mins
       alt: Image alt text
       image: /images/events/(5g) bm nist cybersecurity webinar - website cover pic.jpg
+  - infopic:
+      title: Beamforming and Massive MIMO - Enabling 5G
+      subtitle: Live Webinar - Tue 25 Apr
+      description: "DATE: 25 APR 2023 (TUE) <br> TIME: 6 - 7 pm (SINGAPORE Time)"
+      button: Find Out More
+      url: /resources/events/beamforming-and-massive-mimo
+      image: /images/events/cover pic_wray castle webinar on 25 apr.jpg
+      alt: Wray Castle Webinar Apr 2023
+  - infopic:
+      title: Making the Shift to Microservices
+      subtitle: Dell - Free Course (5 hrs)
+      description: This on-demand course covers the fundamentals of microservices and
+        key microservices considerations.
+      button: Find Out More
+      url: /courses/by-private-training-providers/dell/
+      image: /images/events/microservices - cover page.jpg
+      alt: 5G Learning Journey Cover Pic
   - infopic:
       title: Radio Propagation Mechanisms Explained
       subtitle: Webinar - Thu 23 Mar
@@ -144,15 +151,6 @@ sections:
       url: /resources/events/5glearningjourneys/
       image: /images/events/5GLF/5GLF 2022 Learning Journey Header with Date.jpg
       alt: Ten 5G Learning Journeys
-  - infopic:
-      title: "Learning Journey #1"
-      subtitle: 5GLF 2022 - Thu 13 Oct
-      description: "5G Learning Journey - Augmenting Solution with 5G & AIoT
-        Technology<br> (Partner: Singapore Polytechnic)"
-      button: Find Out More
-      url: /resources/events/5g-aiot-centre
-      image: /images/events/5GLF/5G Learning Journey Cover Pic.jpg
-      alt: 5G Learning Journey Cover Pic
   - infopic:
       title: "Learning Journey #2"
       subtitle: 5GLF 2022 - Thu 13 Oct
