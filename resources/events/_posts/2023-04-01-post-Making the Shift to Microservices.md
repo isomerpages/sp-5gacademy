@@ -10,12 +10,12 @@ image: ""
 
 This course covers the fundamentals of microservices and key microservices considerations. The course focuses on the evolution, concepts, strategies for development, and best practices for moving towards microservices.
   
-Audience `break`
-This course is intended for:`break`
+**Audience** 
+This course is intended for:
 • IT and technology professionals looking to better understand 
-microservices.`break`
+microservices.
 • Application and software developers who need to maintain and expand 
-their skills.`break`
+their skills.
 • Anyone who wants to gain a better understanding of language-agnostic 
 microservices concepts.
 
