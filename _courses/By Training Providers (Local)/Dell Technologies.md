@@ -20,7 +20,7 @@ third_nav_title: By Training Providers (Local)
 |[Introduction to Data Engineering](https://education.dellemc.com/content/emc/en-us/home/store/search/course-details.html?courseID=ES731OCMIDENG&l=United%20States&mod=On%20Demand%20Class&cat=Big%20Data){:target="_blank" rel="noopener"} |Basic|0.5 hrs |
 |[IP and TCP/UDP Protocols](https://education.dellemc.com/content/emc/en-us/home/store/search/course-details.html?courseID=MR-1WP-IPTCPUDP&l=United%20States&mod=On%20Demand%20Class&cat=Storage){:target="_blank" rel="noopener"} |Basic|1 hrs |
 |[Networked File Sharing Models](https://education.dellemc.com/content/emc/en-us/home/store/search/course-details.html?courseID=ES131STG00373&l=United%20States&mod=On%20Demand%20Class&cat=Storage){:target="_blank" rel="noopener"} |Basic|1.5 hrs |
-|[SkillsFuture for Digital Workplace](https://webibmcourse.mybluemix.net/DigitalCourse){:target="_blank" rel="noopener"} |Basic|14 hrs |
+|[Networking in Converged and Hyper-Converged Infrastructure Concepts](https://education.dellemc.com/content/emc/en-us/home/store/search/course-details.html?courseID=VCE-1WN-INTRONWCIHCI&l=United%20States&mod=On%20Demand%20Class&cat=N/A){:target="_blank" rel="noopener"} |Basic|2 hrs |
 |[SkillsFuture for Digital Workplace](https://webibmcourse.mybluemix.net/DigitalCourse){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[SkillsFuture for Digital Workplace](https://webibmcourse.mybluemix.net/DigitalCourse){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[SkillsFuture for Digital Workplace](https://webibmcourse.mybluemix.net/DigitalCourse){:target="_blank" rel="noopener"} |Basic|14 hrs |
