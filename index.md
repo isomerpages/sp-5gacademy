@@ -55,7 +55,7 @@ sections:
       description: This on-demand course covers the fundamentals of microservices and
         key microservices considerations.
       button: Find Out More
-      url: /resources/events/https://education.dellemc.com/content/emc/en-us/home/store/search/course-details.html?courseID=ESDTFD04573&l=United%20States&mod=On%20Demand%20Class
+      url: /resources/courses/by-private-training-providers/dell-technologies/
       image: /images/events/microservices - cover page.jpg
       alt: 5G Learning Journey Cover Pic
   - infopic:
