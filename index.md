@@ -33,14 +33,6 @@ sections:
       subtitle: Learn more
       button: View More
   - infopic:
-      title: Beamforming and Massive MIMO - Enabling 5G
-      subtitle: Live Webinar - Tue 25 Apr
-      description: "DATE: 25 APR 2023 (TUE) <br> TIME: 6 - 7 pm (SINGAPORE Time)"
-      button: Find Out More
-      url: /resources/events/beamforming-and-massive-mimo
-      image: /images/events/cover pic_wray castle webinar on 25 apr.jpg
-      alt: Wray Castle Webinar Apr 2023
-  - infopic:
       title: Learn NIST Cybersecurity Framework in 60 Min
       subtitle: Live Webinar - Fri 28 Apr
       description: Learn how NIST CSF can benefit working professionals by enhancing
@@ -49,6 +41,14 @@ sections:
       url: /resources/events/nist-cybersecurity-framework-in-60mins
       alt: Image alt text
       image: /images/events/(5g) bm nist cybersecurity webinar - website cover pic.jpg
+  - infopic:
+      title: Beamforming and Massive MIMO - Enabling 5G
+      subtitle: Live Webinar - Tue 25 Apr
+      description: "DATE: 25 APR 2023 (TUE) <br> TIME: 6 - 7 pm (SINGAPORE Time)"
+      button: Find Out More
+      url: /resources/events/beamforming-and-massive-mimo
+      image: /images/events/cover pic_wray castle webinar on 25 apr.jpg
+      alt: Wray Castle Webinar Apr 2023
   - infopic:
       title: Making the Shift to Microservices
       subtitle: Dell - Free Course (5 hrs)
