@@ -143,13 +143,12 @@ sections:
       image: /images/events/5GLF/5GLF 2022 Learning Journey Header with Date.jpg
       alt: Ten 5G Learning Journeys
   - infopic:
-      title: "Learning Journey #1"
-      subtitle: 5GLF 2022 - Thu 13 Oct
-      description: "5G Learning Journey - Augmenting Solution with 5G & AIoT
-        Technology<br> (Partner: Singapore Polytechnic)"
+      title: Making the Shift to Microservices
+      subtitle: Free Course
+      description: A FREE 5-hour online self-paced course <br> (Dell Technologies)
       button: Find Out More
-      url: /resources/events/5g-aiot-centre
-      image: /images/events/5GLF/5G Learning Journey Cover Pic.jpg
+      url: /resources/events/making-the-shift-to-microservices
+      image: /images/events/microservices - cover page.jpg
       alt: 5G Learning Journey Cover Pic
   - infopic:
       title: "Learning Journey #2"
