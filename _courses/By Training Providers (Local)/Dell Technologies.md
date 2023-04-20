@@ -22,5 +22,6 @@ third_nav_title: By Training Providers (Local)
 |[Networked File Sharing Models](https://education.dellemc.com/content/emc/en-us/home/store/search/course-details.html?courseID=ES131STG00373&l=United%20States&mod=On%20Demand%20Class&cat=Storage){:target="_blank" rel="noopener"} |Basic|1.5 hrs |
 |[Networking in Converged and Hyper-Converged Infrastructure Concepts](https://education.dellemc.com/content/emc/en-us/home/store/search/course-details.html?courseID=VCE-1WN-INTRONWCIHCI&l=United%20States&mod=On%20Demand%20Class&cat=N/A){:target="_blank" rel="noopener"} |Basic|2 hrs |
 |[SMB/CIFS Protocol and Attributes Overview](https://education.dellemc.com/content/emc/en-us/home/store/search/course-details.html?courseID=ES131STG00534&l=United%20States&mod=On%20Demand%20Class&cat=Storage){:target="_blank" rel="noopener"} |Basic|2 hrs |
+|[Understanding the Concepts of AI and ML](https://education.dellemc.com/content/emc/en-us/home/store/search/course-details.html?courseID=ESOCMD02346&l=United%20States&mod=On%20Demand%20Class&cat=Big%20Data){:target="_blank" rel="noopener"} |Basic|0.25 hrs |
 |[SkillsFuture for Digital Workplace](https://webibmcourse.mybluemix.net/DigitalCourse){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[SkillsFuture for Digital Workplace](https://webibmcourse.mybluemix.net/DigitalCourse){:target="_blank" rel="noopener"} |Basic|14 hrs |
