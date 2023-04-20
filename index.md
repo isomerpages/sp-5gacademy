@@ -144,10 +144,11 @@ sections:
       alt: Ten 5G Learning Journeys
   - infopic:
       title: Making the Shift to Microservices
-      subtitle: Free Course
-      description: A FREE 5-hour online self-paced course <br> (Dell Technologies)
+      subtitle: Dell - Free Course (5 hrs)
+      description: This on-demand course covers the fundamentals of microservices and
+        key microservices considerations.
       button: Find Out More
-      url: /resources/events/making-the-shift-to-microservices
+      url: /resources/events/https://education.dellemc.com/content/emc/en-us/home/store/search/course-details.html?courseID=ESDTFD04573&l=United%20States&mod=On%20Demand%20Class
       image: /images/events/microservices - cover page.jpg
       alt: 5G Learning Journey Cover Pic
   - infopic:
