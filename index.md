@@ -50,6 +50,15 @@ sections:
       alt: Image alt text
       image: /images/events/(5g) bm nist cybersecurity webinar - website cover pic.jpg
   - infopic:
+      title: Making the Shift to Microservices
+      subtitle: Dell - Free Course (5 hrs)
+      description: This on-demand course covers the fundamentals of microservices and
+        key microservices considerations.
+      button: Find Out More
+      url: /resources/events/https://education.dellemc.com/content/emc/en-us/home/store/search/course-details.html?courseID=ESDTFD04573&l=United%20States&mod=On%20Demand%20Class
+      image: /images/events/microservices - cover page.jpg
+      alt: 5G Learning Journey Cover Pic
+  - infopic:
       title: Radio Propagation Mechanisms Explained
       subtitle: Webinar - Thu 23 Mar
       description: "DATE: 23 MAR 2023 (THU) <br> TIME: 6.00 PM SINGAPORE TIME (10.00
@@ -142,15 +151,6 @@ sections:
       url: /resources/events/5glearningjourneys/
       image: /images/events/5GLF/5GLF 2022 Learning Journey Header with Date.jpg
       alt: Ten 5G Learning Journeys
-  - infopic:
-      title: Making the Shift to Microservices
-      subtitle: Dell - Free Course (5 hrs)
-      description: This on-demand course covers the fundamentals of microservices and
-        key microservices considerations.
-      button: Find Out More
-      url: /resources/events/https://education.dellemc.com/content/emc/en-us/home/store/search/course-details.html?courseID=ESDTFD04573&l=United%20States&mod=On%20Demand%20Class
-      image: /images/events/microservices - cover page.jpg
-      alt: 5G Learning Journey Cover Pic
   - infopic:
       title: "Learning Journey #2"
       subtitle: 5GLF 2022 - Thu 13 Oct
