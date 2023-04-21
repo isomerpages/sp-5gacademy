@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banners-and-logos/banner-hari raya 2023.png
+      background: /images/banners-and-logos/banner2-hari raya 2023.png
       button: click here to enquire
       url: https://form.gov.sg/#!/60fc3172d0fde7001257e316" target="_blank
       key_highlights:
