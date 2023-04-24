@@ -57,7 +57,6 @@ third_nav_title: By Acad Institutions
 |[FinTech – Blockchain (Beginners)](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/fintech-blockchain-(beginners)){:target="_blank" rel="noopener"} |Intermediate|120 hrs |
 |[FinTech – Blockchain (Intermediate)](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/fintech-blockchain-(intermediate)){:target="_blank" rel="noopener"} |Intermediate|120 hrs |
 |[FinTech Essentials Programme](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/fintech-essentials-programme){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
-|[FinTech Fundamentals Programme](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/fintech-fundamentals-programme){:target="_blank" rel="noopener"} |Basic|60 hrs |
 |[Fundamentals of Applied Quantitative Data Analytics using R](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/fundamentals-of-applied-quantitative-data-analytics-using-r){:target="_blank" rel="noopener"} |Basic|16 hrs |
 |[Fundamentals of Cyber Security](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/fundamentals-of-cyber-security){:target="_blank" rel="noopener"} |Intermediate|8 hrs |
 |[Fundamentals of Cyber Security (Synchronous e-learning)](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/fundamentals-of-cyber-security){:target="_blank" rel="noopener"} |Intermediate|7 hrs |
