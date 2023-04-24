@@ -27,6 +27,7 @@ third_nav_title: By Acad Institutions
 |[Cyber Security: Threats and Measures (Classroom & Asynchronous)](https://www.suss.edu.sg/courses/detail/cet248){:target="_blank" rel="noopener"} |Basic|24 hrs |
 |[Cybersecurity - A Holistic Approach (Synchronous e-Learning)](https://www.suss.edu.sg/courses/short-course/detail/CET302){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Cybersecurity - Application security by design (Synchronous e-Learning)](https://www.suss.edu.sg/courses/short-course/detail/CET202){:target="_blank" rel="noopener"} |Basic|7 hrs |
+|Data Strategy and IoT Business Models|Advanced|18 hrs |
 |[Fundamentals of Applied Electromagnetics](https://www.suss.edu.sg/courses/detail/eng205){:target="_blank" rel="noopener"} |Basic|18 hrs |
 |[HCIA - 5G](https://www.suss.edu.sg/courses/detail/eng315?urlname=beng-electronics-behe){:target="_blank" rel="noopener"} |Advanced|36 hrs |
 |[Hyperautomation](https://www.suss.edu.sg/courses/detail/anl505){:target="_blank" rel="noopener"} |Intermediate|18 hrs |
