@@ -34,6 +34,7 @@ third_nav_title: By Acad Institutions
 |[Information Security Challenges in Smart Computing ](https://www.suss.edu.sg/courses/detail/ICT338){:target="_blank" rel="noopener"} |Intermediate|36 hrs |
 |[Information Security Offence Defence and Incident Management](https://www.suss.edu.sg/courses/detail/ICT348){:target="_blank" rel="noopener"} |Basic|36 hrs |
 |[Internet of Things (IoT)](https://www.suss.edu.sg/courses/detail/eng233?urlname=beng-electronics-behe){:target="_blank" rel="noopener"} |Intermediate|36 hrs |
+|[nternet of Things 101 - New Course! | Basic|18 hrs |
 |[Introduction to Cybersecurity (Synchronous e-Learning)](https://www.suss.edu.sg/courses/short-course/detail/CET102){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[iOS Application Development](https://www.suss.edu.sg/courses/detail/mtd367){:target="_blank" rel="noopener"} |Intermediate|36 hrs |
 |[Machine Learning](https://www.suss.edu.sg/courses/detail/eng335?urlname=bachelor-of-science-in-finance-with-minor-ftfnce){:target="_blank" rel="noopener"} |Intermediate|36 hrs |
