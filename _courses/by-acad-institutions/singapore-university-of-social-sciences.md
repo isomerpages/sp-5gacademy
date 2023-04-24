@@ -11,9 +11,9 @@ third_nav_title: By Acad Institutions
 |[Applied Regression Analysis II](https://www.suss.edu.sg/courses/detail/mth358?urlname=bsc-mathematics-bsma){:target="_blank" rel="noopener"} |Advanced|18 hrs |
 |Artificial Intelligence 101 - New Course!|Intermediate|18 hrs |
 |[Artificial Intelligence: NLP and the Future (Classroom & Asynchronous)](https://www.suss.edu.sg/courses/detail/cet252){:target="_blank" rel="noopener"} |Basic|18 hrs |
-|[AWS Certified Cloud Practitioner ](https://www.suss.edu.sg/courses/detail/ict263){:target="_blank" rel="noopener"} |Intermediate|36 hrs |
+|[AWS Certified Cloud Practitioner ](https://www.suss.edu.sg/courses/detail/ICT263){:target="_blank" rel="noopener"} |Intermediate|36 hrs |
 |[AWS Certified Solutions Architect - Associate](https://www.suss.edu.sg/courses/detail/ict366){:target="_blank" rel="noopener"} |Advanced|36 hrs |
-|[Big Data Computing in the Cloud ](https://www.suss.edu.sg/courses/detail/ICT337){:target="_blank" rel="noopener"} |Basic|36 hrs |
+|[Big Data Computing in the Cloud ](https://www.suss.edu.sg/courses/detail/ICT337){:target="_blank" rel="noopener"} |Intermediate|36 hrs |
 |[Big Data, Cloud Computing and Machine Learning ](https://www.suss.edu.sg/courses/detail/FIN559){:target="_blank" rel="noopener"} |Basic|36 hrs |
 |[Blockchain & AI in FinTech & Insurtech: A Practical Guide to Navigating the Landscape](https://www.suss.edu.sg/courses/short-course/detail/CET309){:target="_blank" rel="noopener"} |Advanced|14 hrs |
 |[Cloud Computing for All (Synchronous e-Learning)](https://www.suss.edu.sg/courses/short-course/detail/CET101){:target="_blank" rel="noopener"} |Basic|7 hrs |
@@ -32,7 +32,7 @@ third_nav_title: By Acad Institutions
 |[HCIA - 5G](https://www.suss.edu.sg/courses/detail/eng315?urlname=beng-electronics-behe){:target="_blank" rel="noopener"} |Advanced|36 hrs |
 |[Hyperautomation](https://www.suss.edu.sg/courses/detail/anl505){:target="_blank" rel="noopener"} |Intermediate|18 hrs |
 |[Information Security Challenges in Smart Computing ](https://www.suss.edu.sg/courses/detail/ICT338){:target="_blank" rel="noopener"} |Intermediate|36 hrs |
-|[Information Security Offence Defence and Incident Management](https://www.suss.edu.sg/courses/detail/ICT348){:target="_blank" rel="noopener"} |Basic|36 hrs |
+|[Information Security Offence Defence and Incident Management](https://www.suss.edu.sg/courses/detail/ICT348){:target="_blank" rel="noopener"} |Intermediate|36 hrs |
 |[Internet of Things (IoT)](https://www.suss.edu.sg/courses/detail/eng233?urlname=beng-electronics-behe){:target="_blank" rel="noopener"} |Intermediate|36 hrs |
 |Internet of Things 101 - New Course!|Intermediate|18 hrs |
 |[Introduction to Cybersecurity (Synchronous e-Learning)](https://www.suss.edu.sg/courses/short-course/detail/CET102){:target="_blank" rel="noopener"} |Basic|7 hrs |
@@ -42,7 +42,7 @@ third_nav_title: By Acad Institutions
 |IoT Networking and Infrastructure - New Course!|Advanced|36 hrs |
 |[Machine Learning](https://www.suss.edu.sg/courses/detail/eng335?urlname=bachelor-of-science-in-finance-with-minor-ftfnce){:target="_blank" rel="noopener"} |Intermediate|36 hrs |
 |[Machine Learning, Deep Learning and Applications in Finance](https://www.suss.edu.sg/courses/detail/fin525){:target="_blank" rel="noopener"} |Intermediate|36 hrs |
-|[Network Security](https://www.suss.edu.sg/courses/detail/ICT318){:target="_blank" rel="noopener"} |Basic|36 hrs |
+|[Network Security](https://www.suss.edu.sg/courses/detail/ICT318){:target="_blank" rel="noopener"} |Intermediate|36 hrs |
 |[RF and Microwave Design of Wireless Systems](https://www.suss.edu.sg/courses/detail/eng333){:target="_blank" rel="noopener"} |Advanced|18 hrs |
 |[Virtual Reality and Augmented Reality](https://www.suss.edu.sg/courses/detail/mtd369){:target="_blank" rel="noopener"} |Intermediate|18 hrs |
-|[Web Application Development](https://www.suss.edu.sg/courses/detail/ICT239){:target="_blank" rel="noopener"} |Basic|36 hrs |
+|[Web Application Development](https://www.suss.edu.sg/courses/detail/ICT239){:target="_blank" rel="noopener"} |Intermediate|36 hrs |
