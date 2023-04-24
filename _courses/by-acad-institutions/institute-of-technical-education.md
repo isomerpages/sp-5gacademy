@@ -13,6 +13,7 @@ third_nav_title: By Acad Institutions
 |[CoC in Artificial Intelligence Foundation (Vision)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-artificial-intelligence-foundation-(vision)){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[CoC in Artificial Intelligence Project (Data)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-artificial-intelligence-project-(data)){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[CoC in Cloud Practitioner Essentials ](https://www.ite.edu.sg/courses/course-finder/course/coc-in-cloud-practitioner-essentials){:target="_blank" rel="noopener"} |Basic|15 hrs |
+|[CoC in Coding Foundation for Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-coding-foundation-for-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|21 hrs |
 |[CoC in Computer Networking (Routing) ](https://www.ite.edu.sg/courses/course-finder/course/coc-in-computer-networking-routing){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
 |[CoC in Computer Networking (Switching) ](https://www.ite.edu.sg/courses/course-finder/course/coc-in-computer-networking-switching){:target="_blank" rel="noopener"} |Basic|21 hrs |
 |[CoC in Cyber Security (Network, Internet & Forensics)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-cyber-security-network-internet-forensics){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
