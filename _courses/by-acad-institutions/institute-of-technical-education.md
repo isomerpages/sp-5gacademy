@@ -7,6 +7,8 @@ third_nav_title: By Acad Institutions
 | - | - | - | 
 |[AI For Citizens: A Global AI Public Awareness Program](https://form.gov.sg/62d013f7747cd60012b69f41){:target="_blank" rel="noopener"} |Basic|MLC |
 |[CoC in AI 101: Customer Relationship Management Chatbot](https://www.ite.edu.sg/courses/course-finder/course/coc-in-ai-101-customer-relationship-management-chatbot){:target="_blank" rel="noopener"} |Basic|7 hrs |
+|[CoC in AI for Non-Engineering Learners (Computer Vision with Microsoft Azure)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-ai-for-non-engineering-learners-(computer-vision-with-microsoft-azure)){:target="_blank" rel="noopener"} |Basic|14 hrs |
+|[CoC in AI for Non-Engineering Learners (Fundamentals of AI with Microsoft Azure)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-ai-for-non-engineering-learners-(fundamentals-of-ai-with-microsoft-azure)){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in AI Fundamentals using Nvidia Jetson Nano](https://www.ite.edu.sg/courses/course-finder/course/coc-in-ai-fundamentals-using-nvidia-jetson-nano){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[CoC in Artificial Intelligence Foundation (Vision)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-artificial-intelligence-foundation-(vision)){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[CoC in Artificial Intelligence Project (Data)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-artificial-intelligence-project-(data)){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
