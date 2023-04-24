@@ -71,8 +71,6 @@ third_nav_title: By Acad Institutions
 |[Introduction to Advanced Manufacturing](https://www.sp.edu.sg/pace/courses/course-type/online/introduction-to-advanced-manufacturing){:target="_blank" rel="noopener"} |Basic|7.5 hrs |
 |[Introduction to AI and Machine Learning](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/introduction-to-ai-and-machine-learning){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Introduction to Blockchain](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/introduction-to-blockchain){:target="_blank" rel="noopener"} |Basic|16 hrs |
-|[Introduction to Data Analytics and Applications](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-register/introduction-to-data-analytics-and-applications){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[Introduction to Data Engineering](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/introduction-to-data-engineering){:target="_blank" rel="noopener"} |Basic|16 hrs |
 |[Introduction to Digital Transformation & Industrial IoT](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/introduction-to-digital-workplace-transformation){:target="_blank" rel="noopener"} |Basic|24 hrs |
 |[Introduction to Quantitative Data Analysis and Visualization](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/introduction-to-quantitative-data-analysis-and-visualization){:target="_blank" rel="noopener"} |Basic|16 hrs |
 |[IoT and Hybrid Mobile App Development](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/iot-and-hybrid-mobile-app-development){:target="_blank" rel="noopener"} |Intermediate|12 hrs |
