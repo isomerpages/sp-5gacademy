@@ -20,8 +20,7 @@ third_nav_title: By Acad Institutions
 |[CoC in Cyber Security Fundamentals](https://www.ite.edu.sg/courses/course-finder/course/coc-in-cyber-security-fundamentals){:target="_blank" rel="noopener"} |Basic|21 hrs |
 |[CoC in Cybersecurity - Ethical Hacking](https://www.ite.edu.sg/courses/course-finder/course/coc-in-data-analytics-using-microsoft-excel){:target="_blank" rel="noopener"} |Intermediate|12 hrs |
 |[CoC in Data Analytics Using Microsoft Excel](https://www.ite.edu.sg/courses/course-finder/course/coc-in-cybersecurity-ethical-hacking){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
-|[CoC in Cybersecurity - Ethical Hacking](https://www.ite.edu.sg/courses/course-finder/course/coc-in-cybersecurity-ethical-hacking){:target="_blank" rel="noopener"} |Intermediate|12 hrs |
-|[CoC in Cybersecurity - Ethical Hacking](https://www.ite.edu.sg/courses/course-finder/course/coc-in-cybersecurity-ethical-hacking){:target="_blank" rel="noopener"} |Intermediate|12 hrs |
+|[CoC in Fundamentals to Data Visualisation using Tableau](https://www.ite.edu.sg/courses/course-finder/course/coc-in-data-visualisation-using-tableau){:target="_blank" rel="noopener"} |Basic|6 hrs |
 |[CoC in Cybersecurity - Ethical Hacking](https://www.ite.edu.sg/courses/course-finder/course/coc-in-cybersecurity-ethical-hacking){:target="_blank" rel="noopener"} |Intermediate|12 hrs |
 |[CoC in Cybersecurity - Ethical Hacking](https://www.ite.edu.sg/courses/course-finder/course/coc-in-cybersecurity-ethical-hacking){:target="_blank" rel="noopener"} |Intermediate|12 hrs |
 |[CoC in Cybersecurity - Ethical Hacking](https://www.ite.edu.sg/courses/course-finder/course/coc-in-cybersecurity-ethical-hacking){:target="_blank" rel="noopener"} |Intermediate|12 hrs ||[CoC in Internet of Things (Smart Energy Fundamentals)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-internet-of-things-smart-energy-fundamentals){:target="_blank" rel="noopener"} |Basic|7 hrs |
