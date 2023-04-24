@@ -37,6 +37,9 @@ third_nav_title: By Acad Institutions
 |Internet of Things 101 - New Course!|Intermediate|18 hrs |
 |[Introduction to Cybersecurity (Synchronous e-Learning)](https://www.suss.edu.sg/courses/short-course/detail/CET102){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[iOS Application Development](https://www.suss.edu.sg/courses/detail/mtd367){:target="_blank" rel="noopener"} |Intermediate|36 hrs |
+|IoT Developer Certification - New Course!|Advanced|36 hrs |
+|IoT Devices and Communications - New Course!|Advanced|36 hrs |
+|IoT Networking and Infrastructure - New Course!|Advanced|36 hrs |
 |[Machine Learning](https://www.suss.edu.sg/courses/detail/eng335?urlname=bachelor-of-science-in-finance-with-minor-ftfnce){:target="_blank" rel="noopener"} |Intermediate|36 hrs |
 |[Machine Learning, Deep Learning and Applications in Finance](https://www.suss.edu.sg/courses/detail/fin525){:target="_blank" rel="noopener"} |Intermediate|36 hrs |
 |[Network Security](https://www.suss.edu.sg/courses/detail/ICT318){:target="_blank" rel="noopener"} |Basic|36 hrs |
