@@ -9,7 +9,7 @@ third_nav_title: By Acad Institutions
 |[Applications of Artificial Intelligence in Healthcare](https://www.suss.edu.sg/courses/detail/bme363){:target="_blank" rel="noopener"} |Basic|36 hrs |
 |[Applied Regression Analysis I](https://www.suss.edu.sg/courses/detail/mth357){:target="_blank" rel="noopener"} |Advanced|18 hrs |
 |[Applied Regression Analysis II](https://www.suss.edu.sg/courses/detail/mth358?urlname=bsc-mathematics-bsma){:target="_blank" rel="noopener"} |Advanced|18 hrs |
-|[Artificial Intelligence 101]|Intermediate|18 hrs |
+|Artificial Intelligence 101|Intermediate|18 hrs |
 |[Artificial Intelligence: NLP and the Future (Classroom & Asynchronous)](https://www.suss.edu.sg/courses/detail/cet252){:target="_blank" rel="noopener"} |Basic|18 hrs |
 |[AWS Certified Cloud Practitioner ](https://www.suss.edu.sg/courses/detail/ict263){:target="_blank" rel="noopener"} |Intermediate|36 hrs |
 |[AWS Certified Solutions Architect - Associate](https://www.suss.edu.sg/courses/detail/ict366){:target="_blank" rel="noopener"} |Advanced|36 hrs |
