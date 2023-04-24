@@ -31,7 +31,6 @@ third_nav_title: By Acad Institutions
 |[CoC in Network Programmability Essentials ](https://www.ite.edu.sg/courses/course-finder/course/coc-in-network-programmability-essentials){:target="_blank" rel="noopener"} |Intermediate|7 hrs |
 |[CoC in Smart Living Solutions (e-Home)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-smart-living-solutions-e-home){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in Windows OS Hardening](https://www.ite.edu.sg/courses/course-finder/course/coc-in-windows-os-hardening){:target="_blank" rel="noopener"} |Basic|14 hrs |
-|[CoC in Coding Foundation for Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-coding-foundation-for-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|21 hrs |
 |[Create Your Own Augmented Reality (AR) Applications](https://www.ite.edu.sg/courses/course-finder/course/short-course-create-your-own-augmented-reality-(ar)-applications){:target="_blank" rel="noopener"} |Basic|9 hrs |
 |[Cyber Range Training on Incident Response](https://www.ite.edu.sg/courses/course-finder/course/cyber-range-training-on-incident-response){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[Cyber Range Workshop for Business Leaders](https://www.ite.edu.sg/courses/course-finder/course/cyber-range-workshop-for-business-leaders){:target="_blank" rel="noopener"} |Basic|3 hrs |
