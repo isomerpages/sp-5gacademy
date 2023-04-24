@@ -22,7 +22,6 @@ third_nav_title: By Acad Institutions
 |[CoC in Data Analytics Using Microsoft Excel](https://www.ite.edu.sg/courses/course-finder/course/coc-in-cybersecurity-ethical-hacking){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
 |[CoC in Fundamentals to Data Visualisation using Tableau](https://www.ite.edu.sg/courses/course-finder/course/coc-in-data-visualisation-using-tableau){:target="_blank" rel="noopener"} |Basic|6 hrs |
 |[CoC in Fundamentals of Data Visualisation using Power BI](https://www.ite.edu.sg/courses/course-finder/course/coc-in-fundamentals-of-data-visualisation-using-power-bi){:target="_blank" rel="noopener"} |Basic|7 hrs |
-|[CoC in Robot Operating System (ROS) Fundamentals](https://www.ite.edu.sg/courses/course-finder/course/coc-in-robot-operating-system-(ros)-fundamentals){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[CoC in Internet of Things (Smart Energy Fundamentals)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-internet-of-things-smart-energy-fundamentals){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in Internet of Things (Smart Energy Management)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-internet-of-things-smart-energy-fundamentals){:target="_blank" rel="noopener"} |Basic|27 hrs |
 |[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
@@ -33,6 +32,9 @@ third_nav_title: By Acad Institutions
 |[CoC in IoT Applications](https://www.ite.edu.sg/courses/course-finder/course/coc-in-iot-applications){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in Micro:bit Applications](https://www.ite.edu.sg/courses/course-finder/course/coc-in-micro-bit-applications){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in Network Programmability Essentials ](https://www.ite.edu.sg/courses/course-finder/course/coc-in-network-programmability-essentials){:target="_blank" rel="noopener"} |Intermediate|7 hrs |
+|[CoC in Robot Operating System (ROS) Fundamentals](https://www.ite.edu.sg/courses/course-finder/course/coc-in-robot-operating-system-(ros)-fundamentals){:target="_blank" rel="noopener"} |Basic|14 hrs |
+|[CoC in Robotic Process Automation (RPA) for Beginners](https://www.ite.edu.sg/courses/course-finder/course/coc-in-robotic-process-automation-(rpa)-for-beginners){:target="_blank" rel="noopener"} |Basic|7 hrs |
+|[CoC in Robotic Process Automation (RPA) for Professionals](https://www.ite.edu.sg/courses/course-finder/course/coc-in-robotic-process-automation-(rpa)-for-professionals){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[CoC in Smart Living Solutions (e-Home)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-smart-living-solutions-e-home){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in Windows OS Hardening](https://www.ite.edu.sg/courses/course-finder/course/coc-in-windows-os-hardening){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[Create Your Own Augmented Reality (AR) Applications](https://www.ite.edu.sg/courses/course-finder/course/short-course-create-your-own-augmented-reality-(ar)-applications){:target="_blank" rel="noopener"} |Basic|9 hrs |
