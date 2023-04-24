@@ -5,12 +5,13 @@ third_nav_title: By Acad Institutions
 ---
 |Course Title  | Level | Duration |
 | - | - | - | 
-|[5G for Digital Transformation](https://sitlearn.singaporetech.edu.sg/individualcourse/?title=FTI6002-Internet-of-Things-for-a-Connected-World&id=29bc6b5d-6c40-ec11-8c62-000d3a82a2a4&FD=true){:target="_blank" rel="noopener"} |Intermediate|48 hrs |
-|[Application of Data Engineering](https://sitlearn.singaporetech.edu.sg/individualcourse/?title=DSF6010-Application-of-Data-Engineering&id=6585ca2f-f1ed-eb11-94ef-000d3a81f762&FD=true){:target="_blank" rel="noopener"} |Intermediate|48 hrs |
-|[Application of Robotics & Automation for Smart Factory](https://sitlearn.singaporetech.edu.sg/individualcourse/?title=DSF-6040-Application-of-Robotics-and-Automation-for-Smart-Factory&id=81e36756-b7db-ea11-a813-000d3a85436c&FD=true){:target="_blank" rel="noopener"}  |  Intermediate | 48 hrs |
-|[Artificial Intelligence in Broad Strokes (Synchronous e-Learning)](https://sitlearn.singaporetech.edu.sg/individualcourse/?title=Artificial-Intelligence-in-Broad-Strokes&id=e5488b06-27a7-eb11-9442-00224816cf16&FD=true){:target="_blank" rel="noopener"} |Basic|16 hrs |
-|[Cybersecurity for Management](https://sitlearn.singaporetech.edu.sg/individualcourse/?title=Cybersecurity-for-Management&id=dd31699d-035a-eb11-a812-0022481632d0&FD=true){:target="_blank" rel="noopener"} |Advanced|24 hrs |
-|[Cybersecurity in the New Economy](https://sitlearn.singaporetech.edu.sg/individualcourse/?title=FTI6003-5G-for-Digital-Transformation&id=14425780-fe16-ed11-b83e-002248165a3b&FD=true){:target="_blank" rel="noopener"} |Intermediate|48 hrs |
+|[Applied Python Fundamentals](https://www.singaporetech.edu.sg/sitlearn/courses/infocomm-technology/applied-python-fundamentals){:target="_blank" rel="noopener"} |Basic|24 hrs |
+|[Artificial Intelligence in Broad Strokes (Synchronous e-Learning)](https://www.singaporetech.edu.sg/sitlearn/courses/infocomm-technology/artificial-intelligence-broad-strokes){:target="_blank" rel="noopener"} |Basic|16 hrs |
+|[Cybersecurity for Management](https://www.singaporetech.edu.sg/sitlearn/courses/infocomm-technology/cybersecurity-management){:target="_blank" rel="noopener"} |Advanced|24 hrs |
+|[DSF6010 Application of Data Engineering](https://www.singaporetech.edu.sg/sitlearn/courses/infocomm-technology/dsf6010-application-data-engineering){:target="_blank" rel="noopener"} |Intermediate|48 hrs |
+|[Essentials of 5G](https://sitlearn.singaporetech.edu.sg/individualcourse/?title=Essentials-of-5G&id=3315571b-c866-eb11-a812-00224816379d&FD=true){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
+|[Essentials of 5G](https://sitlearn.singaporetech.edu.sg/individualcourse/?title=Essentials-of-5G&id=3315571b-c866-eb11-a812-00224816379d&FD=true){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
+|[Essentials of 5G](https://sitlearn.singaporetech.edu.sg/individualcourse/?title=Essentials-of-5G&id=3315571b-c866-eb11-a812-00224816379d&FD=true){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
 |[Essentials of 5G](https://sitlearn.singaporetech.edu.sg/individualcourse/?title=Essentials-of-5G&id=3315571b-c866-eb11-a812-00224816379d&FD=true){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
 |[Hands-on Machine Learning for FINTECH ](https://sitlearn.singaporetech.edu.sg/individualcourse/?title=Hands-on-Machine-Learning-for-FINTECH&id=cec8f30d-e67f-eb11-a812-002248161940&FD=true){:target=""_blank"" rel=""noopener""} |Intermediate|24 hrs |
 |[Internet of Things for a Connected World](https://sitlearn.singaporetech.edu.sg/individualcourse/?title=FTI6004-Cybersecurity-in-the-New-Economy&id=8f75b80a-97b0-ec11-983f-00224818d7e6&FD=true){:target="_blank" rel="noopener"} |Intermediate|48 hrs |
