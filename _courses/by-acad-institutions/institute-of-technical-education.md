@@ -53,3 +53,4 @@ third_nav_title: By Acad Institutions
 |[IT Network − Set-up Home & Small Business (Wireless)](https://www.ite.edu.sg/courses/course-finder/course/short-course-it-network-set-up-home-small-business-(wireless)){:target="_blank" rel="noopener"} |Basic|12 hrs |
 |[Micro:bit − Build an Auto-Watering Plant System](https://www.ite.edu.sg/courses/course-finder/course/short-course-micro-bit-build-an-auto-watering-plant-system){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Power BI Desktop Introductory Course](https://form.gov.sg/#!/62d01a6c68d83900110c7419){:target="_blank" rel="noopener"} |Basic|MLC |
+|[Securing Windows OS](https://form.gov.sg/62d01c9ba799de00123ceefc){:target="_blank" rel="noopener"} |Basic|MLC |
