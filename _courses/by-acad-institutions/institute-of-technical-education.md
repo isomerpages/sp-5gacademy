@@ -18,8 +18,13 @@ third_nav_title: By Acad Institutions
 |[CoC in Computer Networking (Switching) ](https://www.ite.edu.sg/courses/course-finder/course/coc-in-computer-networking-switching){:target="_blank" rel="noopener"} |Basic|21 hrs |
 |[CoC in Cyber Security (Network, Internet & Forensics)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-cyber-security-network-internet-forensics){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
 |[CoC in Cyber Security Fundamentals](https://www.ite.edu.sg/courses/course-finder/course/coc-in-cyber-security-fundamentals){:target="_blank" rel="noopener"} |Basic|21 hrs |
+|[CoC in Cybersecurity - Ethical Hacking](https://www.ite.edu.sg/courses/course-finder/course/coc-in-data-analytics-using-microsoft-excel){:target="_blank" rel="noopener"} |Intermediate|12 hrs |
+|[CoC in Data Analytics Using Microsoft Excel](https://www.ite.edu.sg/courses/course-finder/course/coc-in-cybersecurity-ethical-hacking){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
 |[CoC in Cybersecurity - Ethical Hacking](https://www.ite.edu.sg/courses/course-finder/course/coc-in-cybersecurity-ethical-hacking){:target="_blank" rel="noopener"} |Intermediate|12 hrs |
-|[CoC in Internet of Things (Smart Energy Fundamentals)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-internet-of-things-smart-energy-fundamentals){:target="_blank" rel="noopener"} |Basic|7 hrs |
+|[CoC in Cybersecurity - Ethical Hacking](https://www.ite.edu.sg/courses/course-finder/course/coc-in-cybersecurity-ethical-hacking){:target="_blank" rel="noopener"} |Intermediate|12 hrs |
+|[CoC in Cybersecurity - Ethical Hacking](https://www.ite.edu.sg/courses/course-finder/course/coc-in-cybersecurity-ethical-hacking){:target="_blank" rel="noopener"} |Intermediate|12 hrs |
+|[CoC in Cybersecurity - Ethical Hacking](https://www.ite.edu.sg/courses/course-finder/course/coc-in-cybersecurity-ethical-hacking){:target="_blank" rel="noopener"} |Intermediate|12 hrs |
+|[CoC in Cybersecurity - Ethical Hacking](https://www.ite.edu.sg/courses/course-finder/course/coc-in-cybersecurity-ethical-hacking){:target="_blank" rel="noopener"} |Intermediate|12 hrs ||[CoC in Internet of Things (Smart Energy Fundamentals)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-internet-of-things-smart-energy-fundamentals){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in Internet of Things (Smart Energy Management)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-internet-of-things-smart-energy-fundamentals){:target="_blank" rel="noopener"} |Basic|27 hrs |
 |[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in Introduction to Drone Programming](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-drone-programming){:target="_blank" rel="noopener"} |Basic|7 hrs |
