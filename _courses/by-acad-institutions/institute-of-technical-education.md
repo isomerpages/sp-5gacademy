@@ -27,12 +27,11 @@ third_nav_title: By Acad Institutions
 |[CoC in Introduction to Machine Learning (AI)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-machine-learning-(ai)){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in Introduction to WiFi 6 & 5G Wireless Technology](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-wifi-6-5g-wireless-technology){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[CoC in IoT Applications](https://www.ite.edu.sg/courses/course-finder/course/coc-in-iot-applications){:target="_blank" rel="noopener"} |Basic|7 hrs |
+|[CoC in Micro:bit Applications](https://www.ite.edu.sg/courses/course-finder/course/coc-in-micro-bit-applications){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in Network Programmability Essentials ](https://www.ite.edu.sg/courses/course-finder/course/coc-in-network-programmability-essentials){:target="_blank" rel="noopener"} |Intermediate|7 hrs |
 |[CoC in Smart Living Solutions (e-Home)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-smart-living-solutions-e-home){:target="_blank" rel="noopener"} |Basic|7 hrs |
-|[CoC in Surveillance Technology (Workplace Protection)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-surveillance-technology-workplace-protection){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
 |[CoC in Windows OS Hardening](https://www.ite.edu.sg/courses/course-finder/course/coc-in-windows-os-hardening){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[CoC in Coding Foundation for Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-coding-foundation-for-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|21 hrs |
-|[CoC in Micro:bit Applications](https://www.ite.edu.sg/courses/course-finder/course/coc-in-micro-bit-applications){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in Introduction to Drone Programming](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-drone-programming){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in Introduction to High Performance Computing (HPC)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-high-performance-computing-(hpc)){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in Introduction to WiFi 6 & 5G Wireless Technology](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-wifi-6-5g-wireless-technology){:target="_blank" rel="noopener"} |Basic|14 hrs |
