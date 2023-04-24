@@ -52,8 +52,9 @@ sections:
   - infopic:
       title: Making the Shift to Microservices
       subtitle: Dell - Free Course (5 hrs)
-      description: This on-demand course covers the fundamentals of microservices and
-        key microservices considerations.
+      description: This on-demand course is free and covers the fundamentals of
+        microservices and key microservices considerations. Dell also offers
+        many other free courses.
       button: Find Out More
       url: /courses/by-private-training-providers/dell/
       image: /images/events/microservices - cover page.jpg
