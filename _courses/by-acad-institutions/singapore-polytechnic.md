@@ -41,7 +41,6 @@ third_nav_title: By Acad Institutions
 |[Data Analysis using Python](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/data-analysis-using-python){:target="_blank" rel="noopener"} |Basic|16 hrs |
 |[Data Analytics for Industrial Applications](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-register/data-analytics-for-industrial-applications){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
 |[Data Analytics Using R](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/data-analytics-using-r){:target="_blank" rel="noopener"} |Basic|16 hrs |
-|[Data Engineering for Effective Data Analytics](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/data-engineering-for-effective-data-analytics){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
 |[Data Visualization Implementer](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/data-visualization-implementer){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
 |[Data Visualization with Python](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/data-visualization-with-python){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[Data Visualization with Qlik](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-register/data-visualization-with-qlik){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
@@ -50,7 +49,6 @@ third_nav_title: By Acad Institutions
 |[Digital Confidence for Cyber Security & Internet of Things](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/digital-confidence-for-internet-of-things-cybersecurity){:target="_blank" rel="noopener"} |Intermediate|30 hrs |
 |[Digital Leadership in Advanced Manufacturing ](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/digital-leadership-in-advanced-manufacturing){:target="_blank" rel="noopener"} |Basic|38 hrs |
 |[Digital Marketing and Analytics for SMEs](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/digital-marketing-and-analytics-for-smes){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[Digital Technologies for a Smart City](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/digital-technologies-for-a-smart-city){:target="_blank" rel="noopener"} |Intermediate|15 hrs |
 |[Digital Transformation of Manufacturing](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/digital-transformation-of-manufacturing){:target="_blank" rel="noopener"} |Intermediate|15 hrs |
 |[Digital Workplace Transformation with 5G and Emerging Technologies](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-register/digital-workplace-transformation-with-5g-and-emerging-technologies){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[Engineering Practice for Digital Transformation](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/engineering-practice-for-digital-transformation){:target="_blank" rel="noopener"} |Intermediate|15 hrs |
