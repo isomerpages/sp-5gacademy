@@ -9,7 +9,7 @@ third_nav_title: By Acad Institutions
 |[Applications of Artificial Intelligence in Healthcare](https://www.suss.edu.sg/courses/detail/bme363){:target="_blank" rel="noopener"} |Basic|36 hrs |
 |[Applied Regression Analysis I](https://www.suss.edu.sg/courses/detail/mth357){:target="_blank" rel="noopener"} |Advanced|18 hrs |
 |[Applied Regression Analysis II](https://www.suss.edu.sg/courses/detail/mth358?urlname=bsc-mathematics-bsma){:target="_blank" rel="noopener"} |Advanced|18 hrs |
-|Artificial Intelligence 101|Intermediate|18 hrs |
+|Artificial Intelligence 101 - New Course!|Intermediate|18 hrs |
 |[Artificial Intelligence: NLP and the Future (Classroom & Asynchronous)](https://www.suss.edu.sg/courses/detail/cet252){:target="_blank" rel="noopener"} |Basic|18 hrs |
 |[AWS Certified Cloud Practitioner ](https://www.suss.edu.sg/courses/detail/ict263){:target="_blank" rel="noopener"} |Intermediate|36 hrs |
 |[AWS Certified Solutions Architect - Associate](https://www.suss.edu.sg/courses/detail/ict366){:target="_blank" rel="noopener"} |Advanced|36 hrs |
@@ -27,14 +27,14 @@ third_nav_title: By Acad Institutions
 |[Cyber Security: Threats and Measures (Classroom & Asynchronous)](https://www.suss.edu.sg/courses/detail/cet248){:target="_blank" rel="noopener"} |Basic|24 hrs |
 |[Cybersecurity - A Holistic Approach (Synchronous e-Learning)](https://www.suss.edu.sg/courses/short-course/detail/CET302){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Cybersecurity - Application security by design (Synchronous e-Learning)](https://www.suss.edu.sg/courses/short-course/detail/CET202){:target="_blank" rel="noopener"} |Basic|7 hrs |
-|Data Strategy and IoT Business Models|Advanced|18 hrs |
+|Data Strategy and IoT Business Models - New Course!|Advanced|18 hrs |
 |[Fundamentals of Applied Electromagnetics](https://www.suss.edu.sg/courses/detail/eng205){:target="_blank" rel="noopener"} |Basic|18 hrs |
 |[HCIA - 5G](https://www.suss.edu.sg/courses/detail/eng315?urlname=beng-electronics-behe){:target="_blank" rel="noopener"} |Advanced|36 hrs |
 |[Hyperautomation](https://www.suss.edu.sg/courses/detail/anl505){:target="_blank" rel="noopener"} |Intermediate|18 hrs |
 |[Information Security Challenges in Smart Computing ](https://www.suss.edu.sg/courses/detail/ICT338){:target="_blank" rel="noopener"} |Intermediate|36 hrs |
 |[Information Security Offence Defence and Incident Management](https://www.suss.edu.sg/courses/detail/ICT348){:target="_blank" rel="noopener"} |Basic|36 hrs |
 |[Internet of Things (IoT)](https://www.suss.edu.sg/courses/detail/eng233?urlname=beng-electronics-behe){:target="_blank" rel="noopener"} |Intermediate|36 hrs |
-|[nternet of Things 101 - New Course! | Basic|18 hrs |
+|Internet of Things 101 - New Course!|Intermediate|18 hrs |
 |[Introduction to Cybersecurity (Synchronous e-Learning)](https://www.suss.edu.sg/courses/short-course/detail/CET102){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[iOS Application Development](https://www.suss.edu.sg/courses/detail/mtd367){:target="_blank" rel="noopener"} |Intermediate|36 hrs |
 |[Machine Learning](https://www.suss.edu.sg/courses/detail/eng335?urlname=bachelor-of-science-in-finance-with-minor-ftfnce){:target="_blank" rel="noopener"} |Intermediate|36 hrs |
