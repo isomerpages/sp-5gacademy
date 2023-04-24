@@ -22,6 +22,8 @@ third_nav_title: By Acad Institutions
 |[CoC in Internet of Things (Smart Energy Fundamentals)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-internet-of-things-smart-energy-fundamentals){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in Internet of Things (Smart Energy Management)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-internet-of-things-smart-energy-fundamentals){:target="_blank" rel="noopener"} |Basic|27 hrs |
 |[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
+|[CoC in Introduction to Drone Programming](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-drone-programming){:target="_blank" rel="noopener"} |Basic|7 hrs |
+|[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in Introduction to Machine Learning (AI)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-machine-learning-(ai)){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in Intrusion & Access Control Technology (Workplace Protection)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-intrusion-access-control-technology-workplace-protection){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
 |[CoC in IoT Applications](https://www.ite.edu.sg/courses/course-finder/course/coc-in-iot-applications){:target="_blank" rel="noopener"} |Basic|7 hrs |
