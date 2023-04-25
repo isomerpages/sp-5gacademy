@@ -15,7 +15,7 @@ sections:
           description: 4 programmes to choose from
           url: /manpower-solutions/ccp
         - title: Courses
-          description: "> 800 courses to choose from"
+          description: "> 900 courses to choose from"
           url: /courses/5gtelecoms
         - title: Training Partners
           description: IHLs and Training Providers
