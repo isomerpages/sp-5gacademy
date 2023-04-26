@@ -26,7 +26,6 @@ third_nav_title: By Acad Institutions
 |[Cyber Security for ICT Professionals ](https://www.iss.nus.edu.sg/executive-education/course/detail/cyber-security-for-ict-professionals/cybersecurity){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
 |Cybersecurity Begins with Me|Basic|42 hrs |
 |[Cybersecurity for Business Managers ](https://executive-education.nus.edu.sg/programmes/cybersecurity-for-business-managers/){:target="_blank" rel="noopener"} |Basic|30 hrs |
-|[Cybersecurity Risk Awareness](https://www.iss.nus.edu.sg/executive-education/course/detail/cybersecurity-risk-awareness/cybersecurity){:target="_blank" rel="noopener"} |Intermediate|7 hrs |
 |[Data Analytics for Managers (Synchronous e-learning) ](https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/SLE-DAM){:target="_blank" rel="noopener"} |Basic| 1 day |
 |[Data Science for Internet of Things ](https://nusmods.com/modules/EE5020/data-science-for-internet-of-things){:target="_blank" rel="noopener"} |Basic|3 days |
 |[Design Secure Mobile Architecture](https://www.iss.nus.edu.sg/executive-education/course/detail/design-secure-mobile--architecture/software-systems){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
