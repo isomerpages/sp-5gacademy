@@ -1,14 +1,10 @@
 ---
 title: National University of Singapore
-permalink: /courses/by-acad-institutions/nus
+permalink: /courses/by-acad-institutions/nus/
 third_nav_title: By Acad Institutions
 ---
 |Course Title  | Level | Duration |
 | - | - | - | 
-|[(ISC))² CCSP CBK Training Seminar ](https://www.iss.nus.edu.sg/executive-education/course/detail/isc2-ccsp-cbk-training-seminar/cybersecurity){:target="_blank" rel="noopener"} |Intermediate|32.5 hrs |
-|[(ISC)² CISSP CBK Training Seminar](https://www.iss.nus.edu.sg/executive-education/course/detail/isc2-cissp-cbk-training-seminar/cybersecurity){:target="_blank" rel="noopener"} |Intermediate|32.5 hrs |
-|[(ISC)² CSSLP CBK Training Seminar](https://www.iss.nus.edu.sg/executive-education/course/detail/isc2-csslp-cbk-training-seminar/cybersecurity){:target="_blank" rel="noopener"} |Intermediate|32.5 hrs |
-|[(ISC)² SSCP CBK Training Seminar](https://www.iss.nus.edu.sg/executive-education/course/detail/isc2-sscp-cbk-training-seminar/cybersecurity){:target="_blank" rel="noopener"} |Basic|32.5 hrs |
 |[5G as a platform for Industry Transformation](https://scale.nus.edu.sg/programmes/executive-courses/tech-enabled-services/5g-as-a-platform-for-industry-transformation){:target="_blank" rel="noopener"} |Intermediate|12 hrs |
 |[Advanced Customer Analytics](https://www.iss.nus.edu.sg/executive-education/course/detail/advanced-customer--analytics/data-science){:target="_blank" rel="noopener"} |Advanced|21 hrs |
 |[Advanced Machine Learning: Deep Learning (Synchronous e-learning)](https://scale.nus.edu.sg/programmes/executive-courses/data-analytics/advanced-machine-learning-deep-learning){:target="_blank" rel="noopener"} |Basic|6.5 hrs |
