@@ -55,12 +55,12 @@ third_nav_title: By Acad Institutions
 |[Modern Cyber Security Technologies for Senior Managers](https://stmi.nus.edu.sg/event/modern-cyber-security-technologies-for-senior-managers-skillsfuture-series-3/){:target="_blank" rel="noopener"} |Intermediate|3 days |
 |Network Forensics |Intermediate|63 hrs |
 |Network Penetration Testing|Advanced|63 hrs |
-|[Octave Programming for AI, Machine Learning and Data Analytics ](https://scale.nus.edu.sg/programmes/executive-courses/data-analytics/octave-programming-for-ai-machine-learning-and-data-analytics){:target="_blank" rel="noopener"} |Basic|6.5 hrs |
-|[Operating Systems For Cyber Analyst](Operating Systems For Cyber Analyst – NUS Advanced Computing for Executives (ACE)){:target="_blank" rel="noopener"} |Intermediate|63 hrs |
+|Octave Programming for AI, Machine Learning and Data Analytics |Basic|6.5 hrs |
+|Operating Systems For Cyber Analyst|Intermediate|63 hrs |
 |[Pattern Recognition and Machine Learning Systems ](https://www.iss.nus.edu.sg/executive-education/course/detail/pattern-recognition-and-machine--learning-systems){:target="_blank" rel="noopener"} |Intermediate|32.5 hrs |
 |[Platform Security](https://www.iss.nus.edu.sg/executive-education/course/detail/platform--security/software-systems){:target="_blank" rel="noopener"} |Advanced|26 hrs |
-|[Professional Certificate in Artificial Intelligence for Non-AI Scientists ](Professional Certificate in Artificial Intelligence for Non-AI Scientists – NUS Advanced Computing for Executives (ACE)){:target="_blank" rel="noopener"} |Basic|42 hrs |
-|[Python For Cyber Security](Python For Cyber Security – NUS Advanced Computing for Executives (ACE)){:target="_blank" rel="noopener"} |Basic|63 hrs |
+|Professional Certificate in Artificial Intelligence for Non-AI Scientists |Basic|42 hrs |
+|Python For Cyber Security |Basic|63 hrs |
 |[Reasoning Systems ](https://www.iss.nus.edu.sg/executive-education/course/detail/reasoning--systems){:target="_blank" rel="noopener"} |Intermediate|32.5 hrs |
 |[Securing IoT ](https://www.iss.nus.edu.sg/executive-education/course/detail/securing--iot/cybersecurity){:target="_blank" rel="noopener"} |Basic|13 hrs |
 |[Self-learning Systems ](https://www.iss.nus.edu.sg/executive-education/course/detail/self-learning--systems/artificial-intelligence){:target="_blank" rel="noopener"} |Advanced|26 hrs |
