@@ -65,6 +65,7 @@ third_nav_title: By Acad Institutions
 |[Securing IoT ](https://www.iss.nus.edu.sg/executive-education/course/detail/securing--iot/cybersecurity){:target="_blank" rel="noopener"} |Basic|13 hrs |
 |[Self-learning Systems ](https://www.iss.nus.edu.sg/executive-education/course/detail/self-learning--systems/artificial-intelligence){:target="_blank" rel="noopener"} |Advanced|26 hrs |
 |[Software Robots - Best Practices](https://www.iss.nus.edu.sg/executive-education/course/detail/software-robots--best-practices){:target="_blank" rel="noopener"} |Intermediate|13 hrs |
+|[Text Processing using Machine Learning ](https://www.iss.nus.edu.sg/executive-education/course/detail/text-processing-using-machine--learning/artificial-intelligence){:target="_blank" rel="noopener"} |Intermediate|32.5 hrs |
 |[The Knowledge and Innovation Economy 4.0](https://inetapps.nus.edu.sg/sacs/LifeLongLearning/CourseDetails/BMS5203/){:target="_blank" rel="noopener"} |Intermediate|39 hrs |
 |[Web Analytics & SEO](https://www.iss.nus.edu.sg/executive-education/course/detail/web--analytics-seo/digital-innovation-design){:target="_blank" rel="noopener"} |Basic|19.5 hrs |
 |[Web Penetration Testing](Web Penetration Testing – NUS Advanced Computing for Executives (ACE)){:target="_blank" rel="noopener"} |Intermediate|63 hrs |
