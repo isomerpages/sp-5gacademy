@@ -43,10 +43,10 @@ third_nav_title: By Acad Institutions
 |[Fintech for Real: AI in Banking & Finance ](https://business.nus.edu.sg/mod/page/view.php?id=253){:target="_blank" rel="noopener"} |Intermediate|14.5 hrs |
 |[Fundamentals of Cybersecurity ](https://www.iss.nus.edu.sg/executive-education/course/detail/fundamentals_of_cybersecurity/cybersecurity){:target="_blank" rel="noopener"} |Basic|13 hrs |
 |[Future-proof Businesses with Artificial Intelligence ](https://scale.nus.edu.sg/programmes/executive-courses/data-analytics/future-proof-businesses-with-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|6.5 hrs |
-|[Health Analytics ](https://www.iss.nus.edu.sg/executive-education/course/detail/health--analytics/data-science){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
 |[Humanizing Smart Systems](https://www.iss.nus.edu.sg/executive-education/course/detail/humanizing-smart--systems/software-systems){:target="_blank" rel="noopener"} |Intermediate|26 hrs |
 |[Human-Robot System Engineering](https://www.iss.nus.edu.sg/executive-education/course/detail/human-robot-system--engineering/artificial-intelligence){:target="_blank" rel="noopener"} |Intermediate|26 hrs |
-|[Information Architecture for Data-driven Insights ](https://www.iss.nus.edu.sg/executive-education/course/detail/information-architecture-for-data-driven--insights/software-systems){:target="_blank" rel="noopener"} |Intermediate|26 hrs |
+|[Incident Response Diving Into Cyber Defence](Incident Response Diving Into Cyber Defence – NUS Advanced Computing for Executives (ACE)){:target="_blank" rel="noopener"} |Advanced|63 hrs |
+|[Information and Communications Cybersecurity Risk Awareness](https://www.iss.nus.edu.sg/executive-education/course/detail/cybersecurity-risk-awareness/cybersecurity){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Intelligent Process Automation ](https://www.iss.nus.edu.sg/executive-education/course/detail/intelligent-process--automation/artificial-intelligence){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
 |[IoT & 5G Security](https://www.iss.nus.edu.sg/executive-education/course/detail/iot-5g-security/software-systems){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
 |[IoT Sensor Networks ](https://nusmods.com/modules/EE5024/io-t-sensor-networks){:target="_blank" rel="noopener"} |Basic|3 days |
