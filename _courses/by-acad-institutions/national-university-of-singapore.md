@@ -56,7 +56,10 @@ third_nav_title: By Acad Institutions
 |[Managing Cybersecurity Risk ](https://www.iss.nus.edu.sg/executive-education/course/detail/managing-cybersecurity--risk/cybersecurity){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
 |[Mastering Computer Networks](Mastering Computer Networks – NUS Advanced Computing for Executives (ACE)){:target="_blank" rel="noopener"} |Basic|63 hrs |
 |[Modern Cyber Security Technologies for Senior Managers](https://stmi.nus.edu.sg/event/modern-cyber-security-technologies-for-senior-managers-skillsfuture-series-3/){:target="_blank" rel="noopener"} |Intermediate|3 days |
+|[Network Forensics](Network Forensics – NUS Advanced Computing for Executives (ACE)){:target="_blank" rel="noopener"} |Intermediate|63 hrs |
+|[Network Penetration Testing](Network Penetration Testing – NUS Advanced Computing for Executives (ACE)){:target="_blank" rel="noopener"} |Advanced|63 hrs |
 |[Octave Programming for AI, Machine Learning and Data Analytics ](https://scale.nus.edu.sg/programmes/executive-courses/data-analytics/octave-programming-for-ai-machine-learning-and-data-analytics){:target="_blank" rel="noopener"} |Basic|6.5 hrs |
+|[Operating Systems For Cyber Analyst](Operating Systems For Cyber Analyst – NUS Advanced Computing for Executives (ACE)){:target="_blank" rel="noopener"} |Intermediate|63 hrs |
 |[Pattern Recognition and Machine Learning Systems ](https://www.iss.nus.edu.sg/executive-education/course/detail/pattern-recognition-and-machine--learning-systems){:target="_blank" rel="noopener"} |Intermediate|32.5 hrs |
 |[Platform Security](https://www.iss.nus.edu.sg/executive-education/course/detail/platform--security/software-systems){:target="_blank" rel="noopener"} |Advanced|26 hrs |
 |[Reasoning Systems ](https://www.iss.nus.edu.sg/executive-education/course/detail/reasoning--systems){:target="_blank" rel="noopener"} |Intermediate|32.5 hrs |
