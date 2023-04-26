@@ -18,7 +18,6 @@ third_nav_title: By Acad Institutions
 |[Architecting IOT Solutions ](https://www.iss.nus.edu.sg/executive-education/course/detail/architecting-iot--solutions/software-systems){:target="_blank" rel="noopener"} |Intermediate|26 hrs |
 |[Architecting Software Solutions ](https://www.iss.nus.edu.sg/executive-education/course/detail/architecting-software--solutions/software-systems){:target="_blank" rel="noopener"} |Advanced|32.5 hrs |
 |[Artificial Intelligence, Data and Public Policy (Synchronous e-learning) ](https://lkyspp.nus.edu.sg/graduate-programmes/electives){:target="_blank" rel="noopener"} |Basic|9.75 hrs |
-|[Autonomous Decision Making With Reinforcement Learning ](https://www.iss.nus.edu.sg/executive-education/course/detail/autonomous-decision-making-with-reinforcement-learning/software-systems){:target="_blank" rel="noopener"} |Advanced|32.5 hrs |
 |[Autonomous Robots & Vehicles](https://www.iss.nus.edu.sg/executive-education/course/detail/autonomous-robots-and--vehicles/artificial-intelligence){:target="_blank" rel="noopener"} |Intermediate|32.5 hrs |
 |[Big Data and Business Strategy ](https://executive-education.nus.edu.sg/programmes/leading-with-big-data-analytics-machine-learning/){:target="_blank" rel="noopener"} |Basic|39 hrs |
 |[Big Data Engineering for Analytics](https://www.iss.nus.edu.sg/executive-education/course/detail/big-data-engineering-for--analytics/software-systems){:target="_blank" rel="noopener"} |Intermediate|32.5 hrs |
