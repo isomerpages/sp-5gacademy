@@ -24,10 +24,8 @@ third_nav_title: By Acad Institutions
 |[Big Data Engineering for Analytics](https://www.iss.nus.edu.sg/executive-education/course/detail/big-data-engineering-for--analytics/software-systems){:target="_blank" rel="noopener"} |Intermediate|32.5 hrs |
 |[Cloud Based Services for Internet of Things ](https://inetapps.nus.edu.sg/sacs/LifeLongLearning/CourseDetails/EE5021){:target="_blank" rel="noopener"} |Basic|3 days |
 |[Cloud Native Solution Design ](https://www.iss.nus.edu.sg/executive-education/course/detail/cloud-native-solution--design/software-systems){:target="_blank" rel="noopener"} |Intermediate|23 hrs |
-|[Cloud, 5G, IoT and Public Policy (Synchronous e-learning) ](https://lkyspp.nus.edu.sg/graduate-programmes/electives){:target="_blank" rel="noopener"} |Basic|9.75 hrs |
 |[Conversational UIs](https://www.iss.nus.edu.sg/executive-education/course/detail/conversational--interfaces/data-science){:target="_blank" rel="noopener"} |Advanced|26 hrs |
 |[Cyber Security for ICT Professionals ](https://www.iss.nus.edu.sg/executive-education/course/detail/cyber-security-for-ict-professionals/cybersecurity){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
-|[Cyber Security Foundation Course](https://stmi.nus.edu.sg/event/cyber-security-foundation-course-skillsfuture-series/){:target="_blank" rel="noopener"} |Basic|2 days |
 |[Cybersecurity Begins with Me](https://scale.nus.edu.sg/programmes/executive-courses/cybersecurity/cybersecurity-begins-with-me){:target="_blank" rel="noopener"} |Basic|42 hrs |
 |[Cybersecurity for Business Managers ](https://executive-education.nus.edu.sg/programmes/cybersecurity-for-business-managers/){:target="_blank" rel="noopener"} |Basic|30 hrs |
 |[Cybersecurity Risk Awareness](https://www.iss.nus.edu.sg/executive-education/course/detail/cybersecurity-risk-awareness/cybersecurity){:target="_blank" rel="noopener"} |Intermediate|7 hrs |
