@@ -56,22 +56,12 @@ third_nav_title: By Acad Institutions
 |[Managing Cybersecurity Risk ](https://www.iss.nus.edu.sg/executive-education/course/detail/managing-cybersecurity--risk/cybersecurity){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
 |[Mastering Computer Networks](Mastering Computer Networks – NUS Advanced Computing for Executives (ACE)){:target="_blank" rel="noopener"} |Basic|63 hrs |
 |[Modern Cyber Security Technologies for Senior Managers](https://stmi.nus.edu.sg/event/modern-cyber-security-technologies-for-senior-managers-skillsfuture-series-3/){:target="_blank" rel="noopener"} |Intermediate|3 days |
-|[New Media and Sentiment Mining ](https://www.iss.nus.edu.sg/executive-education/course/detail/new-media-and-sentiment--mining/data-science){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
 |[Octave Programming for AI, Machine Learning and Data Analytics ](https://scale.nus.edu.sg/programmes/executive-courses/data-analytics/octave-programming-for-ai-machine-learning-and-data-analytics){:target="_blank" rel="noopener"} |Basic|6.5 hrs |
 |[Pattern Recognition and Machine Learning Systems ](https://www.iss.nus.edu.sg/executive-education/course/detail/pattern-recognition-and-machine--learning-systems){:target="_blank" rel="noopener"} |Intermediate|32.5 hrs |
 |[Platform Security](https://www.iss.nus.edu.sg/executive-education/course/detail/platform--security/software-systems){:target="_blank" rel="noopener"} |Advanced|26 hrs |
-|[Problem Solving using Pattern Recognition](https://www.iss.nus.edu.sg/executive-education/course/detail/problem-solving-using-pattern--recognition/artificial-intelligence){:target="_blank" rel="noopener"} |Basic|32.5 hrs |
-|[Professional Certificate in Digital Business Strategy ](https://www.iss.nus.edu.sg/executive-education/course/detail/digital-business-strategy/digital-strategy-leadership){:target="_blank" rel="noopener"} |Advanced|39 hrs |
-|[Professional Certificate in Managing Digitalisation Complexity](https://www.iss.nus.edu.sg/executive-education/course/detail/managing-digitalisation-complexity/digital-strategy-leadership){:target="_blank" rel="noopener"} |Advanced|52 hrs |
 |[Reasoning Systems ](https://www.iss.nus.edu.sg/executive-education/course/detail/reasoning--systems){:target="_blank" rel="noopener"} |Intermediate|32.5 hrs |
-|[Robotic Systems](https://www.iss.nus.edu.sg/executive-education/course/detail/robotic--systems/artificial-intelligence){:target="_blank" rel="noopener"} |Intermediate|32.5 hrs |
-|[RPA and IPA - Strategy and Management ](https://www.iss.nus.edu.sg/executive-education/course/detail/rpa-and-ipa-strategy-and-management/digital-strategy-leadership){:target="_blank" rel="noopener"} |Advanced|13 hrs |
-|[Secure Software Development Lifecycle for Agile](https://www.iss.nus.edu.sg/executive-education/course/detail/secure-software-development-lifecycle-for--agile/software-systems){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
 |[Self-learning Systems ](https://www.iss.nus.edu.sg/executive-education/course/detail/self-learning--systems/artificial-intelligence){:target="_blank" rel="noopener"} |Advanced|26 hrs |
 |[Software Robots - Best Practices](https://www.iss.nus.edu.sg/executive-education/course/detail/software-robots--best-practices){:target="_blank" rel="noopener"} |Intermediate|13 hrs |
-|[Spatial Reasoning from Sensor Data](https://www.iss.nus.edu.sg/executive-education/course/detail/spatial-reasoning-from-sensor--data){:target="_blank" rel="noopener"} |Advanced|19.5 hrs |
-|[Text Analytics](https://www.iss.nus.edu.sg/executive-education/course/detail/text--analytics/data-science){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
-|[Text Processing using Machine Learning ](https://www.iss.nus.edu.sg/executive-education/course/detail/text-processing-using-machine--learning/artificial-intelligence){:target="_blank" rel="noopener"} |Advanced|32.5 hrs |
 |[The Knowledge and Innovation Economy 4.0](https://inetapps.nus.edu.sg/sacs/LifeLongLearning/CourseDetails/BMS5203/){:target="_blank" rel="noopener"} |Intermediate|39 hrs |
 |[Web Analytics & SEO](https://www.iss.nus.edu.sg/executive-education/course/detail/web--analytics-seo/digital-innovation-design){:target="_blank" rel="noopener"} |Basic|19.5 hrs |
 |[WEB SECURITY ](https://www.comp.nus.edu.sg/~prateeks/teaching/sp16/cs5331-sp16.html){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
