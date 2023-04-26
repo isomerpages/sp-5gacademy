@@ -17,7 +17,6 @@ third_nav_title: By Acad Institutions
 |Applied Machine Learning|Intermediate|14 hrs |
 |[Architecting IOT Solutions ](https://www.iss.nus.edu.sg/executive-education/course/detail/architecting-iot--solutions/software-systems){:target="_blank" rel="noopener"} |Intermediate|26 hrs |
 |[Architecting Software Solutions ](https://www.iss.nus.edu.sg/executive-education/course/detail/architecting-software--solutions/software-systems){:target="_blank" rel="noopener"} |Advanced|32.5 hrs |
-|[Architecting Systems For Real Time Data Processing](https://www.iss.nus.edu.sg/executive-education/course/detail/architecting-systems-for-real-time-data--processing/software-systems){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
 |[Artificial Intelligence, Data and Public Policy (Synchronous e-learning) ](https://lkyspp.nus.edu.sg/graduate-programmes/electives){:target="_blank" rel="noopener"} |Basic|9.75 hrs |
 |[Autonomous Decision Making With Reinforcement Learning ](https://www.iss.nus.edu.sg/executive-education/course/detail/autonomous-decision-making-with-reinforcement-learning/software-systems){:target="_blank" rel="noopener"} |Advanced|32.5 hrs |
 |[Autonomous Robots & Vehicles](https://www.iss.nus.edu.sg/executive-education/course/detail/autonomous-robots-and--vehicles/artificial-intelligence){:target="_blank" rel="noopener"} |Intermediate|32.5 hrs |
