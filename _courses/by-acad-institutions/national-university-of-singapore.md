@@ -6,6 +6,7 @@ third_nav_title: By Acad Institutions
 |Course Title  | Level | Duration |
 | - | - | - | 
 |[5G as a platform for Industry Transformation](https://scale.nus.edu.sg/programmes/executive-courses/tech-enabled-services/5g-as-a-platform-for-industry-transformation){:target="_blank" rel="noopener"} |Intermediate|12 hrs |
+|[5G as a platform for Industry Transformation (Synchronous e-learning )](https://scale.nus.edu.sg/programmes/executive-courses/tech-enabled-services/5g-as-a-platform-for-industry-transformation){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Advanced Customer Analytics](https://www.iss.nus.edu.sg/executive-education/course/detail/advanced-customer--analytics/data-science){:target="_blank" rel="noopener"} |Advanced|21 hrs |
 |[Advanced Machine Learning: Deep Learning (Synchronous e-learning)](https://scale.nus.edu.sg/programmes/executive-courses/data-analytics/advanced-machine-learning-deep-learning){:target="_blank" rel="noopener"} |Basic|6.5 hrs |
 |[AI & Cybersecurity ](https://www.iss.nus.edu.sg/executive-education/course/detail/ai-and--cybersecurity/artificial-intelligence){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
