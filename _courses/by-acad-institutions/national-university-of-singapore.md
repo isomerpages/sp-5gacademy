@@ -68,7 +68,7 @@ third_nav_title: By Acad Institutions
 |[Text Processing using Machine Learning ](https://www.iss.nus.edu.sg/executive-education/course/detail/text-processing-using-machine--learning/artificial-intelligence){:target="_blank" rel="noopener"} |Intermediate|32.5 hrs |
 |[The Knowledge and Innovation Economy 4.0](https://inetapps.nus.edu.sg/sacs/LifeLongLearning/CourseDetails/BMS5203/){:target="_blank" rel="noopener"} |Intermediate|39 hrs |
 |[Web Analytics & SEO](https://www.iss.nus.edu.sg/executive-education/course/detail/web--analytics-seo/digital-innovation-design){:target="_blank" rel="noopener"} |Basic|19.5 hrs |
-|[Web Penetration Testing](Web Penetration Testing – NUS Advanced Computing for Executives (ACE)){:target="_blank" rel="noopener"} |Intermediate|63 hrs |
+|Web Penetration Testing |Intermediate|63 hrs |
 |[WEB SECURITY ](https://www.comp.nus.edu.sg/~prateeks/teaching/sp16/cs5331-sp16.html){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
 |[(EXAM ONLY) Certified Cloud Security Professional (CCSP)  ](https://www.iss.nus.edu.sg/executive-education/course/detail/certified-cloud-security-professional-(ccsp-exam-only)){:target="_blank" rel="noopener"} |Intermediate|4 hrs |
 |[(EXAM ONLY) Certified Information Systems Security Professional (CISSP) ](https://www.iss.nus.edu.sg/executive-education/course/detail/certified-information-systems-security-professional--(cissp-exam-only)){:target="_blank" rel="noopener"} |Basic|3 hrs |
