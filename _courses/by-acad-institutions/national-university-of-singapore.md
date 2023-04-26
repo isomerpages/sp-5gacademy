@@ -20,12 +20,11 @@ third_nav_title: By Acad Institutions
 |[Artificial Intelligence, Data and Public Policy (Synchronous e-learning) ](https://lkyspp.nus.edu.sg/graduate-programmes/electives){:target="_blank" rel="noopener"} |Basic|9.75 hrs |
 |[Autonomous Robots & Vehicles](https://www.iss.nus.edu.sg/executive-education/course/detail/autonomous-robots-and--vehicles/artificial-intelligence){:target="_blank" rel="noopener"} |Intermediate|32.5 hrs |
 |[Big Data and Business Strategy ](https://executive-education.nus.edu.sg/programmes/leading-with-big-data-analytics-machine-learning/){:target="_blank" rel="noopener"} |Basic|39 hrs |
-|[Big Data Engineering for Analytics](https://www.iss.nus.edu.sg/executive-education/course/detail/big-data-engineering-for--analytics/software-systems){:target="_blank" rel="noopener"} |Intermediate|32.5 hrs |
 |[Cloud Based Services for Internet of Things ](https://inetapps.nus.edu.sg/sacs/LifeLongLearning/CourseDetails/EE5021){:target="_blank" rel="noopener"} |Basic|3 days |
 |[Cloud Native Solution Design ](https://www.iss.nus.edu.sg/executive-education/course/detail/cloud-native-solution--design/software-systems){:target="_blank" rel="noopener"} |Intermediate|23 hrs |
 |[Conversational UIs](https://www.iss.nus.edu.sg/executive-education/course/detail/conversational--interfaces/data-science){:target="_blank" rel="noopener"} |Advanced|26 hrs |
 |[Cyber Security for ICT Professionals ](https://www.iss.nus.edu.sg/executive-education/course/detail/cyber-security-for-ict-professionals/cybersecurity){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
-|[Cybersecurity Begins with Me](https://scale.nus.edu.sg/programmes/executive-courses/cybersecurity/cybersecurity-begins-with-me){:target="_blank" rel="noopener"} |Basic|42 hrs |
+|Cybersecurity Begins with Me|Basic|42 hrs |
 |[Cybersecurity for Business Managers ](https://executive-education.nus.edu.sg/programmes/cybersecurity-for-business-managers/){:target="_blank" rel="noopener"} |Basic|30 hrs |
 |[Cybersecurity Risk Awareness](https://www.iss.nus.edu.sg/executive-education/course/detail/cybersecurity-risk-awareness/cybersecurity){:target="_blank" rel="noopener"} |Intermediate|7 hrs |
 |[Data Analytics for Managers (Synchronous e-learning) ](https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/SLE-DAM){:target="_blank" rel="noopener"} |Basic| 1 day |
@@ -41,22 +40,22 @@ third_nav_title: By Acad Institutions
 |[Feature Engineering & Analytics using IOT Data ](https://www.iss.nus.edu.sg/executive-education/course/detail/feature-engineering-and-analytics-using-iot--data/data-science){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
 |[Fintech for Real: AI in Banking & Finance ](https://business.nus.edu.sg/mod/page/view.php?id=253){:target="_blank" rel="noopener"} |Intermediate|14.5 hrs |
 |[Fundamentals of Cybersecurity ](https://www.iss.nus.edu.sg/executive-education/course/detail/fundamentals_of_cybersecurity/cybersecurity){:target="_blank" rel="noopener"} |Basic|13 hrs |
-|[Future-proof Businesses with Artificial Intelligence ](https://scale.nus.edu.sg/programmes/executive-courses/data-analytics/future-proof-businesses-with-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|6.5 hrs |
+|Future-proof Businesses with Artificial Intelligence|Basic|6.5 hrs |
 |[Humanizing Smart Systems](https://www.iss.nus.edu.sg/executive-education/course/detail/humanizing-smart--systems/software-systems){:target="_blank" rel="noopener"} |Intermediate|26 hrs |
 |[Human-Robot System Engineering](https://www.iss.nus.edu.sg/executive-education/course/detail/human-robot-system--engineering/artificial-intelligence){:target="_blank" rel="noopener"} |Intermediate|26 hrs |
-|[Incident Response Diving Into Cyber Defence](Incident Response Diving Into Cyber Defence – NUS Advanced Computing for Executives (ACE)){:target="_blank" rel="noopener"} |Advanced|63 hrs |
+|Incident Response Diving Into Cyber Defence |Advanced|63 hrs |
 |[Information and Communications Cybersecurity Risk Awareness](https://www.iss.nus.edu.sg/executive-education/course/detail/cybersecurity-risk-awareness/cybersecurity){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Information and Communications Spatial Reasoning from Sensor Data](https://www.iss.nus.edu.sg/executive-education/course/detail/spatial-reasoning-from-sensor--data){:target="_blank" rel="noopener"} |Basic|19.5 hrs |
 |[Intelligent Process Automation ](https://www.iss.nus.edu.sg/executive-education/course/detail/intelligent-process--automation/artificial-intelligence){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
 |[IoT Sensor Networks ](https://nusmods.com/modules/EE5024/io-t-sensor-networks){:target="_blank" rel="noopener"} |Basic|3 days |
 |[Leading 5G Industry Transformation (for Telecom and related Professionals)](https://scale.nus.edu.sg/programmes/executive-courses/tech-enabled-services/leading-5g-industry-transformation-(for-telecom-and-related-professionals)){:target="_blank" rel="noopener"} |Intermediate|6 hrs |
-|[Linux For Cyber Analyst](Linux For Cyber Analyst – NUS Advanced Computing for Executives (ACE)){:target="_blank" rel="noopener"} |Basic|63 hrs |
+|Linux For Cyber Analyst |Basic|63 hrs |
 |[Machine Reasoning ](https://www.iss.nus.edu.sg/executive-education/course/detail/machine--reasoning){:target="_blank" rel="noopener"} |Intermediate|26 hrs |
 |[Managing Cybersecurity Risk ](https://www.iss.nus.edu.sg/executive-education/course/detail/managing-cybersecurity--risk/cybersecurity){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
-|[Mastering Computer Networks](Mastering Computer Networks – NUS Advanced Computing for Executives (ACE)){:target="_blank" rel="noopener"} |Basic|63 hrs |
+|Mastering Computer Networks |Basic|63 hrs |
 |[Modern Cyber Security Technologies for Senior Managers](https://stmi.nus.edu.sg/event/modern-cyber-security-technologies-for-senior-managers-skillsfuture-series-3/){:target="_blank" rel="noopener"} |Intermediate|3 days |
-|[Network Forensics](Network Forensics – NUS Advanced Computing for Executives (ACE)){:target="_blank" rel="noopener"} |Intermediate|63 hrs |
-|[Network Penetration Testing](Network Penetration Testing – NUS Advanced Computing for Executives (ACE)){:target="_blank" rel="noopener"} |Advanced|63 hrs |
+|Network Forensics |Intermediate|63 hrs |
+|Network Penetration Testing|Advanced|63 hrs |
 |[Octave Programming for AI, Machine Learning and Data Analytics ](https://scale.nus.edu.sg/programmes/executive-courses/data-analytics/octave-programming-for-ai-machine-learning-and-data-analytics){:target="_blank" rel="noopener"} |Basic|6.5 hrs |
 |[Operating Systems For Cyber Analyst](Operating Systems For Cyber Analyst – NUS Advanced Computing for Executives (ACE)){:target="_blank" rel="noopener"} |Intermediate|63 hrs |
 |[Pattern Recognition and Machine Learning Systems ](https://www.iss.nus.edu.sg/executive-education/course/detail/pattern-recognition-and-machine--learning-systems){:target="_blank" rel="noopener"} |Intermediate|32.5 hrs |
