@@ -47,6 +47,7 @@ third_nav_title: By Acad Institutions
 |[Human-Robot System Engineering](https://www.iss.nus.edu.sg/executive-education/course/detail/human-robot-system--engineering/artificial-intelligence){:target="_blank" rel="noopener"} |Intermediate|26 hrs |
 |[Incident Response Diving Into Cyber Defence](Incident Response Diving Into Cyber Defence – NUS Advanced Computing for Executives (ACE)){:target="_blank" rel="noopener"} |Advanced|63 hrs |
 |[Information and Communications Cybersecurity Risk Awareness](https://www.iss.nus.edu.sg/executive-education/course/detail/cybersecurity-risk-awareness/cybersecurity){:target="_blank" rel="noopener"} |Basic|7 hrs |
+|[Information and Communications Spatial Reasoning from Sensor Data](https://www.iss.nus.edu.sg/executive-education/course/detail/spatial-reasoning-from-sensor--data){:target="_blank" rel="noopener"} |Basic|19.5 hrs |
 |[Intelligent Process Automation ](https://www.iss.nus.edu.sg/executive-education/course/detail/intelligent-process--automation/artificial-intelligence){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
 |[IoT & 5G Security](https://www.iss.nus.edu.sg/executive-education/course/detail/iot-5g-security/software-systems){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
 |[IoT Sensor Networks ](https://nusmods.com/modules/EE5024/io-t-sensor-networks){:target="_blank" rel="noopener"} |Basic|3 days |
