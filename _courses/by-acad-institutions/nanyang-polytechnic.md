@@ -1,6 +1,6 @@
 ---
 title: Nanyang Polytechnic
-permalink: /courses/by-acad-institutions/nyp
+permalink: /courses/by-acad-institutions/nyp/
 third_nav_title: By Acad Institutions
 ---
 |Course Title  | Level | Duration |
@@ -18,5 +18,5 @@ third_nav_title: By Acad Institutions
 |[Specialist Diploma in Cloud Computing and Intelligent Services Management ](https://nypeservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=24303){:target="_blank" rel="noopener"} |Advanced|300 hrs |
 |[Specialist Diploma in Cloud Data Centre Technology and Management](https://nypeservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=21863){:target="_blank" rel="noopener"} |Advanced|300 hrs |
 |[Specialist Diploma in CyberSecurity](https://www.nyp.edu.sg/schools/sit/lifelong-learning/specialist-diploma-in-cybersecurity/entry-and-application.html){:target="_blank" rel="noopener"} |Intermediate|138 hrs |
+|[Training Needs and Skills Gap Analysis](https://nypeservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=26275){:target="_blank" rel="noopener"} | - |- |
 |[Understanding of Internet of Things (IoT) ](https://nypeservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=21220){:target="_blank" rel="noopener"} |Basic|7 hrs |
-

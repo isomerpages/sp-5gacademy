@@ -1,10 +1,9 @@
 ---
 title: NTUC LearningHub
-permalink: /courses/By-private-training-providers/ntuc-learning-hub
+permalink: /courses/By-private-training-providers/ntuc-learning-hub/
 description: ""
 third_nav_title: By Training Providers (Local)
 ---
-
 |Course Title  | Level | Duration |
 | - | - | - | 
 |(ISC)2 Certified Information Systems Security Professional (CISSP)|Advanced| |
@@ -50,6 +49,7 @@ third_nav_title: By Training Providers (Local)
 |Nokia Bell Labs 5G Foundation |Intermediate| |
 |Nokia Bell Labs 5G Networking|Intermediate| |
 |Nokia Bell Labs Industrial Automation Networks|| |
+|[Operation & Technology Roadmap (OTR)](https://www.ntuclearninghub.com/operation-technology-roadmap-otr-1){:target="_blank" rel="noopener"} | - |- |
 |[PMI Agile Certified Practitioner (PMI-ACP)](https://www.ntuclearninghub.com/en-gb/-/course/nicf-pmi-agile-certified-practitioner-pmi-acp-sf){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
 |[Project Management Professional](https://www.ntuclearninghub.com/en-gb/-/course/nicf-project-management-professional-pmp-sf){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |Security Engineering on AWS|Advanced|24 hrs |

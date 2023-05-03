@@ -26,4 +26,5 @@ third_nav_title: By Acad Institutions
 |[Leading And Developing Staff Capability In F&B Through Change Management](https://www.rp.edu.sg/ace/short-course/Detail/leading-and-developing-staff-capability-in-f-b-through-change-management){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[Machine Learning Fundamentals: Specialist Diploma in Applied Artificial Intelligence Modular Course](https://www.rp.edu.sg/ace/short-course/Detail/machine-learning-fundamentals){:target="_blank" rel="noopener"} |Basic|30 hrs |
 |[The Fundamentals of Digital Forensics](https://www.rp.edu.sg/ace/short-course/Detail/the-fundamentals-of-digital-forensics){:target="_blank" rel="noopener"} |Basic|40 hrs |
+|[Training Needs and Skills Gap Analysis](https://www.rp.edu.sg/ace/short-course/Detail/training-needs-and-skills-gap-analysis){:target="_blank" rel="noopener"} | - |- |
 |[Diploma in Engineering (Electrical and Electronics)](https://www.rp.edu.sg/ace/course-summary/Detail/diploma-in-engineering-(electrical-and-electronics)){:target="_blank" rel="noopener"} |Basic|174 hrs |
