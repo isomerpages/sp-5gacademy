@@ -1,6 +1,6 @@
 ---
 title: "9 Feb 2022: Powering Brand Experiences with ARVR"
-permalink: /resources/events/Powering-Brand-Experience-With-ARVR
+permalink: /resources/events/powering-brand-experience-with-arvr/
 date: 2022-01-28
 layout: post
 description: ""

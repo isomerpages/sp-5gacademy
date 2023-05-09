@@ -1,7 +1,7 @@
 ---
 title: "17 Nov 2021: RINC 2021 (Regional Industry Networking Conference)"
 date: 2021-10-18
-permalink: /resources/events/RINC2021
+permalink: /resources/events/rinc2021/
 layout: post
 description: ""
 ---

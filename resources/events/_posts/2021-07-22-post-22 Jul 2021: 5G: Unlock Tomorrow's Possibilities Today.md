@@ -1,7 +1,7 @@
 ---
 title: "22 Jul 2021: 5G: Unlock Tomorrow's Possibilities Today"
 date: 2021-07-22
-permalink: /resources/events/unlocktomorrow
+permalink: /resources/events/unlocktomorrow/
 layout: post
 description: ""
 ---

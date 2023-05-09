@@ -1,6 +1,6 @@
 ---
 title: COMAT
-permalink: /courses/By-private-training-providers/comat
+permalink: /courses/by-private-training-providers/comat/
 description: ""
 third_nav_title: By Training Providers (Local)
 ---

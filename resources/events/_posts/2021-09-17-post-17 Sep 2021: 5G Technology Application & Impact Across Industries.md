@@ -1,7 +1,7 @@
 ---
 title: "17 Sep 2021: 5G Technology Application & Impact Across Industries"
 date: 2021-09-17
-permalink: /resources/events/how5g
+permalink: /resources/events/how5g/
 layout: post
 description: ""
 ---

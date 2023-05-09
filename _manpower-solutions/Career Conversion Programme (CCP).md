@@ -1,6 +1,6 @@
 ---
 title: Career Conversion Programme (CCP)
-permalink: /manpower-solutions/CCP
+permalink: /manpower-solutions/ccp/
 description: Career Conversion Programme
 ---
 

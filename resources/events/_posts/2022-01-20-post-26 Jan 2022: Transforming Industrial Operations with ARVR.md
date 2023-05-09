@@ -1,6 +1,6 @@
 ---
 title: "26 Jan 2022: Transforming Industrial Operations with ARVR"
-permalink: /resources/events/Transforming-Industrial-Operations-With-ARVR
+permalink: /resources/events/transforming-industrial-operations-with-arvr/
 date: 2022-01-20
 layout: post
 description: ""

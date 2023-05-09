@@ -1,7 +1,7 @@
 ---
 title: "24 Aug 2021: The Connectivity Needs of All Industries"
 date: 2021-08-24
-permalink: /resources/events/connectivity
+permalink: /resources/events/connectivity/
 layout: post
 description: ""
 ---

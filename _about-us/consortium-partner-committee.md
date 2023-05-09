@@ -1,6 +1,6 @@
 ---
 title: Consortium Partner Committee
-permalink: /about-us/cpc
+permalink: /about-us/cpc/
 ---
 **Consortium Partner WDC**
 

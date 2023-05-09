@@ -1,7 +1,7 @@
 ---
 title: "30 Nov 2021: Shaping Cities Using Urban Digital Twin"
 date: 2021-10-20
-permalink: /resources/events/Urban-Digital-Twin
+permalink: /resources/events/urban-digital-twin/
 layout: post
 description: ""
 ---

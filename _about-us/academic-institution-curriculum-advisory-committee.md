@@ -1,6 +1,6 @@
 ---
 title: Academic Institution Curriculum Advisory Committee
-permalink: /about-us/aicac
+permalink: /about-us/aicac/
 ---
 | Name | Academic Institution |
 | -------- | -------- |

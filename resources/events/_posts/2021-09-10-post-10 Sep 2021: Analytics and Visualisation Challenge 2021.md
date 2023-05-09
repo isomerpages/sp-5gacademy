@@ -1,7 +1,7 @@
 ---
 title: "10 Sep 2021: Analytics and Visualisation Challenge 2021"
 date: 2021-09-10
-permalink: /resources/events/analytics
+permalink: /resources/events/analytics/
 layout: post
 description: ""
 ---

@@ -1,6 +1,6 @@
 ---
 title: Training Needs Analysis (TNA)
-permalink: /manpower-solutions/TNA
+permalink: /manpower-solutions/tna/
 description: Training Needs Analysis
 ---
 

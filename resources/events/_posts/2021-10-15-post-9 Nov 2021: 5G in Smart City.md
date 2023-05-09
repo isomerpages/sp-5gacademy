@@ -1,7 +1,7 @@
 ---
 title: "9 Nov 2021: 5G in Smart City"
 date: 2021-10-15
-permalink: /resources/events/Byond-Mobile
+permalink: /resources/events/byond-mobile/
 layout: post
 description: ""
 ---

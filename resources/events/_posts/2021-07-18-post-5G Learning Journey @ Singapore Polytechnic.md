@@ -1,7 +1,7 @@
 ---
 title: 5G Learning Journey @ Singapore Polytechnic
 date: 2021-07-18
-permalink: /resources/events/5G-learning-journey
+permalink: /resources/events/5g-learning-journey/
 layout: post
 description: ""
 ---

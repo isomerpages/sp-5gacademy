@@ -1,6 +1,6 @@
 ---
 title: Mpirical
-permalink: /courses/By-Training-Providers-Global/mpirical
+permalink: /courses/by-training-providers-global/mpirical/
 description: ""
 third_nav_title: By Training Providers (Global)
 ---

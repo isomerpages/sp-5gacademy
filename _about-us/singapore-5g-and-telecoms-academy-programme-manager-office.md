@@ -1,6 +1,6 @@
 ---
 title: Singapore 5G & Telecoms Academy Programme Manager Office
-permalink: /about-us/steering-comm
+permalink: /about-us/steering-comm/
 ---
 In partnership with the Infocomm Media Development Authority (IMDA), the Singapore 5G &amp; Telecoms Academy is set up to attract and build a ready pool of capable talent in 5G and emerging technologies such as the internet of things, cloud engineering and data analytics.
 
