@@ -50,5 +50,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://sp-5gacademy-staging.netlify.app
-prod: https://sp-5gacademy-prod.netlify.app
+staging: https://staging.d1vnigv1rymoh8.amplifyapp.com/
+prod: https://master.d1vnigv1rymoh8.amplifyapp.com/
