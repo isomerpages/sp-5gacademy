@@ -35,6 +35,14 @@ sections:
       subtitle: Learn more
       button: View More
   - infopic:
+      title: Stay Ahead of the Game with 5G Network Benchmarking
+      subtitle: Live Webinar - Fri 16 Jun
+      description: "DATE: 16 JUN 2023 (FRI)"
+      button: Find Out More
+      url: /resources/events/stay-ahead-of-the-game-with-5g-network-benchmarking
+      image: /images/events/5GLF/Apex5G.png
+      alt: Image alt text
+  - infopic:
       title: Learn NIST Cybersecurity Framework in 60 Min
       subtitle: Live Webinar - Fri 28 Apr
       description: Learn how NIST CSF can benefit working professionals by enhancing
@@ -172,12 +180,4 @@ sections:
       url: /resources/events/industry-4-studio
       image: /images/events/5GLF/IBM I4_Industry_studio.jpg
       alt: IBM I4
-  - infopic:
-      title: Stay Ahead of the Game with 5G Network Benchmarking
-      subtitle: Live Webinar - Fri 16 Jun
-      description: "DATE: 16 JUN 2023 (FRI) "
-      button: Find Out More
-      url: /resources/events/stay-ahead-of-the-game-with-5g-network-benchmarking
-      image: /images/events/5GLF/Apex5G.png
-      alt: Image alt text
 ---
