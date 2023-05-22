@@ -80,7 +80,7 @@ sections:
       image: /images/events/events/ITIL4 Webinar 2023 (5G) Banner.jpg
       alt: Image alt text
   - infopic:
-      title: "Mpirical - New 5G Courses "
+      title: Mpirical - New 5G Courses
       subtitle: Jan 2023
       description: Updated on a regular basis
       button: FIND OUT MORE
@@ -173,11 +173,11 @@ sections:
       image: /images/events/5GLF/IBM I4_Industry_studio.jpg
       alt: IBM I4
   - infopic:
-      title: "Learning Journey #4"
-      subtitle: 5GLF 2022 - Thu 13  Oct
-      description: "NYP-Starhub APEX 5G  Centre Tour <br> (Partner: Nanyang Polytechnic)"
+      title: Stay Ahead of the Game with 5G Network Benchmarking
+      subtitle: Live Webinar - Fri 16 Jun
+      description: "DATE: 16 JUN 2023 (FRI) "
       button: Find Out More
-      url: /resources/events/nyp-starhub-apex-5g-centre
+      url: /resources/events/stay-ahead-of-the-game-with-5g-network-benchmarking
       image: /images/events/5GLF/Apex5G.png
       alt: Image alt text
 ---
