@@ -1,6 +1,6 @@
 ---
 title: IBM Singapore
-permalink: /courses/By-private-training-providers/ibm-singapore
+permalink: /courses/by-private-training-providers/ibm-singapore/
 description: ""
 third_nav_title: By Training Providers (Local)
 ---

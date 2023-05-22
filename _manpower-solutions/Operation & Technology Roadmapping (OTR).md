@@ -1,6 +1,6 @@
 ---
 title: Operation & Technology Roadmapping (OTR)
-permalink: /manpower-solutions/OTR
+permalink: /manpower-solutions/otr/
 description: Operation & Technology Roadmapping
 ---
 

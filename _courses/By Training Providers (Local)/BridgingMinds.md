@@ -1,6 +1,6 @@
 ---
 title: BridgingMinds
-permalink: /courses/By-private-training-providers/bridgingminds/
+permalink: /courses/by-private-training-providers/bridgingminds/
 description: ""
 third_nav_title: By Training Providers (Local)
 ---

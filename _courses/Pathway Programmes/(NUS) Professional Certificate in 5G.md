@@ -1,6 +1,6 @@
 ---
 title: (NUS) Professional Certificate in 5G
-permalink: /courses/Pathway-Programmes/nus-profressional-certificate-in-5g/
+permalink: /courses/pathway-programmes/nus-profressional-certificate-in-5g/
 description: ""
 third_nav_title: Pathway Programmes
 ---

@@ -1,7 +1,7 @@
 ---
 title: "17 Sep 2021: Next Hack 2021 Launch Webinar"
 date: 2021-09-17
-permalink: /resources/events/nexthack2021
+permalink: /resources/events/nexthack2021/
 layout: post
 description: ""
 ---

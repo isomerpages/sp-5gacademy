@@ -1,6 +1,6 @@
 ---
 title: NTUC LearningHub
-permalink: /courses/By-private-training-providers/ntuc-learning-hub/
+permalink: /courses/by-private-training-providers/ntuc-learning-hub/
 description: ""
 third_nav_title: By Training Providers (Local)
 ---

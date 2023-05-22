@@ -1,6 +1,6 @@
 ---
 title: Alta3 Research
-permalink: /courses/By-Training-Providers-Global/alta3
+permalink: /courses/by-training-providers-global/alta3/
 description: ""
 third_nav_title: By Training Providers (Global)
 ---

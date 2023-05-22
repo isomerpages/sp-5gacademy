@@ -1,6 +1,6 @@
 ---
 title: NUS collaborates in 5G Academy to develop Singapore’s 5G talent pipeline
-permalink: /resources/articles/NUS-collaborates-in-5G-Academy
+permalink: /resources/articles/nus-collaborates-in-5g-academy/
 date: 2022-03-16
 layout: post
 description: ""
