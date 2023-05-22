@@ -70,31 +70,13 @@ sections:
       image: /images/events/microservices - cover page.jpg
       alt: 5G Learning Journey Cover Pic
   - infopic:
-      title: Radio Propagation Mechanisms Explained
-      subtitle: Webinar - Thu 23 Mar
-      description: "DATE: 23 MAR 2023 (THU) <br> TIME: 6.00 PM SINGAPORE TIME (10.00
-        AM UK TIME)"
+      title: 5G Learning Journey
+      subtitle: Regular event
+      description: "By Appointment Only <br> VENUE: Singapore Polytechnic"
       button: Find Out More
-      url: /resources/events/radio-propagation-mechanisms-explained
-      alt: Wray Castle Webinar Mar 2023
-      image: /images/events/Wray Casrle Webinar Mar 2023 COVER.jpg
-  - infopic:
-      title: Career Disruption Webinar
-      subtitle: Webinar - Tue 14 Mar
-      description: Discover IT Value stream and Learn more on Digital Products,
-        Digital Transformation and Customer Journey.
-      button: Find Out More
-      url: /resources/events/itil4-career-disruption-webinar
-      image: /images/events/events/ITIL4 Webinar 2023 (5G) Banner.jpg
-      alt: Image alt text
-  - infopic:
-      title: Mpirical - New 5G Courses
-      subtitle: Jan 2023
-      description: Updated on a regular basis
-      button: FIND OUT MORE
-      url: /resources/events/new-5g-courses-from-mpirical/
-      image: /images/events/Regular Programmes/LTE-M.jpg
-      alt: Introducing LTE-M
+      url: /resources/events/5G-learning-journey "target=_blank"
+      image: /images/events/5GLF/5G Learning Journey Cover Pic.jpg
+      alt: 5gandaiot-image
   - infopic:
       title: 5G Readiness Index (5GRI)
       subtitle: Manpower Solutions
@@ -128,13 +110,31 @@ sections:
       image: /images/manpower-solutions/5G%20CCP%20Cover%20Image-S.png
       alt: Image alt text
   - infopic:
-      title: 5G Learning Journey
-      subtitle: Regular event
-      description: "By Appointment Only <br> VENUE: Singapore Polytechnic"
+      title: Radio Propagation Mechanisms Explained
+      subtitle: Webinar - Thu 23 Mar
+      description: "DATE: 23 MAR 2023 (THU) <br> TIME: 6.00 PM SINGAPORE TIME (10.00
+        AM UK TIME)"
       button: Find Out More
-      url: /resources/events/5G-learning-journey "target=_blank"
-      image: /images/events/5GLF/5G Learning Journey Cover Pic.jpg
-      alt: 5gandaiot-image
+      url: /resources/events/radio-propagation-mechanisms-explained
+      alt: Wray Castle Webinar Mar 2023
+      image: /images/events/Wray Casrle Webinar Mar 2023 COVER.jpg
+  - infopic:
+      title: Career Disruption Webinar
+      subtitle: Webinar - Tue 14 Mar
+      description: Discover IT Value stream and Learn more on Digital Products,
+        Digital Transformation and Customer Journey.
+      button: Find Out More
+      url: /resources/events/itil4-career-disruption-webinar
+      image: /images/events/events/ITIL4 Webinar 2023 (5G) Banner.jpg
+      alt: Image alt text
+  - infopic:
+      title: Mpirical - New 5G Courses
+      subtitle: Jan 2023
+      description: Updated on a regular basis
+      button: FIND OUT MORE
+      url: /resources/events/new-5g-courses-from-mpirical/
+      image: /images/events/Regular Programmes/LTE-M.jpg
+      alt: Introducing LTE-M
   - infopic:
       title: Wray Castle Connect
       subtitle: Regular Event
