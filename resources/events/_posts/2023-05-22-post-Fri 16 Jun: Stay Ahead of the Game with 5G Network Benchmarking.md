@@ -12,7 +12,7 @@ This webinar will focus on the needs and challenges of 5G Network Benchmarking, 
 
 # Details
 **DATE: 16 JUNE 2023 <br> 
-TIME: 3.00 pm - 4.00 pm **
+TIME: 3.00 pm - 4.00 pm**
 
 ![Keysight Webinar 2023](/images/events/edmss_keysight%20webinar.png)
 
@@ -34,4 +34,3 @@ TIME: 3.00 pm - 4.00 pm **
 </style>
 
 <center><a href="https://bit.ly/3nP3has" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
-
