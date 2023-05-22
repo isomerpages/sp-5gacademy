@@ -40,7 +40,7 @@ sections:
       description: "DATE: 16 JUN 2023 (FRI) <br> TIME: 3.00pm"
       button: Find Out More
       url: /resources/events/stay-ahead-of-the-game-with-5g-network-benchmarking
-      image: /images/events/keysight webinar home page.jpg
+      image: /images/events/keysight webinar home page1.jpg
       alt: Keysight Webinar Homepage
   - infopic:
       title: Learn NIST Cybersecurity Framework in 60 Min
