@@ -35,7 +35,7 @@ sections:
       subtitle: Learn more
       button: View More
   - infopic:
-      title: Stay Ahead of the Game with 5G Network Benchmarking
+      title: Stay Ahead of the Game with <br> 5G Network Benchmarking
       subtitle: Live Webinar - Fri 16 Jun
       description: "DATE: 16 JUN 2023 (FRI) <br> TIME: 3.00pm"
       button: Find Out More
