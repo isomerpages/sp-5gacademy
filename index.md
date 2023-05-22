@@ -37,11 +37,11 @@ sections:
   - infopic:
       title: Stay Ahead of the Game with 5G Network Benchmarking
       subtitle: Live Webinar - Fri 16 Jun
-      description: "DATE: 16 JUN 2023 (FRI)"
+      description: "DATE: 16 JUN 2023 (FRI)<br>3.00pm - 4.00pm"
       button: Find Out More
       url: /resources/events/stay-ahead-of-the-game-with-5g-network-benchmarking
-      image: /images/events/5GLF/Apex5G.png
-      alt: Image alt text
+      image: /images/events/keysight webinar home page.jpg
+      alt: Keysight Webinar Homepage
   - infopic:
       title: Learn NIST Cybersecurity Framework in 60 Min
       subtitle: Live Webinar - Fri 28 Apr
