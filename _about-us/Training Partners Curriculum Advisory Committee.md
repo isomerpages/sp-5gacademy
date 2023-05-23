@@ -16,7 +16,6 @@ description: ""
 | Mr Senthil Kumar    | NTUC LearningHub  |
 | Mr Gary Chow     | NTUC LearningHub    |
 | Mr Heng Koon Huat, Robin   | ST Engineering   |
-| Mr How Choon Thim, Alan    | ST Engineering    |
 | Ms April Li     | Trainocate    |
 | Ms Teresa Prieto  | Trainocate |
 | Mr Mohamed Idrissi   | 5GWorldPro    |
