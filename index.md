@@ -35,6 +35,14 @@ sections:
       subtitle: Learn more
       button: View More
   - infopic:
+      title: Global 5GtoB Update & Case Studies
+      subtitle: LIVE WEBINAR - Tue 20 Jun
+      description: "DATE: 20 JUN 2023 (TUE) <br> TIME: 4:00PM"
+      button: FIND OUT MORE
+      url: /resources/events/global-5gtob-update-case-studies
+      image: /images/events/events/cover2_huawei webinar.jpg
+      alt: Huawei Webinar 2023
+  - infopic:
       title: Stay Ahead of the Game with <br> 5G Network Benchmarking
       subtitle: Live Webinar - Fri 16 Jun
       description: "DATE: 16 JUN 2023 (FRI) <br> TIME: 3.00pm"
@@ -127,14 +135,6 @@ sections:
       url: /resources/events/itil4-career-disruption-webinar
       image: /images/events/events/ITIL4 Webinar 2023 (5G) Banner.jpg
       alt: Image alt text
-  - infopic:
-      title: Mpirical - New 5G Courses
-      subtitle: Jan 2023
-      description: Updated on a regular basis
-      button: FIND OUT MORE
-      url: /resources/events/new-5g-courses-from-mpirical/
-      image: /images/events/Regular Programmes/LTE-M.jpg
-      alt: Introducing LTE-M
   - infopic:
       title: Wray Castle Connect
       subtitle: Regular Event
