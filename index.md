@@ -40,7 +40,7 @@ sections:
       description: "DATE: 20 JUN 2023 (TUE) <br> TIME: 4:00PM"
       button: FIND OUT MORE
       url: /resources/events/global-5gtob-update-case-studies
-      image: /images/events/cover_huawei webinar.jpg
+      image: /images/events/events/cover2_huawei webinar.jpg
       alt: Huawei Webinar 2023
   - infopic:
       title: Stay Ahead of the Game with <br> 5G Network Benchmarking
