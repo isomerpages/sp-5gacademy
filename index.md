@@ -37,7 +37,7 @@ sections:
   - infopic:
       title: Global 5GtoB Update & Case Studies
       subtitle: LIVE WEBINAR - Tue 20 Jun
-      description: "DATE: 20 JUN 2023 (TUE) <br> TIME: 3:00PM"
+      description: "DATE: 20 JUN 2023 (TUE) <br> TIME: 4:00PM"
       button: FIND OUT MORE
       url: /resources/events/global-5gtob-update-case-studies
       image: /images/events/events/cover2_huawei webinar.jpg
