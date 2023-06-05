@@ -33,4 +33,4 @@ TIME: 4.00 pm - 5.00 pm
 }
 </style>
 
-<center><a href="https://bit.ly/3nP3has" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
+<center><a href="https://nus.syd1.qualtrics.com/jfe/form/SV_5jr8tsmhVNqGRqS" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
