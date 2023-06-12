@@ -4,8 +4,8 @@ permalink: /about-us/wdc/
 ---
 | Name | Organisation | 
 | -------- | -------- |  -------- | 
-|Mr Suresh H Punjabi     |National University of Singapore     | 
-|Mr Loh Yew Chiong     |Singapore Polytechnic     | 
+|Mr Suresh H Punjabi (Co-Chair)    |National University of Singapore     | 
+|Mr Loh Yew Chiong (Co-Chair)     |Singapore Polytechnic     | 
 |Mr Jeremy Lim     |Cisco Systems  |  
 |Mr Alan Kwan     | Cisco Systems |  
 |Mr Andy Sim     |Dell Technologies     | 
