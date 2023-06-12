@@ -25,8 +25,6 @@ permalink: /about-us/aicac/
 | Mr Sim Choon Hou    | Republic Polytechnic     |
 | Mr Soh Lai Seng | Republic Polytechnic     |
 | Ms Wong Wai Ling    | Republic Polytechnic     |
-| Mr Toh Ser Khoon     | Singapore Polytechnic     |
-| Mr Wong Jian Chang   | Singapore Polytechnic   |
 | Dr Eng Pin Kwang   | Temasek Polytechnic     |
 | Dr Kwan Kian Hoong  | Temasek Polytechnic     |
 | Ms Jacelyn Neo  | Temasek Polytechnic     |
