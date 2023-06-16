@@ -25,10 +25,7 @@ third_nav_title: By Acad Institutions
 |[Building Secure and Resilient Servers for the Internet of Things ](https://ace.nus.edu.sg/building-secure-and-resilient-servers-for-the-internet-of-things/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Business Applications relying on Supervised Learning](https://ace.nus.edu.sg/business-applications-relying-on-supervised-learning/){:target="_blank" rel="noopener"} |Advanced|14 hrs |
 |[Business Applications relying on Unsupervised & Reinforcement Learning](https://ace.nus.edu.sg/business-applications-relying-on-unsupervised-reinforcement-learning/){:target="_blank" rel="noopener"} |Advanced|21 hrs |
-|[Big Data and Business Strategy ](https://executive-education.nus.edu.sg/programmes/leading-with-big-data-analytics-machine-learning/){:target="_blank" rel="noopener"} |Basic|39 hrs |
-|[Big Data and Business Strategy ](https://executive-education.nus.edu.sg/programmes/leading-with-big-data-analytics-machine-learning/){:target="_blank" rel="noopener"} |Basic|39 hrs |
-|[Big Data and Business Strategy ](https://executive-education.nus.edu.sg/programmes/leading-with-big-data-analytics-machine-learning/){:target="_blank" rel="noopener"} |Basic|39 hrs |
-|[Big Data and Business Strategy ](https://executive-education.nus.edu.sg/programmes/leading-with-big-data-analytics-machine-learning/){:target="_blank" rel="noopener"} |Basic|39 hrs |
+|[Business Intelligentization Using Machine Learning and Rapidminer ](https://ace.nus.edu.sg/business-intelligentization-using-machine-learning-and-rapidminer/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Cloud Based Services for Internet of Things ](https://inetapps.nus.edu.sg/sacs/LifeLongLearning/CourseDetails/EE5021){:target="_blank" rel="noopener"} |Basic|3 days |
 |[Cloud Native Solution Design ](https://www.iss.nus.edu.sg/executive-education/course/detail/cloud-native-solution--design/software-systems){:target="_blank" rel="noopener"} |Intermediate|23 hrs |
 |[Conversational UIs](https://www.iss.nus.edu.sg/executive-education/course/detail/conversational--interfaces/data-science){:target="_blank" rel="noopener"} |Advanced|26 hrs |
