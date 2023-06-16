@@ -82,14 +82,7 @@ third_nav_title: By Acad Institutions
 |[Sentiment Analysis Fundamentals](https://ace.nus.edu.sg/sentiment-analysis-fundamentals/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Sentiment Analysis in Social Media](https://ace.nus.edu.sg/sentiment-analysis-in-social-media/){:target="_blank" rel="noopener"} |Advanced|7 hrs |
 |[Statistical Models for the Internet of Things](https://ace.nus.edu.sg/statistical-models-for-the-internet-of-things/){:target="_blank" rel="noopener"} |Basic|14 hrs |
-|[Relational Database Design](https://ace.nus.edu.sg/relational-database-design/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
-|[Relational Database Design](https://ace.nus.edu.sg/relational-database-design/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
-|[Relational Database Design](https://ace.nus.edu.sg/relational-database-design/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
-|[Securing IoT ](https://www.iss.nus.edu.sg/executive-education/course/detail/securing--iot/cybersecurity){:target="_blank" rel="noopener"} |Basic|13 hrs |
-|[Self-learning Systems ](https://www.iss.nus.edu.sg/executive-education/course/detail/self-learning--systems/artificial-intelligence){:target="_blank" rel="noopener"} |Advanced|26 hrs |
-|[Software Robots - Best Practices](https://www.iss.nus.edu.sg/executive-education/course/detail/software-robots--best-practices){:target="_blank" rel="noopener"} |Intermediate|13 hrs |
-|[Text Processing using Machine Learning ](https://www.iss.nus.edu.sg/executive-education/course/detail/text-processing-using-machine--learning/artificial-intelligence){:target="_blank" rel="noopener"} |Intermediate|32.5 hrs |
-|[The Knowledge and Innovation Economy 4.0](https://inetapps.nus.edu.sg/sacs/LifeLongLearning/CourseDetails/BMS5203/){:target="_blank" rel="noopener"} |Intermediate|39 hrs |
-|[Web Analytics & SEO](https://www.iss.nus.edu.sg/executive-education/course/detail/web--analytics-seo/digital-innovation-design){:target="_blank" rel="noopener"} |Basic|19.5 hrs |
-|[(EXAM ONLY) Certified Cloud Security Professional (CCSP)  ](https://www.iss.nus.edu.sg/executive-education/course/detail/certified-cloud-security-professional-(ccsp-exam-only)){:target="_blank" rel="noopener"} |Intermediate|4 hrs |
-|[(EXAM ONLY) Certified Information Systems Security Professional (CISSP) ](https://www.iss.nus.edu.sg/executive-education/course/detail/certified-information-systems-security-professional--(cissp-exam-only)){:target="_blank" rel="noopener"} |Basic|3 hrs |
+|[System Dynamics and Digital Business Modelling](https://ace.nus.edu.sg/system-dynamics-and-digital-business-modelling/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
+|[Using Business Analytics to Answer Business Questions (Synchronous e-learning)](https://ace.nus.edu.sg/using-business-analytics-to-answer-business-questions/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
+|[Web Development using React](https://ace.nus.edu.sg/web-development-using-react/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
+
