@@ -77,7 +77,7 @@ third_nav_title: By Acad Institutions
 |[Production, Deployment and Sustainment of Machine Learning Solutions](https://ace.nus.edu.sg/production-deployment-and-sustainment-of-machine-learning-solutions/){:target="_blank" rel="noopener"} |Advanced|21 hrs |
 |[Protecting Digital Assets](https://ace.nus.edu.sg/protecting-digital-assets/){:target="_blank" rel="noopener"} |Basic|11 hrs |
 |[Python for Data Engineering](https://ace.nus.edu.sg/python-for-data-engineering/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
-|[Metaverse and Digital Twins](https://ace.nus.edu.sg/metaverse-and-digital-twins/){:target="_blank" rel="noopener"} |Intermediate|7.5 hrs |
+|[Python Programming](https://ace.nus.edu.sg/python-programming/){:target="_blank" rel="noopener"} |Basic|21 hrs |
 |[Reasoning Systems ](https://www.iss.nus.edu.sg/executive-education/course/detail/reasoning--systems){:target="_blank" rel="noopener"} |Intermediate|32.5 hrs |
 |[Securing IoT ](https://www.iss.nus.edu.sg/executive-education/course/detail/securing--iot/cybersecurity){:target="_blank" rel="noopener"} |Basic|13 hrs |
 |[Self-learning Systems ](https://www.iss.nus.edu.sg/executive-education/course/detail/self-learning--systems/artificial-intelligence){:target="_blank" rel="noopener"} |Advanced|26 hrs |
