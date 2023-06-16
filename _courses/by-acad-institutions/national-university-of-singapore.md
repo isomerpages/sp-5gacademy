@@ -65,6 +65,16 @@ third_nav_title: By Acad Institutions
 |[Making Fast Decisions with Business Analytics (Synchronous e-learning)](https://ace.nus.edu.sg/making-fast-decisions-with-business-analytics/){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Metaverse and Digital Twins](https://ace.nus.edu.sg/metaverse-and-digital-twins/){:target="_blank" rel="noopener"} |Intermediate|7.5 hrs |
 |[Microcontroller Programming for Internet of Things](https://ace.nus.edu.sg/microcontroller-programming-for-iot/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
+|[Metaverse and Digital Twins](https://ace.nus.edu.sg/metaverse-and-digital-twins/){:target="_blank" rel="noopener"} |Intermediate|7.5 hrs |
+|[Metaverse and Digital Twins](https://ace.nus.edu.sg/metaverse-and-digital-twins/){:target="_blank" rel="noopener"} |Intermediate|7.5 hrs |
+|[Metaverse and Digital Twins](https://ace.nus.edu.sg/metaverse-and-digital-twins/){:target="_blank" rel="noopener"} |Intermediate|7.5 hrs |
+|[Metaverse and Digital Twins](https://ace.nus.edu.sg/metaverse-and-digital-twins/){:target="_blank" rel="noopener"} |Intermediate|7.5 hrs |
+|[Metaverse and Digital Twins](https://ace.nus.edu.sg/metaverse-and-digital-twins/){:target="_blank" rel="noopener"} |Intermediate|7.5 hrs |
+|[Metaverse and Digital Twins](https://ace.nus.edu.sg/metaverse-and-digital-twins/){:target="_blank" rel="noopener"} |Intermediate|7.5 hrs |
+|[Metaverse and Digital Twins](https://ace.nus.edu.sg/metaverse-and-digital-twins/){:target="_blank" rel="noopener"} |Intermediate|7.5 hrs |
+|[Metaverse and Digital Twins](https://ace.nus.edu.sg/metaverse-and-digital-twins/){:target="_blank" rel="noopener"} |Intermediate|7.5 hrs |
+|[Metaverse and Digital Twins](https://ace.nus.edu.sg/metaverse-and-digital-twins/){:target="_blank" rel="noopener"} |Intermediate|7.5 hrs |
+|[Metaverse and Digital Twins](https://ace.nus.edu.sg/metaverse-and-digital-twins/){:target="_blank" rel="noopener"} |Intermediate|7.5 hrs |
 |[Pattern Recognition and Machine Learning Systems ](https://www.iss.nus.edu.sg/executive-education/course/detail/pattern-recognition-and-machine--learning-systems){:target="_blank" rel="noopener"} |Intermediate|32.5 hrs |
 |[Platform Security](https://www.iss.nus.edu.sg/executive-education/course/detail/platform--security/software-systems){:target="_blank" rel="noopener"} |Advanced|26 hrs |
 |[Reasoning Systems ](https://www.iss.nus.edu.sg/executive-education/course/detail/reasoning--systems){:target="_blank" rel="noopener"} |Intermediate|32.5 hrs |
