@@ -73,7 +73,10 @@ third_nav_title: By Acad Institutions
 |[Operating System](https://ace.nus.edu.sg/operating-system/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
 |[Patient Data Security and Privacy](https://ace.nus.edu.sg/patient-data-security-and-privacy/){:target="_blank" rel="noopener"} |Basic|15 hrs |
 |[Prescriptive Analytics - From data to optimal course of action](https://ace.nus.edu.sg/prescriptive-analytics-from-data-to-optimal-course-of-action/){:target="_blank" rel="noopener"} |Basic|7.5 hrs |
-|[Privacy Engineering Essentials](https://ace.nus.edu.sg/metaverse-and-digital-twins/){:target="_blank" rel="noopener"} |Intermediate|7.5 hrs |
+|[Privacy Engineering Essentials](https://ace.nus.edu.sg/privacy-engineering-essentials/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
+|[Metaverse and Digital Twins](https://ace.nus.edu.sg/metaverse-and-digital-twins/){:target="_blank" rel="noopener"} |Intermediate|7.5 hrs |
+|[Metaverse and Digital Twins](https://ace.nus.edu.sg/metaverse-and-digital-twins/){:target="_blank" rel="noopener"} |Intermediate|7.5 hrs |
+|[Metaverse and Digital Twins](https://ace.nus.edu.sg/metaverse-and-digital-twins/){:target="_blank" rel="noopener"} |Intermediate|7.5 hrs |
 |[Metaverse and Digital Twins](https://ace.nus.edu.sg/metaverse-and-digital-twins/){:target="_blank" rel="noopener"} |Intermediate|7.5 hrs |
 |[Reasoning Systems ](https://www.iss.nus.edu.sg/executive-education/course/detail/reasoning--systems){:target="_blank" rel="noopener"} |Intermediate|32.5 hrs |
 |[Securing IoT ](https://www.iss.nus.edu.sg/executive-education/course/detail/securing--iot/cybersecurity){:target="_blank" rel="noopener"} |Basic|13 hrs |
