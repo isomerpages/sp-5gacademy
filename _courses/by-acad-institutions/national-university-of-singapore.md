@@ -23,8 +23,8 @@ third_nav_title: By Acad Institutions
 |[Basics of Communications for the Internet of Things](https://ace.nus.edu.sg/basics-of-communications-for-the-internet-of-things/){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[Big Data and Machine Learning with Cloud ](https://ace.nus.edu.sg/big-data-and-machine-learning-with-cloud-3/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Building Secure and Resilient Servers for the Internet of Things ](https://ace.nus.edu.sg/building-secure-and-resilient-servers-for-the-internet-of-things/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
-|[Big Data and Business Strategy ](https://executive-education.nus.edu.sg/programmes/leading-with-big-data-analytics-machine-learning/){:target="_blank" rel="noopener"} |Basic|39 hrs |
-|[Big Data and Business Strategy ](https://executive-education.nus.edu.sg/programmes/leading-with-big-data-analytics-machine-learning/){:target="_blank" rel="noopener"} |Basic|39 hrs |
+|[Business Applications relying on Supervised Learning](https://ace.nus.edu.sg/business-applications-relying-on-supervised-learning/){:target="_blank" rel="noopener"} |Advanced|14 hrs |
+|[Business Applications relying on Unsupervised & Reinforcement Learning](https://ace.nus.edu.sg/business-applications-relying-on-unsupervised-reinforcement-learning/){:target="_blank" rel="noopener"} |Advanced|21 hrs |
 |[Big Data and Business Strategy ](https://executive-education.nus.edu.sg/programmes/leading-with-big-data-analytics-machine-learning/){:target="_blank" rel="noopener"} |Basic|39 hrs |
 |[Big Data and Business Strategy ](https://executive-education.nus.edu.sg/programmes/leading-with-big-data-analytics-machine-learning/){:target="_blank" rel="noopener"} |Basic|39 hrs |
 |[Big Data and Business Strategy ](https://executive-education.nus.edu.sg/programmes/leading-with-big-data-analytics-machine-learning/){:target="_blank" rel="noopener"} |Basic|39 hrs |
