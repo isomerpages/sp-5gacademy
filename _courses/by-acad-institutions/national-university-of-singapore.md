@@ -30,8 +30,8 @@ third_nav_title: By Acad Institutions
 |[Commercialisation of Artificial Intelligence Innovation](https://ace.nus.edu.sg/commercialisation-of-ai-innovation/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Communicating Insights with Data Storytelling](https://ace.nus.edu.sg/communicating-insights-with-data-storytelling/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
 |[Complete Modern JavaScript for Beginners](https://ace.nus.edu.sg/complete-modern-javascript-for-beginners/){:target="_blank" rel="noopener"} |Basic|21 hrs |
-|[Cloud Based Services for Internet of Things ](https://inetapps.nus.edu.sg/sacs/LifeLongLearning/CourseDetails/EE5021){:target="_blank" rel="noopener"} |Basic|3 days |
-|[Cloud Based Services for Internet of Things ](https://inetapps.nus.edu.sg/sacs/LifeLongLearning/CourseDetails/EE5021){:target="_blank" rel="noopener"} |Basic|3 days |
+|[Computer Organization I](https://ace.nus.edu.sg/computer-organization-i/){:target="_blank" rel="noopener"} |Basic|21 hrs |
+|[Computer Organization II and Introduction to Operating System ](https://ace.nus.edu.sg/computer-organization-ii-and-introduction-to-operating-system/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
 |[Cloud Based Services for Internet of Things ](https://inetapps.nus.edu.sg/sacs/LifeLongLearning/CourseDetails/EE5021){:target="_blank" rel="noopener"} |Basic|3 days |
 |[Cloud Based Services for Internet of Things ](https://inetapps.nus.edu.sg/sacs/LifeLongLearning/CourseDetails/EE5021){:target="_blank" rel="noopener"} |Basic|3 days |
 |[Cloud Based Services for Internet of Things ](https://inetapps.nus.edu.sg/sacs/LifeLongLearning/CourseDetails/EE5021){:target="_blank" rel="noopener"} |Basic|3 days |
