@@ -91,7 +91,6 @@ third_nav_title: By Areas
 |[Introduction to New Radio](https://www.mpirical.com/courses/introduction-to-new-radio){:target="_blank" rel="noopener"} |Mpirical | Basic|4 hrs |
 |[IoT &amp; 5G Security](https://www.iss.nus.edu.sg/executive-education/course/detail/iot-5g-security/software-systems){:target="_blank" rel="noopener"}  | NUS | Intermediate | 19.5 hrs |
 |[Kubernetes Bootcamp - CKAD](https://alta3.com/overview-kubernetes-ckad){:target="_blank" rel="noopener"}  | Alta3 Research | Intermediate | 30 hrs |
-|[Leading 5G Industry Transformation (for Telecom and related Professionals)](https://scale.nus.edu.sg/programmes/executive-courses/tech-enabled-services/leading-5g-industry-transformation-(for-telecom-and-related-professionals)){:target="_blank" rel="noopener"}  | NUS | Intermediate | 6 hrs |
 |[MLC - Understanding 5G](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/micro-learning-courses/understanding-5g.html){:target="_blank" rel="noopener"}  | TP | Basic | 4 hrs |
 |[MMTC and 5G](https://www.mpirical.com/courses/mmtc-and-5g){:target="_blank" rel="noopener"} | Mpirical | Intermediate|6 hrs |
 |[Private 5G Networks](https://www.mpirical.com/courses/private-5g-networks){:target="_blank" rel="noopener"} | Mpirical | Intermediate|3 hrs |
