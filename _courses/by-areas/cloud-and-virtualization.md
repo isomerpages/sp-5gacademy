@@ -202,5 +202,4 @@ third_nav_title: By Areas
 |[VMware vSphere with Tanzu: Deploy and Manage [V7]](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&amp;a=one&amp;id_subject=93247&amp;rcode=CourseCatalog){:target="_blank" rel="noopener"}  | CloudAssist | Intermediate | 24 hrs |
 |[VMware vSphere with Tanzu: Deploy and Manage [V7] ](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&amp;a=one&amp;id_subject=93247&amp;rcode=CourseCatalog){:target="_blank" rel="noopener"}  | LHub | Intermediate | 21 hrs |
 |[VMware vSphere: Install  Configure  Manage [V7] ](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&amp;a=one&amp;id_subject=93058&amp;rcode=CourseCatalog){:target="_blank" rel="noopener"}  | LHub | Intermediate | 40 hrs |
-|[WEB SECURITY ](https://www.comp.nus.edu.sg/~prateeks/teaching/sp16/cs5331-sp16.html){:target="_blank" rel="noopener"}  | NUS | Intermediate | 24 hrs |
 |[ZKB WSGECE SAP SuccessFactors Employee Central - Part Time ](https://sapforgrowth.com/skillsuniversity/){:target="_blank" rel="noopener"}  | TP | Basic | 78 hrs |
