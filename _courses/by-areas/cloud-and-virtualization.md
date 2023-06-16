@@ -68,7 +68,6 @@ third_nav_title: By Areas
 |[Cloud Security Practice (for Financial Sector) ](https://academy.smu.edu.sg/cloud-security-practices-financial-sector-3201){:target="_blank" rel="noopener"}  | SMU | Basic | 21 hrs |
 |[Cloud Technology &amp; Automation (for Financial Sector) ](https://academy.smu.edu.sg/cloud-technology-automation-financial-sector-3196){:target="_blank" rel="noopener"}  | SMU | Basic | 15 hrs |
 |[Cloud Technology (Modular Unit stackable to Specialist Diploma in Digital Service Automation) ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/skills-based-modular-courses/stackable-modular-courses/cloud-technology.html){:target="_blank" rel="noopener"}  | TP | Intermediate | 45 hrs |
-|[Cloud, 5G, IoT and Public Policy (Synchronous e-learning) ](https://lkyspp.nus.edu.sg/graduate-programmes/electives){:target="_blank" rel="noopener"}  | NUS | Basic | 9.75 hrs |
 |[CNCF - Certified Kubernetes Administrator (CKA)](https://www.cloudassistsvcs.com/certified-kubernetes-administrator-cka/){:target="_blank" rel="noopener"}  | CloudAssist | Advanced | 32 hrs |
 |[CNCF - Certified Kubernetes Application Developer (CKAD) ](https://www.cloudassistsvcs.com/certified-kubernetes-application-developer-ckad/){:target="_blank" rel="noopener"}  | CloudAssist | Advanced | 24 hrs |
 |[CNCF - Certified Kubernetes Security Specialist (CKS) ](https://training.linuxfoundation.org/training/kubernetes-security-essentials-lfs260/){:target="_blank" rel="noopener"}  | CloudAssist | Advanced | 24 hrs |
