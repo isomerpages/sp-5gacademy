@@ -29,6 +29,11 @@ third_nav_title: By Acad Institutions
 |[Chatbot Development Begins With Me](https://ace.nus.edu.sg/chatbot-development-begins-with-me/){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Commercialisation of Artificial Intelligence Innovation](https://ace.nus.edu.sg/commercialisation-of-ai-innovation/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Communicating Insights with Data Storytelling](https://ace.nus.edu.sg/communicating-insights-with-data-storytelling/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
+|[Complete Modern JavaScript for Beginners](https://ace.nus.edu.sg/complete-modern-javascript-for-beginners/){:target="_blank" rel="noopener"} |Basic|21 hrs |
+|[Cloud Based Services for Internet of Things ](https://inetapps.nus.edu.sg/sacs/LifeLongLearning/CourseDetails/EE5021){:target="_blank" rel="noopener"} |Basic|3 days |
+|[Cloud Based Services for Internet of Things ](https://inetapps.nus.edu.sg/sacs/LifeLongLearning/CourseDetails/EE5021){:target="_blank" rel="noopener"} |Basic|3 days |
+|[Cloud Based Services for Internet of Things ](https://inetapps.nus.edu.sg/sacs/LifeLongLearning/CourseDetails/EE5021){:target="_blank" rel="noopener"} |Basic|3 days |
+|[Cloud Based Services for Internet of Things ](https://inetapps.nus.edu.sg/sacs/LifeLongLearning/CourseDetails/EE5021){:target="_blank" rel="noopener"} |Basic|3 days |
 |[Cloud Based Services for Internet of Things ](https://inetapps.nus.edu.sg/sacs/LifeLongLearning/CourseDetails/EE5021){:target="_blank" rel="noopener"} |Basic|3 days |
 |[Data Analytics for Managers (Synchronous e-learning) ](https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/SLE-DAM){:target="_blank" rel="noopener"} |Basic| 1 day |
 |[Data Science for Internet of Things ](https://nusmods.com/modules/EE5020/data-science-for-internet-of-things){:target="_blank" rel="noopener"} |Basic|3 days |
