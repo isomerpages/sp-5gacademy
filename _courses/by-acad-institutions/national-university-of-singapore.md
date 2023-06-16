@@ -45,9 +45,9 @@ third_nav_title: By Acad Institutions
 |[Data Technology and Management for IT Professionals](https://ace.nus.edu.sg/data-technology-and-management-for-it-professionals/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Database Creation, Manipulation, and Querying with SQL](https://ace.nus.edu.sg/database-creation-manipulation-and-querying-with-sql/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Databases for Data Engineering](https://ace.nus.edu.sg/databases-for-data-engineering/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
-|[Data Strategy](https://ace.nus.edu.sg/data-strategy/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
-|[Data Strategy](https://ace.nus.edu.sg/data-strategy/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
-|[Data Strategy](https://ace.nus.edu.sg/data-strategy/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
+|[Deep Learning for the Internet of Things](https://ace.nus.edu.sg/deep-learning-for-the-internet-of-things/){:target="_blank" rel="noopener"} |Advanced|14 hrs |
+|[Deep Learning Fundamentals](https://ace.nus.edu.sg/deep-learning-fundamentals/){:target="_blank" rel="noopener"} |Advanced|14 hrs |
+|[Descriptive Analytics](https://ace.nus.edu.sg/descriptive-analytics/){:target="_blank" rel="noopener"} |Basic|21 hrs |
 |[Data Strategy](https://ace.nus.edu.sg/data-strategy/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
 |[Data Strategy](https://ace.nus.edu.sg/data-strategy/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
 |[DevOps: Build, Deploy and Monitor (Synchronous e-learning) ](https://stmi.nus.edu.sg/event/devops-build-deploy-and-monitor-e-learning/){:target="_blank" rel="noopener"} |Intermediate|2 days |
