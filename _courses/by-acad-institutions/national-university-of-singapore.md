@@ -16,14 +16,10 @@ third_nav_title: By Acad Institutions
 |[Algo-trading, Theory and Practice ](https://ace.nus.edu.sg/algo-trading-theory-and-practice-e-learning/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
 |[Applied Analytics using Predictive Modelling](https://ace.nus.edu.sg/applied-analytics-using-predictive-modelling/){:target="_blank" rel="noopener"} |Basic|21 hrs |
 |[Applied Artificial Intelligence ](https://ace.nus.edu.sg/applied-artificial-intelligence/){:target="_blank" rel="noopener"} |Basic|14 hrs |
-|[Advanced Machine Learning: Deep Learning (Synchronous e-learning)](https://scale.nus.edu.sg/programmes/executive-courses/data-analytics/advanced-machine-learning-deep-learning){:target="_blank" rel="noopener"} |Basic|6.5 hrs |
-|[AI & Cybersecurity ](https://www.iss.nus.edu.sg/executive-education/course/detail/ai-and--cybersecurity/artificial-intelligence){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
-|AI and Machine Learning Begins With Me (Synchronous e-learning)|Basic|2 days |
-|[AI and Machine Learning Begins With Me (Synchronous e-learning) ](https://ace.nus.edu.sg/ai-and-machine-learning-begins-with-me/){:target="_blank" rel="noopener"} |Basic|2 days |
+|[Applied Machine Learning](https://ace.nus.edu.sg/applied-machine-learning/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
+|[Artificial Intelligence and Machine Learning for Metaverse](https://ace.nus.edu.sg/artificial-intelligence-and-machine-learning-for-metaverse/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Analytics in Industry 4.0 ](https://scale.nus.edu.sg/programmes/executive-courses/data-analytics/analytics-in-industry-4.0){:target="_blank" rel="noopener"} |Basic|13 hrs |
 |[Analytics in Industry 4.0 (Synchronous e-learning) ](https://scale.nus.edu.sg/programmes/executive-courses/advanced-manufacturing/analytics-in-industry-4.0){:target="_blank" rel="noopener"} |Basic|2 days |
-|Applied Artificial Intelligence |Basic|13.5 hrs |
-|Applied Machine Learning|Intermediate|14 hrs |
 |[Architecting IOT Solutions ](https://www.iss.nus.edu.sg/executive-education/course/detail/architecting-iot--solutions/software-systems){:target="_blank" rel="noopener"} |Intermediate|26 hrs |
 |[Architecting Software Solutions ](https://www.iss.nus.edu.sg/executive-education/course/detail/architecting-software--solutions/software-systems){:target="_blank" rel="noopener"} |Advanced|32.5 hrs |
 |[Artificial Intelligence, Data and Public Policy (Synchronous e-learning) ](https://lkyspp.nus.edu.sg/graduate-programmes/electives){:target="_blank" rel="noopener"} |Basic|9.75 hrs |
