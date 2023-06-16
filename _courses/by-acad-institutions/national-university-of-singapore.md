@@ -54,12 +54,8 @@ third_nav_title: By Acad Institutions
 |[Digital Transformation In Banking & Financial Institutions](https://ace.nus.edu.sg/digital-transformation-in-banking/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
 |[Expert Systems](https://ace.nus.edu.sg/expert-systems/){:target="_blank" rel="noopener"} |Advanced|14 hrs |
 |[Explainable Artificial Intelligence Fundamentals](https://ace.nus.edu.sg/explainable-artificial-intelligence-fundamentals/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
-|[Envisioning 5G IoT Solutions](https://www.iss.nus.edu.sg/executive-education/course/detail/Envisioning-5G-IoT-Solutions/software-systems){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
-|[Envisioning 5G IoT Solutions](https://www.iss.nus.edu.sg/executive-education/course/detail/Envisioning-5G-IoT-Solutions/software-systems){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
-|[Feature Engineering & Analytics using IOT Data ](https://www.iss.nus.edu.sg/executive-education/course/detail/feature-engineering-and-analytics-using-iot--data/data-science){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
-|[Fintech for Real: AI in Banking & Finance ](https://business.nus.edu.sg/mod/page/view.php?id=253){:target="_blank" rel="noopener"} |Intermediate|14.5 hrs |
-|[Fundamentals of Cybersecurity ](https://www.iss.nus.edu.sg/executive-education/course/detail/fundamentals_of_cybersecurity/cybersecurity){:target="_blank" rel="noopener"} |Basic|13 hrs |
-|Future-proof Businesses with Artificial Intelligence|Basic|6.5 hrs |
+|[Fundamentals of Computer Vision](https://ace.nus.edu.sg/fundamentals-of-computer-vision/){:target="_blank" rel="noopener"} |Basic|42 hrs |
+|[Future-proof Businesses with Artificial Intelligence ](https://ace.nus.edu.sg/future-proof-businesses-with-artificial-intelligence/){:target="_blank" rel="noopener"} |Intermediate|7 hrs |
 |[Humanizing Smart Systems](https://www.iss.nus.edu.sg/executive-education/course/detail/humanizing-smart--systems/software-systems){:target="_blank" rel="noopener"} |Intermediate|26 hrs |
 |[Human-Robot System Engineering](https://www.iss.nus.edu.sg/executive-education/course/detail/human-robot-system--engineering/artificial-intelligence){:target="_blank" rel="noopener"} |Intermediate|26 hrs |
 |[Information and Communications Cybersecurity Risk Awareness](https://www.iss.nus.edu.sg/executive-education/course/detail/cybersecurity-risk-awareness/cybersecurity){:target="_blank" rel="noopener"} |Basic|7 hrs |
