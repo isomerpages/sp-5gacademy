@@ -61,10 +61,9 @@ third_nav_title: By Acad Institutions
 |[Introduction to Rapidminer](https://ace.nus.edu.sg/introduction-to-rapidminer/){:target="_blank" rel="noopener"} |Intermediate|7 hrs |
 |[Leading Through The Change - Digital Transformation ](https://ace.nus.edu.sg/leading-through-the-change-digital-transformation/){:target="_blank" rel="noopener"} |Intermediate|7 hrs |
 |[Machine Learning in Python ](https://ace.nus.edu.sg/machine-learning-in-python/){:target="_blank" rel="noopener"} |Intermediate|13 hrs |
-|[Leading 5G Industry Transformation (for Telecom and related Professionals)](https://scale.nus.edu.sg/programmes/executive-courses/tech-enabled-services/leading-5g-industry-transformation-(for-telecom-and-related-professionals)){:target="_blank" rel="noopener"} |Intermediate|6 hrs |
-|[Machine Reasoning ](https://www.iss.nus.edu.sg/executive-education/course/detail/machine--reasoning){:target="_blank" rel="noopener"} |Intermediate|26 hrs |
-|[Managing Cybersecurity Risk ](https://www.iss.nus.edu.sg/executive-education/course/detail/managing-cybersecurity--risk/cybersecurity){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
-|Octave Programming for AI, Machine Learning and Data Analytics |Basic|6.5 hrs |
+|[Machine Learning Solution Design](https://ace.nus.edu.sg/machine-learning-solution-design/){:target="_blank" rel="noopener"} |Advanced|21 hrs |
+|[Making Fast Decisions with Business Analytics (Synchronous e-learning)](https://ace.nus.edu.sg/making-fast-decisions-with-business-analytics/){:target="_blank" rel="noopener"} |Basic|7 hrs |
+|[Metaverse and Digital Twins](https://ace.nus.edu.sg/metaverse-and-digital-twins/){:target="_blank" rel="noopener"} |Intermediate|7.5 hrs |
 |[Pattern Recognition and Machine Learning Systems ](https://www.iss.nus.edu.sg/executive-education/course/detail/pattern-recognition-and-machine--learning-systems){:target="_blank" rel="noopener"} |Intermediate|32.5 hrs |
 |[Platform Security](https://www.iss.nus.edu.sg/executive-education/course/detail/platform--security/software-systems){:target="_blank" rel="noopener"} |Advanced|26 hrs |
 |[Reasoning Systems ](https://www.iss.nus.edu.sg/executive-education/course/detail/reasoning--systems){:target="_blank" rel="noopener"} |Intermediate|32.5 hrs |
