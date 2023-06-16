@@ -14,7 +14,7 @@ Committee (CAC), including Academic Institutions CAC, which provides advice on c
 
 |  |  |    | 
 | -------- | -------- | -------- | 
-|<img  alt="IMDA" src="/images/banners-and-logos/IMDA%20Logo.png">| <img  alt="NUS" src="/images/banners-and-logos/NUS%20Logo.png"> |<img  alt="SP" src="/images/banners-and-logos/SP%20Logo.png"> |
+|<img alt="IMDA" src="/images/banners-and-logos/IMDA%20Logo.png">| <img alt="NUS" src="/images/banners-and-logos/NUS%20Logo.png"> |<img alt="SP" src="/images/banners-and-logos/SP%20Logo.png"> |
 |  ||  | 
 
 
@@ -23,10 +23,11 @@ Committee (CAC), including Academic Institutions CAC, which provides advice on c
 | -------- | -------- | -------- |
 | Mr Suresh H Punjabi   | Co-Chair, Steering Comm    | National University of Singapore |
 | Dr Lim Joo Ghee | Co-Chair, Steering Comm    | Singapore Polytechnic |
+| Mr Toh Ser Khoon | Advisor, Steering Comm    | Singapore Polytechnic |
 |Mr Chiang Fock Pong   | Head, PMO | National University of Singapore |
 | Mr Chia Chow Leong | Head, Tech. Solutions, L&amp;D  | Singapore Polytechnic |
 | Ms Kim Lee | Lead, Administration  | National University of Singapore |
 |Ms Elaine Lye | Lead, Administration |Singapore Polytechnic |
-|Mr Marcus Wee | Lead, Career Conversion Programme & Administration |National University of Singapore |
-|Mr Raymond Ho| Lead, Career Conversion Programme & Administration |Singapore Polytechnic |
+|Mr Marcus Wee | Lead, Career Conversion Programme &amp; Administration |National University of Singapore |
+|Mr Raymond Ho| Lead, Career Conversion Programme &amp; Administration |Singapore Polytechnic |
 |Mr James Yee | 5G Programme and Projects |Singapore Polytechnic |
