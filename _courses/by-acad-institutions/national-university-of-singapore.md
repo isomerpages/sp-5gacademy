@@ -56,8 +56,7 @@ third_nav_title: By Acad Institutions
 |[Explainable Artificial Intelligence Fundamentals](https://ace.nus.edu.sg/explainable-artificial-intelligence-fundamentals/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Fundamentals of Computer Vision](https://ace.nus.edu.sg/fundamentals-of-computer-vision/){:target="_blank" rel="noopener"} |Basic|42 hrs |
 |[Future-proof Businesses with Artificial Intelligence ](https://ace.nus.edu.sg/future-proof-businesses-with-artificial-intelligence/){:target="_blank" rel="noopener"} |Intermediate|7 hrs |
-|[Humanizing Smart Systems](https://www.iss.nus.edu.sg/executive-education/course/detail/humanizing-smart--systems/software-systems){:target="_blank" rel="noopener"} |Intermediate|26 hrs |
-|[Human-Robot System Engineering](https://www.iss.nus.edu.sg/executive-education/course/detail/human-robot-system--engineering/artificial-intelligence){:target="_blank" rel="noopener"} |Intermediate|26 hrs |
+|[Healthcare Analytics](https://ace.nus.edu.sg/healthcare-analytics/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
 |[Information and Communications Cybersecurity Risk Awareness](https://www.iss.nus.edu.sg/executive-education/course/detail/cybersecurity-risk-awareness/cybersecurity){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Information and Communications Spatial Reasoning from Sensor Data](https://www.iss.nus.edu.sg/executive-education/course/detail/spatial-reasoning-from-sensor--data){:target="_blank" rel="noopener"} |Basic|19.5 hrs |
 |[Intelligent Process Automation ](https://www.iss.nus.edu.sg/executive-education/course/detail/intelligent-process--automation/artificial-intelligence){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
