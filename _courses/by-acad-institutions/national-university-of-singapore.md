@@ -46,6 +46,10 @@ third_nav_title: By Acad Institutions
 |[Database Creation, Manipulation, and Querying with SQL](https://ace.nus.edu.sg/database-creation-manipulation-and-querying-with-sql/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Databases for Data Engineering](https://ace.nus.edu.sg/databases-for-data-engineering/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Data Strategy](https://ace.nus.edu.sg/data-strategy/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
+|[Data Strategy](https://ace.nus.edu.sg/data-strategy/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
+|[Data Strategy](https://ace.nus.edu.sg/data-strategy/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
+|[Data Strategy](https://ace.nus.edu.sg/data-strategy/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
+|[Data Strategy](https://ace.nus.edu.sg/data-strategy/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
 |[DevOps: Build, Deploy and Monitor (Synchronous e-learning) ](https://stmi.nus.edu.sg/event/devops-build-deploy-and-monitor-e-learning/){:target="_blank" rel="noopener"} |Intermediate|2 days |
 |[Envisioning 5G IoT Solutions](https://www.iss.nus.edu.sg/executive-education/course/detail/Envisioning-5G-IoT-Solutions/software-systems){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
 |[Feature Engineering & Analytics using IOT Data ](https://www.iss.nus.edu.sg/executive-education/course/detail/feature-engineering-and-analytics-using-iot--data/data-science){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
