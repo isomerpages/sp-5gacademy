@@ -11,6 +11,7 @@ third_nav_title: By Acad Institutions
 |[Advanced Machine Learning: Deep Learning (Synchronous e-learning)](https://scale.nus.edu.sg/programmes/executive-courses/data-analytics/advanced-machine-learning-deep-learning){:target="_blank" rel="noopener"} |Basic|6.5 hrs |
 |[AI & Cybersecurity ](https://www.iss.nus.edu.sg/executive-education/course/detail/ai-and--cybersecurity/artificial-intelligence){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
 |AI and Machine Learning Begins With Me (Synchronous e-learning)|Basic|2 days |
+|[AI and Machine Learning Begins With Me (Synchronous e-learning) ](https://ace.nus.edu.sg/ai-and-machine-learning-begins-with-me/){:target="_blank" rel="noopener"} |Basic|2 days |
 |[Analytics in Industry 4.0 ](https://scale.nus.edu.sg/programmes/executive-courses/data-analytics/analytics-in-industry-4.0){:target="_blank" rel="noopener"} |Basic|13 hrs |
 |[Analytics in Industry 4.0 (Synchronous e-learning) ](https://scale.nus.edu.sg/programmes/executive-courses/advanced-manufacturing/analytics-in-industry-4.0){:target="_blank" rel="noopener"} |Basic|2 days |
 |Applied Artificial Intelligence |Basic|13.5 hrs |
