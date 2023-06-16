@@ -34,15 +34,15 @@ third_nav_title: By Acad Institutions
 |[Computer Organization II and Introduction to Operating System ](https://ace.nus.edu.sg/computer-organization-ii-and-introduction-to-operating-system/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
 |[Cybersecurity Begins with Me ](https://ace.nus.edu.sg/cybersecurity-begins-with-me/){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Cybersecurity for Executives](https://ace.nus.edu.sg/cybersecurity-for-executives/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
-|[Data Analytics for Managers (Synchronous e-learning) ](https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/SLE-DAM){:target="_blank" rel="noopener"} |Basic| 1 day |
 |[Data Science for Internet of Things ](https://nusmods.com/modules/EE5020/data-science-for-internet-of-things){:target="_blank" rel="noopener"} |Basic|3 days |
-|[Design Secure Mobile Architecture](https://www.iss.nus.edu.sg/executive-education/course/detail/design-secure-mobile--architecture/software-systems){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
-|[Designing Intelligent Edge Computing ](https://www.iss.nus.edu.sg/executive-education/course/detail/designing-intelligent-edge--computing/software-systems){:target="_blank" rel="noopener"} |Advanced|26 hrs |
-|[Developing Cybersecurity Architecture ](https://www.iss.nus.edu.sg/executive-education/course/detail/developing--cybersecurity-architecture/cybersecurity){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
-|[DevOps Engineering and Automation](https://www.iss.nus.edu.sg/executive-education/course/detail/devops-engineering-and--automation/software-systems){:target="_blank" rel="noopener"} |Intermediate|26 hrs |
-|[DevOps Foundation with BizOps ](https://www.iss.nus.edu.sg/executive-education/course/detail/devops--foundation-with-bizops/digital-agility){:target="_blank" rel="noopener"} |Intermediate|18.5 hrs |
+|[Data Science for Internet of Things ](https://nusmods.com/modules/EE5020/data-science-for-internet-of-things){:target="_blank" rel="noopener"} |Basic|3 days |
+|[Data Science for Internet of Things ](https://nusmods.com/modules/EE5020/data-science-for-internet-of-things){:target="_blank" rel="noopener"} |Basic|3 days |
+|[Data Science for Internet of Things ](https://nusmods.com/modules/EE5020/data-science-for-internet-of-things){:target="_blank" rel="noopener"} |Basic|3 days |
+|[Data Science for Internet of Things ](https://nusmods.com/modules/EE5020/data-science-for-internet-of-things){:target="_blank" rel="noopener"} |Basic|3 days |
+|[Data Science for Internet of Things ](https://nusmods.com/modules/EE5020/data-science-for-internet-of-things){:target="_blank" rel="noopener"} |Basic|3 days |
+|[Data Science for Internet of Things ](https://nusmods.com/modules/EE5020/data-science-for-internet-of-things){:target="_blank" rel="noopener"} |Basic|3 days |
+|[Data Science for Internet of Things ](https://nusmods.com/modules/EE5020/data-science-for-internet-of-things){:target="_blank" rel="noopener"} |Basic|3 days |
 |[DevOps: Build, Deploy and Monitor (Synchronous e-learning) ](https://stmi.nus.edu.sg/event/devops-build-deploy-and-monitor-e-learning/){:target="_blank" rel="noopener"} |Intermediate|2 days |
-|[Digital User Experience Design](https://www.iss.nus.edu.sg/executive-education/course/detail/digital--user-experience-design/digital-innovation-design){:target="_blank" rel="noopener"} |Basic|19.5 hrs |
 |[Envisioning 5G IoT Solutions](https://www.iss.nus.edu.sg/executive-education/course/detail/Envisioning-5G-IoT-Solutions/software-systems){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
 |[Feature Engineering & Analytics using IOT Data ](https://www.iss.nus.edu.sg/executive-education/course/detail/feature-engineering-and-analytics-using-iot--data/data-science){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
 |[Fintech for Real: AI in Banking & Finance ](https://business.nus.edu.sg/mod/page/view.php?id=253){:target="_blank" rel="noopener"} |Intermediate|14.5 hrs |
