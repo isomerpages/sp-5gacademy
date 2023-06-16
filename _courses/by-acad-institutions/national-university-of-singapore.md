@@ -78,6 +78,12 @@ third_nav_title: By Acad Institutions
 |[Protecting Digital Assets](https://ace.nus.edu.sg/protecting-digital-assets/){:target="_blank" rel="noopener"} |Basic|11 hrs |
 |[Python for Data Engineering](https://ace.nus.edu.sg/python-for-data-engineering/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Python Programming](https://ace.nus.edu.sg/python-programming/){:target="_blank" rel="noopener"} |Basic|21 hrs |
+|[Relational Database Design](https://ace.nus.edu.sg/role-of-ethics-in-artificial-intelligence/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
+|[Sentiment Analysis Fundamentals](https://ace.nus.edu.sg/sentiment-analysis-fundamentals/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
+|[Sentiment Analysis in Social Media](https://ace.nus.edu.sg/sentiment-analysis-in-social-media/){:target="_blank" rel="noopener"} |Advanced|7 hrs |
+|[Statistical Models for the Internet of Things](https://ace.nus.edu.sg/statistical-models-for-the-internet-of-things/){:target="_blank" rel="noopener"} |Basic|14 hrs |
+|[Relational Database Design](https://ace.nus.edu.sg/relational-database-design/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
+|[Relational Database Design](https://ace.nus.edu.sg/relational-database-design/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Relational Database Design](https://ace.nus.edu.sg/relational-database-design/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Securing IoT ](https://www.iss.nus.edu.sg/executive-education/course/detail/securing--iot/cybersecurity){:target="_blank" rel="noopener"} |Basic|13 hrs |
 |[Self-learning Systems ](https://www.iss.nus.edu.sg/executive-education/course/detail/self-learning--systems/artificial-intelligence){:target="_blank" rel="noopener"} |Advanced|26 hrs |
