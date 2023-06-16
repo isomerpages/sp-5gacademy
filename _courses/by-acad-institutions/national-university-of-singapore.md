@@ -74,9 +74,9 @@ third_nav_title: By Acad Institutions
 |[Patient Data Security and Privacy](https://ace.nus.edu.sg/patient-data-security-and-privacy/){:target="_blank" rel="noopener"} |Basic|15 hrs |
 |[Prescriptive Analytics - From data to optimal course of action](https://ace.nus.edu.sg/prescriptive-analytics-from-data-to-optimal-course-of-action/){:target="_blank" rel="noopener"} |Basic|7.5 hrs |
 |[Privacy Engineering Essentials](https://ace.nus.edu.sg/privacy-engineering-essentials/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
-|[Metaverse and Digital Twins](https://ace.nus.edu.sg/metaverse-and-digital-twins/){:target="_blank" rel="noopener"} |Intermediate|7.5 hrs |
-|[Metaverse and Digital Twins](https://ace.nus.edu.sg/metaverse-and-digital-twins/){:target="_blank" rel="noopener"} |Intermediate|7.5 hrs |
-|[Metaverse and Digital Twins](https://ace.nus.edu.sg/metaverse-and-digital-twins/){:target="_blank" rel="noopener"} |Intermediate|7.5 hrs |
+|[Production, Deployment and Sustainment of Machine Learning Solutions](https://ace.nus.edu.sg/production-deployment-and-sustainment-of-machine-learning-solutions/){:target="_blank" rel="noopener"} |Advanced|21 hrs |
+|[Protecting Digital Assets](https://ace.nus.edu.sg/protecting-digital-assets/){:target="_blank" rel="noopener"} |Basic|11 hrs |
+|[Python for Data Engineering](https://ace.nus.edu.sg/python-for-data-engineering/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Metaverse and Digital Twins](https://ace.nus.edu.sg/metaverse-and-digital-twins/){:target="_blank" rel="noopener"} |Intermediate|7.5 hrs |
 |[Reasoning Systems ](https://www.iss.nus.edu.sg/executive-education/course/detail/reasoning--systems){:target="_blank" rel="noopener"} |Intermediate|32.5 hrs |
 |[Securing IoT ](https://www.iss.nus.edu.sg/executive-education/course/detail/securing--iot/cybersecurity){:target="_blank" rel="noopener"} |Basic|13 hrs |
