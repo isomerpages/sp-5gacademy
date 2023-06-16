@@ -34,11 +34,9 @@ third_nav_title: By Acad Institutions
 |[Computer Organization II and Introduction to Operating System ](https://ace.nus.edu.sg/computer-organization-ii-and-introduction-to-operating-system/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
 |[Cybersecurity Begins with Me ](https://ace.nus.edu.sg/cybersecurity-begins-with-me/){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Cybersecurity for Executives](https://ace.nus.edu.sg/cybersecurity-for-executives/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
-|[Data Science for Internet of Things ](https://nusmods.com/modules/EE5020/data-science-for-internet-of-things){:target="_blank" rel="noopener"} |Basic|3 days |
-|[Data Science for Internet of Things ](https://nusmods.com/modules/EE5020/data-science-for-internet-of-things){:target="_blank" rel="noopener"} |Basic|3 days |
-|[Data Science for Internet of Things ](https://nusmods.com/modules/EE5020/data-science-for-internet-of-things){:target="_blank" rel="noopener"} |Basic|3 days |
-|[Data Science for Internet of Things ](https://nusmods.com/modules/EE5020/data-science-for-internet-of-things){:target="_blank" rel="noopener"} |Basic|3 days |
-|[Data Science for Internet of Things ](https://nusmods.com/modules/EE5020/data-science-for-internet-of-things){:target="_blank" rel="noopener"} |Basic|3 days |
+|[Data and Database Systems](https://ace.nus.edu.sg/data-and-database-systems/){:target="_blank" rel="noopener"} |Intermediate|7 hrs |
+|[Data Engineering Fundamentals](https://ace.nus.edu.sg/data-engineering-fundamentals/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
+|[Data Engineering Pipelines with cloud](https://ace.nus.edu.sg/data-engineering-pipelines-with-cloud/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Data Science for Internet of Things ](https://nusmods.com/modules/EE5020/data-science-for-internet-of-things){:target="_blank" rel="noopener"} |Basic|3 days |
 |[Data Science for Internet of Things ](https://nusmods.com/modules/EE5020/data-science-for-internet-of-things){:target="_blank" rel="noopener"} |Basic|3 days |
 |[Data Science for Internet of Things ](https://nusmods.com/modules/EE5020/data-science-for-internet-of-things){:target="_blank" rel="noopener"} |Basic|3 days |
