@@ -57,10 +57,10 @@ third_nav_title: By Acad Institutions
 |[Fundamentals of Computer Vision](https://ace.nus.edu.sg/fundamentals-of-computer-vision/){:target="_blank" rel="noopener"} |Basic|42 hrs |
 |[Future-proof Businesses with Artificial Intelligence ](https://ace.nus.edu.sg/future-proof-businesses-with-artificial-intelligence/){:target="_blank" rel="noopener"} |Intermediate|7 hrs |
 |[Healthcare Analytics](https://ace.nus.edu.sg/healthcare-analytics/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
-|[Information and Communications Cybersecurity Risk Awareness](https://www.iss.nus.edu.sg/executive-education/course/detail/cybersecurity-risk-awareness/cybersecurity){:target="_blank" rel="noopener"} |Basic|7 hrs |
-|[Information and Communications Spatial Reasoning from Sensor Data](https://www.iss.nus.edu.sg/executive-education/course/detail/spatial-reasoning-from-sensor--data){:target="_blank" rel="noopener"} |Basic|19.5 hrs |
-|[Intelligent Process Automation ](https://www.iss.nus.edu.sg/executive-education/course/detail/intelligent-process--automation/artificial-intelligence){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
-|[IoT Sensor Networks ](https://nusmods.com/modules/EE5024/io-t-sensor-networks){:target="_blank" rel="noopener"} |Basic|3 days |
+|[Intellectual Property Rights in Artificial Intelligence Innovation](https://ace.nus.edu.sg/intellectual-property-rights-in-ai-innovation/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
+|[Introduction to Rapidminer](https://ace.nus.edu.sg/introduction-to-rapidminer/){:target="_blank" rel="noopener"} |Intermediate|7 hrs |
+|[Leading Through The Change - Digital Transformation ](https://ace.nus.edu.sg/leading-through-the-change-digital-transformation/){:target="_blank" rel="noopener"} |Intermediate|7 hrs |
+|[Machine Learning in Python ](https://ace.nus.edu.sg/machine-learning-in-python/){:target="_blank" rel="noopener"} |Intermediate|13 hrs |
 |[Leading 5G Industry Transformation (for Telecom and related Professionals)](https://scale.nus.edu.sg/programmes/executive-courses/tech-enabled-services/leading-5g-industry-transformation-(for-telecom-and-related-professionals)){:target="_blank" rel="noopener"} |Intermediate|6 hrs |
 |[Machine Reasoning ](https://www.iss.nus.edu.sg/executive-education/course/detail/machine--reasoning){:target="_blank" rel="noopener"} |Intermediate|26 hrs |
 |[Managing Cybersecurity Risk ](https://www.iss.nus.edu.sg/executive-education/course/detail/managing-cybersecurity--risk/cybersecurity){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
