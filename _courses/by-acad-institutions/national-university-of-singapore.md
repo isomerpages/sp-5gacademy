@@ -32,9 +32,8 @@ third_nav_title: By Acad Institutions
 |[Complete Modern JavaScript for Beginners](https://ace.nus.edu.sg/complete-modern-javascript-for-beginners/){:target="_blank" rel="noopener"} |Basic|21 hrs |
 |[Computer Organization I](https://ace.nus.edu.sg/computer-organization-i/){:target="_blank" rel="noopener"} |Basic|21 hrs |
 |[Computer Organization II and Introduction to Operating System ](https://ace.nus.edu.sg/computer-organization-ii-and-introduction-to-operating-system/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
-|[Cloud Based Services for Internet of Things ](https://inetapps.nus.edu.sg/sacs/LifeLongLearning/CourseDetails/EE5021){:target="_blank" rel="noopener"} |Basic|3 days |
-|[Cloud Based Services for Internet of Things ](https://inetapps.nus.edu.sg/sacs/LifeLongLearning/CourseDetails/EE5021){:target="_blank" rel="noopener"} |Basic|3 days |
-|[Cloud Based Services for Internet of Things ](https://inetapps.nus.edu.sg/sacs/LifeLongLearning/CourseDetails/EE5021){:target="_blank" rel="noopener"} |Basic|3 days |
+|[Cybersecurity Begins with Me ](https://ace.nus.edu.sg/cybersecurity-begins-with-me/){:target="_blank" rel="noopener"} |Basic|7 hrs |
+|[Cybersecurity for Executives](https://ace.nus.edu.sg/cybersecurity-for-executives/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Data Analytics for Managers (Synchronous e-learning) ](https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/SLE-DAM){:target="_blank" rel="noopener"} |Basic| 1 day |
 |[Data Science for Internet of Things ](https://nusmods.com/modules/EE5020/data-science-for-internet-of-things){:target="_blank" rel="noopener"} |Basic|3 days |
 |[Design Secure Mobile Architecture](https://www.iss.nus.edu.sg/executive-education/course/detail/design-secure-mobile--architecture/software-systems){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
