@@ -70,8 +70,8 @@ third_nav_title: By Acad Institutions
 |[Neural Networks for the Internet of Things](https://ace.nus.edu.sg/neural-networks-for-the-internet-of-things/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[NOSQL Database and MongoDB](https://ace.nus.edu.sg/nosql-database-and-mongodb/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Octave Programming for AI, Machine Learning and Data Analytics](https://ace.nus.edu.sg/octave-programming-for-ai-machine-learning-and-data-analytics/){:target="_blank" rel="noopener"} |Intermediate|7 hrs |
-|[Operating System](https://ace.nus.edu.sg/metaverse-and-digital-twins/){:target="_blank" rel="noopener"} |Intermediate|7.5 hrs |
-|[Metaverse and Digital Twins](https://ace.nus.edu.sg/metaverse-and-digital-twins/){:target="_blank" rel="noopener"} |Intermediate|7.5 hrs |
+|[Operating System](https://ace.nus.edu.sg/operating-system/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
+|[Patient Data Security and Privacy](https://ace.nus.edu.sg/patient-data-security-and-privacy/){:target="_blank" rel="noopener"} |Basic|15 hrs |
 |[Metaverse and Digital Twins](https://ace.nus.edu.sg/metaverse-and-digital-twins/){:target="_blank" rel="noopener"} |Intermediate|7.5 hrs |
 |[Metaverse and Digital Twins](https://ace.nus.edu.sg/metaverse-and-digital-twins/){:target="_blank" rel="noopener"} |Intermediate|7.5 hrs |
 |[Metaverse and Digital Twins](https://ace.nus.edu.sg/metaverse-and-digital-twins/){:target="_blank" rel="noopener"} |Intermediate|7.5 hrs |
