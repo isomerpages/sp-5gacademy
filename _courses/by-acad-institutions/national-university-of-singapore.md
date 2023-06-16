@@ -49,7 +49,9 @@ third_nav_title: By Acad Institutions
 |[Deep Learning Fundamentals](https://ace.nus.edu.sg/deep-learning-fundamentals/){:target="_blank" rel="noopener"} |Advanced|14 hrs |
 |[Descriptive Analytics](https://ace.nus.edu.sg/descriptive-analytics/){:target="_blank" rel="noopener"} |Basic|21 hrs |
 |[Device Communications for Internet of Things](https://ace.nus.edu.sg/device-communications-for-iot/){:target="_blank" rel="noopener"} |Advanced|14 hrs |
-|[DevOps: Build, Deploy and Monitor (Synchronous e-learning) ](https://stmi.nus.edu.sg/event/devops-build-deploy-and-monitor-e-learning/){:target="_blank" rel="noopener"} |Intermediate|2 days |
+|[DevOps: Build, Deploy and Monitor (Synchronous e-learning) ](https://stmi.nus.edu.sg/event/devops-build-deploy-and-monitor-e-learning/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
+|[Digital Sales Analytics](https://ace.nus.edu.sg/digital-sales-analytics/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
+|[Digital Transformation In Banking & Financial Institutions](https://ace.nus.edu.sg/digital-transformation-in-banking/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
 |[Envisioning 5G IoT Solutions](https://www.iss.nus.edu.sg/executive-education/course/detail/Envisioning-5G-IoT-Solutions/software-systems){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
 |[Feature Engineering & Analytics using IOT Data ](https://www.iss.nus.edu.sg/executive-education/course/detail/feature-engineering-and-analytics-using-iot--data/data-science){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
 |[Fintech for Real: AI in Banking & Finance ](https://business.nus.edu.sg/mod/page/view.php?id=253){:target="_blank" rel="noopener"} |Intermediate|14.5 hrs |
