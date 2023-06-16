@@ -85,4 +85,3 @@ third_nav_title: By Acad Institutions
 |[System Dynamics and Digital Business Modelling](https://ace.nus.edu.sg/system-dynamics-and-digital-business-modelling/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Using Business Analytics to Answer Business Questions (Synchronous e-learning)](https://ace.nus.edu.sg/using-business-analytics-to-answer-business-questions/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Web Development using React](https://ace.nus.edu.sg/web-development-using-react/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
-
