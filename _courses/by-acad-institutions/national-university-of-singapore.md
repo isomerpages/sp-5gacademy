@@ -20,6 +20,15 @@ third_nav_title: By Acad Institutions
 |[Artificial Intelligence and Machine Learning for Metaverse](https://ace.nus.edu.sg/artificial-intelligence-and-machine-learning-for-metaverse/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Artificial Intelligence Innovation Management](https://ace.nus.edu.sg/ai-innovation-management/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Big Data and Business Strategy ](https://executive-education.nus.edu.sg/programmes/leading-with-big-data-analytics-machine-learning/){:target="_blank" rel="noopener"} |Basic|39 hrs |
+|[Big Data and Business Strategy ](https://executive-education.nus.edu.sg/programmes/leading-with-big-data-analytics-machine-learning/){:target="_blank" rel="noopener"} |Basic|39 hrs |
+|[Big Data and Business Strategy ](https://executive-education.nus.edu.sg/programmes/leading-with-big-data-analytics-machine-learning/){:target="_blank" rel="noopener"} |Basic|39 hrs |
+|[Big Data and Business Strategy ](https://executive-education.nus.edu.sg/programmes/leading-with-big-data-analytics-machine-learning/){:target="_blank" rel="noopener"} |Basic|39 hrs |
+|[Big Data and Business Strategy ](https://executive-education.nus.edu.sg/programmes/leading-with-big-data-analytics-machine-learning/){:target="_blank" rel="noopener"} |Basic|39 hrs |
+|[Big Data and Business Strategy ](https://executive-education.nus.edu.sg/programmes/leading-with-big-data-analytics-machine-learning/){:target="_blank" rel="noopener"} |Basic|39 hrs |
+|[Big Data and Business Strategy ](https://executive-education.nus.edu.sg/programmes/leading-with-big-data-analytics-machine-learning/){:target="_blank" rel="noopener"} |Basic|39 hrs |
+|[Big Data and Business Strategy ](https://executive-education.nus.edu.sg/programmes/leading-with-big-data-analytics-machine-learning/){:target="_blank" rel="noopener"} |Basic|39 hrs |
+|[Big Data and Business Strategy ](https://executive-education.nus.edu.sg/programmes/leading-with-big-data-analytics-machine-learning/){:target="_blank" rel="noopener"} |Basic|39 hrs |
+|[Big Data and Business Strategy ](https://executive-education.nus.edu.sg/programmes/leading-with-big-data-analytics-machine-learning/){:target="_blank" rel="noopener"} |Basic|39 hrs |
 |[Cloud Based Services for Internet of Things ](https://inetapps.nus.edu.sg/sacs/LifeLongLearning/CourseDetails/EE5021){:target="_blank" rel="noopener"} |Basic|3 days |
 |[Cloud Native Solution Design ](https://www.iss.nus.edu.sg/executive-education/course/detail/cloud-native-solution--design/software-systems){:target="_blank" rel="noopener"} |Intermediate|23 hrs |
 |[Conversational UIs](https://www.iss.nus.edu.sg/executive-education/course/detail/conversational--interfaces/data-science){:target="_blank" rel="noopener"} |Advanced|26 hrs |
