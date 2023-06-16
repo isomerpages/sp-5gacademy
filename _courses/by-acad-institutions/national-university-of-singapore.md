@@ -42,9 +42,9 @@ third_nav_title: By Acad Institutions
 |[Data Strategy](https://ace.nus.edu.sg/data-strategy/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
 |[Data Structure and Algorithm Part I](https://ace.nus.edu.sg/data-structure-and-algorithm-part-i/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
 |[Data Structure and Algorithm Part II](https://ace.nus.edu.sg/data-structure-and-algorithm-part-ii/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
-|[Data Strategy](https://ace.nus.edu.sg/data-strategy/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
-|[Data Strategy](https://ace.nus.edu.sg/data-strategy/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
-|[Data Strategy](https://ace.nus.edu.sg/data-strategy/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
+|[Data Technology and Management for IT Professionals](https://ace.nus.edu.sg/data-technology-and-management-for-it-professionals/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
+|[Database Creation, Manipulation, and Querying with SQL](https://ace.nus.edu.sg/database-creation-manipulation-and-querying-with-sql/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
+|[Databases for Data Engineering](https://ace.nus.edu.sg/databases-for-data-engineering/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Data Strategy](https://ace.nus.edu.sg/data-strategy/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
 |[DevOps: Build, Deploy and Monitor (Synchronous e-learning) ](https://stmi.nus.edu.sg/event/devops-build-deploy-and-monitor-e-learning/){:target="_blank" rel="noopener"} |Intermediate|2 days |
 |[Envisioning 5G IoT Solutions](https://www.iss.nus.edu.sg/executive-education/course/detail/Envisioning-5G-IoT-Solutions/software-systems){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
