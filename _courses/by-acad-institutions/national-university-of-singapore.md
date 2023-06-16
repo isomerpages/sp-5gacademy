@@ -7,6 +7,14 @@ third_nav_title: By Acad Institutions
 | - | - | - | 
 |[5G as a platform for Industry Transformation](https://scale.nus.edu.sg/programmes/executive-courses/tech-enabled-services/5g-as-a-platform-for-industry-transformation){:target="_blank" rel="noopener"} |Intermediate|12 hrs |
 |[5G as a platform for Industry Transformation (Synchronous e-learning )](https://scale.nus.edu.sg/programmes/executive-courses/tech-enabled-services/5g-as-a-platform-for-industry-transformation){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
+|[5G Core Network (5GC) including MEC and 5G Cybersecurity](https://ace.nus.edu.sg/5g-core-network-5gc-including-mec-and-5g-cybersecurity/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
+|[5G New Radio (5G NR) Radio Access Network (RAN)](https://ace.nus.edu.sg/5g-new-radio-5g-nr-radio-access-network-ran/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
+|[5G Telecommunication Foundation with End-to-End Technical Solution Case Studies](https://www.iss.nus.edu.sg/executive-education/course/detail/advanced-customer--analytics/data-science){:target="_blank" rel="noopener"} |Basic|21 hrs |
+|[Advanced Deep Learning](https://www.iss.nus.edu.sg/executive-education/course/detail/advanced-customer--analytics/data-science){:target="_blank" rel="noopener"} |Advanced|21 hrs |
+|[Advanced Customer Analytics](https://www.iss.nus.edu.sg/executive-education/course/detail/advanced-customer--analytics/data-science){:target="_blank" rel="noopener"} |Advanced|21 hrs |
+|[Advanced Customer Analytics](https://www.iss.nus.edu.sg/executive-education/course/detail/advanced-customer--analytics/data-science){:target="_blank" rel="noopener"} |Advanced|21 hrs |
+|[Advanced Customer Analytics](https://www.iss.nus.edu.sg/executive-education/course/detail/advanced-customer--analytics/data-science){:target="_blank" rel="noopener"} |Advanced|21 hrs |
+|[Advanced Customer Analytics](https://www.iss.nus.edu.sg/executive-education/course/detail/advanced-customer--analytics/data-science){:target="_blank" rel="noopener"} |Advanced|21 hrs |
 |[Advanced Customer Analytics](https://www.iss.nus.edu.sg/executive-education/course/detail/advanced-customer--analytics/data-science){:target="_blank" rel="noopener"} |Advanced|21 hrs |
 |[Advanced Machine Learning: Deep Learning (Synchronous e-learning)](https://scale.nus.edu.sg/programmes/executive-courses/data-analytics/advanced-machine-learning-deep-learning){:target="_blank" rel="noopener"} |Basic|6.5 hrs |
 |[AI & Cybersecurity ](https://www.iss.nus.edu.sg/executive-education/course/detail/ai-and--cybersecurity/artificial-intelligence){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
