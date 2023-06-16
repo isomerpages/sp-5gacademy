@@ -78,7 +78,7 @@ third_nav_title: By Acad Institutions
 |[Protecting Digital Assets](https://ace.nus.edu.sg/protecting-digital-assets/){:target="_blank" rel="noopener"} |Basic|11 hrs |
 |[Python for Data Engineering](https://ace.nus.edu.sg/python-for-data-engineering/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Python Programming](https://ace.nus.edu.sg/python-programming/){:target="_blank" rel="noopener"} |Basic|21 hrs |
-|[Reasoning Systems ](https://www.iss.nus.edu.sg/executive-education/course/detail/reasoning--systems){:target="_blank" rel="noopener"} |Intermediate|32.5 hrs |
+|[Relational Database Design](https://ace.nus.edu.sg/relational-database-design/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Securing IoT ](https://www.iss.nus.edu.sg/executive-education/course/detail/securing--iot/cybersecurity){:target="_blank" rel="noopener"} |Basic|13 hrs |
 |[Self-learning Systems ](https://www.iss.nus.edu.sg/executive-education/course/detail/self-learning--systems/artificial-intelligence){:target="_blank" rel="noopener"} |Advanced|26 hrs |
 |[Software Robots - Best Practices](https://www.iss.nus.edu.sg/executive-education/course/detail/software-robots--best-practices){:target="_blank" rel="noopener"} |Intermediate|13 hrs |
