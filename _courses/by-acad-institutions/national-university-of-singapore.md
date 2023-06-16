@@ -26,12 +26,10 @@ third_nav_title: By Acad Institutions
 |[Business Applications relying on Supervised Learning](https://ace.nus.edu.sg/business-applications-relying-on-supervised-learning/){:target="_blank" rel="noopener"} |Advanced|14 hrs |
 |[Business Applications relying on Unsupervised & Reinforcement Learning](https://ace.nus.edu.sg/business-applications-relying-on-unsupervised-reinforcement-learning/){:target="_blank" rel="noopener"} |Advanced|21 hrs |
 |[Business Intelligentization Using Machine Learning and Rapidminer ](https://ace.nus.edu.sg/business-intelligentization-using-machine-learning-and-rapidminer/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
+|[Chatbot Development Begins With Me](https://ace.nus.edu.sg/chatbot-development-begins-with-me/){:target="_blank" rel="noopener"} |Basic|7 hrs |
+|[Commercialisation of Artificial Intelligence Innovation](https://ace.nus.edu.sg/commercialisation-of-ai-innovation/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
+|[Communicating Insights with Data Storytelling](https://ace.nus.edu.sg/communicating-insights-with-data-storytelling/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
 |[Cloud Based Services for Internet of Things ](https://inetapps.nus.edu.sg/sacs/LifeLongLearning/CourseDetails/EE5021){:target="_blank" rel="noopener"} |Basic|3 days |
-|[Cloud Native Solution Design ](https://www.iss.nus.edu.sg/executive-education/course/detail/cloud-native-solution--design/software-systems){:target="_blank" rel="noopener"} |Intermediate|23 hrs |
-|[Conversational UIs](https://www.iss.nus.edu.sg/executive-education/course/detail/conversational--interfaces/data-science){:target="_blank" rel="noopener"} |Advanced|26 hrs |
-|[Cyber Security for ICT Professionals ](https://www.iss.nus.edu.sg/executive-education/course/detail/cyber-security-for-ict-professionals/cybersecurity){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
-|Cybersecurity Begins with Me|Basic|42 hrs |
-|[Cybersecurity for Business Managers ](https://executive-education.nus.edu.sg/programmes/cybersecurity-for-business-managers/){:target="_blank" rel="noopener"} |Basic|30 hrs |
 |[Data Analytics for Managers (Synchronous e-learning) ](https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/SLE-DAM){:target="_blank" rel="noopener"} |Basic| 1 day |
 |[Data Science for Internet of Things ](https://nusmods.com/modules/EE5020/data-science-for-internet-of-things){:target="_blank" rel="noopener"} |Basic|3 days |
 |[Design Secure Mobile Architecture](https://www.iss.nus.edu.sg/executive-education/course/detail/design-secure-mobile--architecture/software-systems){:target="_blank" rel="noopener"} |Intermediate|19.5 hrs |
