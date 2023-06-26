@@ -13,8 +13,8 @@ This course would benefit telecoms executives or managers who want to understand
 [Critical Business Basics for Carbon and Net Zero in Telecoms]()
 
 # Details
-**DATE: 19 JULY 2023 <br> 
-TIME: 5.00 pm (Singapore Time) <br> 
+**DATE: 19 JULY 2023, WEDNESDAY <br> 
+TIME: 5.00 PM (SINGAPORE TIME) <br> 
 
 
 ![Wray Castle Live Virtual Classroom](/images/events/wray%20castle%20webinar%20jul%202023_cover%20pic.jpg)
