@@ -6,15 +6,12 @@ layout: post
 description: ""
 image: ""
 ---
-# About the Course
-
-This course would benefit telecoms executives or managers who want to understand the key business impacts and opportunities related to climate change. This could include individuals who are responsible for strategic planning, risk management, financial management, sustainability, and compliance within their organisations. It’s a great overview of the topic area with a unique telecoms slant.
-
-[Detailed Course Description - PDF File]()
 
 # Details
 **DATE: 19 JULY 2023, WEDNESDAY <br> 
 TIME: 5.00 PM (SINGAPORE TIME) <br> 
+![](/images/events/wray%20castle%20online%20seminar%20on%2019%20jul%202023_cover%20pic.jpg)
+[Detailed Course Description - PDF File]()
 
 ![Wray Castle Seminar on 19 Jul 2023 Course Summary Pic](/images/events/wray%20castle%20online%20seminar%20on%2019%20jul%202023_course%20summary%20pic.jpg)
 
