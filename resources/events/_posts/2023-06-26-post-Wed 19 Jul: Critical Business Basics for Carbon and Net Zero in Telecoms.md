@@ -16,9 +16,7 @@ This course would benefit telecoms executives or managers who want to understand
 **DATE: 19 JULY 2023, WEDNESDAY <br> 
 TIME: 5.00 PM (SINGAPORE TIME) <br> 
 
-
-![Wray Castle Live Virtual Classroom](/images/events/wray%20castle%20webinar%20jul%202023_cover%20pic.jpg)
-
+![Wray Castle Seminar on 19 Jul 2023 Course Summary Pic](/images/events/wray%20castle%20online%20seminar%20on%2019%20jul%202023_course%20summary%20pic.jpg)
 
 <style>
 #register {
