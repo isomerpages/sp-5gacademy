@@ -167,8 +167,8 @@ sections:
       subtitle: LIVE CLASSROOM - WED 19 JUL
       description: "DATE: 17 JUL 2023 (WED) <br> TIME: 5.00 PM (SINGAPORE TIME)"
       button: Find Out More
-      url: /resources/events/artc-5g-smart-factory
-      image: /images/events/5GLF/ARTC_Site_01.jpg
+      url: /resources/events/critical-business-basics-for-carbon-and-net-zero-in-telecoms
+      image: /images/events/wray castle online seminar on 19 jul 2023_cover pic.jpg
       alt: Image alt text
   - infopic:
       title: "Learning Journey #3"
