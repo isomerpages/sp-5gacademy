@@ -36,3 +36,5 @@ VENUE: via Zoom**
 </style>
 
 <center><a href="https://us06web.zoom.us/webinar/register/WN_9wJyGJSoSuq-mJFSWOJsrA" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
+
+Thank you for your interest. This webinar is over.
