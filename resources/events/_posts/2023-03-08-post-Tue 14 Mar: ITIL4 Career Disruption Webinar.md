@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 # About the Event
 **DATE: 14 MARCH 2023**<br>
 **TIME: 2pm - 4pm**
@@ -32,3 +31,5 @@ image: ""
 </style>
 
 <center><a href="https://us06web.zoom.us/webinar/register/WN_QcIbBXYXRgO4zknVgEbSuQ" target="_blank"><button class="btn" id="register">Register Now</button></a></center>
+
+Thank you for your interest. This webinar is over.
