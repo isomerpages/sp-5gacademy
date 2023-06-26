@@ -12,7 +12,7 @@ The course would benefit telecoms executives or managers who want to understand 
 
 # Details
 **DATE: 19 JULY 2023, WEDNESDAY <br> 
-TIME: 5.00 PM (SINGAPORE TIME) <br> 
+TIME: 5.00 PM (SINGAPORE TIME) <br> **
 
 ![](/images/events/wray%20castle%20online%20seminar%20on%2019%20jul%202023_cover%20pic.jpg)
 
@@ -27,7 +27,7 @@ TIME: 5.00 PM (SINGAPORE TIME) <br>
 - Best Practice and the Telecoms Landscape
 - Business Tools to Help Navigate Net Zero (Next Steps)
 
-You can download the Details Course Description [here]()
+You can download the Details Course Description [HERE](/files/events/critical_business_basics_for_carbon_and_net_zero_in_telecoms_july_2023.pdf)
 
 
 <style>
