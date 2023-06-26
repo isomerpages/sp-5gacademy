@@ -35,6 +35,5 @@ TIME: 5.00 pm (Singapore Time) <br>
 }
 </style>
 
-<center><a href="https://imda-pixel.sg/event/302" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
+<center><a href="https://wraycastle.com/pages/course-enquiry?sku=WR2303&amp;title=Critical+Business+Basics+for+Carbon+and+Net+Zero+in+ICT&amp;type=" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
 
-Thank you for your interest. This event is over.
