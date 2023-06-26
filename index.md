@@ -43,6 +43,14 @@ sections:
       image: /images/events/events/cover2_huawei webinar.jpg
       alt: Huawei Webinar 2023
   - infopic:
+      title: Critical Business Basics for Carbon and Net Zero in Telecoms
+      subtitle: LIVE CLASSROOM - WED 19 JUL
+      description: "DATE: 17 JUL 2023 (WED) <br> TIME: 5.00 PM (SINGAPORE TIME)"
+      button: Find Out More
+      url: /resources/events/critical-business-basics-for-carbon-and-net-zero-in-telecoms
+      image: /images/events/wray castle online seminar on 19 jul 2023_cover pic.jpg
+      alt: Image alt text
+  - infopic:
       title: Stay Ahead of the Game with <br> 5G Network Benchmarking
       subtitle: Live Webinar - Fri 16 Jun
       description: "DATE: 16 JUN 2023 (FRI) <br> TIME: 3.00pm"
@@ -162,14 +170,6 @@ sections:
       url: /resources/events/5glearningjourneys/
       image: /images/events/5GLF/5GLF 2022 Learning Journey Header with Date.jpg
       alt: Ten 5G Learning Journeys
-  - infopic:
-      title: Critical Business Basics for Carbon and Net Zero in Telecoms
-      subtitle: LIVE CLASSROOM - WED 19 JUL
-      description: "DATE: 17 JUL 2023 (WED) <br> TIME: 5.00 PM (SINGAPORE TIME)"
-      button: Find Out More
-      url: /resources/events/critical-business-basics-for-carbon-and-net-zero-in-telecoms
-      image: /images/events/wray castle online seminar on 19 jul 2023_cover pic.jpg
-      alt: Image alt text
   - infopic:
       title: "Learning Journey #3"
       subtitle: 5GLF 2022 - Thu 13 Oct
