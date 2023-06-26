@@ -34,3 +34,5 @@ TIME: 3.00 pm - 4.00 pm
 </style>
 
 <center><a href="https://bit.ly/3nP3has" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
+
+Thank you for your interest. This webinar is over.

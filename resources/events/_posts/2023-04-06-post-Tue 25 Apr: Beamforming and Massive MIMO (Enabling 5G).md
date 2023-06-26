@@ -54,3 +54,5 @@ VENUE: via Zoom**
 </style>
 
 <center><a href="https://wraycastle.zoom.us/meeting/register/tZAsf-iurTsqEtSwLKOTVFT2PswIRxPncdCK#/registration" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
+
+Thank you for your interest. This webinar is over.

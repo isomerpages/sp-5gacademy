@@ -34,3 +34,5 @@ TIME: 4.00 pm - 5.00 pm
 </style>
 
 <center><a href="https://nus.syd1.qualtrics.com/jfe/form/SV_5jr8tsmhVNqGRqS" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
+
+Thank you for your interest. This webinar is over.

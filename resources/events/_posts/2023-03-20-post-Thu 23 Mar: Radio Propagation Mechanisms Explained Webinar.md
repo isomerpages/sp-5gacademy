@@ -55,4 +55,6 @@ The session ends with an examination of the challenges and opportunities that mi
 }
 </style>
 
-<center><a href="https://wraycastle.zoom.us/meeting/register/tZEsfu-orjwiGdTRrqAFuOlb_DV5ZNUBQHHE " target="_blank"><button id="register" class="btn">Register Now</button></a></center>
+<center><a href="https://wraycastle.zoom.us/meeting/register/tZEsfu-orjwiGdTRrqAFuOlb_DV5ZNUBQHHE" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
+
+Thank you for your interest. This webinar is over.

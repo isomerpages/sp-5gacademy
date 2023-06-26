@@ -35,6 +35,14 @@ sections:
       subtitle: Learn more
       button: View More
   - infopic:
+      title: Critical Business Basics for Carbon and Net Zero in Telecoms
+      subtitle: LIVE CLASSROOM - WED 19 JUL
+      description: "DATE: 17 JUL 2023 (WED) <br> TIME: 5.00 PM (SINGAPORE TIME)"
+      button: Find Out More
+      url: /resources/events/critical-business-basics-for-carbon-and-net-zero-in-telecoms
+      image: /images/events/wray castle online seminar on 19 jul 2023_cover pic.jpg
+      alt: Image alt text
+  - infopic:
       title: Global 5GtoB Update & Case Studies
       subtitle: LIVE WEBINAR - Tue 20 Jun
       description: "DATE: 20 JUN 2023 (TUE) <br> TIME: 4:00PM"
@@ -162,15 +170,6 @@ sections:
       url: /resources/events/5glearningjourneys/
       image: /images/events/5GLF/5GLF 2022 Learning Journey Header with Date.jpg
       alt: Ten 5G Learning Journeys
-  - infopic:
-      title: "Learning Journey #2"
-      subtitle: 5GLF 2022 - Thu 13 Oct
-      description: "ARTC 5G Smart Factory <br> (Partner: Advanced Remanufacturing and
-        Technology Centre)"
-      button: Find Out More
-      url: /resources/events/artc-5g-smart-factory
-      image: /images/events/5GLF/ARTC_Site_01.jpg
-      alt: Image alt text
   - infopic:
       title: "Learning Journey #3"
       subtitle: 5GLF 2022 - Thu 13 Oct
