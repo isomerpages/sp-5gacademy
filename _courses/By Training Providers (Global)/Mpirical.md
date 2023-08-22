@@ -13,8 +13,8 @@ third_nav_title: By Training Providers (Global)
 |[5G Air Interface ](https://www.mpirical.com/courses/5g-air-interface-updated-spring-2022){:target="_blank" rel="noopener"} |Advanced|24 hrs |
 |[5G and 4G Interworking](https://www.mpirical.com/courses/5g-and-4g-interworking){:target="_blank" rel="noopener"} |Intermediate|3 hrs |
 |[5G and Satellite Communications ](https://www.mpirical.com/courses/5g-and-satellite-communications){:target="_blank" rel="noopener"} |Basic|2 hrs |
-|[(Foundation) 5G Use Cases ](https://www.mpirical.com/courses/5g-use-cases){:target="_blank" rel="noopener"} |Basic|3 hrs |
-|[(Foundation) 5G Use Cases ](https://www.mpirical.com/courses/5g-use-cases){:target="_blank" rel="noopener"} |Basic|3 hrs |
+|[5G and Transport Networks](https://www.mpirical.com/courses/5g-and-transport-networks){:target="_blank" rel="noopener"} |Basic|3 hrs |
+|[5G Application Programming Interfaces](https://www.mpirical.com/courses/5g-application-programming-interfaces){:target="_blank" rel="noopener"} |Intermediate|3 hrs |
 |[(Foundation) 5G Use Cases ](https://www.mpirical.com/courses/5g-use-cases){:target="_blank" rel="noopener"} |Basic|3 hrs |
 |[(Foundation) 5G Use Cases ](https://www.mpirical.com/courses/5g-use-cases){:target="_blank" rel="noopener"} |Basic|3 hrs |
 |[(Foundation) 5G Use Cases ](https://www.mpirical.com/courses/5g-use-cases){:target="_blank" rel="noopener"} |Basic|3 hrs |
