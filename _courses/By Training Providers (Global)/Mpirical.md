@@ -15,11 +15,11 @@ third_nav_title: By Training Providers (Global)
 |[5G and Satellite Communications ](https://www.mpirical.com/courses/5g-and-satellite-communications){:target="_blank" rel="noopener"} |Basic|2 hrs |
 |[5G and Transport Networks](https://www.mpirical.com/courses/5g-and-transport-networks){:target="_blank" rel="noopener"} |Basic|3 hrs |
 |[5G Application Programming Interfaces](https://www.mpirical.com/courses/5g-application-programming-interfaces){:target="_blank" rel="noopener"} |Intermediate|3 hrs |
-|[(Foundation) 5G Use Cases ](https://www.mpirical.com/courses/5g-use-cases){:target="_blank" rel="noopener"} |Basic|3 hrs |
-|[(Foundation) 5G Use Cases ](https://www.mpirical.com/courses/5g-use-cases){:target="_blank" rel="noopener"} |Basic|3 hrs |
-|[(Foundation) 5G Use Cases ](https://www.mpirical.com/courses/5g-use-cases){:target="_blank" rel="noopener"} |Basic|3 hrs |
-|[(Foundation) 5G Use Cases ](https://www.mpirical.com/courses/5g-use-cases){:target="_blank" rel="noopener"} |Basic|3 hrs |
-|[(Foundation) 5G Use Cases ](https://www.mpirical.com/courses/5g-use-cases){:target="_blank" rel="noopener"} |Basic|3 hrs |
+|[5G Fixed Mobile Convergence ](https://www.mpirical.com/courses/5g-fixed-mobile-convergence){:target="_blank" rel="noopener"} |Intermediate|3 hrs |
+|[5G Network Data Analytics ](https:/https://www.mpirical.com/courses/5g-network-data-analytics/www.mpirical.com/courses/5g-use-cases){:target="_blank" rel="noopener"} |Intermediate|4 hrs |
+|[5G PDU Session Establishment Analysis ](https://www.mpirical.com/courses/5g-pdu-session-establishment-analysis){:target="_blank" rel="noopener"} |Advanced|3 hrs |
+|[5G Policy and Charging Control ](https://www.mpirical.com/courses/5g-policy-and-charging-control){:target="_blank" rel="noopener"} |Advanced|3 hrs |
+|[5G Registration Analysis ](https://www.mpirical.com/courses/5g-registration-analysis){:target="_blank" rel="noopener"} |Advanced|3 hrs |
 |[(Foundation) 5G Use Cases ](https://www.mpirical.com/courses/5g-use-cases){:target="_blank" rel="noopener"} |Basic|3 hrs |
 |[(Foundation) 5G Use Cases ](https://www.mpirical.com/courses/5g-use-cases){:target="_blank" rel="noopener"} |Basic|3 hrs |
 |[(Foundation) 5G Use Cases ](https://www.mpirical.com/courses/5g-use-cases){:target="_blank" rel="noopener"} |Basic|3 hrs |
