@@ -20,7 +20,10 @@ third_nav_title: By Training Providers (Global)
 |[5G PDU Session Establishment Analysis ](https://www.mpirical.com/courses/5g-pdu-session-establishment-analysis){:target="_blank" rel="noopener"} |Advanced|3 hrs |
 |[5G Policy and Charging Control ](https://www.mpirical.com/courses/5g-policy-and-charging-control){:target="_blank" rel="noopener"} |Advanced|3 hrs |
 |[5G Registration Analysis ](https://www.mpirical.com/courses/5g-registration-analysis){:target="_blank" rel="noopener"} |Advanced|3 hrs |
-|[(Foundation) 5G Use Cases ](https://www.mpirical.com/courses/5g-use-cases){:target="_blank" rel="noopener"} |Basic|3 hrs |
-|[(Foundation) 5G Use Cases ](https://www.mpirical.com/courses/5g-use-cases){:target="_blank" rel="noopener"} |Basic|3 hrs |
-|[(Foundation) 5G Use Cases ](https://www.mpirical.com/courses/5g-use-cases){:target="_blank" rel="noopener"} |Basic|3 hrs |
-|[(Foundation) 5G Use Cases ](https://www.mpirical.com/courses/5g-use-cases){:target="_blank" rel="noopener"} |Basic|3 hrs |
+|[5G Service Based Architecture](https://www.mpirical.com/courses/5g-service-based-architecture){:target="_blank" rel="noopener"} |Intermediate|3 hrs |
+|[Indoor Mobile Radio for 4G and 5G ](https://www.mpirical.com/courses/indoor-mobile-radio-for-4g-and-5g){:target="_blank" rel="noopener"} |Intermediate|0.5 day |
+|[Introduction to 5G and Cloud Computing ](https://www.mpirical.com/courses/introduction-to-5g-and-cloud-computing){:target="_blank" rel="noopener"} |Basic|3 hrs |
+|[MEC and 5G](https://www.mpirical.com/courses/mec-and-5g){:target="_blank" rel="noopener"} |Intermediate|4 hrs |
+|[SON for 5G ](https://www.mpirical.com/courses/son-for-5g){:target="_blank" rel="noopener"} |Intermediate|3 hrs |
+|[URLLC and 5G ](https://www.mpirical.com/courses/urllc-and-5g){:target="_blank" rel="noopener"} |Intermediate|0.5 day |
+
