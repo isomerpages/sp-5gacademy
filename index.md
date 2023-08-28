@@ -35,6 +35,15 @@ sections:
       subtitle: Learn more
       button: View More
   - infopic:
+      title: 6G - What It Is & When To Expect It
+      subtitle: Free Webinar - On Demand
+      description: Will 6G ofer 1000Gbps peak internet speed? Find out by watching our
+        free webinar.
+      button: Find Out More
+      url: /resources/events/6G-what-it-is-and-when-to-expect-it
+      image: /images/events/apis_6g what it is and when to expect it.PNG
+      alt: 6G by APIS Training
+  - infopic:
       title: Critical Business Basics for Carbon and Net Zero in Telecoms
       subtitle: LIVE CLASSROOM - WED 19 JUL
       description: "DATE: 17 JUL 2023 (WED) <br> TIME: 5.00 PM (SINGAPORE TIME)"
@@ -170,13 +179,4 @@ sections:
       url: /resources/events/5glearningjourneys/
       image: /images/events/5GLF/5GLF 2022 Learning Journey Header with Date.jpg
       alt: Ten 5G Learning Journeys
-  - infopic:
-      title: 6G - What It Is & When To Expect It
-      subtitle: Free Webinar - On Demand
-      description: Will 6G ofer 1000Gbps peak internet speed? Find out by watching our
-        free webinar.
-      button: Find Out More
-      url: /resources/events/6G-what-it-is-and-when-to-expect-it
-      image: /images/events/apis training_landing pic.PNG
-      alt: 6G by APIS Training
 ---
