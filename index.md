@@ -171,12 +171,12 @@ sections:
       image: /images/events/5GLF/5GLF 2022 Learning Journey Header with Date.jpg
       alt: Ten 5G Learning Journeys
   - infopic:
-      title: "Learning Journey #3"
-      subtitle: 5GLF 2022 - Thu 13 Oct
-      description: "5G Industry 4.0 Studio Solutions Tour <br> (Partner: IBM
-        Manufacturing Solutions Pte Ltd)"
+      title: 6G - What It Is & When To Expect It
+      subtitle: Free Webinar - On Demand
+      description: Will 6G ofer 1000Gbps peak internet speed? Find out by watching our
+        free webinar.
       button: Find Out More
-      url: /resources/events/industry-4-studio
-      image: /images/events/5GLF/IBM I4_Industry_studio.jpg
-      alt: IBM I4
+      url: /resources/events/6G-what-it-is-and-when-to-expect-it
+      image: /images/events/apis training_landing pic.PNG
+      alt: 6G by APIS Training
 ---
