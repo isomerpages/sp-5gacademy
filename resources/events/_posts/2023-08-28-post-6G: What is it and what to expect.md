@@ -10,14 +10,12 @@ image: ""
 
 ![Apis Training 6G Pic](/images/events/apis%20training_landing%20pic.PNG)
   
-**Available on demand.
+**Available on demand.**
 
-When will 6G get here and how will it shake things up?
+**When will 6G get here and how will it shake things up?**
 
-Just follow these three simple steps to watch the recording:
+**Watch the recording by clicking on "Enroll" to log in via the Apis Academy Portal.**
 
-1.  Go to the Apis Academy Portal
-2.  Log in or Sign in
 
 <style>
 #register {
