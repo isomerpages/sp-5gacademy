@@ -41,7 +41,7 @@ sections:
         free webinar.
       button: Find Out More
       url: /resources/events/6G-what-it-is-and-when-to-expect-it
-      image: /images/events/apis_6g what it is and when to expect it.PNG
+      image: /images/events/apis training_landing pic.PNG
       alt: 6G by APIS Training
   - infopic:
       title: Critical Business Basics for Carbon and Net Zero in Telecoms
