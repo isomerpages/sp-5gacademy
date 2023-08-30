@@ -40,7 +40,7 @@ sections:
       description: Will 6G ofer 1000Gbps peak internet speed? Find out by watching our
         free webinar.
       button: Find Out More
-      url: /resources/events/6G-what-it-is-and-when-to-expect-it
+      url: /resources/events/6g-what-it-is-and-what-to-expect
       image: /images/events/apis training_landing pic.PNG
       alt: 6G by APIS Training
   - infopic:

@@ -8,7 +8,7 @@ image: ""
 ---
 # Don't miss out our free recorded webinar!
 
-![Apis Training 6G Pic](/images/events/apis%20training_landing%20pic.PNG)
+![Apis Training - 6G](/images/events/apis_6g.jpg)
   
 **Available on demand.**
 
