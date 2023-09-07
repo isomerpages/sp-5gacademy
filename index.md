@@ -83,7 +83,7 @@ sections:
       subtitle: Manpower Solutions
       description: (Application is now open)
       button: Find Out More
-      url: /manpower-solutions/OTR
+      url: /manpower-solutions/otr/
       image: /images/manpower-solutions/OTR-Cover%20Image-S.png
       alt: Image alt text
   - infopic:
