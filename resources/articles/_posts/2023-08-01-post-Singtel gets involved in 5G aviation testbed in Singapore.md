@@ -8,9 +8,6 @@ image: /images/articles/image_5g aviation testbed in singapore.jfif
 ---
 **1 Aug 2023**
 
-***By Juan Pedro Tomas, RCR Wireless
-*
-
 Singtel said that this testbed enables companies to use 5G to trial and adopt new solutions
 
 Singaporean telco Singtel, together with the Civil Aviation Authority of Singapore (CAAS) have launched a 5G aviation testbed at Singapore Changi Airport Terminal 3’s airside.
