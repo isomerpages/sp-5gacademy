@@ -44,14 +44,6 @@ sections:
       image: /images/events/apis training_landing pic.PNG
       alt: 6G by APIS Training
   - infopic:
-      title: Critical Business Basics for Carbon and Net Zero in Telecoms
-      subtitle: LIVE CLASSROOM - WED 19 JUL
-      description: "DATE: 17 JUL 2023 (WED) <br> TIME: 5.00 PM (SINGAPORE TIME)"
-      button: Find Out More
-      url: /resources/events/critical-business-basics-for-carbon-and-net-zero-in-telecoms
-      image: /images/events/wray castle online seminar on 19 jul 2023_cover pic.jpg
-      alt: Image alt text
-  - infopic:
       title: Global 5GtoB Update & Case Studies
       subtitle: LIVE WEBINAR - Tue 20 Jun
       description: "DATE: 20 JUN 2023 (TUE) <br> TIME: 4:00PM"
