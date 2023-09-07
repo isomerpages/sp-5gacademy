@@ -49,7 +49,7 @@ sections:
       description: Singtel said that this testbed enables companies to use 5G to trial
         and adopt new solutions.
       button: FIND OUT MORE
-      url: /resources/events/singtel-gets-involved-in-5g-aviation-testbed-in-singapore
+      url: /resources/article/singtel-gets-involved-in-5g-aviation-testbed-in-singapore
       image: /images/articles/image_5g aviation testbed in singapore.jfif
       alt: 5G Aviation Testbed
   - infopic:
