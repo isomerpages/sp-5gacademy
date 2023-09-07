@@ -107,7 +107,7 @@ sections:
       subtitle: Article - Jun 2023
       description: Singapore announces new 5G projects in EV manufacturing, river cleaning
       button: FIND OUT MORE
-      url: /resources/articles/singapore-announces-new-5g-projects
+      url: /resources/articles/singapore-announces-new-5g-projects-in-ev-manufacturing/
       image: /images/articles/weston_robot.jfif
       alt: River Cleaning
 ---
