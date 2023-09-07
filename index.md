@@ -44,13 +44,13 @@ sections:
       image: /images/events/apis training_landing pic.PNG
       alt: 6G by APIS Training
   - infopic:
-      title: Global 5GtoB Update & Case Studies
-      subtitle: LIVE WEBINAR - Tue 20 Jun
-      description: "DATE: 20 JUN 2023 (TUE) <br> TIME: 4:00PM"
+      title: 5G Aviation Testbed in Singapore
+      subtitle: Article - Aug 2023
+      description: Singtel said that this testbed enables companies to use 5G to trial
+        and adopt new solutions.
       button: FIND OUT MORE
-      url: /resources/events/global-5gtob-update-case-studies
-      image: /images/events/events/cover2_huawei webinar.jpg
-      alt: Huawei Webinar 2023
+      url: /resources/events/singtel-gets-involved-in-5g-aviation-testbed-in-singapore
+      image: /images/articles/image_5g aviation testbed in singapore.jfif
   - infopic:
       title: Stay Ahead of the Game with <br> 5G Network Benchmarking
       subtitle: Live Webinar - Fri 16 Jun
