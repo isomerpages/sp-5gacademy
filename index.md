@@ -69,14 +69,6 @@ sections:
       alt: Image alt text
       image: /images/events/(5g) bm nist cybersecurity webinar - website cover pic.jpg
   - infopic:
-      title: Beamforming and Massive MIMO - Enabling 5G
-      subtitle: Live Webinar - Tue 25 Apr
-      description: "DATE: 25 APR 2023 (TUE) <br> TIME: 6 - 7 pm (SINGAPORE Time)"
-      button: Find Out More
-      url: /resources/events/beamforming-and-massive-mimo
-      image: /images/events/cover pic_wray castle webinar on 25 apr.jpg
-      alt: Wray Castle Webinar Apr 2023
-  - infopic:
       title: Making the Shift to Microservices
       subtitle: Dell - Free Course (5 hrs)
       description: This on-demand course is free and covers the fundamentals of
