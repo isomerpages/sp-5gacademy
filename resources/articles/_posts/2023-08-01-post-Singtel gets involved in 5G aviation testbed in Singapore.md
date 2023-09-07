@@ -40,4 +40,3 @@ Singtel had announced the launch of its 5G SA network in the country in May of 2
 Singtel had initially launched its 5G Non-Standalone (NSA) network in September of 2020, using spectrum in the 3.5 GHz frequency as well as existing 2.1 GHz spectrum.
 
 ***By Juan Pedro Tomas, RCR Wireless***
-
