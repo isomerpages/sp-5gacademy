@@ -67,9 +67,9 @@ sections:
       subtitle: Regular event
       description: "By Appointment Only <br> VENUE: Singapore Polytechnic"
       button: Find Out More
-      url: /resources/events/5G-learning-journey "target=_blank"
+      url: /resources/events/5g-learning-journey/"target=_blank"
       image: /images/events/5GLF/5G Learning Journey Cover Pic.jpg
-      alt: 5gandaiot-image
+      alt: 5G and AIOT Centre
   - infopic:
       title: 5G Readiness Index (5GRI)
       subtitle: Manpower Solutions
