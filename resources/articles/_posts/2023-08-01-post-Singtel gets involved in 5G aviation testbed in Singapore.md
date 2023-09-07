@@ -1,14 +1,14 @@
 ---
 title: Singtel gets involved in 5G aviation testbed in Singapore
-permalink: /resources/articles/5g-aviation-testbed-in-singapore/
+permalink: /resources/articles/singtel-gets-involved-in-5g-aviation-testbed-in-singapore/
 date: 2023-08-01
 layout: post
 description: ""
-image: ""
+image: /images/articles/image_5g aviation testbed in singapore.jfif
 ---
 **1 Aug 2023**
 
-**Singtel said that this testbed enables companies to use 5G to trial and adopt new solutions**
+Singtel said that this testbed enables companies to use 5G to trial and adopt new solutions
 
 Singaporean telco Singtel, together with the Civil Aviation Authority of Singapore (CAAS) have launched a 5G aviation testbed at Singapore Changi Airport Terminal 3’s airside.
 
@@ -22,7 +22,7 @@ Other potential use cases being explored for the 5G aviation testbed include adv
 
 As part of this two-year trial, close to 4,000 Singtel 4G corporate mobile user lines at the airside have been given complimentary upgrades to 5G lines to facilitate the development of such use cases and augment the connectivity of aviation workers at the airside. Singtel also said it is also gradually extending its 5G network coverage to encompass public areas in all terminals by the end of 2025.
 
-![5G Aviation Testbed in Singapore](/images/articles/image_5g%20aviation%20testbed%20in%20singapore.jfif)
+![5G aviation testbed in Singapore](/images/articles/image_5g%20aviation%20testbed%20in%20singapore.jfif)
 
 “During the Covid-19 pandemic, we took advantage of the low traffic environment to accelerate various technological trials, such as autonomous vehicles trials, to position the Singapore air hub for long-term growth and competitiveness post-Covid,” commented Han Kok Juan, general director of CAAS. “The 5G aviation testbed is a critical enabler for many of these initiatives and will help boost our air hub’s operational capabilities.”
 
@@ -35,6 +35,5 @@ Last year, Singtel said its 5G Standalone network covered over 95% of the countr
 Singtel had announced the launch of its 5G SA network in the country in May of 2021. The carrier had partnered with Korean company Samsung to launch 5G SA network, which runs on 3.5 GHz spectrum.
 
 Singtel had initially launched its 5G Non-Standalone (NSA) network in September of 2020, using spectrum in the 3.5 GHz frequency as well as existing 2.1 GHz spectrum.
-
 
 ***By Juan Pedro Tomas, RCR Wireless***

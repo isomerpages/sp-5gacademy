@@ -1,7 +1,7 @@
 ---
 title: "Wed 19 Jul: Critical Business Basics for Carbon and Net Zero in Telecoms"
 permalink: /resources/events/critical-business-basics-for-carbon-and-net-zero-in-telecoms/
-date: 2023-06-26
+date: 2023-05-26
 layout: post
 description: ""
 image: ""

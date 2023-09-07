@@ -44,46 +44,14 @@ sections:
       image: /images/events/apis training_landing pic.PNG
       alt: 6G by APIS Training
   - infopic:
-      title: Critical Business Basics for Carbon and Net Zero in Telecoms
-      subtitle: LIVE CLASSROOM - WED 19 JUL
-      description: "DATE: 17 JUL 2023 (WED) <br> TIME: 5.00 PM (SINGAPORE TIME)"
-      button: Find Out More
-      url: /resources/events/critical-business-basics-for-carbon-and-net-zero-in-telecoms
-      image: /images/events/wray castle online seminar on 19 jul 2023_cover pic.jpg
-      alt: Image alt text
-  - infopic:
-      title: Global 5GtoB Update & Case Studies
-      subtitle: LIVE WEBINAR - Tue 20 Jun
-      description: "DATE: 20 JUN 2023 (TUE) <br> TIME: 4:00PM"
+      title: 5G Aviation Testbed in Singapore
+      subtitle: Article - Aug 2023
+      description: Singtel said that this testbed enables companies to use 5G to trial
+        and adopt new solutions.
       button: FIND OUT MORE
-      url: /resources/events/global-5gtob-update-case-studies
-      image: /images/events/events/cover2_huawei webinar.jpg
-      alt: Huawei Webinar 2023
-  - infopic:
-      title: Stay Ahead of the Game with <br> 5G Network Benchmarking
-      subtitle: Live Webinar - Fri 16 Jun
-      description: "DATE: 16 JUN 2023 (FRI) <br> TIME: 3.00pm"
-      button: Find Out More
-      url: /resources/events/stay-ahead-of-the-game-with-5g-network-benchmarking
-      image: /images/events/keysight webinar home page1.jpg
-      alt: Keysight Webinar Homepage
-  - infopic:
-      title: Learn NIST Cybersecurity Framework in 60 Min
-      subtitle: Live Webinar - Fri 28 Apr
-      description: Learn how NIST CSF can benefit working professionals by enhancing
-        your knowledge of cybersecurity.
-      button: Find Out More
-      url: /resources/events/nist-cybersecurity-framework-in-60mins
-      alt: Image alt text
-      image: /images/events/(5g) bm nist cybersecurity webinar - website cover pic.jpg
-  - infopic:
-      title: Beamforming and Massive MIMO - Enabling 5G
-      subtitle: Live Webinar - Tue 25 Apr
-      description: "DATE: 25 APR 2023 (TUE) <br> TIME: 6 - 7 pm (SINGAPORE Time)"
-      button: Find Out More
-      url: /resources/events/beamforming-and-massive-mimo
-      image: /images/events/cover pic_wray castle webinar on 25 apr.jpg
-      alt: Wray Castle Webinar Apr 2023
+      url: /resources/articles/singtel-gets-involved-in-5g-aviation-testbed-in-singapore/
+      image: /images/articles/image_5g aviation testbed in singapore.jfif
+      alt: 5G Aviation Testbed
   - infopic:
       title: Making the Shift to Microservices
       subtitle: Dell - Free Course (5 hrs)
@@ -99,9 +67,9 @@ sections:
       subtitle: Regular event
       description: "By Appointment Only <br> VENUE: Singapore Polytechnic"
       button: Find Out More
-      url: /resources/events/5G-learning-journey "target=_blank"
+      url: /resources/events/5g-learning-journey/"target=_blank"
       image: /images/events/5GLF/5G Learning Journey Cover Pic.jpg
-      alt: 5gandaiot-image
+      alt: 5G and AIOT Centre
   - infopic:
       title: 5G Readiness Index (5GRI)
       subtitle: Manpower Solutions
@@ -115,7 +83,7 @@ sections:
       subtitle: Manpower Solutions
       description: (Application is now open)
       button: Find Out More
-      url: /manpower-solutions/OTR
+      url: /manpower-solutions/otr/
       image: /images/manpower-solutions/OTR-Cover%20Image-S.png
       alt: Image alt text
   - infopic:
@@ -123,7 +91,7 @@ sections:
       subtitle: Manpower Solutions
       description: (Application is now open)
       button: Find Out More
-      url: /manpower-solutions/TNA
+      url: /manpower-solutions/tna/
       image: /images/manpower-solutions/TNA-Cover%20Image-S.png
       alt: Image alt text
   - infopic:
@@ -131,52 +99,15 @@ sections:
       subtitle: Manpower Solutions
       description: (Application is now open)
       button: Find Out More
-      url: /manpower-solutions/CCP
+      url: /manpower-solutions/ccp/
       image: /images/manpower-solutions/5G%20CCP%20Cover%20Image-S.png
       alt: Image alt text
   - infopic:
-      title: Radio Propagation Mechanisms Explained
-      subtitle: Webinar - Thu 23 Mar
-      description: "DATE: 23 MAR 2023 (THU) <br> TIME: 6.00 PM SINGAPORE TIME (10.00
-        AM UK TIME)"
-      button: Find Out More
-      url: /resources/events/radio-propagation-mechanisms-explained
-      alt: Wray Castle Webinar Mar 2023
-      image: /images/events/Wray Casrle Webinar Mar 2023 COVER.jpg
-  - infopic:
-      title: Career Disruption Webinar
-      subtitle: Webinar - Tue 14 Mar
-      description: Discover IT Value stream and Learn more on Digital Products,
-        Digital Transformation and Customer Journey.
-      button: Find Out More
-      url: /resources/events/itil4-career-disruption-webinar
-      image: /images/events/events/ITIL4 Webinar 2023 (5G) Banner.jpg
-      alt: Image alt text
-  - infopic:
-      title: Wray Castle Connect
-      subtitle: Regular Event
-      description: Wray Castle Connect has been launched to allow you to network with
-        both Wray Castle's specialist training team and your peers across the
-        industry.
-      button: Find Out More
-      url: /resources/events/wray-castle-connect
-      image: /images/events/Wray Castle Connect.jpg
-      alt: Singtel FIC
-  - infopic:
-      title: "First Look at 5G: the Technology that is Changing the World"
-      subtitle: Qualcomm Webinar - Wed 30 Nov
-      description: "DATE: 30 NOV 2022 (WED) <br> TIME: 9:30 am"
-      button: Find out more
-      alt: Image alt text
-      url: /resources/events/first-look-at-5g/
-      image: /images/events/events/Qualcomm Webinar.jpg
-  - infopic:
-      title: 5GLF 2022 - 10 Learning Journeys
-      subtitle: 5GLF 2022 - Thu 13 Oct
-      description: "Note: You will be allocated to 1 of your choices only. <br> Dress
-        Code: Business Attire"
-      button: Register Now
-      url: /resources/events/5glearningjourneys/
-      image: /images/events/5GLF/5GLF 2022 Learning Journey Header with Date.jpg
-      alt: Ten 5G Learning Journeys
+      title: Singapore announces new 5G projects
+      subtitle: Article - Jun 2023
+      description: Singapore announces new 5G projects in EV manufacturing, river cleaning
+      button: FIND OUT MORE
+      url: /resources/articles/singapore-announces-new-5g-projects-in-ev-manufacturing/
+      image: /images/articles/weston_robot.jfif
+      alt: River Cleaning
 ---
