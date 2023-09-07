@@ -52,23 +52,6 @@ sections:
       url: /resources/events/singtel-gets-involved-in-5g-aviation-testbed-in-singapore
       image: /images/articles/image_5g aviation testbed in singapore.jfif
   - infopic:
-      title: Stay Ahead of the Game with <br> 5G Network Benchmarking
-      subtitle: Live Webinar - Fri 16 Jun
-      description: "DATE: 16 JUN 2023 (FRI) <br> TIME: 3.00pm"
-      button: Find Out More
-      url: /resources/events/stay-ahead-of-the-game-with-5g-network-benchmarking
-      image: /images/events/keysight webinar home page1.jpg
-      alt: Keysight Webinar Homepage
-  - infopic:
-      title: Learn NIST Cybersecurity Framework in 60 Min
-      subtitle: Live Webinar - Fri 28 Apr
-      description: Learn how NIST CSF can benefit working professionals by enhancing
-        your knowledge of cybersecurity.
-      button: Find Out More
-      url: /resources/events/nist-cybersecurity-framework-in-60mins
-      alt: Image alt text
-      image: /images/events/(5g) bm nist cybersecurity webinar - website cover pic.jpg
-  - infopic:
       title: Making the Shift to Microservices
       subtitle: Dell - Free Course (5 hrs)
       description: This on-demand course is free and covers the fundamentals of
