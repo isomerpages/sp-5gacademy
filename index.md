@@ -91,7 +91,7 @@ sections:
       subtitle: Manpower Solutions
       description: (Application is now open)
       button: Find Out More
-      url: /manpower-solutions/TNA
+      url: /manpower-solutions/tna/
       image: /images/manpower-solutions/TNA-Cover%20Image-S.png
       alt: Image alt text
   - infopic:
