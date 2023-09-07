@@ -6,3 +6,4 @@ description: Training Needs Analysis
 ![Training Needs Analysis (TNA)](/images/manpower-solutions/TNA-S.png)
 
 ENQUIRIES: Email to James_YEE@SP.EDU.SG
+
