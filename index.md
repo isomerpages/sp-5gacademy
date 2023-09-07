@@ -102,4 +102,12 @@ sections:
       url: /manpower-solutions/CCP
       image: /images/manpower-solutions/5G%20CCP%20Cover%20Image-S.png
       alt: Image alt text
+  - infopic:
+      title: Singapore announces new 5G projects
+      subtitle: Article - Jun 2023
+      description: Singapore announces new 5G projects in EV manufacturing, river cleaning
+      button: FIND OUT MORE
+      url: /resources/articles/singapore-announces-new-5g-projects
+      image: /images/articles/weston_robot.jfif
+      alt: River Cleaning
 ---
