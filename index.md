@@ -110,4 +110,13 @@ sections:
       url: /resources/articles/singapore-announces-new-5g-projects-in-ev-manufacturing/
       image: /images/articles/weston_robot.jfif
       alt: River Cleaning
+  - infopic:
+      title: "Navigating 5G Security Realities:"
+      subtitle: Webinar - 7 NOV 2023 (TUE)
+      id: infopic
+      description: Readiness, Priorities, and Market Insights
+      button: Find Out More
+      url: /resources/events/navigating-5g-security-realities
+      image: /images/events/events/navigating 5g security realities.png
+      alt: Navigating 5G
 ---
