@@ -13,7 +13,7 @@ Our panel of experts will provide invaluable insights, offering a comprehensive 
 
 # Details
 **DATE: 7 NOVEMBER 2023, TUESDAY **
-**TIME: 10.00 PM (SINGAPORE TIME)**
+**TIME: 10.00 PM - 11.00 PM (SINGAPORE TIME)**
 
 ![Navigating 5G Security Realities](/images/events/events/navigating%205g%20security%20realities.png)
 
