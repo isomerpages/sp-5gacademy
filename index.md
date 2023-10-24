@@ -35,14 +35,10 @@ sections:
       subtitle: Learn more
       button: View More
   - infopic:
-      title: "Navigating 5G Security Realities: "
+      title: Navigating 5G Security Realities
       subtitle: Webinar - 7 NOV 2023 (TUE)
       id: infopic
-      description: |-
-        Readiness, Priorities, and Market Insights
-
-        <br>
-        DATE: 7 NOV 2023 (TUE) <br> TIME: 10 - 11 PM (SINGAPORE TIME)
+      description: "DATE: 7 NOV 2023 (TUE) <br> TIME: 10 - 11 PM (SINGAPORE TIME)"
       button: Find Out More
       url: /resources/events/navigating-5g-security-realities
       image: /images/events/events/navigating 5g security realities.png
