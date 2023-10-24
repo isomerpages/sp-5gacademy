@@ -15,20 +15,7 @@ Our panel of experts will provide invaluable insights, offering a comprehensive 
 **DATE: 7 NOVEMBER 2023, TUESDAY <br> 
 TIME: 10.00 PM (SINGAPORE TIME) <br> **
 
-![](/images/events/wray%20castle%20online%20seminar%20on%2019%20jul%202023_cover%20pic.jpg)
-
-
-**Course Modules**
-
-- The Science and Terminology
-- Policy, Development of External Factors and Telecoms Impacts
-- Reporting and Regulatory Requirements and their Implications
-- Trends and Potential Impacts of Green Finance (ESG, Green Finance, Offsets etc.)
-- Business Model Impacts and the Net Zero Opportunity for Telecoms
-- Best Practice and the Telecoms Landscape
-- Business Tools to Help Navigate Net Zero (Next Steps)
-
-You can download the Details Course Description [HERE](/files/events/critical_business_basics_for_carbon_and_net_zero_in_telecoms_july_2023.pdf)
+![Navigating 5G Security Realities](/images/events/events/navigating%205g%20security%20realities.png)
 
 
 <style>
@@ -48,4 +35,4 @@ You can download the Details Course Description [HERE](/files/events/critical_bu
 }
 </style>
 
-<center><a href="https://wraycastle.com/pages/course-enquiry?sku=WR2303&amp;title=Critical+Business+Basics+for+Carbon+and+Net+Zero+in+ICT&amp;type=" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
+<center><a href="https://app.getcontrast.io/register/p1-security-navigating-5g-security-realities-readiness-priorities-and-market-insights#about" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
