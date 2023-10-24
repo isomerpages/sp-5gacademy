@@ -35,6 +35,19 @@ sections:
       subtitle: Learn more
       button: View More
   - infopic:
+      title: "Navigating 5G Security Realities: "
+      subtitle: Webinar - 7 NOV 2023 (TUE)
+      id: infopic
+      description: |-
+        Readiness, Priorities, and Market Insights
+
+        <br>
+        DATE: 7 NOV 2023 (TUE) <br> TIME: 10 - 11 PM (SINGAPORE TIME)
+      button: Find Out More
+      url: /resources/events/navigating-5g-security-realities
+      image: /images/events/events/navigating 5g security realities.png
+      alt: Navigating 5G
+  - infopic:
       title: 6G - What It Is & When To Expect It
       subtitle: Free Webinar - On Demand
       description: Will 6G ofer 1000Gbps peak internet speed? Find out by watching our
@@ -110,13 +123,4 @@ sections:
       url: /resources/articles/singapore-announces-new-5g-projects-in-ev-manufacturing/
       image: /images/articles/weston_robot.jfif
       alt: River Cleaning
-  - infopic:
-      title: "Navigating 5G Security Realities:"
-      subtitle: Webinar - 7 NOV 2023 (TUE)
-      id: infopic
-      description: Readiness, Priorities, and Market Insights
-      button: Find Out More
-      url: /resources/events/navigating-5g-security-realities
-      image: /images/events/events/navigating 5g security realities.png
-      alt: Navigating 5G
 ---
