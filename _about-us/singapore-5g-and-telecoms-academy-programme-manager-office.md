@@ -29,7 +29,5 @@ Managed by Singapore Polytechnic (SP), the Singapore 5G Academy supports the ind
 |Dr Tan Kwee Teck | 5G Academy Working Committee |Academic |
 |Mr James Yee| 5G Academy Working Committee |Course &amp; Programme |
 |Mr Tan Chee Seng | 5G Academy Working Committee |SP 5G &amp; AIOT |
-|Mr Chia Chow Leong | Head, Tech. Solutions, L&amp;D  | Singapore Polytechnic |
-|Mr Chia Chow Leong | Head, Tech. Solutions, L&amp;D  | Singapore Polytechnic |
-|Mr Chia Chow Leong | Head, Tech. Solutions, L&amp;D  | Singapore Polytechnic |
-|Mr Chia Chow Leong | Head, Tech. Solutions, L&amp;D  | Singapore Polytechnic |
+|Ms Jessy Yau | 5G Academy Working Committee  | SP PACE/NACE |
+|Ms Elaine Lye | 5G Academy Working Committee  | Publicity &amp; Admin |
