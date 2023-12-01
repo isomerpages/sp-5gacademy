@@ -19,16 +19,16 @@ Managed by Singapore Polytechnic (SP), the Singapore 5G Academy supports the ind
 
 
 
-| Name | Office| 
+| Name | Office| Designation| 
 
 | -------- | -------- | -------- |
 
 |Dr Lim Joo Ghee | Chair, 5G Academy Steering Committee | Director, School of Electrical &amp; Electronic Engineering |
-|Mr Toh Ser Khoon | Steering Committee  | National University of Singapore |
-|Ms Elaine Lye | Lead, Administration |Singapore Polytechnic |
-|Mr Marcus Wee | Lead, Career Conversion Programme &amp; Administration |National University of Singapore |
-|Mr Raymond Ho| Lead, Career Conversion Programme &amp; Administration |Singapore Polytechnic |
-|Mr James Yee | 5G Programme and Projects |Singapore Polytechnic |
+|Mr Toh Ser Khoon | Advisor, 5G Academy Steering Committee  | Director, Industry &amp; Partnership Department |
+|Mr Chia Chow Leong | Chair, 5G Academy Working Committee |Deputy Director, School of Electrical &amp; Electronic Engineering |
+|Dr Tan Kwee Teck | 5G Academy Working Committee |Academic |
+|Mr James Yee| 5G Academy Working Committee |Course &amp; Programme |
+|Mr Tan Chee Seng | 5G Academy Working Committee |SP 5G &amp; AIOT |
 |Mr Chia Chow Leong | Head, Tech. Solutions, L&amp;D  | Singapore Polytechnic |
 |Mr Chia Chow Leong | Head, Tech. Solutions, L&amp;D  | Singapore Polytechnic |
 |Mr Chia Chow Leong | Head, Tech. Solutions, L&amp;D  | Singapore Polytechnic |
