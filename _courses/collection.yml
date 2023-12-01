@@ -2,14 +2,6 @@ collections:
   courses:
     output: true
     order:
-      - by-areas/.keep
-      - by-areas/5g-and-telecoms.md
-      - by-areas/internet-of-things-iot.md
-      - by-areas/ai-and-analytics.md
-      - by-areas/cloud-and-virtualization.md
-      - by-areas/networking.md
-      - by-areas/cybersecurity.md
-      - by-areas/applications.md
       - by-acad-institutions/.keep
       - by-acad-institutions/institute-of-technical-education.md
       - by-acad-institutions/nanyang-polytechnic.md
