@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - singapore-5g-and-telecoms-academy-programme-manager-office.md
+      - Singapore 5G Academy Committee.md
       - consortium-partner-committee.md
       - academic-institution-curriculum-advisory-committee.md
       - Training Partners Curriculum Advisory Committee.md
