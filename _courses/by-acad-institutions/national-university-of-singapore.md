@@ -2,6 +2,7 @@
 title: National University of Singapore
 permalink: /courses/by-acad-institutions/nus/
 third_nav_title: By Acad Institutions
+variant: markdown
 ---
 |Course Title  | Level | Duration |
 | - | - | - | 
@@ -33,7 +34,6 @@ third_nav_title: By Acad Institutions
 |[Computer Organization I](https://ace.nus.edu.sg/computer-organization-i/){:target="_blank" rel="noopener"} |Basic|21 hrs |
 |[Computer Organization II and Introduction to Operating System ](https://ace.nus.edu.sg/computer-organization-ii-and-introduction-to-operating-system/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
 |[Cybersecurity Begins with Me ](https://ace.nus.edu.sg/cybersecurity-begins-with-me/){:target="_blank" rel="noopener"} |Basic|7 hrs |
-|[Cybersecurity for Executives](https://ace.nus.edu.sg/cybersecurity-for-executives/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Data and Database Systems](https://ace.nus.edu.sg/data-and-database-systems/){:target="_blank" rel="noopener"} |Intermediate|7 hrs |
 |[Data Engineering Fundamentals](https://ace.nus.edu.sg/data-engineering-fundamentals/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Data Engineering Pipelines with cloud](https://ace.nus.edu.sg/data-engineering-pipelines-with-cloud/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
@@ -49,7 +49,6 @@ third_nav_title: By Acad Institutions
 |[Deep Learning Fundamentals](https://ace.nus.edu.sg/deep-learning-fundamentals/){:target="_blank" rel="noopener"} |Advanced|14 hrs |
 |[Descriptive Analytics](https://ace.nus.edu.sg/descriptive-analytics/){:target="_blank" rel="noopener"} |Basic|21 hrs |
 |[Device Communications for Internet of Things](https://ace.nus.edu.sg/device-communications-for-iot/){:target="_blank" rel="noopener"} |Advanced|14 hrs |
-|[DevOps: Build, Deploy and Monitor (Synchronous e-learning) ](https://stmi.nus.edu.sg/event/devops-build-deploy-and-monitor-e-learning/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Digital Sales Analytics](https://ace.nus.edu.sg/digital-sales-analytics/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Digital Transformation In Banking & Financial Institutions](https://ace.nus.edu.sg/digital-transformation-in-banking/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
 |[Expert Systems](https://ace.nus.edu.sg/expert-systems/){:target="_blank" rel="noopener"} |Advanced|14 hrs |

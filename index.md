@@ -1,22 +1,21 @@
 ---
 layout: homepage
-title: Singapore 5G & Telecoms Academy
+title: Singapore 5G Academy
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banners-and-logos/Man_White_Orange_1.jpeg
-      button: click here to enquire
+      background: /images/banners-and-logos/HP_banner_05_05.jpg
       url: https://form.gov.sg/#!/60fc3172d0fde7001257e316" target="_blank
       key_highlights:
         - title: Manpower Solutions
           description: 4 programmes to choose from
           url: /manpower-solutions/ccp
         - title: Courses
-          description: "> 900 courses to choose from"
-          url: /courses/5gtelecoms
+          description: "> 500 courses for sign up"
+          url: /courses/by-training-providers-global/mpirical/
         - title: Training Partners
           description: IHLs and Training Providers
           url: /training-partners
@@ -24,7 +23,8 @@ sections:
           description: Events and Media Stories
           url: /resources
       title: Singapore 5G & Telecoms <br> Academy
-      subtitle: Charting Singapore's 5G & Telecoms manpower development with you
+      subtitle: Charting Singapore's 5G manpower development with you
+      variant: image
   - infobar:
       title: Manpower Development in <br>5G & Related Technologies
       subtitle: What we offer

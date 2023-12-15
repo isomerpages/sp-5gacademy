@@ -3,8 +3,8 @@ title: Trainocate
 permalink: /courses/by-private-training-providers/trainocate/
 description: ""
 third_nav_title: By Training Providers (Local)
+variant: markdown
 ---
-
 |Course Title  | Level | Duration |
 | - | - | - | 
 |[AWS - (CLDPE) Cloud Practitioner Essentials](https://trainocate.com/sg/courses/aws/aws-cldpe){:target="_blank" rel="noopener"} |Basic|8 hrs |
@@ -104,8 +104,6 @@ third_nav_title: By Training Providers (Local)
 |[ISACA - (CISA) Certified Information Systems Auditor](https://trainocate.com/sg/courses/isaca/cisa){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[ISACA - (CRISC) Certified in Risk and Information Systems Control](https://trainocate.com/sg/courses/isaca/crisc){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
 |[ISACA - (CGEIT) Certified in the Governance of Enterprise IT](https://trainocate.com/sg/courses/isaca/cgeit){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
-|[(ISC)2 - (CISSP) Certified Information System Security Professional Prep Course](https://trainocate.com/sg/courses/cybersecurity/cissp){:target="_blank" rel="noopener"} |Advanced|40 hrs |
-|[(ISC)2 - (CCSP) Certified Cloud Security Professional](https://trainocate.com/sg/courses/cybersecurity/ccsp){:target="_blank" rel="noopener"} |Advanced|40 hrs |
 |[Microsoft - (AZ-900) Azure Fundamentals ](https://trainocate.com/sg/courses/microsoft/az-900t00-a){:target="_blank" rel="noopener"} |Basic|16 hrs |
 |[Microsoft - (AI-900) Azure AI Fundamentals ](https://trainocate.com/sg/courses/microsoft/ai-900){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[Microsoft - (DP-900) Azure Data Fundamentals ](https://trainocate.com/sg/courses/microsoft/dp-900){:target="_blank" rel="noopener"} |Basic|8 hrs |
@@ -123,13 +121,8 @@ third_nav_title: By Training Providers (Local)
 |[Microsoft - (DP-203) Data Engineering on Microsoft Azure ](https://trainocate.com/sg/courses/microsoft/dp-203t00-a){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
 |[Microsoft - (AI-102) Designing and Implementing a Microsoft Azure AI Solution ](https://trainocate.com/sg/courses/microsoft/ai-102t00){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
 |[Microsoft - (AZ-305) Designing Microsoft Azure Infrastructure Solutions ](https://trainocate.com/sg/courses/microsoft/az-305){:target="_blank" rel="noopener"} |Advanced|32 hrs |
-|[Microsoft - (SC-900)  Security, Compliance and Identity Fundamentals ](https://trainocate.com/sg/courses/microsoft/sc-900t00-a){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[Microsoft - (AZ-500) Azure Security Technologies](https://trainocate.com/sg/courses/microsoft/az-500){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
 |[Microsoft - (MS-500) Microsoft 365 Security Administration ](https://trainocate.com/sg/courses/microsoft/ms-500){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
-|[Microsoft - (SC-200)  Security Operations Analyst ](https://trainocate.com/sg/courses/microsoft/sc-200t00-a){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
-|[Microsoft - (SC-300) Identity and Access Administrator](https://trainocate.com/sg/courses/microsoft/sc-300t00-a){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
-|[Microsoft - (SC-400) Microsoft Information Protection Administrator](https://trainocate.com/sg/courses/microsoft/sc-400t00-a){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
-|[Microsoft - (MS-900) Microsoft 365 Fundamentals](https://trainocate.com/sg/courses/microsoft/ms-900t01-a){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[Microsoft - (MD-100) Windows 10](https://trainocate.com/sg/courses/microsoft/md-100t00-a){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[Microsoft - (MD-101) Managing Modern Desktops](https://trainocate.com/sg/courses/microsoft/md-101t00-a){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[Microsoft - (MS-203) Microsoft 365 Messaging](https://trainocate.com/sg/courses/microsoft/ms-203t00-a){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
@@ -138,11 +131,7 @@ third_nav_title: By Training Providers (Local)
 |[Microsoft - (MS-700) Managing Microsoft Teams](https://trainocate.com/sg/courses/microsoft/ms-700t00-a){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
 |[Microsoft - (MS-100) Microsoft 365 Identity and Services](https://trainocate.com/sg/courses/microsoft/ms-100t00-a){:target="_blank" rel="noopener"} |Advanced|40 hrs |
 |[Microsoft - (MS-101) Microsoft 365 Mobility and Security](https://trainocate.com/sg/courses/microsoft/ms-101t00-a){:target="_blank" rel="noopener"} |Advanced|40 hrs |
-|[Microsoft - (PL-900) Microsoft Power Platform Fundamentals](https://trainocate.com/sg/courses/microsoft/pl-900t00-a){:target="_blank" rel="noopener"} |Basic|16 hrs |
-|[Microsoft - (PL-100) Power Platform App Maker](https://trainocate.com/sg/courses/microsoft/pl-100t00-a){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
-|[Microsoft - (PL-200) Power Platform Functional Consultant](https://trainocate.com/sg/courses/microsoft/pl-200t00-a){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
 |[Microsoft - (PL-300) Power BI Analyst ](https://trainocate.com/sg/courses/microsoft/pl-300t00){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
-|[Microsoft - (PL-400) Power Platform Developer ](https://trainocate.com/sg/courses/microsoft/pl-400t00-a){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[Microsoft - (PL-600) Microsoft Power Platform Solution Architect ](https://trainocate.com/sg/courses/microsoft/pl-600t00){:target="_blank" rel="noopener"} |Advanced|32 hrs |
 |[NetApp - (CDOTDP9) ONTAP Cluster Administration and Data Protection Bundle](https://trainocate.com/sg/courses/netapp/cdotdp9){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[NetApp -(AOCMCDOT) ONTAP Administration of Active IQ Unified Manager](https://trainocate.com/sg/courses/netapp/aocmcdot){:target="_blank" rel="noopener"} |Intermediate|16 hrs |
@@ -190,4 +179,3 @@ third_nav_title: By Training Providers (Local)
 |[VMware - (SDWANDDMSP3) VMware SD-WAN by VeloCloud: Design and Deploy [V3.x]](https://trainocate.com/sg/courses/vmware/sdwanddmsp3){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
 |[VMware - (HDMAVFT8) Vmware Horizon 8: Deploy and Manage plus App Volumes Fast Track](https://trainocate.com/sg/courses/vmware/hdmavft8){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[VMware - (HCSMADM) Vmware Horizon Cloud Service: Deploy and Manage on Microsoft Azure](https://trainocate.com/sg/courses/vmware/hcsmadm){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
-|[VMware - (WS1DM21X) Vmware Workspace ONE: Deploy and Manage [V21.x]](https://trainocate.com/sg/courses/vmware/ws1dm21x){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
