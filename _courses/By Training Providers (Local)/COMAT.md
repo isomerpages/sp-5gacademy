@@ -3,8 +3,8 @@ title: COMAT
 permalink: /courses/by-private-training-providers/comat/
 description: ""
 third_nav_title: By Training Providers (Local)
+variant: markdown
 ---
-
 |Course Title  | Level | Duration |
 | - | - | - | 
 |[AI Awareness Training (AI Track)](https://www.comat.com.sg/classroom-learning/training/ai/ai-awareness-training-ai-track/){:target=""_blank"" rel=""noopener""} |Intermediate|8 hrs |
@@ -14,7 +14,6 @@ third_nav_title: By Training Providers (Local)
 |[AZ-900 – Azure Fundamentals](https://www.comat.com.sg/classroom-learning/training/cloud/az-900-azure-fundamentals/){:target=""_blank"" rel=""noopener""} |Basic|8.5 hrs |
 |[CADS - Cybersecurity Attack and Defense Specialist](https://www.comat.com.sg/classroom-learning/training/cyber-security/cads-cybersecurity-attack-and-defense-specialist/){:target=""_blank"" rel=""noopener""} |Intermediate|40.75 hrs |
 |[CCNA - Cisco Certified Network Associate](https://www.comat.com.sg/classroom-learning/training/networking/ccna-cisco-certified-network-associate/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
-|[Certified Ethical Hacker](https://www.comat.com.sg/classroom-learning/training/cyber-security/ceh-certified-ethical-hacker/){:target=""_blank"" rel=""noopener""} |Intermediate|35 hrs |
 |[CHFI – Computer Hacking Forensic Investigator](https://www.comat.com.sg/classroom-learning/training/cyber-security/chfi-computer-hacking-forensic-investigator/){:target=""_blank"" rel=""noopener""} |Intermediate|40 hrs |
 |[CISM - Certified Information Security Manager](https://www.comat.com.sg/classroom-learning/training/cyber-security/cism-certified-information-security-manager/){:target=""_blank"" rel=""noopener""} |Advanced|32 hrs |
 |[CISSP - Certified Information Systems Security Professional](https://www.comat.com.sg/classroom-learning/training/cyber-security/cissp-certified-information-systems-security-professional/){:target=""_blank"" rel=""noopener""} |Advanced|40 hrs |
