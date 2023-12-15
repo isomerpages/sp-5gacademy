@@ -5,6 +5,7 @@ date: 2023-04-19
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 # About the Event
 
@@ -18,23 +19,4 @@ VENUE: via Zoom**
 ![5G BM NIST Cybersecurity Webinar - eDM](/images/events/(5g)%20bm%20nist%20cybersecurity%20webinar%20-%20pic%20edm.jpg)
 
 
-<style>
-#register {
-  background-color: #0000ff;
-  border: none;
-  color: white;
-  padding: 16px 32px;
-  text-align: center;
-  font-size: 16px;
-  margin: 4px 2px;
-  opacity: 0.6;
-  transition: 0.3s;
-  display: inline-block;
-  text-decoration: none;
-  cursor: pointer;
-}
-</style>
-
-<center><a href="https://us06web.zoom.us/webinar/register/WN_9wJyGJSoSuq-mJFSWOJsrA" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
-
-Thank you for your interest. This webinar is over.
+***(Thank you for your interest. This event  is now over.)***
