@@ -3,6 +3,7 @@ title: BridgingMinds
 permalink: /courses/by-private-training-providers/bridgingminds/
 description: ""
 third_nav_title: By Training Providers (Local)
+variant: markdown
 ---
 |Course Title  | Level | Duration |
 | - | - | - | 
@@ -42,4 +43,3 @@ third_nav_title: By Training Providers (Local)
 |[PRINCE2 Foundation](https://www.bridgingminds.net/prince2-foundation/){:target="_blank" rel="noopener"} |Basic|21 hrs |
 |[PRINCE2 Practitoner](https://www.bridgingminds.net/bm-prince2-practitioner-outline/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Professional Scrum Master1](https://www.bridgingminds.net/professional-scrum-master-psm){:target="_blank" rel="noopener"} |Basic|14 hrs |
-|[Traps 4.2: Install, Configure and Manage (EDU-281)](https://www.bridgingminds.net/edu-281/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
