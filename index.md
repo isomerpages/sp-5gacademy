@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banners-and-logos/5G_Academy_Christmas_2023_B.png
+      background: /images/banners-and-logos/5G_Academy_Christmas_2023_A.png
       url: https://form.gov.sg/#!/60fc3172d0fde7001257e316" target="_blank
       key_highlights:
         - title: Manpower Solutions
