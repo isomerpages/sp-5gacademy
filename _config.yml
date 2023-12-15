@@ -1,5 +1,5 @@
 title: Singapore 5G & Telecoms Academy
-url: ""
+url: https://5gacademy.sp.edu.sg
 favicon: /images/5GAcademyIcon_Transparent.png
 colors:
   primary-color: "#104f94"
@@ -52,3 +52,8 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d1vnigv1rymoh8.amplifyapp.com/
 prod: https://master.d1vnigv1rymoh8.amplifyapp.com/
+facebook-pixel: ""
+shareicon: /images/isomer-logo.svg
+is_government: false
+google_analytics_ga4: ""
+linkedin-insights: ""
