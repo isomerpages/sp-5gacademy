@@ -5,6 +5,7 @@ date: 2023-04-06
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 # About the Event
 
@@ -33,26 +34,4 @@ This talk explores the options and techniques available, as well as setting out 
 TIME: 6.00 pm - 7.00 pm (SINGAPORE TIME) <br> 
 VENUE: via Zoom**
 
-![Cover Pic_Wray Castle Webinar on 25 Apr](/images/events/cover%20pic_wray%20castle%20webinar%20on%2025%20apr.jpg)
-
-
-<style>
-#register {
-  background-color: #0000ff;
-  border: none;
-  color: white;
-  padding: 16px 32px;
-  text-align: center;
-  font-size: 16px;
-  margin: 4px 2px;
-  opacity: 0.6;
-  transition: 0.3s;
-  display: inline-block;
-  text-decoration: none;
-  cursor: pointer;
-}
-</style>
-
-<center><a href="https://wraycastle.zoom.us/meeting/register/tZAsf-iurTsqEtSwLKOTVFT2PswIRxPncdCK#/registration" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
-
-Thank you for your interest. This webinar is over.
+***(Thank you for your interest. This event  is now over.)***
