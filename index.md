@@ -15,7 +15,7 @@ sections:
           url: /manpower-solutions/ccp
         - title: Courses
           description: "> 500 courses for sign up"
-          url: /courses/5gtelecoms
+          url: /courses/by-training-providers-global/mpirical/
         - title: Training Partners
           description: IHLs and Training Providers
           url: /training-partners
