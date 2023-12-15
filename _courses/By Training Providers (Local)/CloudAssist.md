@@ -3,8 +3,8 @@ title: CloudAssist
 permalink: /courses/by-private-training-providers/cloudassist/
 description: ""
 third_nav_title: By Training Providers (Local)
+variant: markdown
 ---
-
 |Course Title  | Level | Duration |
 | - | - | - |
 |[CNCF - Certified Kubernetes Administrator (CKA)](https://www.cloudassistsvcs.com/certified-kubernetes-administrator-cka/){:target="_blank" rel="noopener"} |Advanced|32 hrs |
@@ -42,7 +42,6 @@ third_nav_title: By Training Providers (Local)
 |[TOGAF 9.2 Foundation and Certified (Level 1 and 2)](https://www.opengroup.org/certifications/togaf){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[VMware Certified Professional - Data Center Virtualization (VCP-DCV)](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=93058&rcode=CourseCatalog){:target="_blank" rel="noopener"} |Basic|40 hrs |
 |[VMware Certified Professional - Network Virtualization (VCP-NV)](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=92720&rcode=CourseCatalog){:target="_blank" rel="noopener"} |Advanced|40 hrs |
-|[VMware Certified Professional – Spring Certified Professional](https://www.cloudassistsvcs.com/vmware-certified-professional-vm-spring/){:target="_blank" rel="noopener"} |Advanced|32 hrs |
 |[VMware Certified Technical Associate – Application Modernization (VCTA-AM)]|Basic|24 hrs |
 |[VMware Certified Technical Associate - Data Center Virtualization (VCTA-DCV)](https://www.cloudassistsvcs.com/vmware-data-center-virtualization-core-technical-skills/){:target="_blank" rel="noopener"} |Basic|24 hrs |
 |[VMware Cloud Director: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=97100&rcode=CourseCatalog){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
