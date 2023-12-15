@@ -5,6 +5,7 @@ date: 2022-09-05
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ![5GLF 2022 image](/images/events/5GLF/5G%20Website%20Header-S.png)
 # About the Event
@@ -17,13 +18,12 @@ The Minister of Communication and Information, **Mrs Josephine Teo** will be joi
 
 The event will see key presentations from PSA Singapore’s Assistant Vice President (Network Infrastructure), **Mr Klenn Chong** and BHG Singapore’s Head of Finance, **Mr Wilson Cheng**. 
 
-This will be followed by two discussion panels, “Accelerating 5G economy with 5G Workforce” and “How Emerging Technologies Change The Future of Work Panel Discussion”. These discussion panels will be moderated by Dell Technologies’  Vice President & Managing Director Singapore, **Mr Andy Sim** and Microsoft’s Chief Technology & Security Officer Singapore, **Mr Richard Koh**.
+This will be followed by two discussion panels, “Accelerating 5G economy with 5G Workforce” and “How Emerging Technologies Change The Future of Work Panel Discussion”. These discussion panels will be moderated by Dell Technologies’  Vice President &amp; Managing Director Singapore, **Mr Andy Sim** and Microsoft’s Chief Technology &amp; Security Officer Singapore, **Mr Richard Koh**.
 
 
 # Details
 **DATE: 13 OCTOBER 2022** <br> 
 **TIME: 9.00 am - 4.00 pm** <br> 
 
-You may find a detailed agenda on the website: [www.5glearningfestival.com](https://www.5glearningfestival.com/)
 
 ***(Thank you for your interest. This event  is now over.)***
