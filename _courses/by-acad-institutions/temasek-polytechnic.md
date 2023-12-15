@@ -2,6 +2,7 @@
 title: Temasek Polytechnic
 permalink: /courses/by-acad-institutions/tp/
 third_nav_title: By Acad Institutions
+variant: markdown
 ---
 |Course Title  | Level | Duration |
 | - | - | - | 
@@ -14,7 +15,6 @@ third_nav_title: By Acad Institutions
 |[Cloud Technology (Modular Unit stackable to Specialist Diploma in Digital Service Automation) ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/skills-based-modular-courses/stackable-modular-courses/cloud-technology.html){:target="_blank" rel="noopener"} |Intermediate|45 hrs |
 |[Data Communications and Networking (Modular Unit stackable to Diploma in Infocomm and Digital Media (ICT Systems, Services & Support)) - Synchronous & Asynchronous elearning](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/skills-based-modular-courses/stackable-modular-courses/data-communications-networking.html#course-overview){:target=""_blank"" rel=""noopener""} |Basic|60 hrs |
 |[Deep Learning Solutions Development (Modular Unit of Specialist Diploma in AI Solutions Development) - Synchronous & Asynchronous elearning](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/skills-based-modular-courses/stackable-modular-courses/deep-learning-solutions-development.html){:target="_blank" rel="noopener"} |Intermediate|60 hrs |
-|[Edge Artificial Intelligence for Equipment Control and Digitalization in Advanced Manufacturing](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/edge-artificial-intelligence-for-equipment-control-and-digitalisation-in-advanced-manufacturing.html){:target="_blank" rel="noopener"} |Basic|28 hrs |
 |[Enterprise Networking (Modular Unit stackable to Diploma in Infocomm & Digital Media (ICT Systems, Services & Support))](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/skills-based-modular-courses/stackable-modular-courses/copy-of-basic-it-security.html ){:target=""_blank"" rel=""noopener""} |Basic|60 hrs |
 |[Fundamentals of Cyber Security](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/fundamentals-of-cyber-security.html){:target="_blank" rel="noopener"} |Basic|24 hrs |
 |[IIOT Connectivity (Modular Unit stackable to Specialist Diploma in Industrial Internet of Things) - (Classroom, Synchronous & Asynchronous) ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/skills-based-modular-courses/stackable-modular-courses/iiot-connectivity.html){:target="_blank" rel="noopener"} |Basic|60 hrs |
@@ -46,10 +46,7 @@ third_nav_title: By Acad Institutions
 |[TPOL - Big Data and Analytics in Business](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/online-courses/big-data-and-analytics-in-business.html){:target="_blank" rel="noopener"} |Basic|20 hrs |
 |[TPOL - Fundamentals of Cybersecurity and Applications](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/online-courses/fundamentals-of-cybersecurity-and-applications.html){:target="_blank" rel="noopener"} |Basic|20 hrs |
 |[TPOL - The Internet of Things and Everything - IoT/IoE ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/online-courses/the-internet-of-things-and-everything-iot-ioe.html){:target="_blank" rel="noopener"} |Basic|20 hrs |
-|[TPUD - AI Programming with Python](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/nanodegree-programme/ai-programming-with-python.html){:target="_blank" rel="noopener"} |Basic|144 hrs |
-|[TPUD - Introduction to Machine Learning with TensorFlow](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/nanodegree-programme/introduction-to-machine-learning-with-tensorflow.html){:target="_blank" rel="noopener"} |Basic|144 hrs |
 |[Understanding 5G](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/micro-learning-courses/understanding-5g.html){:target="_blank" rel="noopener"} |Basic|4 hrs |
-|[Understanding Cyber Risk Assessment and Management](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/understanding-cyber-risk-assessment-and-management.html){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[ZKB WSGECE SAP SuccessFactors Employee Central - Part Time ](https://sapforgrowth.com/skillsuniversity/){:target="_blank" rel="noopener"} |Basic|78 hrs |
 |[Certificate in Application Development (Modular Certificate 1 of Diploma in Infocomm and Digital Media (Applied Artificial Intelligence) ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/part-time-diploma-post-diploma-courses/diploma-in-infocomm-digital-media-applied-artificial-intelligence.html){:target="_blank" rel="noopener"} |Basic|180 hrs |
 |[Certificate in ICT Essentials (Modular Certificate 1 of Diploma in Infocomm and Digital Media (ICT Systems, Services & Support)) - Synchronous & Asynchronous elearning](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/part-time-diploma-post-diploma-courses/infocomm-and-digital-media-ict-systems-services-and-support.html){:target=""_blank"" rel=""noopener""} |Basic|180 hrs |"
