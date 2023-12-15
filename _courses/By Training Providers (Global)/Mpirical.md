@@ -3,6 +3,7 @@ title: Mpirical
 permalink: /courses/by-training-providers-global/mpirical/
 description: ""
 third_nav_title: By Training Providers (Global)
+variant: markdown
 ---
 |Course Title  | Level | Duration |
 | - | - | - | 
@@ -12,7 +13,6 @@ third_nav_title: By Training Providers (Global)
 |[2G to 5G Mobile Networks (Advanced - Radio) ](https://www.mpirical.com/courses/2g-to-5g-mobile-networks-advanced-radio){:target="_blank" rel="noopener"} |Advanced|66 hrs |
 |[5G Air Interface ](https://www.mpirical.com/courses/5g-air-interface-updated-spring-2022){:target="_blank" rel="noopener"} |Advanced|24 hrs |
 |[5G and 4G Interworking](https://www.mpirical.com/courses/5g-and-4g-interworking){:target="_blank" rel="noopener"} |Intermediate|3 hrs |
-|[5G and Satellite Communications ](https://www.mpirical.com/courses/5g-and-satellite-communications){:target="_blank" rel="noopener"} |Basic|2 hrs |
 |[5G and Transport Networks](https://www.mpirical.com/courses/5g-and-transport-networks){:target="_blank" rel="noopener"} |Basic|3 hrs |
 |[5G Application Programming Interfaces](https://www.mpirical.com/courses/5g-application-programming-interfaces){:target="_blank" rel="noopener"} |Intermediate|3 hrs |
 |[5G Fixed Mobile Convergence ](https://www.mpirical.com/courses/5g-fixed-mobile-convergence){:target="_blank" rel="noopener"} |Intermediate|3 hrs |
@@ -26,4 +26,3 @@ third_nav_title: By Training Providers (Global)
 |[MEC and 5G](https://www.mpirical.com/courses/mec-and-5g){:target="_blank" rel="noopener"} |Intermediate|4 hrs |
 |[SON for 5G ](https://www.mpirical.com/courses/son-for-5g){:target="_blank" rel="noopener"} |Intermediate|3 hrs |
 |[URLLC and 5G ](https://www.mpirical.com/courses/urllc-and-5g){:target="_blank" rel="noopener"} |Intermediate|0.5 day |
-
