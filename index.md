@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banners-and-logos/HP_banner_05_05.jpg
+      background: /images/banners-and-logos/Man_White_Orange_1.jpeg
       url: https://form.gov.sg/#!/60fc3172d0fde7001257e316" target="_blank
       key_highlights:
         - title: Manpower Solutions
@@ -22,9 +22,9 @@ sections:
         - title: Resources
           description: Events and Media Stories
           url: /resources
-      title: Singapore 5G & Telecoms <br> Academy
+      title: Singapore 5G Academy
       subtitle: Charting Singapore's 5G manpower development with you
-      variant: image
+      variant: center
   - infobar:
       title: Manpower Development in <br>5G & Related Technologies
       subtitle: What we offer
