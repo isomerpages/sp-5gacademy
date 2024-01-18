@@ -35,6 +35,16 @@ sections:
       subtitle: Learn more
       button: View More
   - infopic:
+      title: ATxInspire
+      subtitle: Fireside Chat
+      id: infopic
+      description: In Conversation with Doreen Bogdan-Martin, Secretary General,
+        International Telecommunication Union
+      button: Find out more
+      url: /resources/events/in-conversation-with-doreen-bogdan-martin
+      image: /images/events/events/Homepage_Image_ATxInspire_Firechat_Chat.png
+      alt: Image alt text
+  - infopic:
       title: Navigating 5G Security Realities
       subtitle: Webinar - 7 NOV 2023 (TUE)
       id: infopic
@@ -119,14 +129,4 @@ sections:
       url: /resources/articles/singapore-announces-new-5g-projects-in-ev-manufacturing/
       image: /images/articles/weston_robot.jfif
       alt: River Cleaning
-  - infopic:
-      title: ATxInspire
-      subtitle: Fireside Chat
-      id: infopic
-      description: In Conversation with Doreen Bogdan-Martin, Secretary General,
-        International Telecommunication Union
-      button: Find out more
-      url: /resources/events/in-conversation-with-doreen-bogdan-martin
-      image: /images/events/events/Homepage_Image_ATxInspire_Firechat_Chat.png
-      alt: Image alt text
 ---
