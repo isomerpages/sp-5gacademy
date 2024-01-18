@@ -120,8 +120,8 @@ sections:
       image: /images/articles/weston_robot.jfif
       alt: River Cleaning
   - infopic:
-      title: AT x Inspire
-      subtitle: "Fireside Chat "
+      title: ATxInspire
+      subtitle: Fireside Chat
       id: infopic
       description: In Conversation with Doreen Bogdan-Martin, Secretary General,
         International Telecommunication Union
