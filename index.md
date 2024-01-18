@@ -36,7 +36,7 @@ sections:
       button: View More
   - infopic:
       title: ATxInspire
-      subtitle: Fireside Chat
+      subtitle: Fireside Chat-6 FEB 2024 (TUE)
       id: infopic
       description: In Conversation with Doreen Bogdan-Martin, Secretary General,
         International Telecommunication Union
