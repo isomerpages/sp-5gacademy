@@ -14,7 +14,7 @@ sections:
           description: 4 programmes to choose from
           url: /manpower-solutions/ccp
         - title: Courses
-          description: "> 500 courses for sign up"
+          description: "> 1000 courses for sign up"
           url: /courses/by-training-providers-global/mpirical/
         - title: Training Partners
           description: IHLs and Training Providers
