@@ -39,7 +39,7 @@ sections:
       subtitle: Fireside Chat-6 FEB 2024 (TUE)
       id: infopic
       description: "In Conversation with Doreen Bogdan-Martin<br>DATE: 6 FEB 2024
-        (TUE) <br> TIME: 9.30 AM - 11 AM "
+        (TUE) <br> TIME: 9.30 AM - 11 AM"
       button: Find out more
       url: /resources/events/in-conversation-with-doreen-bogdan-martin
       image: /images/events/events/Homepage_Image_ATxInspire_Firechat_Chat.png
