@@ -14,7 +14,7 @@ sections:
           description: 4 programmes to choose from
           url: /manpower-solutions/ccp
         - title: Courses
-          description: "> 500 courses for sign up"
+          description: "> 1000 courses for sign up"
           url: /courses/by-training-providers-global/mpirical/
         - title: Training Partners
           description: IHLs and Training Providers
@@ -34,6 +34,16 @@ sections:
       title: Resources
       subtitle: Learn more
       button: View More
+  - infopic:
+      title: ATxInspire
+      subtitle: Fireside Chat-6 FEB 2024 (TUE)
+      id: infopic
+      description: "In Conversation with Doreen Bogdan-Martin<br>DATE: 6 FEB 2024
+        (TUE) <br> TIME: 9.30 AM - 11 AM"
+      button: Find out more
+      url: /resources/events/in-conversation-with-doreen-bogdan-martin
+      image: /images/events/events/Homepage_Image_ATxInspire_Firechat_Chat.png
+      alt: Image alt text
   - infopic:
       title: Navigating 5G Security Realities
       subtitle: Webinar - 7 NOV 2023 (TUE)
