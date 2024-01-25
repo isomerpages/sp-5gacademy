@@ -1,0 +1,34 @@
+collections:
+  courses:
+    output: true
+    order:
+      - by-acad-institutions/.keep
+      - by-acad-institutions/institute-of-technical-education.md
+      - by-acad-institutions/nanyang-polytechnic.md
+      - by-acad-institutions/nanyang-technological-university.md
+      - by-acad-institutions/national-university-of-singapore.md
+      - by-acad-institutions/ngee-ann-polytechnic.md
+      - by-acad-institutions/republic-polytechnic.md
+      - by-acad-institutions/singapore-institute-of-technology.md
+      - by-acad-institutions/singapore-management-university.md
+      - by-acad-institutions/singapore-polytechnic.md
+      - by-acad-institutions/singapore-university-of-social-sciences.md
+      - by-acad-institutions/singapore-university-of-technology-and-design.md
+      - by-acad-institutions/temasek-polytechnic.md
+      - By Training Providers (Local)/.keep
+      - By Training Providers (Local)/BridgingMinds.md
+      - By Training Providers (Local)/CloudAssist.md
+      - By Training Providers (Local)/COMAT.md
+      - By Training Providers (Local)/Dell Technologies.md
+      - By Training Providers (Local)/IBM Singapore.md
+      - By Training Providers (Local)/NTUC LearningHub.md
+      - By Training Providers (Local)/Trainocate.md
+      - By Training Providers (Global)/.keep
+      - By Training Providers (Global)/5GWorldPro.md
+      - By Training Providers (Global)/Alta3 Research.md
+      - By Training Providers (Global)/Apis Training.md
+      - By Training Providers (Global)/IS Wireless Academy.md
+      - By Training Providers (Global)/Mpirical.md
+      - By Training Providers (Global)/P1 Security.md
+      - By Training Providers (Global)/Qualcomm Wireless Academy.md
+      - By Training Providers (Global)/Wray Castle.md
