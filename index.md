@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banners-and-logos/Man_White_Orange_1.jpeg
+      background: /images/Red_and_Gold_Modern_Lunar_New_Year_2024_Banner.png
       url: https://form.gov.sg/#!/60fc3172d0fde7001257e316" target="_blank
       key_highlights:
         - title: Manpower Solutions
@@ -24,7 +24,7 @@ sections:
           url: /resources
       title: Singapore <br> 5G Academy
       subtitle: Charting Singapore's 5G manpower development with you
-      variant: center
+      variant: image
   - infobar:
       title: Manpower Development in <br>5G & Related Technologies
       subtitle: What we offer
