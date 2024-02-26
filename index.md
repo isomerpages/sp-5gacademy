@@ -7,14 +7,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Red_and_Gold_Modern_Lunar_New_Year_2024_Banner.png
+      background: /images/banners-and-logos/Man_White_Orange_1.jpeg
       url: https://form.gov.sg/#!/60fc3172d0fde7001257e316" target="_blank
       key_highlights:
         - title: Manpower Solutions
           description: 4 programmes to choose from
           url: /manpower-solutions/ccp
         - title: Courses
-          description: "> 1000 courses for sign up"
+          description: "> 900 courses for sign up"
           url: /courses/by-training-providers-global/mpirical/
         - title: Training Partners
           description: IHLs and Training Providers
@@ -24,7 +24,7 @@ sections:
           url: /resources
       title: Singapore <br> 5G Academy
       subtitle: Charting Singapore's 5G manpower development with you
-      variant: image
+      variant: center
   - infobar:
       title: Manpower Development in <br>5G & Related Technologies
       subtitle: What we offer
