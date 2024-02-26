@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Red_and_Gold_Modern_Lunar_New_Year_2024_Banner.png
+      background: /images/banners-and-logos/Man_White_Orange_1.jpeg
       url: https://form.gov.sg/#!/60fc3172d0fde7001257e316" target="_blank
       key_highlights:
         - title: Manpower Solutions
