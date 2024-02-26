@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>(Thank you for your interest. This event is now over.)</strong>
+<p><strong><em>(Thank you for your interest. This event is now over.)</em></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ATxInspire Fireside Chat" src="/images/events/events/ATxInspire_Fireside_Chat_on_6_Feb.png">
