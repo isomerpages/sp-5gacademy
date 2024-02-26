@@ -24,7 +24,7 @@ sections:
           url: /resources
       title: Singapore <br> 5G Academy
       subtitle: Charting Singapore's 5G manpower development with you
-      variant: image
+      variant: center
   - infobar:
       title: Manpower Development in <br>5G & Related Technologies
       subtitle: What we offer
