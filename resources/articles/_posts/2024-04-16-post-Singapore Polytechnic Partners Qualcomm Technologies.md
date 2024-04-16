@@ -28,7 +28,6 @@ Qualcomm to enhance their job prospects in the 5G digital ecosystem.</p>
 will have the opportunity to participate in this program. These students
 will embark on two beginner-level courses from Qualcomm Academy's “5G University
 Program": "5G Primer" and "Fundamentals of Cellular Communication and 5G".</p>
-<p></p>
 <p>This collaboration is expected to benefit approximately 150 students per
 academic year and aligns with both SP's and Qualcomm's commitment to nurturing
 the next generation of innovators and wireless engineers, empowering them
