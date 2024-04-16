@@ -9,10 +9,9 @@ variant: tiptap
 ---
 <p><strong>8 Apr 2024</strong>
 </p>
-<p>Singapore Polytechnic (SP), acting through the chool of Electrical &amp;&nbsp;Electronic
-Engineering (EEE), announced two new collaborations with industry partners
-Qualcomm Technologies and Republic of Singapore Airforce (RSAF) on 8 April
-2024.</p>
+<p>Singapore Polytechnic (SP), acting through the School of Electrical &amp;&nbsp;Electronic
+Engineering (EEE), announced a new collaborations with industry partner
+Qualcomm Technologies on 8 April 2024.</p>
 <p>In November 2023, SP and Qualcomm Technologies Inc. (QTI) officially signed
 the Master Qualcomm Wireless Academy Training Program Agreement. SP is
 the first IHL in Singapore to collaborate with Qualcomm, to offer students
