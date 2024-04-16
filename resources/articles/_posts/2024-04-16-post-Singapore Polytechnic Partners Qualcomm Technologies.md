@@ -33,3 +33,5 @@ academic year and aligns with both SP's and Qualcomm's commitment to nurturing
 the next generation of innovators and wireless engineers, empowering them
 with the requisite skills and knowledge to transform the 5G landscape in
 Singapore and beyond.</p>
+<p><strong><em>(Article from Singapore Polytechnic)</em></strong>
+</p>
