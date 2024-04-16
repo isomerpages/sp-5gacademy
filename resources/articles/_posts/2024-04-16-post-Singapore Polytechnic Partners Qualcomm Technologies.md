@@ -20,6 +20,9 @@ others, via Qualcomm Academy, the training arm of Qualcomm. Students will
 receive free 5G training, with the option to earn a 5G Certificate from
 Qualcomm to enhance their job prospects in the 5G digital ecosystem.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SP Qualcomm Partnership Main Pic" src="/images/articles/SP_partners_Qualcomm_Main_Image_8_Apr_2024.jpg">
+</div>
 <p>Starting this April, Year 3 students from the Diploma in Computer Engineering
 (DCPE) specialising in either "Computer Applications" or "Smart City Technologies"
 will have the opportunity to participate in this program. These students
