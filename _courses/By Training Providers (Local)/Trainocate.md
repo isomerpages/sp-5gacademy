@@ -153,7 +153,6 @@ variant: markdown
 |[VMware - (VSKDM7) VMware vSphere with Tanzu: Deploy and Manage v7](https://trainocate.com/sg/courses/vmware/vskdm7){:target="_blank" rel="noopener"} |Advanced|24 hrs |
 |[VMware - (VSICM7) VMware vSphere: Install, Configure, Manage v7](https://trainocate.com/sg/courses/vmware/vsicm7){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[VMware - (VSOS7) VMware vSphere: Optimize and Scale [V7]](https://trainocate.com/sg/courses/vmware/vsos7){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
-|[VMware - (VOSTFT7)VMware vSphere: Optimize and Scale plus Troubleshooting Fast Track [V7]](https://trainocate.com/sg/courses/vmware/vostft7){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[VMware - (VSTS7) VMware vSphere: Troubleshooting [V7]](https://trainocate.com/sg/courses/vmware/vsts7){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[VMware - (VSFT7) VMware vSphere: Fast Track [V7]](https://trainocate.com/sg/courses/vmware/vsft7){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[VMware - (VSD7) VMware vSphere: Design [V7]](https://trainocate.com/sg/courses/vmware/vsd7){:target="_blank" rel="noopener"} |Advanced|24 hrs |
