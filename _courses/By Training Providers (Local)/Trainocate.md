@@ -18,7 +18,6 @@ variant: markdown
 |[AWS - (ADVARC) Advanced Architecting on AWS](https://trainocate.com/sg/courses/aws/aws-advarc){:target="_blank" rel="noopener"} |Advanced|24 hrs |
 |[AWS - (ADVDEV) Advanced Developing on AWS](https://trainocate.com/sg/courses/aws/aws-adv-dev){:target="_blank" rel="noopener"} |Advanced|24 hrs |
 |[AWS - (DEVOPS) DevOps Engineering on AWS](https://trainocate.com/sg/courses/aws/aws-devops){:target="_blank" rel="noopener"} |Advanced|24 hrs |
-|[AWS - (BDATA) Big Data on AWS](https://trainocate.com/sg/courses/aws/aws-bdata){:target="_blank" rel="noopener"} |Advanced|24 hrs |
 |[AWS - (DATAWARE) Data Warehousing on AWS ](https://trainocate.com/sg/courses/aws/aws-dataware){:target="_blank" rel="noopener"} |Advanced|24 hrs |
 |[AWS - (SECENG) Security Engineering on AWS ](https://trainocate.com/sg/courses/aws/aws-seceng){:target="_blank" rel="noopener"} |Advanced|24 hrs |
 |[AWS - (ML) The Machine Learning Pipeline on AWS](https://trainocate.com/sg/courses/aws/aws-ml){:target="_blank" rel="noopener"} |Advanced|32 hrs |
@@ -104,18 +103,12 @@ variant: markdown
 |[ISACA - (CISA) Certified Information Systems Auditor](https://trainocate.com/sg/courses/isaca/cisa){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[ISACA - (CRISC) Certified in Risk and Information Systems Control](https://trainocate.com/sg/courses/isaca/crisc){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
 |[ISACA - (CGEIT) Certified in the Governance of Enterprise IT](https://trainocate.com/sg/courses/isaca/cgeit){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
-|[Microsoft - (AZ-900) Azure Fundamentals ](https://trainocate.com/sg/courses/microsoft/az-900t00-a){:target="_blank" rel="noopener"} |Basic|16 hrs |
 |[Microsoft - (AI-900) Azure AI Fundamentals ](https://trainocate.com/sg/courses/microsoft/ai-900){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |[Microsoft - (DP-900) Azure Data Fundamentals ](https://trainocate.com/sg/courses/microsoft/dp-900){:target="_blank" rel="noopener"} |Basic|8 hrs |
-|[Microsoft - (AZ-120) Planning and Administering Microsoft Azure for SAP Workloads](https://trainocate.com/sg/courses/microsoft/az-120t00-a){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
-|[Microsoft - (AZ-220) Azure IoT Developer](https://trainocate.com/sg/courses/microsoft/az-220t00-a){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
-|[Microsoft - (AZ-140) Configuring and Operating Microsoft Azure Virtual Desktop](https://trainocate.com/sg/courses/microsoft/az-140t00-a){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
 |[Microsoft - (DP-420) Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB](https://trainocate.com/sg/courses/microsoft/dp-420t00){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
 |[Microsoft - (AZ-104) Azure Administrator ](https://trainocate.com/sg/courses/microsoft/az-104){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
 |[Microsoft - (AZ-500) Azure Security Technologies (AZ-500)](https://trainocate.com/sg/courses/microsoft/az-500){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
 |[Microsoft -  (AZ-204) Developing Solutions for Microsoft Azure](https://trainocate.com/sg/courses/microsoft/az-204){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
-|[Microsoft - (DP-300) Administering Relational Databases on Microsoft Azure](https://trainocate.com/sg/courses/microsoft/dp-300t00-a){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
-|[Microsoft - (AZ-600)Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub](https://trainocate.com/sg/courses/microsoft/az-600t00){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
 |[Microsoft - (AZ-700) Designing and Implementing Microsoft Azure Networking Solutions](https://trainocate.com/sg/courses/microsoft/az-700){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
 |[Microsoft - (DP-100) Designing and Implementing a Data Science Solution on Azure ](https://trainocate.com/sg/courses/microsoft/dp-100){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
 |[Microsoft - (DP-203) Data Engineering on Microsoft Azure ](https://trainocate.com/sg/courses/microsoft/dp-203t00-a){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
@@ -123,13 +116,10 @@ variant: markdown
 |[Microsoft - (AZ-305) Designing Microsoft Azure Infrastructure Solutions ](https://trainocate.com/sg/courses/microsoft/az-305){:target="_blank" rel="noopener"} |Advanced|32 hrs |
 |[Microsoft - (AZ-500) Azure Security Technologies](https://trainocate.com/sg/courses/microsoft/az-500){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
 |[Microsoft - (MS-500) Microsoft 365 Security Administration ](https://trainocate.com/sg/courses/microsoft/ms-500){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
-|[Microsoft - (MD-100) Windows 10](https://trainocate.com/sg/courses/microsoft/md-100t00-a){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
-|[Microsoft - (MD-101) Managing Modern Desktops](https://trainocate.com/sg/courses/microsoft/md-101t00-a){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[Microsoft - (MS-203) Microsoft 365 Messaging](https://trainocate.com/sg/courses/microsoft/ms-203t00-a){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[Microsoft - (MS-500) Microsoft 365 Security Administration](https://trainocate.com/sg/courses/microsoft/ms-500){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
 |[Microsoft - (MS-600) Building applications and solutions with Microsoft 365 core services](https://trainocate.com/sg/courses/microsoft/ms-600t00-a){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[Microsoft - (MS-700) Managing Microsoft Teams](https://trainocate.com/sg/courses/microsoft/ms-700t00-a){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
-|[Microsoft - (MS-100) Microsoft 365 Identity and Services](https://trainocate.com/sg/courses/microsoft/ms-100t00-a){:target="_blank" rel="noopener"} |Advanced|40 hrs |
 |[Microsoft - (MS-101) Microsoft 365 Mobility and Security](https://trainocate.com/sg/courses/microsoft/ms-101t00-a){:target="_blank" rel="noopener"} |Advanced|40 hrs |
 |[Microsoft - (PL-300) Power BI Analyst ](https://trainocate.com/sg/courses/microsoft/pl-300t00){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
 |[Microsoft - (PL-600) Microsoft Power Platform Solution Architect ](https://trainocate.com/sg/courses/microsoft/pl-600t00){:target="_blank" rel="noopener"} |Advanced|32 hrs |
