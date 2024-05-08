@@ -7,7 +7,6 @@ description: ""
 image: ""
 variant: markdown
 ---
-![Wray Castle Webinar Mar 2023](/images/events/Wray%20Castle%20Webinar%20Mar%202023.jpg)
 ### 23rd March 2023 (10am UK Time)/ (6pm Singapore Time)
 **Join us on 23rd March at 10am UK Time (6pm Singapore Time) for this live webinar Radio Propagation Mechanisms Explained**
 
