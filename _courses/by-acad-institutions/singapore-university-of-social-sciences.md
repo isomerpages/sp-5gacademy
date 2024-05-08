@@ -18,7 +18,6 @@ variant: markdown
 |[Cloud Computing for All (Synchronous e-Learning)](https://www.suss.edu.sg/courses/short-course/detail/CET101){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Cloud Computing for Managers 1 ](https://www.suss.edu.sg/courses/short-course/detail/CET201){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Cloud Computing for Managers 2](https://www.suss.edu.sg/courses/short-course/detail/CET301){:target="_blank" rel="noopener"} |Advanced|7 hrs |
-|[Cloud Computing: Application and Solutions (Classroom & Asynchronous)](https://www.suss.edu.sg/courses/detail/cet250){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
 |[Cloud Computing: Business Case and Technical Models ](https://www.suss.edu.sg/courses/detail/ICT335){:target="_blank" rel="noopener"} |Basic|36 hrs |
 |[Computer Network and Network Security](https://www.suss.edu.sg/courses/detail/FIN529){:target="_blank" rel="noopener"} |Basic|18 hrs |
 |[Computer Networking ](https://www.suss.edu.sg/courses/detail/ICT259){:target="_blank" rel="noopener"} |Basic|36 hrs |
