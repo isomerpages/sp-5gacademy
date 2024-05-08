@@ -5,6 +5,7 @@ date: 2023-03-20
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ![Wray Castle Webinar Mar 2023](/images/events/Wray%20Castle%20Webinar%20Mar%202023.jpg)
 ### 23rd March 2023 (10am UK Time)/ (6pm Singapore Time)
@@ -38,23 +39,5 @@ The session ends with an examination of the challenges and opportunities that mi
 * Penetration Losses
 * Foliage Losses
 
-<style>
-#register {
-  background-color: #0000ff;
-  border: none;
-  color: white;
-  padding: 16px 32px;
-  text-align: center;
-  font-size: 16px;
-  margin: 4px 2px;
-  opacity: 0.6;
-  transition: 0.3s;
-  display: inline-block;
-  text-decoration: none;
-  cursor: pointer;
-}
-</style>
-
-<center><a href="https://wraycastle.zoom.us/meeting/register/tZEsfu-orjwiGdTRrqAFuOlb_DV5ZNUBQHHE" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
 
 Thank you for your interest. This webinar is over.
