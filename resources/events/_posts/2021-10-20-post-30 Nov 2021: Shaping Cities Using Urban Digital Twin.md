@@ -4,8 +4,8 @@ date: 2021-10-20
 permalink: /resources/events/urban-digital-twin/
 layout: post
 description: ""
+variant: markdown
 ---
-
 # About the Event
 
 Cities around the world are increasingly integrating socio-technical data to transform their urban systems toward digital city systems. As the world continues to urbanise, convergent science, engineering and policy for urban systems are needed to ensure such transformative developments are, in fact, creating sustainable urban systems that benefit the citizens and societies at large.
@@ -25,24 +25,4 @@ VENUE: via Zoom**
 
 ![Urban Digital Twin](/images/events/events/Urban%20Digital%20Twin.png)
 
-
-<style>
-#register {
-  background-color: #0000ff;
-  border: none;
-  color: white;
-  padding: 16px 32px;
-  text-align: center;
-  font-size: 16px;
-  margin: 4px 2px;
-  opacity: 0.6;
-  transition: 0.3s;
-  display: inline-block;
-  text-decoration: none;
-  cursor: pointer;
-}
-</style>
-
-<center><a href="https://bit.ly/2ZooBqQ " target="_blank"><button id="register" class="btn">Register Now</button></a></center>
-
-Thank you for your interest. This event is over. 
+Thank you for your interest. This event is over.
