@@ -11,7 +11,6 @@ variant: markdown
 |Ap+A2:L3plied Social Media Marketing With Data Analytics & AR|Basic|88 hrs |
 |Application Modernization Fundamentals|Basic|3 days |
 |Architecting on AWS |Intermediate|24 hrs |
-|[AWS Cloud Practitoner Essentials ](https://www.ntuclearninghub.com/en-gb/-/course/aws-cloud-practitioner-essentials-2){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |Certified Cloud Security Professional (CCSP)|Advanced|40 hrs |
 |Certified Digital Persuasion Analyst (UIUX)|Intermediate|35 hrs |
 |Cisco CCNA Cyber Security Operations]|Intermediate| |
@@ -34,7 +33,6 @@ variant: markdown
 |ISACA Certificate of Cloud Auditing Knowledge (CCAK)|Basic| |
 |IISACA Certified Information Security Manager® (CISM®)|Intermediate| |
 |[Kubernetes Foundations & Cluster Operations](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=96906&rcode=CourseCatalog){:target="_blank" rel="noopener"} |Basic|4 days|
-|[Microsoft Azure Cloud Fundamentals](https://www.ntuclearninghub.com/en-gb/-/course/microsoft-azure-fundamentals){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |Microsoft Azure Security Technologies|Advanced|32 hrs |
 |NICF - EC-Council Certified Incident Handler (ECIH)|Intermediate| |
 |NICF - Microsoft Azure Administrator (SF)|Intermediate|32 hrs |
@@ -57,7 +55,6 @@ variant: markdown
 |[VMware Telco Cloud Infrastructure: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=97110){:target="_blank" rel="noopener"} |Advanced|5 days |
 |VMware Telco Cloud Operations: Install, Configure, Manage|Advanced|3 days |
 |[VMware Telco Cloud Platform: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=97105){:target="_blank" rel="noopener"} |Advanced|3 days |
-|[Vmware Virtualisation and Cloud Fundamentals](https://www.ntuclearninghub.com/en-gb/-/course/vmware-virtualization-and-cloud-fundamentals-2){:target="_blank" rel="noopener"} |Basic|22.5 hrs |
 |VMware vRealize Automation: Install  Configure  Manage [V8.3]|Intermediate|40 hrs |
 |VMware vRealize Operations: Install  Configure  Manage [V8.2]|Intermediate|40 hrs |
 |[VMware vSAN: Management and Operations](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=94596&rcode=CourseCatalog){:target="_blank" rel="noopener"} |Basic|3 days |
