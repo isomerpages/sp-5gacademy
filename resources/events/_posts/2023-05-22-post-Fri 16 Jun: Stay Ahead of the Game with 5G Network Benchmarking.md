@@ -5,6 +5,7 @@ date: 2023-05-22
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 # About the Event
 
@@ -16,23 +17,6 @@ TIME: 3.00 pm - 4.00 pm
 
 ![Keysight Webinar 2023](/images/events/edmss_keysight%20webinar.png)
 
-<style>
-#register {
-  background-color: #0000ff;
-  border: none;
-  color: white;
-  padding: 16px 32px;
-  text-align: center;
-  font-size: 16px;
-  margin: 4px 2px;
-  opacity: 0.6;
-  transition: 0.3s;
-  display: inline-block;
-  text-decoration: none;
-  cursor: pointer;
-}
-</style>
 
-<center><a href="https://bit.ly/3nP3has" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
 
-Thank you for your interest. This webinar is over.
+***Thank you for your interest. This webinar is over.***
