@@ -4,6 +4,7 @@ permalink: /resources/events/powering-brand-experience-with-arvr/
 date: 2022-01-28
 layout: post
 description: ""
+variant: markdown
 ---
 # About the Event
 
@@ -21,23 +22,5 @@ VENUE: via Zoom**
 ![Powering Brand Experiences with ARVR](/images/events/Powering%20Brand%20Experience%20with%20ARVR.png)
 
 
-<style>
-#register {
-  background-color: #0000ff;
-  border: none;
-  color: white;
-  padding: 16px 32px;
-  text-align: center;
-  font-size: 16px;
-  margin: 4px 2px;
-  opacity: 0.6;
-  transition: 0.3s;
-  display: inline-block;
-  text-decoration: none;
-  cursor: pointer;
-}
-</style>
-
-<center><a href="https://imda-pixel.sg/event/305" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
 
 Thank you for your interest. This event is over.
