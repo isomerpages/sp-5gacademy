@@ -5,8 +5,9 @@ permalink: /contact-us/
 agency_name: Singapore <br>5G & Telecoms <br> Academy
 contacts:
   - content:
-      - phone: ""
-      - email: ""
-      - other: <a href="https://form.gov.sg/#!/60fc3172d0fde7001257e316" target="_blank">Please click here</a>
-    title: ""
+      - phone: +65 6772 1935
+      - email: elaine_lye@sp.edu.sg
+      - other: ""
+    title: Elaine Lye
+feedback: ""
 ---
