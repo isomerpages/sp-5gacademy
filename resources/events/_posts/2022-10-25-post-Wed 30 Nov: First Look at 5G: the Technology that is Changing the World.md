@@ -5,26 +5,9 @@ date: 2022-10-25
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ![Qualcomm Webinar Details](/images/events/events/Qualcomm%20Webinar%20Details.jpg)
 
-<style>
-#register {
-  background-color: #0000ff;
-  border: none;
-  color: white;
-  padding: 16px 32px;
-  text-align: center;
-  font-size: 16px;
-  margin: 4px 2px;
-  opacity: 0.6;
-  transition: 0.3s;
-  display: inline-block;
-  text-decoration: none;
-  cursor: pointer;
-}
-</style>
 
-<center><a href="https://nus.syd1.qualtrics.com/jfe/form/SV_6u0U86FOyoACqOi?Q_CHL=rq " target="_blank"><button id="register" class="btn">Register Now</button></a></center>
-
-Thank you for your interest. This webinar now is over.
+***Thank you for your interest. This webinar now is over.***
