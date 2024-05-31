@@ -36,8 +36,7 @@ workflow and traceable setup for inspection station, and AR-guided training
 for machine operation</p>
 </li>
 </ol>
-<p><strong><em>Please register using the link below.</em></strong>
-</p>
+<p></p>
 <h1>Details</h1>
 <p><strong>DATE: 13 OCTOBER 2022</strong> 
 <br><strong>TIME: 2.00 pm - 4.00 pm</strong> 
