@@ -4,6 +4,7 @@ permalink: /resources/events/artc-5g-smart-factory/
 date: 2022-08-20
 layout: post
 description: ""
+variant: markdown
 ---
 ***(Thank you for your interest. This event  is now over.)***
 
@@ -28,23 +29,4 @@ Join us at the ARTC 5G Smart Factory and discover how 5G can support advanced ma
 **VENUE: Advanced Remanufacturing and Technology Centre (ARTC)** <br>
 
 ![ARTC Image](/images/events/5GLF/ARTC_Site_01.jpg)
-
-<style>
-#register {
-  background-color: #0000ff;
-  border: none;
-  color: white;
-  padding: 16px 32px;
-  text-align: center;
-  font-size: 16px;
-  margin: 4px 2px;
-  opacity: 0.6;
-  transition: 0.3s;
-  display: inline-block;
-  text-decoration: none;
-  cursor: pointer;
-}
-</style>
-
-<center><a href="https://form.gov.sg/628f22d33778d80011a07cc6 " target="_blank"><button id="register" class="btn">Register Now</button></a></center>
 
