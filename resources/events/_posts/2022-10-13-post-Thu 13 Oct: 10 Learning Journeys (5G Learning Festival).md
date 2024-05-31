@@ -5,8 +5,8 @@ date: 2022-10-13
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-
 ***(Thank you for your interest. This event  is now over.)***
 
 ![5GLF Group Photo_SP](/images/events/5GLF/5GLF%20Group%20Photo_5G%20AIoT%20Centre,%20SP.jpg)
@@ -37,23 +37,5 @@ As there is a cap to the number of visitors for each site, please select more th
 
 ![List of 10 Learning Journeys](/images/events/5GLF/Learning%20Journey%20Website-3s.png)
 
-<style>
-#register {
-  background-color: #0000ff;
-  border: none;
-  color: white;
-  padding: 16px 32px;
-  text-align: center;
-  font-size: 16px;
-  margin: 4px 2px;
-  opacity: 0.6;
-  transition: 0.3s;
-  display: inline-block;
-  text-decoration: none;
-  cursor: pointer;
-}
-</style>
-
-<center><a href="https://form.gov.sg/628f22d33778d80011a07cc6" target="_blank"><button id="register" class="btn">Register Now</button></a></center>
 
 ***(Thank you for your interest. This event  is now over.)***
