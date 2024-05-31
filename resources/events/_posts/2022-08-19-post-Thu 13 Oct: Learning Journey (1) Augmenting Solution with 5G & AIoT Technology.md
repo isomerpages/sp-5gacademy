@@ -27,4 +27,3 @@ This learning journey will introduce participants the pervasive connectivity and
 
 
 ![5G Learning Journey Cover Pic](/images/events/5GLF/5G%20Learning%20Journey%20Cover%20Pic.jpg)
-
