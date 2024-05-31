@@ -5,8 +5,8 @@ date: 2023-03-12
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-![Wray Castle Connect](/images/events/Wray%20Castle%20Connect%20Picture.jpg)
 
 ### About Wray Castle Connect
 
