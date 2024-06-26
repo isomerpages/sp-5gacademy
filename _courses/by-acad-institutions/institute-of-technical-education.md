@@ -13,7 +13,6 @@ variant: markdown
 |[CoC in Cyber Security (Network, Internet & Forensics)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-cyber-security-network-internet-forensics){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
 |[CoC in Cybersecurity - Ethical Hacking](https://www.ite.edu.sg/courses/course-finder/course/coc-in-data-analytics-using-microsoft-excel){:target="_blank" rel="noopener"} |Intermediate|12 hrs |
 |[CoC in Fundamentals to Data Visualisation using Tableau](https://www.ite.edu.sg/courses/course-finder/course/coc-in-data-visualisation-using-tableau){:target="_blank" rel="noopener"} |Basic|6 hrs |
-|[CoC in Internet of Things (Smart Energy Management)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-internet-of-things-smart-energy-fundamentals){:target="_blank" rel="noopener"} |Basic|27 hrs |
 |[CoC in Introduction to Artificial Intelligence](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-artificial-intelligence){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in Introduction to Drone Programming](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-drone-programming){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in Introduction to High Performance Computing (HPC)](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-high-performance-computing-(hpc)){:target="_blank" rel="noopener"} |Basic|7 hrs |
