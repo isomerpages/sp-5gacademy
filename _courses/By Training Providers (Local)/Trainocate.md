@@ -114,7 +114,6 @@ variant: markdown
 |[Microsoft - (AI-102) Designing and Implementing a Microsoft Azure AI Solution ](https://trainocate.com/sg/courses/microsoft/ai-102t00){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
 |[Microsoft - (AZ-305) Designing Microsoft Azure Infrastructure Solutions ](https://trainocate.com/sg/courses/microsoft/az-305){:target="_blank" rel="noopener"} |Advanced|32 hrs |
 |[Microsoft - (AZ-500) Azure Security Technologies](https://trainocate.com/sg/courses/microsoft/az-500){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
-|[Microsoft - (MS-500) Microsoft 365 Security Administration ](https://trainocate.com/sg/courses/microsoft/ms-500){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
 |[Microsoft - (PL-300) Power BI Analyst ](https://trainocate.com/sg/courses/microsoft/pl-300t00){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
 |[Microsoft - (PL-600) Microsoft Power Platform Solution Architect ](https://trainocate.com/sg/courses/microsoft/pl-600t00){:target="_blank" rel="noopener"} |Advanced|32 hrs |
 |[NetApp - (CDOTDP9) ONTAP Cluster Administration and Data Protection Bundle](https://trainocate.com/sg/courses/netapp/cdotdp9){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
