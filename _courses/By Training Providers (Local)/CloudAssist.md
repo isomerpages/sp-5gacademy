@@ -13,7 +13,6 @@ variant: markdown
 |[EC Counci - Certified Hacking Forensic Investigator (CHFI)](https://www.eccouncil.org/programs/computer-hacking-forensic-investigator-chfi/){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[EC Counci - Certified Incident Handler (CIH)](https://www.eccouncil.org/programs/ec-council-certified-incident-handler-ecih/){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
 |[EC Council - Certified Ethical Hacker (CEH)](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
-|[Google Cloud Certified - Associate Cloud Engineer](https://www.cloudassistsvcs.com/google-cloud-certified-associate-cloud-engineer/){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
 |[Google Cloud Certified - Cloud Digital Leader](https://cloud.google.com/training/business#cloud-digital-leader-path){:target="_blank" rel="noopener"} |Basic|16 hrs |
 |[Google Cloud Certified - Professional Machine Learning Engineer](https://cloud.google.com/training/machinelearning-ai#data-scientist-learning-path){:target="_blank" rel="noopener"} |Advanced|28 hrs |
 |[IASA - IT Architecture Core (AC) CITA-F (Foundation Training)](https://iasaglobal.org/Public/Learn/Course-Offerings/Certified-IT-Architect---Foundation.aspx){:target="_blank" rel="noopener"} |Basic|32 hrs |

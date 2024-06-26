@@ -27,7 +27,6 @@ variant: markdown
 |Fundamentals of Business Development & Account Management|Basic|64 hrs |
 |IBFIT11 - Machine Learning Pipline on AWS|Advanced|32 hrs |
 |IBFIT21 - Vmware Virtualisation and Cloud Fundamentals|Basic|22.5 hrs |
-|[IBFIT36 - Microsoft Azure Cloud Fundamentals](https://www.ntuclearninghub.com/en-gb/-/course/microsoft-azure-fundamentals){:target="_blank" rel="noopener"} |Basic|8 hrs |
 |IInteraction Design for Augmented Reality|Basic|88 hrs |
 |Internet of Things Practitioner Part 1|Basic|37.5 hrs |
 |ISACA Certificate of Cloud Auditing Knowledge (CCAK)|Basic| |

@@ -114,7 +114,6 @@ variant: markdown
 |[Microsoft - (AI-102) Designing and Implementing a Microsoft Azure AI Solution ](https://trainocate.com/sg/courses/microsoft/ai-102t00){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
 |[Microsoft - (AZ-305) Designing Microsoft Azure Infrastructure Solutions ](https://trainocate.com/sg/courses/microsoft/az-305){:target="_blank" rel="noopener"} |Advanced|32 hrs |
 |[Microsoft - (AZ-500) Azure Security Technologies](https://trainocate.com/sg/courses/microsoft/az-500){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
-|[Microsoft - (MS-500) Microsoft 365 Security Administration ](https://trainocate.com/sg/courses/microsoft/ms-500){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
 |[Microsoft - (PL-300) Power BI Analyst ](https://trainocate.com/sg/courses/microsoft/pl-300t00){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
 |[Microsoft - (PL-600) Microsoft Power Platform Solution Architect ](https://trainocate.com/sg/courses/microsoft/pl-600t00){:target="_blank" rel="noopener"} |Advanced|32 hrs |
 |[NetApp - (CDOTDP9) ONTAP Cluster Administration and Data Protection Bundle](https://trainocate.com/sg/courses/netapp/cdotdp9){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
@@ -157,7 +156,6 @@ variant: markdown
 |[VMware - (VSFT7) VMware vSphere: Fast Track [V7]](https://trainocate.com/sg/courses/vmware/vsft7){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[VMware - (VSD7) VMware vSphere: Design [V7]](https://trainocate.com/sg/courses/vmware/vsd7){:target="_blank" rel="noopener"} |Advanced|24 hrs |
 |[VMware - (VSAAW7) Vmware vSphere: Advanced Administration Workshop [V7]](https://trainocate.com/sg/courses/vmware/vsaaw7){:target="_blank" rel="noopener"} |Advanced|40 hrs |
-|[VMware - (VRAICM8) Vmware vRealize Automation: Install, Configure, Manage [V8]](https://trainocate.com/sg/courses/vmware/vraicm8){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[VMware - (VROPSICM8) Vmware vRealize Operations: Install, Configure, Manage [V8]](https://trainocate.com/sg/courses/vmware/vropsicm8){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[VMware - (SDWANDDMSP3) VMware SD-WAN by VeloCloud: Design and Deploy [V3.x]](https://trainocate.com/sg/courses/vmware/sdwanddmsp3){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
 |[VMware - (HDMAVFT8) Vmware Horizon 8: Deploy and Manage plus App Volumes Fast Track](https://trainocate.com/sg/courses/vmware/hdmavft8){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
