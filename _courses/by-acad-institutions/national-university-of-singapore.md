@@ -65,11 +65,9 @@ variant: markdown
 |[Metaverse and Digital Twins](https://ace.nus.edu.sg/metaverse-and-digital-twins/){:target="_blank" rel="noopener"} |Intermediate|7.5 hrs |
 |[Microcontroller Programming for Internet of Things](https://ace.nus.edu.sg/microcontroller-programming-for-iot/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Natural Language Processing Fundamentals](https://ace.nus.edu.sg/natural-language-processing-fundamentals/){:target="_blank" rel="noopener"} |Basic|7 hrs |
-|[Networking](https://ace.nus.edu.sg/networking/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
 |[Neural Networks for the Internet of Things](https://ace.nus.edu.sg/neural-networks-for-the-internet-of-things/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[NOSQL Database and MongoDB](https://ace.nus.edu.sg/nosql-database-and-mongodb/){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Octave Programming for AI, Machine Learning and Data Analytics](https://ace.nus.edu.sg/octave-programming-for-ai-machine-learning-and-data-analytics/){:target="_blank" rel="noopener"} |Intermediate|7 hrs |
-|[Operating System](https://ace.nus.edu.sg/operating-system/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
 |[Patient Data Security and Privacy](https://ace.nus.edu.sg/patient-data-security-and-privacy/){:target="_blank" rel="noopener"} |Basic|15 hrs |
 |[Prescriptive Analytics - From data to optimal course of action](https://ace.nus.edu.sg/prescriptive-analytics-from-data-to-optimal-course-of-action/){:target="_blank" rel="noopener"} |Basic|7.5 hrs |
 |[Privacy Engineering Essentials](https://ace.nus.edu.sg/privacy-engineering-essentials/){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
