@@ -31,7 +31,6 @@ variant: markdown
 |[SAP S/4HANA Sales Upskilling for SAP ERP Experts ](https://sapforgrowth.com/skillsuniversity/){:target="_blank" rel="noopener"} |Basic|43 hrs |
 |[SAP Sales Cloud - Implementation & Configuration ](https://sapforgrowth.com/skillsuniversity/){:target="_blank" rel="noopener"} |Basic|33 hrs |
 |[SAP SuccessFactors Employee Central ](https://sapforgrowth.com/skillsuniversity/){:target="_blank" rel="noopener"} |Basic|78 hrs |
-|[Servers Administration and Security (Modular Unit stackable to Diploma in Infocomm & Digital Media (ICT Systems, Services & Support)) ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/part-time-diploma-post-diploma-courses/infocomm-and-digital-media-ict-systems-services-and-support.html){:target="_blank" rel="noopener"} |Basic|60 hrs |
 |[TPOL - Big Data and Analytics in Business](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/online-courses/big-data-and-analytics-in-business.html){:target="_blank" rel="noopener"} |Basic|20 hrs |
 |[TPOL - Fundamentals of Cybersecurity and Applications](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/online-courses/fundamentals-of-cybersecurity-and-applications.html){:target="_blank" rel="noopener"} |Basic|20 hrs |
 |[TPOL - The Internet of Things and Everything - IoT/IoE ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/online-courses/the-internet-of-things-and-everything-iot-ioe.html){:target="_blank" rel="noopener"} |Basic|20 hrs |
