@@ -14,7 +14,6 @@ variant: markdown
 |[5G and 4G Interworking](https://www.mpirical.com/courses/5g-and-4g-interworking){:target="_blank" rel="noopener"} |Intermediate|3 hrs |
 |[5G Application Programming Interfaces](https://www.mpirical.com/courses/5g-application-programming-interfaces){:target="_blank" rel="noopener"} |Intermediate|3 hrs |
 |[5G Fixed Mobile Convergence ](https://www.mpirical.com/courses/5g-fixed-mobile-convergence){:target="_blank" rel="noopener"} |Intermediate|3 hrs |
-|[5G Network Data Analytics ](https:/https://www.mpirical.com/courses/5g-network-data-analytics/www.mpirical.com/courses/5g-use-cases){:target="_blank" rel="noopener"} |Intermediate|4 hrs |
 |[5G Service Based Architecture](https://www.mpirical.com/courses/5g-service-based-architecture){:target="_blank" rel="noopener"} |Intermediate|3 hrs |
 |[Indoor Mobile Radio for 4G and 5G ](https://www.mpirical.com/courses/indoor-mobile-radio-for-4g-and-5g){:target="_blank" rel="noopener"} |Intermediate|0.5 day |
 |[MEC and 5G](https://www.mpirical.com/courses/mec-and-5g){:target="_blank" rel="noopener"} |Intermediate|4 hrs |
