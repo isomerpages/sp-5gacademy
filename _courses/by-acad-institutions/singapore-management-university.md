@@ -14,15 +14,9 @@ variant: markdown
 |[Anti-Money Laundering and its Ecosystem](https://academy.smu.edu.sg/anti-money-laundering-and-its-ecosystem-1151){:target="_blank" rel="noopener"} |Basic|7.5 hrs |
 |[Cyber Forensics](https://academy.smu.edu.sg/cyber-forensics-3681){:target="_blank" rel="noopener"} |Intermediate|15 hrs |
 |[Cyber Security Risk Management for Finance Professionals](https://academy.smu.edu.sg/cyber-security-risk-management-finance-professionals-1161){:target="_blank" rel="noopener"} |Basic|14.5 hrs |
-|[Cybersecurity Fundamentals](https://academy.smu.edu.sg/cybersecurity-fundamentals-3526){:target="_blank" rel="noopener"} |Basic|22 hrs |
-|[Cybersecurity Landscape & Adoption of Emerging Technologies in Cybersecurity](https://academy.smu.edu.sg/cybersecurity-landscape-adoption-emerging-technologies-cybersecurity-3521){:target="_blank" rel="noopener"} |Basic|7 hrs |
-|[Cybersecurity Operations and Maintenance](https://academy.smu.edu.sg/cybersecurity-operations-and-maintenance-3666){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
-|[Cybersecurity Programme and Risk Management](https://academy.smu.edu.sg/cybersecurity-programme-and-risk-management-3541){:target="_blank" rel="noopener"} |Intermediate|22 hrs |
 |[Cybersecurity Risk Management in Practice](https://academy.smu.edu.sg/cybersecurity-risk-management-practice-3546){:target="_blank" rel="noopener"} |Intermediate|22 hrs |
 |[DevSecOps Practice](https://academy.smu.edu.sg/devsecops-practice-5166){:target="_blank" rel="noopener"} |Intermediate|15 hrs |
 |[Digital Business: Technologies and Transformation ](https://academy.smu.edu.sg/business-transformation-digital-age-2616){:target="_blank" rel="noopener"} |Intermediate|15.5 hrs |
-|[Digital Finance Innovations in China: Digital Finance and Digital Currency](https://academy.smu.edu.sg/digital-finance-innovations-china-digital-finance-and-digital-currency-synchronous-e-learning-5656){:target="_blank" rel="noopener"} |Basic|7 hrs |
-|[Driving Digital Transformation with Cloud ](https://academy.smu.edu.sg/driving-digital-transformation-cloud-5431){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[Enhancing Detection of Fraud & Money Laundering Using AI](https://academy.smu.edu.sg/enhancing-detection-fraud-money-laundering-using-ai-2151){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Essentials of Cloud Computing ](https://academy.smu.edu.sg/essentials-cloud-computing-2451){:target="_blank" rel="noopener"} |Intermediate|15 hrs |
 |[Implement: Data Governance](https://academy.smu.edu.sg/implement-data-governance-3441){:target="_blank" rel="noopener"} |Basic|15 hrs |
