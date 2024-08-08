@@ -10,7 +10,6 @@ variant: markdown
 |[5-Day AI Bootcamp (Synchronous E-learning)](https://academy.smu.edu.sg/5-day-ai-bootcamp-4241){:target="_blank" rel="noopener"} |Intermediate|39 hrs |
 |[Advanced Technology Stack Series: Establishing Foundation in Cloud Services and Applications ](https://academy.smu.edu.sg/establishing-foundation-cloud-services-and-applications-4551){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[Advanced Technology Stack Series: Jump Start in Artificial Intelligence, Machine Learning and Deep Learning](https://academy.smu.edu.sg/jump-start-artificial-intelligence-machine-learning-and-deep-learning-4546){:target="_blank" rel="noopener"} |Basic|14 hrs |
-|[AI and Machine Learning in FinTech](https://academy.smu.edu.sg/ai-and-machine-learning-fintech-4856){:target="_blank" rel="noopener"} |Basic|15 hrs |
 |[AI and Machine Learning in FinTech (Synchronous e-learning)](https://academy.smu.edu.sg/ai-and-machine-learning-fintech-4856){:target="_blank" rel="noopener"} |Basic|15 hrs |
 |[Anti-Money Laundering and its Ecosystem](https://academy.smu.edu.sg/anti-money-laundering-and-its-ecosystem-1151){:target="_blank" rel="noopener"} |Basic|7.5 hrs |
 |[Applying User Entity Behavioural Analytics (for Financial Sector)](https://academy.smu.edu.sg/applying-user-entity-behavioural-analytics-financial-sector-5171){:target="_blank" rel="noopener"} |Intermediate|30 hrs |
