@@ -12,9 +12,6 @@ variant: markdown
 |[Advanced Technology Stack Series: Jump Start in Artificial Intelligence, Machine Learning and Deep Learning](https://academy.smu.edu.sg/jump-start-artificial-intelligence-machine-learning-and-deep-learning-4546){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[AI and Machine Learning in FinTech (Synchronous e-learning)](https://academy.smu.edu.sg/ai-and-machine-learning-fintech-4856){:target="_blank" rel="noopener"} |Basic|15 hrs |
 |[Anti-Money Laundering and its Ecosystem](https://academy.smu.edu.sg/anti-money-laundering-and-its-ecosystem-1151){:target="_blank" rel="noopener"} |Basic|7.5 hrs |
-|[Applying User Entity Behavioural Analytics (for Financial Sector)](https://academy.smu.edu.sg/applying-user-entity-behavioural-analytics-financial-sector-5171){:target="_blank" rel="noopener"} |Intermediate|30 hrs |
-|[Artificial Intelligence: A Layman's Approach](https://academy.smu.edu.sg/artificial-intelligence-laymans-approach-1241){:target="_blank" rel="noopener"} |Basic|7.5 hrs |
-|[Artificial Intelligence: A Layman's Approach (Synchronous e-learning)](https://academy.smu.edu.sg/artificial-intelligence-laymans-approach-1241){:target="_blank" rel="noopener"} |Basic|7.5 hrs |
 |[Cloud Architecture Fundamentals (for Financial Sector) ](https://academy.smu.edu.sg/cloud-architecture-fundamentals-financial-sector-3216){:target="_blank" rel="noopener"} |Basic|23 hrs |
 |[Cloud Computing Essentials (for Financial Sector) ](https://academy.smu.edu.sg/cloud-computing-essentials-financial-sector-3191){:target="_blank" rel="noopener"} |Basic|15 hrs |
 |[Cloud DevOps Practice (for Financial Sector) ](https://academy.smu.edu.sg/cloud-devops-practice-financial-sector-3211){:target="_blank" rel="noopener"} |Basic|21 hrs |
