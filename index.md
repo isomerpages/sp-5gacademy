@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Manpower Solutions
           description: ""
-          url: /manpower-solutions/ccp
+          url: /manpower-solutions/5gri/
         - title: Courses
           description: ""
           url: /courses/by-training-providers-global/mpirical/
