@@ -12,13 +12,6 @@ variant: markdown
 |[Advanced Technology Stack Series: Jump Start in Artificial Intelligence, Machine Learning and Deep Learning](https://academy.smu.edu.sg/jump-start-artificial-intelligence-machine-learning-and-deep-learning-4546){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[AI and Machine Learning in FinTech (Synchronous e-learning)](https://academy.smu.edu.sg/ai-and-machine-learning-fintech-4856){:target="_blank" rel="noopener"} |Basic|15 hrs |
 |[Anti-Money Laundering and its Ecosystem](https://academy.smu.edu.sg/anti-money-laundering-and-its-ecosystem-1151){:target="_blank" rel="noopener"} |Basic|7.5 hrs |
-|[Cloud Architecture Fundamentals (for Financial Sector) ](https://academy.smu.edu.sg/cloud-architecture-fundamentals-financial-sector-3216){:target="_blank" rel="noopener"} |Basic|23 hrs |
-|[Cloud Computing Essentials (for Financial Sector) ](https://academy.smu.edu.sg/cloud-computing-essentials-financial-sector-3191){:target="_blank" rel="noopener"} |Basic|15 hrs |
-|[Cloud DevOps Practice (for Financial Sector) ](https://academy.smu.edu.sg/cloud-devops-practice-financial-sector-3211){:target="_blank" rel="noopener"} |Basic|21 hrs |
-|[Cloud Migration and Deployment Implementation (for Financial Sector) ](https://academy.smu.edu.sg/cloud-migration-and-deployment-implementation-financial-sector-5161){:target="_blank" rel="noopener"} |Basic|22 hrs |
-|[Cloud Operations (for Financial Sector) ](https://academy.smu.edu.sg/cloud-operations-financial-sector-3206){:target="_blank" rel="noopener"} |Basic|21 hrs |
-|[Cloud Security Practice (for Financial Sector) ](https://academy.smu.edu.sg/cloud-security-practices-financial-sector-3201){:target="_blank" rel="noopener"} |Basic|21 hrs |
-|[Cloud Technology & Automation (for Financial Sector) ](https://academy.smu.edu.sg/cloud-technology-automation-financial-sector-3196){:target="_blank" rel="noopener"} |Basic|15 hrs |
 |[Cyber Forensics](https://academy.smu.edu.sg/cyber-forensics-3681){:target="_blank" rel="noopener"} |Intermediate|15 hrs |
 |[Cyber Security Risk Management for Finance Professionals](https://academy.smu.edu.sg/cyber-security-risk-management-finance-professionals-1161){:target="_blank" rel="noopener"} |Basic|14.5 hrs |
 |[Cybersecurity Fundamentals](https://academy.smu.edu.sg/cybersecurity-fundamentals-3526){:target="_blank" rel="noopener"} |Basic|22 hrs |
