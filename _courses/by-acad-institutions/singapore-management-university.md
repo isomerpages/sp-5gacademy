@@ -8,7 +8,6 @@ variant: markdown
 | - | - | - | 
 |[5-Day AI Bootcamp](https://academy.smu.edu.sg/5-day-ai-bootcamp-4241){:target="_blank" rel="noopener"} |Intermediate|39 hrs |
 |[5-Day AI Bootcamp (Synchronous E-learning)](https://academy.smu.edu.sg/5-day-ai-bootcamp-4241){:target="_blank" rel="noopener"} |Intermediate|39 hrs |
-|[Advanced Technology Stack Series: Jump Start in Artificial Intelligence, Machine Learning and Deep Learning](https://academy.smu.edu.sg/jump-start-artificial-intelligence-machine-learning-and-deep-learning-4546){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[AI and Machine Learning in FinTech (Synchronous e-learning)](https://academy.smu.edu.sg/ai-and-machine-learning-fintech-4856){:target="_blank" rel="noopener"} |Basic|15 hrs |
 |[Anti-Money Laundering and its Ecosystem](https://academy.smu.edu.sg/anti-money-laundering-and-its-ecosystem-1151){:target="_blank" rel="noopener"} |Basic|7.5 hrs |
 |[Cyber Forensics](https://academy.smu.edu.sg/cyber-forensics-3681){:target="_blank" rel="noopener"} |Intermediate|15 hrs |
@@ -25,8 +24,6 @@ variant: markdown
 |[Industry 4.0 & Supply Chain Transformation: Developing a Digital Supply Chain Strategic Mindset](https://academy.smu.edu.sg/industry-40-supply-chain-transformation-developing-digital-supply-chain-strategic-mindset-1941){:target=""_blank"" rel=""noopener""} |Basic|21 hrs |
 |[Industry 4.0 & Supply Chain Transformation: Developing a Digital Supply Chain Strategic Mindset (Synchronous E-learning)](https://academy.smu.edu.sg/industry-40-supply-chain-transformation-developing-digital-supply-chain-strategic-mindset-1941){:target="_blank" rel="noopener"} |Basic|23 hrs |
 |[Internet of Things: Technology & Applications ](https://academy.smu.edu.sg/internet-things-technology-applications-1396){:target="_blank" rel="noopener"} |Basic|15 hrs |
-|[IT Fundamentals (Synchronous E-Learning) ](https://academy.smu.edu.sg/it-fundamentals-3466){:target="_blank" rel="noopener"} |Basic|36 hrs |
-|[ITSM for Cybersecurity](https://academy.smu.edu.sg/itsm-cybersecurity-3671){:target="_blank" rel="noopener"} |Intermediate|22 hrs |
 |[PDPA - An Operational Perspective](https://academy.smu.edu.sg/pdpa-operational-perspective-2786){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[PDPA - An Operational Perspective (Synchronous e-learning)](https://academy.smu.edu.sg/pdpa-operational-perspective-2786){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[SMU Certificate in Artificial Intelligence Module 1: Building AI Capability with Basic Coding for Business (Synchronous e-learning)](https://academy.smu.edu.sg/smu-certificate-artificial-intelligence-module-1-building-ai-capability-basic-coding-business-3131){:target="_blank" rel="noopener"} |Intermediate|15 hrs |
