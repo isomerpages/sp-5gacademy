@@ -14,7 +14,6 @@ variant: markdown
 |[Cyber Security Risk Management for Finance Professionals](https://academy.smu.edu.sg/cyber-security-risk-management-finance-professionals-1161){:target="_blank" rel="noopener"} |Basic|14.5 hrs |
 |[Cybersecurity Risk Management in Practice](https://academy.smu.edu.sg/cybersecurity-risk-management-practice-3546){:target="_blank" rel="noopener"} |Intermediate|22 hrs |
 |[DevSecOps Practice](https://academy.smu.edu.sg/devsecops-practice-5166){:target="_blank" rel="noopener"} |Intermediate|15 hrs |
-|[Digital Business: Technologies and Transformation ](https://academy.smu.edu.sg/business-transformation-digital-age-2616){:target="_blank" rel="noopener"} |Intermediate|15.5 hrs |
 |[Enhancing Detection of Fraud & Money Laundering Using AI](https://academy.smu.edu.sg/enhancing-detection-fraud-money-laundering-using-ai-2151){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Essentials of Cloud Computing ](https://academy.smu.edu.sg/essentials-cloud-computing-2451){:target="_blank" rel="noopener"} |Intermediate|15 hrs |
 |[Implement: Data Governance](https://academy.smu.edu.sg/implement-data-governance-3441){:target="_blank" rel="noopener"} |Basic|15 hrs |
