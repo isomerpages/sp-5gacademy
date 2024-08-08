@@ -11,7 +11,6 @@ variant: markdown
 |[5G Technology, Services and Markets ](https://wraycastle.com/collections/5g-technology-training-courses/products/5g-technologies-services-and-markets-on-demand-training-course){:target="_blank" rel="noopener"} |Basic|11 hrs |
 |[Cloud Computing](https://wraycastle.com/products/cloud-computing-on-demand-training-course){:target="_blank" rel="noopener"} |Basic|11 hrs |
 |[Multi-Access Edge Computing (MEC)](https://wraycastle.com/collections/5g-technology-training-courses/products/5g-a-business-perspective-training-course){:target="_blank" rel="noopener"} |Basic|14 hrs |
-|[Certificate and Diploma in Telecoms (Core Network Engineer)](https://wraycastle.com/collections/certificate-and-diploma-programmes/products/certificate-and-diploma-in-telecoms-core-network-engineer){:target="_blank" rel="noopener"} |Intermediate|10-14 mths |
 |[Network Functions Virtualisation (NFV)](https://wraycastle.com/collections/network-virtualisation-training-courses/products/network-functions-virtualisation-nfv-on-demand){:target="_blank" rel="noopener"} |Intermediate|22 hrs |
 |[Software Defined Networking (SDN)](https://wraycastle.com/collections/network-virtualisation-training-courses/products/software-defined-networking-sdn-training-course){:target="_blank" rel="noopener"} |Intermediate|7 hrs |
 |[5G Air Interface Overview ](https://wraycastle.com/collections/5g-technology-training-courses/products/5g-air-interface-overview-on-demand-training-course){:target="_blank" rel="noopener"} |Intermediate|11 hrs |
