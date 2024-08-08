@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - 5G Readiness Index (5GRI).md
-      - Career Conversion Programme (CCP).md
       - Operation & Technology Roadmapping (OTR).md
       - Training Needs Analysis (TNA).md
