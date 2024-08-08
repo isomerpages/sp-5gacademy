@@ -2,6 +2,7 @@
 title: Singapore Management University
 permalink: /courses/by-acad-institutions/smu/
 third_nav_title: By Acad Institutions
+variant: markdown
 ---
 |Course Title  | Level | Duration |
 | - | - | - | 
@@ -69,9 +70,6 @@ third_nav_title: By Acad Institutions
 |[Advanced Certificate in AWS Cloud Services and Technicals Module 4: Modern Web UIs with React and AWS Amplify](https://academy.smu.edu.sg/advanced-certificate-aws-cloud-services-and-technicals-module-4-modern-web-uis-react-and-aws){:target="_blank" rel="noopener"} |Basic|15 hrs |
 |[Advanced Certificate in AWS Cloud Services and Technicals Module 5: Building Web APIs with AWS Elastic Beanstalk](https://academy.smu.edu.sg/advanced-certificate-aws-cloud-services-and-technicals-module-5-building-web-apis-aws-elastic-7096){:target="_blank" rel="noopener"} |Basic|15 hrs |
 |[Advanced Certificate in AWS Cloud Services and Technicals Module 6: AWS Cloud Services and Applications](https://academy.smu.edu.sg/advanced-certificate-aws-cloud-services-and-technicals-module-6-aws-cloud-services-and-applications){:target="_blank" rel="noopener"} |Basic|15 hrs |
-|[Advanced Certificate in Cyber Risk Management in the Digital Age Module 1: A Holistic Approach to Managing Enterprise Security Programmes (Synchronous e-learning)](https://academy.smu.edu.sg/advanced-certificate-cyber-risk-management-digital-age-module-1-holistic-approach-managing-5196){:target="_blank" rel="noopener"} |Basic|39 hrs |
-|[Advanced Certificate in Cyber Risk Management in the Digital Age Module 4: Boosting Cybersecurity with Data Governance and Security Management](https://academy.smu.edu.sg/advanced-certificate-cyber-risk-management-digital-age-module-4-boosting-cybersecurity-data-5211){:target="_blank" rel="noopener"} |Basic|15 hrs |
-|[Advanced Certificate in Cyber Risk Management in the Digital Age Module 4: Boosting Cybersecurity with Data Governance and Security Management (Synchronous E-learning)](https://academy.smu.edu.sg/advanced-certificate-cyber-risk-management-digital-age-module-4-boosting-cybersecurity-data-5211){:target="_blank" rel="noopener"} |Basic|15 hrs |
 |[Advanced Certificate in Data Protection Principles Module 1: Data Protection Principles in Asia Part 1 - Singapore, Hong Kong, India](https://academy.smu.edu.sg/advanced-certificate-data-protection-principles-module-1-data-protection-principles-asia-part-1){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Advanced Certificate in Data Protection Principles Module 2: Data Protection Principles in Asia Part 2 - Philippines, Malaysia](https://academy.smu.edu.sg/advanced-certificate-data-protection-principles-module-2-data-protection-principles-asia-part-2){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Advanced Certificate in Data Protection Principles Module 2: Data Protection Principles in Asia Part 2 - Philippines, Malaysia (Synchronous E-learning)](https://academy.smu.edu.sg/advanced-certificate-data-protection-principles-module-2-data-protection-principles-asia-part-2){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
