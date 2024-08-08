@@ -15,7 +15,7 @@ sections:
           url: /manpower-solutions/5gri/
         - title: Courses
           description: ""
-          url: /courses/by-training-providers-global/mpirical/
+          url: /courses/by-training-providers-global/qualcomm-wireless-academy/
         - title: Training Partners
           description: ""
           url: /training-partners
