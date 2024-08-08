@@ -8,7 +8,6 @@ variant: markdown
 | - | - | - | 
 |[5-Day AI Bootcamp](https://academy.smu.edu.sg/5-day-ai-bootcamp-4241){:target="_blank" rel="noopener"} |Intermediate|39 hrs |
 |[5-Day AI Bootcamp (Synchronous E-learning)](https://academy.smu.edu.sg/5-day-ai-bootcamp-4241){:target="_blank" rel="noopener"} |Intermediate|39 hrs |
-|[Advanced Technology Stack Series: Establishing Foundation in Cloud Services and Applications ](https://academy.smu.edu.sg/establishing-foundation-cloud-services-and-applications-4551){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[Advanced Technology Stack Series: Jump Start in Artificial Intelligence, Machine Learning and Deep Learning](https://academy.smu.edu.sg/jump-start-artificial-intelligence-machine-learning-and-deep-learning-4546){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[AI and Machine Learning in FinTech (Synchronous e-learning)](https://academy.smu.edu.sg/ai-and-machine-learning-fintech-4856){:target="_blank" rel="noopener"} |Basic|15 hrs |
 |[Anti-Money Laundering and its Ecosystem](https://academy.smu.edu.sg/anti-money-laundering-and-its-ecosystem-1151){:target="_blank" rel="noopener"} |Basic|7.5 hrs |
@@ -21,7 +20,6 @@ variant: markdown
 |[Essentials of Cloud Computing ](https://academy.smu.edu.sg/essentials-cloud-computing-2451){:target="_blank" rel="noopener"} |Intermediate|15 hrs |
 |[Implement: Data Governance](https://academy.smu.edu.sg/implement-data-governance-3441){:target="_blank" rel="noopener"} |Basic|15 hrs |
 |[Implement: Data Governance (Synchronous E-learning)](https://academy.smu.edu.sg/implement-data-governance-3441){:target="_blank" rel="noopener"} |Basic|15 hrs |
-|[Implement: Data Protection Trust Mark (Synchronous E-learning)](https://academy.smu.edu.sg/implement-data-protection-trust-mark-3456){:target="_blank" rel="noopener"} |Basic|15 hrs |
 |[Implementing an AI Bot](https://academy.smu.edu.sg/implementing-ai-bot-1381){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Implementing an AI Bot (Synchronous e-learning)](https://academy.smu.edu.sg/implementing-ai-bot-1381){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Industry 4.0 & Supply Chain Transformation: Developing a Digital Supply Chain Strategic Mindset](https://academy.smu.edu.sg/industry-40-supply-chain-transformation-developing-digital-supply-chain-strategic-mindset-1941){:target=""_blank"" rel=""noopener""} |Basic|21 hrs |
@@ -71,6 +69,3 @@ variant: markdown
 |[Graduate Certificate in Digital Finance Module 6: Managing Expanding Cyber Risks (Synchronous e-learning)](https://academy.smu.edu.sg/graduate-certificate-digital-finance-module-6-managing-expanding-cyber-risks-1981){:target=""_blank"" rel=""noopener""} |Intermediate|16 hrs |"
 |[Graduate Certificate in Digital Health Module 4 : Legal Issues & Risk Management (Synchronous E-Learning) ](https://academy.smu.edu.sg/digital-health){:target="_blank" rel="noopener"} |Intermediate|22 hrs |
 |[Graduate Certificate in Digital Health Module 4: Legal Issues & Risk Management ](https://academy.smu.edu.sg/health-legal){:target="_blank" rel="noopener"} |Basic|22 hrs |
-|[Graduate Certificate in LegalTech Module 2: AI, Machine Learning and Robotic Process Automation](https://academy.smu.edu.sg/graduate-certificate-legaltech-module-2-ai-machine-learning-and-robotic-process-automation-2661){:target="_blank" rel="noopener"} |Basic|11 hrs |
-|[Graduate Certificate in LegalTech Module 2: AI, Machine Learning and Robotic Process Automation (Synchronous e-learning)](https://academy.smu.edu.sg/graduate-certificate-legaltech-module-2-ai-machine-learning-and-robotic-process-automation-2661){:target="_blank" rel="noopener"} |Basic|11 hrs |
-|[Graduate Certificate in LegalTech Module 3: Data Privacy & Cybersecurity](https://academy.smu.edu.sg/graduate-certificate-legaltech-module-3-data-privacy-cybersecurity-2666){:target="_blank" rel="noopener"} |Basic|11 hrs |
