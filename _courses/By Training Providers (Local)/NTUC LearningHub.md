@@ -1,7 +1,7 @@
 ---
 title: NTUC LearningHub
 permalink: /courses/by-private-training-providers/ntuc-learning-hub/
-description: ""
+description: SP; 5G; 5G Academy
 third_nav_title: By Training Providers (Local)
 variant: markdown
 ---

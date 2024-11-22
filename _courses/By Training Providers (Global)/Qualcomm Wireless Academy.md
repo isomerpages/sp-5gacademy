@@ -1,8 +1,9 @@
 ---
 title: Qualcomm Wireless Academy
 permalink: /courses/by-training-providers-global/qualcomm-wireless-academy/
-description: ""
+description: SP; 5G; 5G Academy
 third_nav_title: By Training Providers (Global)
+variant: tiptap
 ---
 |Course Title  | Level | Duration |
 | - | - | - | 

@@ -1,7 +1,7 @@
 ---
 title: COMAT
 permalink: /courses/by-private-training-providers/comat/
-description: ""
+description: SP; 5G; 5G Academy
 third_nav_title: By Training Providers (Local)
 variant: markdown
 ---
