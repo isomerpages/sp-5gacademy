@@ -41,8 +41,6 @@ variant: markdown
 |[CISCO - (ENAUI) Implementing Automation for Cisco Enterprise Solutions ](https://trainocate.com/sg/courses/cisco/enaui){:target="_blank" rel="noopener"} |Advanced|24 hrs |
 |[CISCO - (WLFNDU) Understanding Cisco Wireless Foundations v1.0](https://trainocate.com/sg/courses/cisco/wlfndu){:target="_blank" rel="noopener"} |Basic|40 hrs |
 |[CISCO - (SCOR) Implementing and Operating Cisco Security Core Technologies](https://trainocate.com/sg/courses/cisco/scor){:target="_blank" rel="noopener"} |Advanced|40 hrs |
-|[CISCO - (SSNGFW) Securing Networks with Cisco Firepower Next Generation Firewall v1.0 ](https://trainocate.com/sg/courses/cisco/ssngfw){:target="_blank" rel="noopener"} |Advanced|40 hrs |
-|[CISCO - (SSFIPS) Securing Networks with Cisco Firepower Next-Generation IPS ](https://trainocate.com/sg/courses/cisco/ssfips){:target="_blank" rel="noopener"} |Advanced|40 hrs |
 |[CISCO - (SISE) Implementing and Configuring Cisco Identity Services Engine](https://trainocate.com/sg/courses/cisco/sise){:target="_blank" rel="noopener"} |Advanced|40 hrs |
 |[CISCO - (SWSA) Securing the Web with Cisco Web Security Appliance](https://trainocate.com/sg/courses/cisco/swsa){:target="_blank" rel="noopener"} |Advanced|16 hrs |
 |[CISCO - (SVPN) Implementing Secure Solutions with Virtual Private Networks](https://trainocate.com/sg/courses/cisco/svpn){:target="_blank" rel="noopener"} |Advanced|40 hrs |
@@ -51,7 +49,6 @@ variant: markdown
 |[CISCO - (DCID) Designing Cisco Data Center Infrastructure](https://trainocate.com/sg/courses/cisco/dcid){:target="_blank" rel="noopener"} |Advanced|40 hrs |
 |[CISCO - (DCIT) Troubleshooting Cisco Data Center Infrastructure ](https://trainocate.com/sg/courses/cisco/dcit){:target="_blank" rel="noopener"} |Advanced|40 hrs |
 |[CISCO - (DCACI) Implementing Cisco Application Centric Infrastructure ](https://trainocate.com/sg/courses/cisco/dcaci){:target="_blank" rel="noopener"} |Advanced|40 hrs |
-|[CISCO - (DCMDS) Configuring Cisco MDS 9000 Series Switches](https://trainocate.com/sg/courses/cisco/dcmds){:target="_blank" rel="noopener"} |Advanced|32 hrs |
 |[CISCO -  (DCAUI) Implementing Automation for Cisco Data Center Solutions](https://trainocate.com/sg/courses/cisco/dcaui){:target="_blank" rel="noopener"} |Advanced|24 hrs |
 |[CISCO - (DCFNDU) Understanding Cisco Data Center Foundations](https://trainocate.com/sg/courses/cisco/dcfndu){:target="_blank" rel="noopener"} |Basic|40 hrs |
 |[CISCO - (CLCOR) Implementing and Operating Cisco Collaboration Core Technologies ](https://trainocate.com/sg/courses/cisco/clcor){:target="_blank" rel="noopener"} |Advanced|40 hrs |
@@ -134,9 +131,7 @@ variant: markdown
 |[Red Hat - (RH199) RHCSA Rapid Track course](https://trainocate.com/sg/courses/red-hat/rh199){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
 |[Red Hat - (RH295) Enterprise Linux Automation with Ansible and Exam](https://trainocate.com/sg/courses/red-hat/rh295){:target="_blank" rel="noopener"} |Advanced|32 hrs |
 |[Red Hat - (DO457) Ansible for Network Automation](https://trainocate.com/sg/courses/red-hat/do457){:target="_blank" rel="noopener"} |Intermediate|32 hrs |
-|[Trend Micro - (TMCPDS) Deep Security 20 Training for Certified Professionals](https://trainocate.com/sg/courses/trend-micro/tmcpds){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
 |[Trend Micro - (TRNN1040) Deep Discovery Advanced Threat Detection 3.0 Edition 3 Training For Certified Professionals](https://trainocate.com/sg/courses/trend-micro/trnn1040){:target="_blank" rel="noopener"} |Advanced|24 hrs |
-|[Trend Micro - (TRNM0003) Apex One Training for Certified Professionals](https://trainocate.com/sg/courses/trend-micro/trnm0003){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
 |[Trend Micro - (TMTPSS) TippingPoint Security Solutions 1.0 Training for Certified Professionals](https://trainocate.com/sg/courses/trend-micro/tmtpss){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
 |[VMware - (TKGIEICM110) VMware Tanzu Kubernetes Grid Integrated Edition: Install, Configure, Manage [V1.10]](https://trainocate.com/sg/courses/vmware/tkgieicm110){:target="_blank" rel="noopener"} |Advanced|32 hrs |
 |[VMware - (TKGICM1) VMware Tanzu Kubernetes Grid: Install, Configure, Manage [V1.0]](https://trainocate.com/sg/courses/vmware/tkgicm1){:target="_blank" rel="noopener"} |Advanced|16 hrs |
