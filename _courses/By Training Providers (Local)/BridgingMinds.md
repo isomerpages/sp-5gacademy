@@ -7,8 +7,6 @@ variant: markdown
 ---
 |Course Title  | Level | Duration |
 | - | - | - | 
-|[Agile DSDM Project Management Foundation](https://www.bridgingminds.net/dsdm-agile-foundation){:target="_blank" rel="noopener"} |Basic|21 hrs |
-|[Agile DSDM Project Management Practitioner](https://www.bridgingminds.net/dsdm-agile-practitioner){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Certified Cloud Security Engineer (CCSE)](https://www.bridgingminds.net/k_course/certified-cloud-security-engineer-ec-councilccse/){:target="_blank" rel="noopener"} |Intermediate|35 hrs |
 |[Certified Cloud Security Professional (CCSP)]|Intermediate|35 hrs |
 |[Certified Cloud Technology Professional](https://www.bridgingminds.net/cloud-technology){:target="_blank" rel="noopener"} |Basic|21 hrs |
@@ -26,7 +24,6 @@ variant: markdown
 |[DevOps Foundation](https://www.bridgingminds.net/DevOps-Foundation){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[EC Council Certified Ethical Hacker (CEH)](https://www.bridgingminds.net/certified-ethical-hacker-ceh){:target="_blank" rel="noopener"} |Intermediate|35 hrs |
 |[EC Council Certified Penetration Testing Professional (CPENT)](https://www.bridgingminds.net/security-analyst-ecsa/){:target="_blank" rel="noopener"} |Advanced|35 hrs |
-|[EC Council Incident Handler (ECIH)](https://www.bridgingminds.net/incident-handler-ecih){:target="_blank" rel="noopener"} |Basic|21 hrs |
 |[Fortigate Infrastructure](https://www.bridgingminds.net/Fortigate-infrastructure){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[Fortigate Security](https://www.bridgingminds.net/Fortigate-Security){:target="_blank" rel="noopener"} |Intermediate|21 hrs |
 |[ITIL 4 Foundation](https://www.bridgingminds.net/itil-4-foundation#1512458782902-095d8540-4705){:target="_blank" rel="noopener"} |Basic|21 hrs |
