@@ -22,15 +22,10 @@ variant: markdown
 |[CoC in Robotic Process Automation (RPA) for Beginners](https://www.ite.edu.sg/courses/course-finder/course/coc-in-robotic-process-automation-(rpa)-for-beginners){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[CoC in Robotic Process Automation (RPA) for Professionals](https://www.ite.edu.sg/courses/course-finder/course/coc-in-robotic-process-automation-(rpa)-for-professionals){:target="_blank" rel="noopener"} |Intermediate|14 hrs |
 |[CoC in Windows OS Hardening](https://www.ite.edu.sg/courses/course-finder/course/coc-in-windows-os-hardening){:target="_blank" rel="noopener"} |Basic|14 hrs |
-|[Create Your Own Augmented Reality (AR) Applications](https://www.ite.edu.sg/courses/course-finder/course/short-course-create-your-own-augmented-reality-(ar)-applications){:target="_blank" rel="noopener"} |Basic|9 hrs |
 |[Cyber Range Training on Incident Response](https://www.ite.edu.sg/courses/course-finder/course/cyber-range-training-on-incident-response){:target="_blank" rel="noopener"} |Basic|14 hrs |
-|[Cyber Range Workshop for Business Leaders](https://www.ite.edu.sg/courses/course-finder/course/cyber-range-workshop-for-business-leaders){:target="_blank" rel="noopener"} |Basic|3 hrs |
-|[Cyber Risk and Control – Ransomware](https://www.ite.edu.sg/courses/course-finder/course/cyber-risk-and-control-ransomware){:target="_blank" rel="noopener"} |Basic|14 hrs |
-|[Cyber Risk and Control – Social Engineering](https://www.ite.edu.sg/courses/course-finder/course/cyber-risk-and-control-social-engineering){:target="_blank" rel="noopener"} |Basic|14 hrs |
 |[Develop AI Chatbot with Realwork Application](https://form.gov.sg/633e9ddb71c61100125ccbb4){:target="_blank" rel="noopener"} |Basic|MLC |
 |[Fiber Testing in 5G Deployment](https://www.ite.edu.sg/courses/course-finder/course/fiber-testing-in-5g-deployment){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Internet of Things - DIY for Smart Home](https://www.ite.edu.sg/courses/course-finder/course/short-course-internet-of-things-diy-for-smart-home){:target="_blank" rel="noopener"} |Basic|7 hrs |
-|[Introduction to 5G Technology](https://www.ite.edu.sg/courses/course-finder/course/introduction-to-5g-technology){:target="_blank" rel="noopener"} |Basic|4 hrs |
 |[Introduction to Robotic Process Automation (RPA) using UiPath](https://form.gov.sg/#!/62d01a9968d83900110c77a7){:target="_blank" rel="noopener"} |Basic|MLC|
 |[IT Network − Set-up Home & Small Business (Wireless)](https://www.ite.edu.sg/courses/course-finder/course/short-course-it-network-set-up-home-small-business-(wireless)){:target="_blank" rel="noopener"} |Basic|12 hrs |
 |[Micro:bit − Build an Auto-Watering Plant System](https://www.ite.edu.sg/courses/course-finder/course/short-course-micro-bit-build-an-auto-watering-plant-system){:target="_blank" rel="noopener"} |Basic|7 hrs |
