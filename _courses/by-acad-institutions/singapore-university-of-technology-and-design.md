@@ -8,5 +8,3 @@ variant: markdown
 | - | - | - | 
 |[Computer Networks ](https://istd.sutd.edu.sg/courses/mssd/computer-networks/){:target="_blank" rel="noopener"} |Basic|60 hrs |
 |[Internet Security](https://www.sutd.edu.sg/Admissions/Academy){:target="_blank" rel="noopener"} |Basic|60 hrs |
-
-
