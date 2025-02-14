@@ -15,5 +15,3 @@ variant: markdown
 |[Network Automation with Python](https://www.cet.np.edu.sg/courses/network-automation-with-python/){:target="_blank" rel="noopener"} |Intermediate|28 hrs |
 |[Performing Cloud-Accounting](https://www.cet.np.edu.sg/courses/performing-cloud-accounting/){:target="_blank" rel="noopener"} |Basic|24 hrs |
 |[Strengthening Internal Controls with Analytics](https://www.cet.np.edu.sg/courses/strengthening-internal-controls-with-analytics/){:target="_blank" rel="noopener"} |Basic|24 hrs |
-|[Post-Diploma Certificate in Business Analytics](https://www.cet.np.edu.sg/courses/specialist-diploma-in-business-decision-analytics/){:target="_blank" rel="noopener"} |Basic|192 hrs |
-|[Post-Diploma Certificate in Decision Analytics](https://www.cet.np.edu.sg/courses/specialist-diploma-in-business-decision-analytics/){:target="_blank" rel="noopener"} |Basic|192 hrs |
