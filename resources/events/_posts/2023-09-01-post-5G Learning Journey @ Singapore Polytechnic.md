@@ -5,6 +5,7 @@ permalink: /resources/events/5g-learning-journey/
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 # About the Programme
 
@@ -48,4 +49,4 @@ image: ""
 }
 </style>
 
-<center><a target="_blank" href="https://form.gov.sg/#!/623d6ee7d4b65800125b32fa"><button class="btn" id="register">Register Now</button></a></center>
+<center><a target="_blank" href="https://form.gov.sg/67ce5e02427017cb30d70ef5"><button class="btn" id="register">Register Now</button></a></center>
