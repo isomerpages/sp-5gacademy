@@ -31,7 +31,6 @@ variant: markdown
 |Internet of Things Practitioner Part 1|Basic|37.5 hrs |
 |ISACA Certificate of Cloud Auditing Knowledge (CCAK)|Basic| |
 |IISACA Certified Information Security Manager® (CISM®)|Intermediate| |
-|[Kubernetes Foundations & Cluster Operations](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=96906&rcode=CourseCatalog){:target="_blank" rel="noopener"} |Basic|4 days|
 |Microsoft Azure Security Technologies|Advanced|32 hrs |
 |NICF - EC-Council Certified Incident Handler (ECIH)|Intermediate| |
 |NICF - Microsoft Azure Administrator (SF)|Intermediate|32 hrs |
@@ -46,16 +45,10 @@ variant: markdown
 |Splunk Core Certified User|Basic| |
 |System Operations on AWS|Advanced|24 hrs |
 |Virtual Reality - Accelerating towards a Metaverse future|Basic| 88 hrs|
-|[VMware Cloud Director: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=97100&rcode=CourseCatalog){:target="_blank" rel="noopener"} |Intermediate|5 days |
 |VMware Horizon 8: Deploy and Manage|Intermediate| |
 |[VMware NSX-T Data Center: Install  Configure  Manage [V3.0]](https://mylearn.vmware.com/descriptions/EDU_DATASHEET%20VMware%20NSX-T%20Data%20Center%20Install%20Configure%20Manage%20V3.0.pdf){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
-|[VMware Tanzu Kubernetes Grid: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=96343&rcode=CourseCatalog){:target="_blank" rel="noopener"} |Intermediate|3 days|
-|[VMware Telco Cloud Automation: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=95957){:target="_blank" rel="noopener"} |Advanced|5 days |
-|[VMware Telco Cloud Infrastructure: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=97110){:target="_blank" rel="noopener"} |Advanced|5 days |
 |VMware Telco Cloud Operations: Install, Configure, Manage|Advanced|3 days |
-|[VMware Telco Cloud Platform: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=97105){:target="_blank" rel="noopener"} |Advanced|3 days |
 |VMware vRealize Automation: Install  Configure  Manage [V8.3]|Intermediate|40 hrs |
 |VMware vRealize Operations: Install  Configure  Manage [V8.2]|Intermediate|40 hrs |
-|[VMware vSAN: Management and Operations](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=94596&rcode=CourseCatalog){:target="_blank" rel="noopener"} |Basic|3 days |
 |[VMware vSphere with Tanzu: Deploy and Manage [V7]](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=93247&rcode=CourseCatalog){:target="_blank" rel="noopener"} |Intermediate|3 days|
 |[VMware vSphere: Install  Configure  Manage [V7]](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=93058&rcode=CourseCatalog){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
