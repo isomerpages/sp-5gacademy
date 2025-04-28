@@ -7,10 +7,6 @@ variant: markdown
 |Course Title  | Level | Duration |
 | - | - | - | 
 |[Automation with Amazon Web Services ](){:target="_blank" rel="noopener"} |Basic|78 hrs |
-|[Certified Information Privacy Professional / Europe (Includes Certification Exam Fee)](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/sii-courses/certified-information-privacy-professional.html){:target="_blank" rel="noopener"} |Basic|23 hrs |
-|[Certified Information Privacy Technologist (includes Certification exam fee)](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/sii-courses/certified-information-privacy-technologist.html){:target="_blank" rel="noopener"} |Basic|23 hrs |
-|[Certified Information Privacy Technologist (includes Certification exam fee) - Synchronous e-learning](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/industry-specific-courses/sii-courses/certified-information-privacy-technologist.html){:target="_blank" rel="noopener"} |Basic|23 hrs |
-|[MLC - Big Data for Beginners ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/micro-learning-courses/big-data-for-beginners.html){:target="_blank" rel="noopener"} |Basic|4 hrs |
 |[MLC - Fundamentals of Cloud Architecture ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/micro-learning-courses/suite-courses/fundamentals-of-cloud-architecture.html){:target="_blank" rel="noopener"} |Basic|3.5 hrs |
 |[MLC - IIOT Connectivity Suite Courses ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/micro-learning-courses/suite-courses/introduction-to-industrial-internet-of-things-iiot.html){:target="_blank" rel="noopener"} |Basic|6 hrs |
 |[MLC - Introduction to Cloud Architecture Suite Courses ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/micro-learning-courses/suite-courses/fundamentals-of-cloud-architecture.html){:target="_blank" rel="noopener"} |Basic|6 hrs |
@@ -27,7 +23,6 @@ variant: markdown
 |[TPOL - Big Data and Analytics in Business](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/online-courses/big-data-and-analytics-in-business.html){:target="_blank" rel="noopener"} |Basic|20 hrs |
 |[TPOL - Fundamentals of Cybersecurity and Applications](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/online-courses/fundamentals-of-cybersecurity-and-applications.html){:target="_blank" rel="noopener"} |Basic|20 hrs |
 |[TPOL - The Internet of Things and Everything - IoT/IoE ](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/online-courses/the-internet-of-things-and-everything-iot-ioe.html){:target="_blank" rel="noopener"} |Basic|20 hrs |
-|[Understanding 5G](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/micro-learning-courses/understanding-5g.html){:target="_blank" rel="noopener"} |Basic|4 hrs |
 |[ZKB WSGECE SAP SuccessFactors Employee Central - Part Time ](https://sapforgrowth.com/skillsuniversity/){:target="_blank" rel="noopener"} |Basic|78 hrs |
 |[Certification Preparation for Service Cloud Consultant, Salesforce Service Cloud Consultant Certification ](){:target="_blank" rel="noopener"} |Basic|180 hrs |
 |[Post Diploma Certificate in Digital Forensics Investigation (PDC2 in Specialist Diploma in Information Security and Forensic](https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/part-time-diploma-post-diploma-courses/specialist-diploma-in-information-security-and-forensics.html){:target="_blank" rel="noopener"} |Intermediate|120 hrs |
