@@ -15,7 +15,7 @@ sections:
           url: /manpower-solutions/5gri/
         - title: Courses
           description: ""
-          url: /courses/by-acad-institutions/singapore-polytechnic
+          url: /courses/by-acad-institutions/sp/
         - title: Training Partners
           description: ""
           url: /training-partners
