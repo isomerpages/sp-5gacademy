@@ -29,15 +29,6 @@ variant: markdown
 |[Python Institute - Certified Entry-Level Python Programmer (PCAP)](https://edube.org/study/pe1){:target="_blank" rel="noopener"} |Basic|40 hrs |
 |[Python Institute – Certified Professional in Python Programming 1 (PCAP)](https://edube.org/study/pcpp1-1){:target="_blank" rel="noopener"} |Advanced|80 hrs |
 |[TOGAF 9.2 Foundation and Certified (Level 1 and 2)](https://www.opengroup.org/certifications/togaf){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
-|[VMware Certified Professional - Data Center Virtualization (VCP-DCV)](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=93058&rcode=CourseCatalog){:target="_blank" rel="noopener"} |Basic|40 hrs |
-|[VMware Certified Professional - Network Virtualization (VCP-NV)](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=92720&rcode=CourseCatalog){:target="_blank" rel="noopener"} |Advanced|40 hrs |
 |[VMware Certified Technical Associate – Application Modernization (VCTA-AM)]|Basic|24 hrs |
-|[VMware Cloud Director: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=97100&rcode=CourseCatalog){:target="_blank" rel="noopener"} |Intermediate|40 hrs |
-|[Vmware Kubernetes Foundations & Cluster Operations   ](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=96906&rcode=CourseCatalog){:target="_blank" rel="noopener"} |Basic|32 hrs |
-|[VMware Tanzu Kubernetes Grid: Install, Configure, Manage ](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=96343&rcode=CourseCatalog){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
-|[VMware Telco Cloud Automation: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=95957){:target="_blank" rel="noopener"} |Advanced|40 hrs |
 |[VMware Telco Cloud Infrastructure: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=97110){:target="_blank" rel="noopener"} |Advanced|40 hrs |
-|[VMware Telco Cloud Operations: Install, Configure, Manage ]|Advanced|8 hrs |
-|[VMware Telco Cloud Platform: Install, Configure, Manage](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=97105){:target="_blank" rel="noopener"} |Advanced|24 hrs |
-|[VMware vSAN: Management and Operations ](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=94596&rcode=CourseCatalog){:target="_blank" rel="noopener"} |Basic|24 hrs |
 |[VMware vSphere with Tanzu: Deploy and Manage [V7]](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=93247&rcode=CourseCatalog){:target="_blank" rel="noopener"} |Intermediate|24 hrs |
