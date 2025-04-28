@@ -8,4 +8,3 @@ variant: markdown
 | - | - | - | 
 |[Maximising Business Value through Understanding Digital Transformation ](https://www.ntu.edu.sg/pace/programmes/detail/maximising-business-value-through-understanding-digital-transformation){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |[Maximising Business Value through Understanding Digital Transformation (Synchronous e-Learning) ](https://www.ntu.edu.sg/pace/programmes/detail/maximising-business-value-through-understanding-digital-transformation){:target="_blank" rel="noopener"} |Basic|7 hrs |
-|[Preparing for Cybersecurity](https://www.ntu.edu.sg/pace/programmes/detail/preparing-for-cybersecurity){:target="_blank" rel="noopener"} |Basic|16 hrs |
