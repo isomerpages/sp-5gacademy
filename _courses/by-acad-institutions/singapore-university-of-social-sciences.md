@@ -15,15 +15,10 @@ variant: markdown
 |[AWS Certified Solutions Architect - Associate](https://www.suss.edu.sg/courses/detail/ict366){:target="_blank" rel="noopener"} |Advanced|36 hrs |
 |[Big Data Computing in the Cloud ](https://www.suss.edu.sg/courses/detail/ICT337){:target="_blank" rel="noopener"} |Intermediate|36 hrs |
 |[Big Data, Cloud Computing and Machine Learning ](https://www.suss.edu.sg/courses/detail/FIN559){:target="_blank" rel="noopener"} |Basic|36 hrs |
-|[Cloud Computing for All (Synchronous e-Learning)](https://www.suss.edu.sg/courses/short-course/detail/CET101){:target="_blank" rel="noopener"} |Basic|7 hrs |
-|[Cloud Computing for Managers 1 ](https://www.suss.edu.sg/courses/short-course/detail/CET201){:target="_blank" rel="noopener"} |Basic|7 hrs |
-|[Cloud Computing for Managers 2](https://www.suss.edu.sg/courses/short-course/detail/CET301){:target="_blank" rel="noopener"} |Advanced|7 hrs |
 |[Cloud Computing: Business Case and Technical Models ](https://www.suss.edu.sg/courses/detail/ICT335){:target="_blank" rel="noopener"} |Basic|36 hrs |
 |[Computer Network and Network Security](https://www.suss.edu.sg/courses/detail/FIN529){:target="_blank" rel="noopener"} |Basic|18 hrs |
 |[Computer Networking ](https://www.suss.edu.sg/courses/detail/ICT259){:target="_blank" rel="noopener"} |Basic|36 hrs |
 |[Cryptography](https://www.suss.edu.sg/courses/detail/mth352?urlname=bsc-mathematics-bsma){:target="_blank" rel="noopener"} |Advanced|18 hrs |
-|[Cybersecurity - A Holistic Approach (Synchronous e-Learning)](https://www.suss.edu.sg/courses/short-course/detail/CET302){:target="_blank" rel="noopener"} |Basic|7 hrs |
-|[Cybersecurity - Application security by design (Synchronous e-Learning)](https://www.suss.edu.sg/courses/short-course/detail/CET202){:target="_blank" rel="noopener"} |Basic|7 hrs |
 |Data Strategy and IoT Business Models - New Course!|Advanced|18 hrs |
 |[Fundamentals of Applied Electromagnetics](https://www.suss.edu.sg/courses/detail/eng205){:target="_blank" rel="noopener"} |Basic|18 hrs |
 |[HCIA - 5G](https://www.suss.edu.sg/courses/detail/eng315?urlname=beng-electronics-behe){:target="_blank" rel="noopener"} |Advanced|36 hrs |
