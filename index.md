@@ -13,15 +13,12 @@ sections:
         - title: Manpower Solutions
           description: ""
           url: /manpower-solutions/5gri/
-        - title: Courses
-          description: ""
-          url: /courses/by-acad-institutions/singapore-polytechnic/
-        - title: Training Partners
-          description: ""
-          url: /training-partners
         - title: EVENTS AND NEWS
           description: ""
           url: /resources
+        - title: Training Partners
+          description: ""
+          url: /training-partners
       title: Singapore <br> 5G Academy
       subtitle: Charting Singapore's 5G manpower development with you
       variant: center
