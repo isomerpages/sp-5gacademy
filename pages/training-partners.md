@@ -12,5 +12,6 @@ variant: markdown
 ![Overseas Training Providers Logos](/images/banners-and-logos/Tpcac%20Members%20Logos/overseas%20training%20providers_consolidated_19apr2023.jpg)
 
 
-**For detailed course information and schedules, please visit our training partners' respective websites. 
-Should you have any queries regarding the courses, kindly contact Elaine_Lye@sp.edu.sg**
+For detailed course information and schedules, please visit our training partners' respective websites. 
+
+Should you have any queries regarding the courses, kindly contact Elaine_Lye@sp.edu.sg
