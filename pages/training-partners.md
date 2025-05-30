@@ -14,4 +14,4 @@ variant: markdown
 
 For detailed course information and schedules, please visit our training partners' respective websites. 
 
-Should you have any queries regarding the courses, kindly contact Elaine_Lye@sp.edu.sg
+Should you have any queries regarding the courses, kindly contact [Elaine_Lye@sp.edu.sg](Elaine_Lye@sp.edu.sg)
