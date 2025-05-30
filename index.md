@@ -4,7 +4,11 @@ title: Singapore 5G Academy
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Be aware of scammers impersonating as PDPC officers and report any
+  suspicious calls to the Police. Do not reveal personal information over the
+  phone to unknown parties. You may call PDPC (63773131) to verify the identity
+  of the allerged PDPC officer. For scam-related advice, visit
+  www.scamshield.gov.sg .
 sections:
   - hero:
       background: /images/banners-and-logos/Man_White_Orange_1.jpeg
