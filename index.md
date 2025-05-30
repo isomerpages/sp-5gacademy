@@ -28,7 +28,7 @@ sections:
       description: Ascertain the demand, supply and promote 5G manpower development by
         partnering government agencies, industry players and IHLs
   - resources:
-      title: Events and News
+      title: Events & News
       subtitle: Learn more
       button: View More
   - infopic:
