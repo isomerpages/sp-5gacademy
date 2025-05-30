@@ -4,7 +4,9 @@ title: Singapore 5G Academy
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Government officials will NEVER ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam.
 sections:
   - hero:
       background: /images/banners-and-logos/Man_White_Orange_1.jpeg
@@ -13,15 +15,12 @@ sections:
         - title: Manpower Solutions
           description: ""
           url: /manpower-solutions/5gri/
-        - title: Courses
-          description: ""
-          url: /courses/by-acad-institutions/singapore-polytechnic/
-        - title: Training Partners
-          description: ""
-          url: /training-partners
         - title: EVENTS AND NEWS
           description: ""
           url: /resources
+        - title: Training Partners
+          description: ""
+          url: /training-partners
       title: Singapore <br> 5G Academy
       subtitle: Charting Singapore's 5G manpower development with you
       variant: center
@@ -31,7 +30,7 @@ sections:
       description: Ascertain the demand, supply and promote 5G manpower development by
         partnering government agencies, industry players and IHLs
   - resources:
-      title: Resources
+      title: Events & News
       subtitle: Learn more
       button: View More
   - infopic:

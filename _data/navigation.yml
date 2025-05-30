@@ -2,11 +2,9 @@ logo: /images/banners-and-logos/5GAcademyLogo.png
 links:
   - title: About Us
     collection: about-us
-  - title: Courses
-    collection: courses
   - title: Manpower Solutions
     collection: manpower-solutions
-  - title: Resources
+  - title: Events & News
     resource_room: true
   - title: Training Partners
     url: /training-partners

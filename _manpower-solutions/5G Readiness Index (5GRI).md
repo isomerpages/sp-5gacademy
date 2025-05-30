@@ -12,4 +12,4 @@ variant: markdown
 
 
 
-ENQUIRIES: Email to James_YEE@SP.EDU.SG
+ENQUIRIES: Email to [James Yee](James_Yee@sp.edu.sg) OR [Tan Chee Seng](tan_chee_seng@sp.edu.sg)
