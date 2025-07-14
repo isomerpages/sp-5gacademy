@@ -34,16 +34,6 @@ sections:
       subtitle: Learn more
       button: View More
   - infopic:
-      title: ATxInspire
-      subtitle: Fireside Chat-6 FEB 2024 (TUE)
-      id: infopic
-      description: "In Conversation with Doreen Bogdan-Martin<br>DATE: 6 FEB 2024
-        (TUE) <br> TIME: 9.30 AM - 11 AM"
-      button: Find out more
-      url: /resources/events/in-conversation-with-doreen-bogdan-martin
-      image: /images/events/events/Homepage_Image_ATxInspire_Firechat_Chat.png
-      alt: Image alt text
-  - infopic:
       title: Transforming Built Environment & Smart Facilities
       subtitle: Seminar - 24 JUL 2025 (THU)
       id: infopic
@@ -52,6 +42,16 @@ sections:
       button: REGISTER NOW
       url: https://form.gov.sg/686df7471c95f0c8911df21b
       image: /images/EDM_Seminar___5G_Innovations_for_Built_Environments_and_Smart_Facilities_24Jul25.jpg
+      alt: Image alt text
+  - infopic:
+      title: ATxInspire
+      subtitle: Fireside Chat-6 FEB 2024 (TUE)
+      id: infopic
+      description: "In Conversation with Doreen Bogdan-Martin<br>DATE: 6 FEB 2024
+        (TUE) <br> TIME: 9.30 AM - 11 AM"
+      button: Find out more
+      url: /resources/events/in-conversation-with-doreen-bogdan-martin
+      image: /images/events/events/Homepage_Image_ATxInspire_Firechat_Chat.png
       alt: Image alt text
   - infopic:
       title: Navigating 5G Security Realities
