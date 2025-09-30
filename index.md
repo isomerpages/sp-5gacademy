@@ -34,6 +34,17 @@ sections:
       subtitle: Learn more
       button: View More
   - infopic:
+      title: Top 5G Security Vulnerabilities
+      subtitle: Live broadcast - 22 Oct 2025
+      id: infopic
+      description: Drawing on real-world penetration testing engagements, this webinar
+        highlights critical vulnerabilities found across signaling and OAM
+        domains in 5G networks.
+      button: Find Out More
+      url: /resources/
+      image: /images/events/Top_5G_Security_Vulnerabilities.png
+      alt: 5G Security Vulnerabilities
+  - infopic:
       title: Transforming Built Environment & Smart Facilities
       subtitle: Seminar - 24 JUL 2025 (THU)
       id: infopic
@@ -138,15 +149,4 @@ sections:
       url: /resources/articles/singapore-announces-new-5g-projects-in-ev-manufacturing/
       image: /images/articles/weston_robot.jfif
       alt: River Cleaning
-  - infopic:
-      title: Top 5G Security Vulnerabilities
-      subtitle: Live broadcast - 22 Oct 2025
-      id: infopic
-      description: Drawing on real-world penetration testing engagements, this webinar
-        highlights critical vulnerabilities found across signaling and OAM
-        domains in 5G networks.
-      button: Find Out More
-      url: /resources/
-      image: /images/events/Top_5G_Security_Vulnerabilities.png
-      alt: 5G Security Vulnerabilities
 ---
