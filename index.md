@@ -41,7 +41,7 @@ sections:
         highlights critical vulnerabilities found across signaling and OAM
         domains in 5G networks.
       button: Find Out More
-      url: /wed-22-oct-top-5g-security-vulnerabilities/
+      url: https://5gacademy.sp.edu.sg/wed-22-oct-top-5g-security-vulnerabilities/
       image: /images/events/Top_5G_Security_Vulnerabilities.png
       alt: 5G Security Vulnerabilities
   - infopic:
