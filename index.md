@@ -34,6 +34,17 @@ sections:
       subtitle: Learn more
       button: View More
   - infopic:
+      title: Top 5G Security Vulnerabilities
+      subtitle: Live broadcast - 22 Oct 2025
+      id: infopic
+      description: Drawing on real-world penetration testing engagements, this webinar
+        highlights critical vulnerabilities found across signaling and OAM
+        domains in 5G networks.
+      button: Find Out More
+      url: https://5gacademy.sp.edu.sg/wed-22-oct-top-5g-security-vulnerabilities/
+      image: /images/events/Top_5G_Security_Vulnerabilities.png
+      alt: 5G Security Vulnerabilities
+  - infopic:
       title: Transforming Built Environment & Smart Facilities
       subtitle: Seminar - 24 JUL 2025 (THU)
       id: infopic
