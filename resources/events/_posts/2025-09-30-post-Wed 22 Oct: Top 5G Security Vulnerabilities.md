@@ -26,14 +26,10 @@ pentest activities</p>
 to strengthen resilience</p>
 </li>
 </ul>
-<p></p>
+<p>🎙️ Presented by El Mehdi Regragui, 5G Penetration Tester at P1 Security</p>
 <h2>Details</h2>
 <p>📅 Date: Wednesday, October 22nd, 2025</p>
 <p>🕒 Time: 15:00 – 16:00 CET / 21:00 - 22:00 SGT</p>
 <p>📍 Format: Live broadcast</p>
-<p>Register now to secure your spot</p>
-<p>🎙️ Presented by El Mehdi Regragui, 5G Penetration Tester at P1 Security</p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="El Mehdi Regragui" src="/images/events/Speaker_El_Mehdi_Regragui.png">
-</div>
-<p>El Mehdi Regragui, 5G Penetration Tester</p>
+<h4><strong><a href="https://watch.getcontrast.io/videos/p1-security-top-5g-security-vulnerabilities-insights-from-p1-security-pentest-activities/signup" rel="noopener nofollow" target="_blank">Register now to secure your spot</a></strong></h4>
+<p></p>
